@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_insufficient_space_on_external">Harici depolamada yeterli boş alan yok!</string>
+    <string name="dialog_insufficient_space_on_cache">Dahili depolamada yeterli boş alan yok!</string>
+    <string name="auto_restart_under_wifi">Dosyayı Wi-Fi ile otomatik olarak indir</string>
+    <string name="task_already_exist">Görev zaten var!</string>
+    <string name="privacy_tip_title">Xunlei Hızlandırıcısı kullanılsın mı?</string>
+    <string name="privacy_tip_content">İndirmeleri hızlandırmak için Xunlei Hızlandırıcısı kullanılsın mı? İndirme bağlantıları Xunlei sunucularına yüklenecektir. Mi Hesap ayrıntılarınızda, herhangi bir aktif abonelik olup olmadığını kontrol etmeniz için yüklenecektir.</string>
+    <string name="privacy_tip_cancel">İptal</string>
+    <string name="privacy_tip_ok">TAMAM</string>
+    <string name="privacy_notif_title">Xunlei Hızlandırıcı açık</string>
+    <string name="privacy_notif_content">Detaylar için dokunun</string>
+    <string name="notif_text_engine_on">Hızlandırılıyor…</string>
+    <string name="notif_text_engine_off">Xunlei hızlandırıcı kapalı</string>
+    <string name="notif_title_single_downloading">İndiriliyor :%1$s</string>
+    <string name="notif_title_multiple_downloading">%1$d dosya indiriliyor</string>
+    <string name="notif_title_file_size">Toplam: %1$d</string>
+    <string name="paused_waiting_for_network">Ağ bağlantısı bekleniyor</string>
+    <string name="dialog_not_show_again">Tekrar sorma</string>
+    <string name="app_label">İndirme Yöneticisi</string>
+    <string name="download_unknown_title">&lt;İsimsiz></string>
+    <string name="notification_download_complete">İndirme tamamlandı</string>
+    <string name="notification_download_failed">İndirme işlemi başarısız!</string>
+    <string name="notification_need_wifi_for_size">Dosyanın büyüklüğü göz önüne alındığında Wi-Fi ile indirmeniz tavsiye edilir</string>
+    <string name="notification_paused_in_background">Arka planda bekletiliyor</string>
+    <string name="wifi_required_title">Bu dosya şebeke operatörünüz için çok büyük!</string>
+    <string name="wifi_required_body">"Dosya çok büyük, indirmeyi tamamlamak için Wi-Fi bağlantısı gerekiyor. 
+
+ Wi-Fi bağlantısı sağlandığında, %s için indirme işlemi başlayacak."</string>
+    <string name="wifi_recommended_title">Dosyayı listeye alıp Wi-Fi ile indirmeniz tavsiye edilir!</string>
+    <string name="wifi_recommended_body" formatted="false">"Mobil veri üzerinden indirme：
+
+ %s（%s）
+
+ Bu dosyayı indirme işlemi, mobil veri kullanımını ve ücretleri önemli ölçüde artırabilir"</string>
+    <string name="button_queue_for_wifi">Listeye Al</string>
+    <string name="button_cancel_download">İptal</string>
+    <string name="button_start_now">Başlat</string>
+    <string name="download_percent">%d%%</string>
+    <string name="download_remaining">%s kaldı</string>
+    <string name="download_no_application_title">Dosya açılamadı!</string>
+    <string name="root_downloads">İndirmeler</string>
+    <string name="download_queued">Sıraya alındı</string>
+    <string name="download_running">Devam ediyor...</string>
+    <string name="download_error">Başarısız</string>
+    <string name="download_running_percent">Devam ediyor, %d%%</string>
+</resources>

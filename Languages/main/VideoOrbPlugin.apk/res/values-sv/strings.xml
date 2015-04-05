@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="plugin_description">Se din senaste video och spela upp den på låsskärmen</string>
+    <string name="transcoding_prompt">Videoförberedelse</string>
+    <string name="transcoding_prompt_description">Det kommer att ta ett tag för Video Orb att förbereda videoklipp. Vill du fortsätta?</string>
+    <string name="toast_video_add_cancelled">Kunde inte lägga till video</string>
+    <string name="toast_video_unsupported_resolution">Videoupplösning stöds inte</string>
+    <string name="toast_low_storage">Ditt SD-kort är fullt</string>
+    <string name="toast_invalid_video">Videoformatet stöds inte.</string>
+    <string name="no_external_storage_title">Ingen lagring</string>
+    <string name="no_external_storage">Ingen extern lagring finns tillgänglig</string>
+</resources>

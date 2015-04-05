@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">1 секунда</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="one">1 минута</item>
+    </plurals>
+    <plurals name="snooze_message">
+        <item quantity="other">Заглуши за %d мин.</item>
+        <item quantity="one">Заглуши за %d мин.</item>
+    </plurals>
+    <plurals name="timer_message_with_minutes">
+        <item quantity="other">%1$d минути</item>
+        <item quantity="one">%1$d минута</item>
+    </plurals>
+    <plurals name="timer_message_with_seconds">
+        <item quantity="other">%1$d секунди</item>
+        <item quantity="one">%1$d секунда</item>
+    </plurals>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Včera "</item>
+        <item>"Dnes "</item>
+        <item>"Měsíc "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Včera "</item>
+        <item>"Dnes "</item>
+        <item>"Měsíc "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Včera 2G/3G "</item>
+        <item>"Dnes 2G/3G "</item>
+        <item>"Tento měsíc 2G/3G "</item>
+        <item>"Včera Wi-Fi "</item>
+        <item>"Dnes Wi-Fi "</item>
+        <item>"Tento měsíc Wi-Fi "</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera 2G/3G</item>
+        <item>Dnes 2G/3G</item>
+        <item>Tento měsíc 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekund</item>
+        <item>6 sekund</item>
+        <item>7 sekund</item>
+        <item>8 sekund</item>
+        <item>9 sekund</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"využito 2G/3G "</item>
+        <item>"využito Wi-Fi "</item>
+        <item>"celkem "</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilní data "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Využití 2G/3G</item>
+        <item>Využití Wi-Fi</item>
+        <item>Celková spotřeba dat</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nastavit vzorovou zprávu automaticky</item>
+        <item>Nastavit vzorovou zprávu manuálně</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Upozornit</item>
+        <item>Upozornit a odpojit</item>
+    </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 MB</item>
+        <item>2 MB</item>
+        <item>3 MB</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Скасувати</string>
+    <string name="plugin_description">Дивіться останні відео на блокованому екрані</string>
+    <string name="transcoding_prompt">Підготовка відео</string>
+    <string name="transcoding_prompt_description">Video Orb знадобиться трохи часу, щоб підготувати відео. Бажаєте продовжити?</string>
+    <string name="toast_video_add_cancelled">Не додано відео</string>
+    <string name="toast_video_unsupported_resolution">Чіткість відео не підтримується.</string>
+    <string name="toast_low_storage">Карта SD заповнена.</string>
+    <string name="toast_invalid_video">Формат відео не підтримується.</string>
+    <string name="no_external_storage_title">"Нема пам'яті"</string>
+    <string name="no_external_storage">"Нема зовнішньої пам'яті"</string>
+</resources>

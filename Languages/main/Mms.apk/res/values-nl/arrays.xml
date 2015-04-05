@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="default_smiley_names">
+        <item>Gelukkig</item>
+        <item>Verdrietig</item>
+        <item>Knipogen</item>
+        <item>Tong uit steken</item>
+        <item>Verrast</item>
+        <item>Kussen</item>
+        <item>Schreeuwen</item>
+        <item>Cool</item>
+        <item>Geld mond</item>
+        <item>Voet in mond</item>
+        <item>Beschaamd</item>
+        <item>Engel</item>
+        <item>Onverschillig</item>
+        <item>Huilen</item>
+        <item>Zwijgen</item>
+        <item>Lachen</item>
+        <item>Verward</item>
+        <item>Hart</item>
+        <item>Kwaad</item>
+        <item>Grijns</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 maal</item>
+        <item>2 maal</item>
+        <item>3 maal</item>
+        <item>5 maal</item>
+        <item>10 maal</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Naam</item>
+        <item>Roepnaam</item>
+        <item>Telefoon</item>
+        <item>E-mail</item>
+        <item>Organisatie</item>
+        <item>IM</item>
+        <item>SIP Telefoon</item>
+        <item>Verjaardag</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Notitie</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Toon ontvangst tijd</item>
+        <item>Toon verzendtijd (Gebruikt server tijd)</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via bericht</item>
+        <item>Via Cloud bericht</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via bericht</item>
+        <item>Via Cloud bericht</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Niet ingesteld</item>
+        <item>1 uur</item>
+        <item>6 uren</item>
+        <item>12 uren</item>
+        <item>1 dag</item>
+        <item>Maximum</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Maximum</item>
+        <item>2 dagen</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 seconde</item>
+        <item>2 seconden</item>
+        <item>3 seconden</item>
+        <item>4 seconden</item>
+        <item>5 seconden</item>
+        <item>6 seconden</item>
+        <item>7 seconden</item>
+        <item>8 seconden</item>
+        <item>9 seconden</item>
+        <item>10 seconden</item>
+        <item>Overige</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Altijd</item>
+        <item>Alleen bij stil</item>
+        <item>Nooit</item>
+    </string-array>
+</resources>

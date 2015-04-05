@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cache_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="large_file_sort_type">
+        <item>Dimensione</item>
+        <item>Nome</item>
+    </string-array>
+    <string-array name="installed_app_sort_type">
+        <item>Frequenza di utilizzo</item>
+        <item>Dimensione</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Ogni giorno</item>
+        <item>Ogni 3 giorni</item>
+        <item>Ogni 7 giorni</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 MB</item>
+        <item>300 MB</item>
+        <item>500 MB</item>
+        <item>1 GB</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Chiedi con notifica</item>
+        <item>Pulisci in background</item>
+        <item>Mostra notifica dopo la pulizia</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>Tra 1 minuto</item>
+        <item>Tra 5 minuti</item>
+        <item>Tra 10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Telefono</item>
+        <item>Messagggi</item>
+        <item>Browser</item>
+        <item>Fotocamera</item>
+        <item>Galleria</item>
+        <item>Musica</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Dopo 1 minuto</item>
+        <item>Dopo 5 minuti</item>
+        <item>Dopo 10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secondi</item>
+        <item>30 secondi</item>
+        <item>1 minuto</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>10 minuti</item>
+        <item>Mai</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alte prestazioni</item>
+        <item>Bilancato</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Disattiva</item>
+        <item>Attiva</item>
+        <item>Non modificare</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nessuna vibrazione</item>
+        <item>Vibra quando silenzioso</item>
+        <item>Vibra sempre</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Una volta</item>
+        <item>Ogni giorno</item>
+        <item>Giorni lavorativi</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Una volta</item>
+        <item>Tutti i giorni</item>
+        <item>Infrasettimanale</item>
+        <item>Personalizzato</item>
+    </string-array>
+</resources>

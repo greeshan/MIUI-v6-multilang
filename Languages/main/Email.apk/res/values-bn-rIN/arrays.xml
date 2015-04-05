@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>উত্তর দিন</item>
+        <item>সকলকে উত্তর দিন</item>
+        <item>ফরোয়ার্ড করুন</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ক্ষুদ্র</item>
+        <item>ছোট</item>
+        <item>স্বাভাবিক</item>
+        <item>বড়</item>
+        <item>বিশাল</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>সাম্প্রতিক দেখা হয়েছে</item>
+        <item>ফর্ম্যাট</item>
+        <item>নাম</item>
+        <item>প্রেরক</item>
+        <item>পাওয়ার তারিখ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>সিস্টেম</item>
+        <item>প্রায়শই ব্যবহৃত</item>
+        <item>সমস্ত ফোল্ডারগুলি</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>নতুন বার্তা</item>
+        <item>পুরোনো বার্তা</item>
+        <item>কথোপকথনের তালিকা</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>শুধুমাত্র আর্কাইভ দেখান</item>
+        <item>শুধুমাত্র মুছুন দেখান</item>
+        <item>আর্কাইভ দেখান &amp; মুছুন</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>আপনি মুছে ফেলার পর অপেক্ষাকৃত নতুন কথোপকথন দেখান</item>
+        <item>আপনি মুছে ফেলার পর অপেক্ষাকৃত পুরোন কথোপকথন দেখান</item>
+        <item>আপনি মুছে ফেলার পর কথোপকথনের তালিকা দেখান</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>শুধুমাত্র আর্কাইভ দেখান</item>
+        <item>শুধুমাত্র মুছুন দেখান</item>
+        <item>আর্কাইভ দেখান &amp; মুছুন</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>ঠিকানা:</item>
+        <item>ফোন:</item>
+        <item>নাম:</item>
+        <item>ইমেল:</item>
+        <item>মোবাইল:</item>
+        <item>উইচ্যাট:</item>
+        <item>ফ্যাক্স:</item>
+        <item>ডাক কোড:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ধন্যবাদ,</item>
+        <item>শুভেচ্ছান্তে</item>
+        <item>আমার থেকে প্রেরিত</item>
+        <item>আসল ইমেইল</item>
+        <item>আমার থেকে প্রেরিত</item>
+        <item>থেকে প্রেরিত</item>
+        <item>থেকে</item>
+        <item>এই ইমেল</item>
+        <item>দাবি পরিত্যাগী</item>
+        <item>ইমেলের দাবি পরিত্যাগী</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>সিঙ্ক সফল হয়েছে।</item>
+        <item>নেটওয়ার্ক সংযোগে ত্রুটি।</item>
+        <item>সাইন ইন করতে ব্যর্থ।</item>
+        <item>সুরক্ষিত সংযোগে ত্রুটি।</item>
+        <item>সিঙ্ক করতে ব্যর্থ।</item>
+        <item>সার্ভার ত্রুটি।</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Peruuta</string>
+    <string name="plugin_description">Katso uusin videosi ja toista lukitusnäytössä</string>
+    <string name="transcoding_prompt">Videon valmistelu</string>
+    <string name="transcoding_prompt_description">Videoitten valmistelu Video Orbilla kestää jonkin aikaa. Haluatko jatkaa?</string>
+    <string name="toast_video_add_cancelled">Videon lisääminen epäonnistui</string>
+    <string name="toast_video_unsupported_resolution">Videon kuvatarkkuus ei tuettu.</string>
+    <string name="toast_low_storage">SD-korttisi on täynnä.</string>
+    <string name="toast_invalid_video">Videomuoto ei tuettu.</string>
+    <string name="no_external_storage_title">Ei tallennusvälinettä</string>
+    <string name="no_external_storage">Ei ulkoista tallennusvälinettä käytettävissä</string>
+</resources>

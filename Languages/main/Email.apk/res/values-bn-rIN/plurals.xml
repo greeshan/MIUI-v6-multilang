@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d পড়া হয়নি</item>
+        <item quantity="one">%1$d পড়া হয়নি</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">এই কথোপকথনগুলি %1$d আর্কাইভ করবেন?</item>
+        <item quantity="one">এই কথোপকথনটি আর্কাইভ করবেন?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">এই %1$d কথোপকথনগুলি মুছবেন?</item>
+        <item quantity="one">এই কথোপকথনটি মুছবেন?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">এই কথোপকথনগুলিতে মেশানো আইটেম রয়েছে। যাই হোক না কেন এটি মুছে ফেলতে চান?</item>
+        <item quantity="one">এই কথোপকথনে মেশানো আইটেম রয়েছে। যাই হোক না কেন এটি মুছে ফেলতে চান?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">এই কথোপকথনগুলি ড্রাফট হওয়ার থেকে %1$d বাতিল করতে চান?</item>
+        <item quantity="one">এই কথোপকথনটি ড্রাফট হওয়ার থেকে বাতিল করতে চান?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%dগুলি নির্বাচিত হয়েছে</item>
+        <item quantity="one">%dটি নির্বাচিত হয়েছে</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> আর্কাইভড করা হয়েছে।</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> আর্কাইভ করা হয়েছে।</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> মোছা হয়েছে।</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> মোছা হয়েছে।</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ফোল্ডারগুলি পরিবর্তন করা হয়েছে।</item>
+        <item quantity="one">পরিবর্তিত ফোল্ডার।</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> মৌন করা হয়েছে</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> মৌন করা হয়েছে।</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'গুরুত্বপূর্ণ' ফোল্ডারগুলি থেকে বার্তাগুলি সরান হয়েছে"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'গুরুত্বপূর্ণ' ফোল্ডার থেকে সরান"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'স্প্যাম' ফোল্ডার থেকে সরানো হয়েছে"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'স্প্যাম' ফোল্ডার থেকে সরানো হয়েছে"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> বার্তাগুলি স্প্যাম হিসেবে রিপোর্ট করা হয়েছে</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> বার্তাটি স্প্যাম হিসেবে রিপোর্ট করা হয়েছে</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> স্প্যাম হিসেবে চিহ্নিত করা হয়েছে</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> স্প্যাম হিসেবে চিহ্নিত করা হয়েছে</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">তারকাহীন %1$d কথোপকথনগুলি</item>
+        <item quantity="one">তারকাহীন %1$d কথোপকথন</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ড্রাফটগুলি</item>
+        <item quantity="one">ড্রাফট</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d বার্তাগুলি স্থায়ী ভাবে মুছে দেওয়া হবে।</item>
+        <item quantity="one">%1$d বার্তাটি স্থায়ী ভাবে মুছে দেওয়া হবে।</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dবি</item>
+        <item quantity="one">%dবি</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dজিবি</item>
+        <item quantity="one">%dজিবি</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dকেবি</item>
+        <item quantity="one">%dকেবি</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dএমবি</item>
+        <item quantity="one">%dএমবি</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d কথোপকথনগুলি সরান</item>
+        <item quantity="one">কথোপকথন সরান</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">বার্তাগুলি সরান</item>
+        <item quantity="one">বার্তা সরান</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">নতুন বার্তাগুলি %1$d দেখান।</item>
+        <item quantity="one">নতুন বার্তা %1$d দেখান।</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%dগুলি নির্বাচিত হয়েছে</item>
+        <item quantity="one">%dটি নির্বাচিত হয়েছে</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d পুরোনো বার্তাগুলি</item>
+        <item quantity="one">%1$d পুরোনো বার্তা</item>
+    </plurals>
+</resources>

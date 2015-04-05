@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d mensagens não lidas</item>
+        <item quantity="one">%1$d mensagem não lida</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arquivar estas %1$d conversas?</item>
+        <item quantity="one">Arquivar esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Excluir estas %1$d conversas?</item>
+        <item quantity="one">Excluir esta conversa?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Estas conversas contém itens mesclados. Excluí-los mesmo assim?</item>
+        <item quantity="one">Esta conversa contém itens mesclados. Excluí-la mesmo assim?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Descartar rascunhos destas %1$d conversas?</item>
+        <item quantity="one">Descartar rascunhos desta conversa?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionado</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens arquivadas.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem arquivada.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens excluídas.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem excluída.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Pastas alteradas.</item>
+        <item quantity="one">Pasta alterada.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> conversas silenciadas</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> conversa silenciada</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens removidas da pasta 'importante'"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem removida da pasta 'importante'"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens removidas da pasta 'spam'"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem removida da pasta 'spam'"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagens relatadas como spam</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mensagem relatada como spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> conversas marcadas como spam</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> conversa marcada como spam</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d conversas desmarcadas como favoritas</item>
+        <item quantity="one">%1$d conversa desmarcada como favorita</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Rascunhos</item>
+        <item quantity="one">Rascunho</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d mensagens serão excluídas permanentemente.</item>
+        <item quantity="one">%1$d mensagem será excluída permanentemente.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%d B</item>
+        <item quantity="one">%d B</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%d GB</item>
+        <item quantity="one">%d GB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%d KB</item>
+        <item quantity="one">%d KB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%d MB</item>
+        <item quantity="one">%d MB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Mover %1$d conversas</item>
+        <item quantity="one">Mover conversa</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Mover mensagens</item>
+        <item quantity="one">Mover mensagem</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Mostrar %1$d novas mensagens.</item>
+        <item quantity="one">Mostrar %1$d nova mensagem.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionado</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d mensagens antigas</item>
+        <item quantity="one">%1$d mensagem antiga</item>
+    </plurals>
+</resources>

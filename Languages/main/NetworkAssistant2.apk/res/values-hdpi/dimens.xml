@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="icon_width">@android:dimen/app_icon_size</item>
+    <dimen name="shadow_hegit">13.5dip</dimen>
+    <dimen name="traffic_mark_min_width">6.659973dip</dimen>
+    <dimen name="traffic_mark_max_width">160.0dip</dimen>
+    <dimen name="main_top_margin">55.0dip</dimen>
+    <dimen name="main_top_margin_dual">45.0dip</dimen>
+    <dimen name="main_bottom_menu_margin">8.0dip</dimen>
+    <dimen name="main_bottom_menu_margin_width">15.0dip</dimen>
+    <dimen name="main_bottom_menu_margin_dual">12.0dip</dimen>
+    <dimen name="main_tab_button_width">80.0dip</dimen>
+    <dimen name="main_waterview_width">167.4dip</dimen>
+    <dimen name="main_waterview_marginBottom">10.0dip</dimen>
+    <dimen name="main_text_detail_marginBottom">4.0dip</dimen>
+    <dimen name="firewall_button_group_width">85.0dip</dimen>
+    <dimen name="seperator_vertical_margin">96.0dip</dimen>
+    <dimen name="seperator_horizontal_margin">20.0dip</dimen>
+    <dimen name="text_view_info_vertical_margin">20.0dip</dimen>
+    <dimen name="text_view_info_horizontal_margin">20.0dip</dimen>
+    <dimen name="dialog_traffic_input_spinner_width">100.0dip</dimen>
+    <dimen name="payment_label_height">45.0dip</dimen>
+    <dimen name="payment_label_margin">10.0dip</dimen>
+    <dimen name="payment_padding">13.329987dip</dimen>
+    <dimen name="payment_horizontal_margin">10.0dip</dimen>
+    <dimen name="payment_vertical_margin">12.5dip</dimen>
+    <dimen name="recharge_order_phone_number_padding_left">8.0dip</dimen>
+    <dimen name="recharge_order_status_description_padding_left">8.0dip</dimen>
+    <dimen name="traffic_saving_number_today_saving_text_size">91.29999sp</dimen>
+    <dimen name="traffic_saving_today_saving_text_size">18.0sp</dimen>
+    <dimen name="traffic_saving_today_saving_unit_text_size">13.0sp</dimen>
+    <dimen name="traffic_saving_msg_title_text_size">11.299988dip</dimen>
+    <dimen name="traffic_saving_msg_value_text_size">33.329987dip</dimen>
+    <dimen name="traffic_saving_msg_unit_text_size">8.699982dip</dimen>
+    <dimen name="traffic_saving_hisotry_title_text_size">16.0dip</dimen>
+    <dimen name="traffic_saving_hisotry_content_text_size">12.0dip</dimen>
+</resources>

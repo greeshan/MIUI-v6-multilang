@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="plugin_description">Najnovšie videá a prehrávanie si pozrite na obrazovke Zamknúť</string>
+    <string name="transcoding_prompt">Príprava videa</string>
+    <string name="transcoding_prompt_description">Video Orb bude na prípravu videa potrebovať nejaký čas. Chcete pokračovať?</string>
+    <string name="toast_video_add_cancelled">Nepodarilo sa pridať video</string>
+    <string name="toast_video_unsupported_resolution">Rozlíšenie videa nie je podporované.</string>
+    <string name="toast_low_storage">Karta SD je plná.</string>
+    <string name="toast_invalid_video">Nepodporovaný formát videa.</string>
+    <string name="no_external_storage_title">Pamäťové zariadenie nie je vložené</string>
+    <string name="no_external_storage">Žiadne externé pamäťové zariadenie nie je k dispozícii</string>
+</resources>

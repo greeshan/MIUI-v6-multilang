@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="plugin_description">Se den siste videoen og spill på låseskjermen</string>
+    <string name="transcoding_prompt">Videoen forberedes</string>
+    <string name="transcoding_prompt_description">Video Orb vil ta litt tid til å forberede videoene. Vil du fortsette?</string>
+    <string name="toast_video_add_cancelled">Kunne ikke legge til video</string>
+    <string name="toast_video_unsupported_resolution">Skjermoppløsningen er ikke støttet.</string>
+    <string name="toast_low_storage">SD-kortet er fullt.</string>
+    <string name="toast_invalid_video">Ustøttet videoformat.</string>
+    <string name="no_external_storage_title">Ingen lagring</string>
+    <string name="no_external_storage">Ingen ekstern lagringsplass er tilgjengelig</string>
+</resources>

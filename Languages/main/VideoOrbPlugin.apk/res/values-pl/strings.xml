@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Wideo-orbita</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Anuluj</string>
+    <string name="plugin_description">Wyświetl najnowsze wideo i odtwórz na ekranie blokady</string>
+    <string name="transcoding_prompt">Przygotowanie wideo</string>
+    <string name="transcoding_prompt_description">Przygotowanie klipów wideo przez funkcję Wideo-orbita trochę potrwa. Czy chcesz kontynuować?</string>
+    <string name="toast_video_add_cancelled">Nie można dodać klipu wideo</string>
+    <string name="toast_video_unsupported_resolution">Rozdzielczość wideo nie jest obsługiwana.</string>
+    <string name="toast_low_storage">Karta SD jest zapełniona.</string>
+    <string name="toast_invalid_video">Nieobsługiwany format wideo.</string>
+    <string name="no_external_storage_title">Brak pamięci</string>
+    <string name="no_external_storage">Brak dostępnej pamięci zewnętrznej</string>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Balas</item>
+        <item>Balas semua</item>
+        <item>Majukan</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Sangat kecil</item>
+        <item>Kecil</item>
+        <item>Biasa</item>
+        <item>Besar</item>
+        <item>Sangat besar</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Dilihat baru-baru ini</item>
+        <item>Format</item>
+        <item>Nama</item>
+        <item>Penghantar</item>
+        <item>Data diterima</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Diguna secara kerap</item>
+        <item>Semua folder</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Mesej terbaru</item>
+        <item>Mesej lama</item>
+        <item>Senarai perbualan</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Tunjuk arkib sahaja</item>
+        <item>Tunjuk padam sahaja</item>
+        <item>Tunjuk arkib &amp; padam</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Tunjuk perbualan baru selepas anda padam</item>
+        <item>Tunjuk perbualan lama selepas anda padam</item>
+        <item>Tunjuk senarai perbualan selepas anda padam</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Tunjuk arkib sahaja</item>
+        <item>Tunjuk padam sahaja</item>
+        <item>Tunjuk arkib &amp; padam</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Alamat:</item>
+        <item>Tel:</item>
+        <item>Nama:</item>
+        <item>E-mel:</item>
+        <item>Mudah Alih:</item>
+        <item>WeChat:</item>
+        <item>Nombor Faks:</item>
+        <item>Poskod:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Terima kasih,</item>
+        <item>Yang ikhlas,</item>
+        <item>Dihantar dari saya</item>
+        <item>E-mel asal</item>
+        <item>Dihantar dari saya</item>
+        <item>Dihantar daripada</item>
+        <item>Daripada</item>
+        <item>E-mel ini</item>
+        <item>Penafian</item>
+        <item>E-mel Penafian</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Segerak berjaya.</item>
+        <item>Ralat semasa sambungan rangkaian.</item>
+        <item>Gagal untuk daftar masuk.</item>
+        <item>Ralat semasa sambungan selamat.</item>
+        <item>Gagal untuk disegerakkan.</item>
+        <item>Ralat pelayan.</item>
+    </string-array>
+</resources>

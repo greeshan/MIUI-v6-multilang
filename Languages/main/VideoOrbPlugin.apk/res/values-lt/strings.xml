@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">Gerai</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="plugin_description">Žiūrėkite naujausius vaizdo įrašus ir klausykitės dainų užrakintame ekrane</string>
+    <string name="transcoding_prompt">Vaizdo įrašų paruošimas</string>
+    <string name="transcoding_prompt_description">Video Orb šiek tiek užtruks, kol paruoš vaizdo įrašus. Ar norite tęsti?</string>
+    <string name="toast_video_add_cancelled">Nepavyko pridėti vaizdo įrašo</string>
+    <string name="toast_video_unsupported_resolution">Vaizdo raiška nepalaikoma.</string>
+    <string name="toast_low_storage">SD kortelė yra pilna.</string>
+    <string name="toast_invalid_video">Nepalaikomi vaizdo formatai.</string>
+    <string name="no_external_storage_title">Nėra atminties įrenginio</string>
+    <string name="no_external_storage">Nėra išorinės atminties įrenginio</string>
+</resources>

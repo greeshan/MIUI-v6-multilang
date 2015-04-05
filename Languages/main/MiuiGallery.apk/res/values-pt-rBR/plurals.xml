@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> fotos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> foto na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Excluir %s fotos?</item>
+        <item quantity="one">Excluir %s foto?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeo na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Excluir %s vídeos?</item>
+        <item quantity="one">Excluir %s vídeo?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> fotos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> foto na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeo na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selecionados</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d vídeo</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d pastas</item>
+        <item quantity="one">%d pasta</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Você não tem permissão para excluir %d arquivos selecionados.</item>
+        <item quantity="one">Você não tem permissão para excluir %d arquivo selecionado.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Você pode selecionar %d itens</item>
+        <item quantity="one">Você pode selecionar %d item</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d imagens</item>
+        <item quantity="one">%1$d imagem</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d itens</item>
+        <item quantity="one">%1$d item</item>
+    </plurals>
+</resources>

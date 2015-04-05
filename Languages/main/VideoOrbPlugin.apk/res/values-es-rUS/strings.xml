@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Esfera de video</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="plugin_description">Vea su último video y reprodúzcalo en la pantalla bloquear</string>
+    <string name="transcoding_prompt">Preparando el video</string>
+    <string name="transcoding_prompt_description">La esfera video tomará algo de tiempo en preparar videos. ¿Desea continuar?</string>
+    <string name="toast_video_add_cancelled">Fallo al añadir video</string>
+    <string name="toast_video_unsupported_resolution">No se admite la resolución de video.</string>
+    <string name="toast_low_storage">Su tarjeta SD está llena.</string>
+    <string name="toast_invalid_video">Formato de video no admitido.</string>
+    <string name="no_external_storage_title">Sin almacenamiento</string>
+    <string name="no_external_storage">Sin almacenamiento externo disponible</string>
+</resources>

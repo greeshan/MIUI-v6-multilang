@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Видео кълбо</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Отказ</string>
+    <string name="plugin_description">Преглед на последното видео и игра на заключен екран</string>
+    <string name="transcoding_prompt">Подготовка на видео</string>
+    <string name="transcoding_prompt_description">Трябва известно време видео кълбото да подготви видео клиповете. Искате ли да продължим?</string>
+    <string name="toast_video_add_cancelled">Неуспешно добавяне на видео</string>
+    <string name="toast_video_unsupported_resolution">Разрешителната способност на видеото не се поддържа.</string>
+    <string name="toast_low_storage">SD картата е пълна.</string>
+    <string name="toast_invalid_video">Неподдържан видео формат.</string>
+    <string name="no_external_storage_title">Липсва памет</string>
+    <string name="no_external_storage">Няма достъпна външна памет</string>
+</resources>

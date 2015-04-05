@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>ಪ್ರತ್ಯುತ್ತರಿಸು</item>
+        <item>ಎಲ್ಲರಿಗೂ ಪ್ರತ್ಯುತ್ತರಿಸು</item>
+        <item>ಫಾರ್ವರ್ಡ್</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ಚಿಕ್ಕ</item>
+        <item>ಸಣ್ಣ</item>
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಬೃಹತ್</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>ಇತ್ತೀಚಿಗೆ ವೀಕ್ಷಿಸಲಾಗಿದ್ದು</item>
+        <item>ಫಾರ್ಮ್ಯಾಟ್‌</item>
+        <item>ಹೆಸರು</item>
+        <item>ಕಳುಹಿಸುವವರು</item>
+        <item>ಸ್ವೀಕರಿಸಿದ ದಿನಾಂಕ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>ಸಿಸ್ಟಂ</item>
+        <item>ಆಗಾಗ್ಗೆ ಬಳಸಿರುವುದು</item>
+        <item>ಎಲ್ಲಾ ಫೋಲ್ಡರ್‌ಗಳು</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ಹೊಸ ಸಂದೇಶ</item>
+        <item>ಹಳೆಯ ಸಂದೇಶ</item>
+        <item>ಸಂಭಾಷಣೆ ಪಟ್ಟಿ</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ಆರ್ಕೈವ್ ಮಾತ್ರ ತೋರಿಸಿ</item>
+        <item>ಅಳಿಸು ಮಾತ್ರ ತೋರಿಸಿ</item>
+        <item>ಆರ್ಕೈವ್ &amp; ಅಳಿಸು ತೋರಿಸಿ</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹೊಸದಾದ ಸಂಭಾಷಣೆ ತೋರಿಸಿ</item>
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹಳೆಯ ಸಂಭಾಷಣೆಯನ್ನು ತೋರಿಸಿ</item>
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಸಂಭಾಷಣೆ ಪಟ್ಟಿ ತೋರಿಸಿ</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ಆರ್ಕೈವ್ ಮಾತ್ರ ತೋರಿಸಿ</item>
+        <item>ಅಳಿಸು ಮಾತ್ರ ತೋರಿಸಿ</item>
+        <item>ಆರ್ಕೈವ್ &amp; ಅಳಿಸು ತೋರಿಸಿ</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>ವಿಳಾಸ:</item>
+        <item>ದೂರವಾಣಿ:</item>
+        <item>ಹೆಸರು:</item>
+        <item>ಇಮೇಲ್:</item>
+        <item>ಮೊಬೈಲ್:</item>
+        <item>WeChat:</item>
+        <item>ಫ್ಯಾಕ್ಸ್:</item>
+        <item>ಪೋಸ್ಟಲ್ ಕೋಡ್:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ಧನ್ಯವಾದಗಳು,</item>
+        <item>ಅಭಿನಂದನೆಗಳು</item>
+        <item>ನಾನು ಕಳುಹಿಸಿದ್ದು</item>
+        <item>ಮೂಲ ಇಮೇಲ್</item>
+        <item>ನಾನು ಕಳುಹಿಸಿದ್ದು</item>
+        <item>ಇದರಿಂದ ಕಳುಹಿಸಲಾಗಿದೆ</item>
+        <item>ಇಂದ</item>
+        <item>ಈ ಇಮೇಲ್</item>
+        <item>ಹಕ್ಕುನಿರಾಕರಣೆ</item>
+        <item>ಇಮೇಲ್ ಡಿಸ್‌ಕ್ಲೈಮರ್‌‌</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ಸಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ.</item>
+        <item>ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದಲ್ಲಿ ದೋಷ.</item>
+        <item>ಸೈನ್ ಇನ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</item>
+        <item>ಸುರಕ್ಷಿತ ಸಂಪರ್ಕದಲ್ಲಿ ದೋಷವಿದೆ.</item>
+        <item>ಸಿಂಕ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</item>
+        <item>ಸರ್ವರ್ ದೋಷ.</item>
+    </string-array>
+</resources>

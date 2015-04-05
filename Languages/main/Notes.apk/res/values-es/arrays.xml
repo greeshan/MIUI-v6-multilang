@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Nombre</item>
+        <item>Apodo</item>
+        <item>Teléfono</item>
+        <item>e-mail</item>
+        <item>Organización</item>
+        <item>IM</item>
+        <item>Teléfono SIP</item>
+        <item>Cumpleaños</item>
+        <item>Página web</item>
+        <item>Dirección</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Pequeño</item>
+        <item>Por defecto</item>
+        <item>Grande</item>
+        <item>Super</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>Ahora VD. puede fácilmente anotar ideas, notas, pensamientos usando</item>
+        <item>Adjuntar fotos o contactos</item>
+        <item>Marcar con su dedo las tareas realizadas</item>
+        <item>"¡Y más sorprendentes características!
+  - Sincronizar con Mi Cloud
+  - Establecer avisos
+
+Para aprender más, visite
+http://en.miui.com/forum.php
+    "</item>
+    </string-array>
+</resources>

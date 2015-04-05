@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Vymazať %1$d súborov</item>
+        <item quantity="zero">Vymazať %1$d súborov</item>
+        <item quantity="one">Vymazať %1$d súbor</item>
+        <item quantity="two">Vymazať %1$d súbory</item>
+        <item quantity="few">Vymazať %1$d súborov</item>
+        <item quantity="many">Vymazať %1$d súborov</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" a %1$d zložiek?"</item>
+        <item quantity="zero">" a %1$d zložiek?"</item>
+        <item quantity="one">" a %1$d zložku?"</item>
+        <item quantity="two">" a %1$d zložky?"</item>
+        <item quantity="few">" a %1$d zložiek?"</item>
+        <item quantity="many">" a %1$d zložiek?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="zero">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+        <item quantity="two">Položiek: %d</item>
+        <item quantity="few">Položiek: %d</item>
+        <item quantity="many">Položiek: %d</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="zero">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="one">%1$d súbor ostáva stiahnuť</item>
+        <item quantity="two">%1$d súbory ostáva stiahnuť</item>
+        <item quantity="few">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="many">%1$d súborov ostáva stiahnuť</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d súborov ostáva nahrať</item>
+        <item quantity="zero">%1$d súborov ostáva nahrať</item>
+        <item quantity="one">%1$d súbor ostáva nahrať</item>
+        <item quantity="two">%1$d súbory ostáva nahrať</item>
+        <item quantity="few">%1$d súborov ostáva nahrať</item>
+        <item quantity="many">%1$d súborov ostáva nahrať</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Vybrané: %1$d</item>
+        <item quantity="zero">Vybrané: %1$d</item>
+        <item quantity="one">Vybrané: %1$d</item>
+        <item quantity="two">Vybrané: %1$d</item>
+        <item quantity="few">Vybrané: %1$d</item>
+        <item quantity="many">Vybrané: %1$d</item>
+    </plurals>
+</resources>

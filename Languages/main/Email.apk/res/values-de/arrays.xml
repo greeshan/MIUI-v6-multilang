@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>Antworten</item>
+        <item>Allen Antworten</item>
+        <item>Weiterleiten</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Winzig</item>
+        <item>Klein</item>
+        <item>Normal</item>
+        <item>Groß</item>
+        <item>Sehr Groß</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Kürzlich gesehen</item>
+        <item>Formatieren</item>
+        <item>Name</item>
+        <item>Absender</item>
+        <item>Empfangsdatum</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>System</item>
+        <item>Häufig verwendet</item>
+        <item>Alle Ordner</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Neuere Nachricht</item>
+        <item>Ältere Nachricht</item>
+        <item>Konversationsliste</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Nur archivierte anzeigen</item>
+        <item>Nur gelöschte anzeigen</item>
+        <item>Archiv anzeigen &amp; löschen</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Nach dem Löschen neuere Konversation anzeigen</item>
+        <item>Nach dem Löschen ältere Konversation anzeigen</item>
+        <item>Nach dem Löschen die Konversationsliste anzeigen</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Nur archivierte anzeigen</item>
+        <item>Nur gelöschte anzeigen</item>
+        <item>Archiv anzeigen &amp; löschen</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Adresse:</item>
+        <item>Tel:</item>
+        <item>Name:</item>
+        <item>E-Mail:</item>
+        <item>Mobil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>PLZ:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Danke,</item>
+        <item>Alles Gute</item>
+        <item>Gesendet von meinem</item>
+        <item>Original E-Mail</item>
+        <item>Gesendet von meinem</item>
+        <item>Gesendet von</item>
+        <item>Von</item>
+        <item>Diese E-Mail</item>
+        <item>Haftungsausschluss</item>
+        <item>E-Mail Widerruf</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Synchronisierung erfolgreich.</item>
+        <item>Fehler bei der Netzwerkverbindung.</item>
+        <item>Fehler beim anmelden.</item>
+        <item>Fehler in sicherer Verbindung.</item>
+        <item>Fehler beim Synchronisieren.</item>
+        <item>Serverfehler.</item>
+    </string-array>
+</resources>

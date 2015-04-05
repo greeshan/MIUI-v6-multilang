@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>பதில்</item>
+        <item>அனைத்திற்கும் பதிலளி</item>
+        <item>முன்னோக்கி</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>சிறு</item>
+        <item>சிறிய</item>
+        <item>வழக்கமான</item>
+        <item>பெரிய</item>
+        <item>மிகப்பெரிய</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>சமீபத்தில் காணப்பட்டது</item>
+        <item>வடிவமைப்பு</item>
+        <item>பெயர்</item>
+        <item>அனுப்புநர்</item>
+        <item>தேதி பெறப்பட்டது</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>முறைமை</item>
+        <item>அடிக்கடி பயன்படுத்தப்படும்</item>
+        <item>அனைத்து கோப்புறைகள்</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>புதிய செய்தி</item>
+        <item>பழைய செய்தி</item>
+        <item>உரையாடல் பட்டியல்</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>காப்பிடு மட்டும் காண்பி</item>
+        <item>நீக்கப்பட்டவற்றை மட்டும் காண்பி</item>
+        <item>காப்பகத்தை காண்பி &amp; நீக்கு</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>நீங்கள் நீக்கிய பின்னர் புதிய உரையாடலைக் காண்பி</item>
+        <item>நீங்கள் நீக்கிய பின்னர் பழைய உரையாடலைக் காண்பி</item>
+        <item>நீங்கள் நீக்கிய பின்னர் உரையாடல் பட்டியலை காண்பி</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>காப்பிடு மட்டும் காண்பி</item>
+        <item>நீக்கப்பட்டவற்றை மட்டும் காண்பி</item>
+        <item>காப்பகத்தை காண்பி &amp; நீக்கு</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>முகவரி:</item>
+        <item>ஃபோன்:</item>
+        <item>பெயர்:</item>
+        <item>மின்னஞ்சல்:</item>
+        <item>மொபைல்:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>அஞ்சல் குறியீடு:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>நன்றி,</item>
+        <item>சிறந்த அன்புடன்</item>
+        <item>என்னிலிருந்து அனுப்பப்பட்டது</item>
+        <item>அசல் மின்னஞ்சல்</item>
+        <item>என்னிலிருந்து அனுப்பப்பட்டது</item>
+        <item>இருந்து அனுப்பப்பட்டது</item>
+        <item>இருந்து</item>
+        <item>இந்த மின்னஞ்சல்</item>
+        <item>பொறுப்புத்துறப்பு</item>
+        <item>மின்னஞ்சல் பொறுப்புத்துறப்பு</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>ஒத்திசைவு வெற்றியடைந்தது.</item>
+        <item>நெட்வொர்க் இணைப்பு பிழை.</item>
+        <item>உள்நுழைவு தோல்வியடைந்தது.</item>
+        <item>பாதுகாப்பான இணைப்பு பிழை.</item>
+        <item>ஒத்திசைப்பதில் தோல்வியுற்றது.</item>
+        <item>சர்வர் பிழை.</item>
+    </string-array>
+</resources>

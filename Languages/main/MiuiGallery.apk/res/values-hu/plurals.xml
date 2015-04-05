@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Törli a(z) %s fényképet a MiCloudból?</item>
+        <item quantity="one">Törli a fényképet a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Törli a(z) %s fényképet?</item>
+        <item quantity="one">Törli a fényképet?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Törli a(z) %s videót a MiCloudból?</item>
+        <item quantity="one">Törli a videót a >MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Törli a a(z) %s videót?</item>
+        <item quantity="one">Törli a videót?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Törli a(z) %s fényképet az eszközről és a MiCloudból?</item>
+        <item quantity="one">Törli a fényképet az eszközről és a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Törli a(z) %s videót az eszközről és a MiCloudból?</item>
+        <item quantity="one">Törli a videót az eszközről és a MiCloudból?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">nincs kép kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d fénykép</item>
+        <item quantity="zero">nincs fénykép</item>
+        <item quantity="one">%1$d fénykép</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fénykép</item>
+        <item quantity="one">%d fénykép</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videó</item>
+        <item quantity="one">%d videó</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d mappa</item>
+        <item quantity="one">%d mappa</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Nincs engedélye ennek az %d fájlnak a törléséhez.</item>
+        <item quantity="one">Nincs engedélye a fájl törléséhez.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">%d elemet választhat</item>
+        <item quantity="one">%d elemet választhat</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d kép</item>
+        <item quantity="zero">nincs kép</item>
+        <item quantity="one">%1$d kép</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elem</item>
+        <item quantity="zero">nincs elem</item>
+        <item quantity="one">%1$d elem</item>
+    </plurals>
+</resources>

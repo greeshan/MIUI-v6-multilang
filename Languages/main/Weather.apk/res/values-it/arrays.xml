@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Sereno</item>
+        <item>Parzialmente nuvoloso</item>
+        <item>Nuvoloso</item>
+        <item>Nebbia</item>
+        <item>Violento temporale</item>
+        <item>Acquazzone</item>
+        <item>Temporale</item>
+        <item>Forte temporale</item>
+        <item>Rovescio di pioggia</item>
+        <item>Pioggia intensa</item>
+        <item>Pioggia moderata</item>
+        <item>Pioggia leggera</item>
+        <item>Alternanza di pioggia e sole</item>
+        <item>Bufera di neve</item>
+        <item>Neve</item>
+        <item>Nevicata pesante</item>
+        <item>Nevicata moderata</item>
+        <item>Nevicata leggera</item>
+        <item>Violenta tempesta di sabbia</item>
+        <item>Tempesta di sabbia</item>
+        <item>Sabbia</item>
+        <item>Ventilato</item>
+        <item>Grandine</item>
+        <item>Polvere</item>
+        <item>Foschia</item>
+        <item>Pioggia gelata</item>
+        <item>Nessun dato</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Molto debole</item>
+        <item>Debole</item>
+        <item>Medio</item>
+        <item>Forte</item>
+        <item>Molto forte</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Vento N</item>
+        <item>Vento NE</item>
+        <item>Vento E</item>
+        <item>Vento SE</item>
+        <item>Vento S</item>
+        <item>Vento SO</item>
+        <item>Vento O</item>
+        <item>Vento NO</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Luna nuova</item>
+        <item>Luna crescente</item>
+        <item>Primo quarto</item>
+        <item>Gibbosa crescente</item>
+        <item>Luna piena</item>
+        <item>Gibbosa calante</item>
+        <item>Ultimo quarto</item>
+        <item>Luna calante</item>
+        <item>Luna scura</item>
+    </string-array>
+</resources>

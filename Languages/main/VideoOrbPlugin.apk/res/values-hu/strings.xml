@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Mégse</string>
+    <string name="plugin_description">Nézze meg legutóbbi videóját a lezárt képernyőn</string>
+    <string name="transcoding_prompt">Videó előkészítése</string>
+    <string name="transcoding_prompt_description">Eltárt egy ideig, míg a Video Orb előkészíti a videókat. Folytatja?</string>
+    <string name="toast_video_add_cancelled">A videó hozzáadása sikertelen</string>
+    <string name="toast_video_unsupported_resolution">Nem támogatott videó felbontás.</string>
+    <string name="toast_low_storage">Az SD-kártya megtelt.</string>
+    <string name="toast_invalid_video">Nem támogatott videó formátum.</string>
+    <string name="no_external_storage_title">Nincs tárhely</string>
+    <string name="no_external_storage">Nincs elérhető külső tárhely</string>
+</resources>

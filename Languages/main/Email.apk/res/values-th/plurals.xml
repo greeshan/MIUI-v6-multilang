@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d ยังไม่ได้อ่าน</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">จัดเก็บ %1$d อีเมลต่อเนื่อง?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ลบ %1$d อีเมลต่อเนื่องเหล่านี้?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">อีเมลเชื่อมโยงกันหลายรายการ ยืนยันการลบ?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ยกเลิกฉบับร่างตอบของ %1$d อีเมลต่อเนื่องนี้?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d เลือกไว้</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> จัดเก็บเข้าที่จัดเก็บแล้ว.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ลบแล้ว</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">ย้ายไปแล้ว</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ปิดเสียงแล้ว</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ข้อความถูกลบออกจากกล่องข้อความ'สำคัญ'แล้ว"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ย้ายออกจากกล่องสแปมแล้ว</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> รายงานข้อความว่าเป็นสแปมแล้ว</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ทำเครื่องหมายสแปมแล้ว</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">%1$d อีเมลต่อเนื่องที่ไม่ได้ทำเครื่องหมาย</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">ฉบับร่าง</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">กำลังจะลบ %1$d ข้อความอย่างถาวร</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">ย้าย %1$d อีเมลต่อเนื่อง</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">ย้ายข้อความ</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">แสดง %1$d ข้อความใหม่</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d เลือกไว้</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d ข้อความเก่า</item>
+    </plurals>
+</resources>

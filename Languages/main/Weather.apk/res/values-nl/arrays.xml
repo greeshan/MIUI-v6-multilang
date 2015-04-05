@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>Zonnig</item>
+        <item>Bewolkt</item>
+        <item>Zwaar bewolkt</item>
+        <item>Mistig</item>
+        <item>Hevige regenval</item>
+        <item>Stortbui</item>
+        <item>Regenstorm</item>
+        <item>Onweersbui</item>
+        <item>Regenbui</item>
+        <item>Zware regenval</item>
+        <item>Matige regenval</item>
+        <item>Lichte regenval</item>
+        <item>Buien met sneeuw</item>
+        <item>Sneeuwstorm</item>
+        <item>Sneeuw</item>
+        <item>Zware sneeuwval</item>
+        <item>Matige sneeuwval</item>
+        <item>Lichte sneeuw</item>
+        <item>Sterke zandstorm</item>
+        <item>Matige zandstorm</item>
+        <item>Zandstorm</item>
+        <item>Winderig</item>
+        <item>Hagel</item>
+        <item>Smog</item>
+        <item>Nevel</item>
+        <item>IJzel</item>
+        <item>Geen gegevens</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Zwakst</item>
+        <item>Zwak</item>
+        <item>Middelmatig</item>
+        <item>Sterk</item>
+        <item>Sterkste</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Wind N</item>
+        <item>Wind NO</item>
+        <item>Wind O</item>
+        <item>Wind ZO</item>
+        <item>Wind Z</item>
+        <item>Wind ZW</item>
+        <item>Wind W</item>
+        <item>Wind NW</item>
+    </string-array>
+    <string-array name="moon_desc">
+        <item>Nieuwe maan</item>
+        <item>Maansikkel</item>
+        <item>Eerste kwartier</item>
+        <item>Wassende maan</item>
+        <item>Volle maan</item>
+        <item>Afnemende maan</item>
+        <item>Laatste kwartier</item>
+        <item>Tanende maan</item>
+        <item>Duistere maan</item>
+    </string-array>
+</resources>

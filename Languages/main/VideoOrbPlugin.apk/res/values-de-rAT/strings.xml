@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video-Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="plugin_description">Letztes Video anzeigen und auf dem Sperrbildschirm wiedergeben</string>
+    <string name="transcoding_prompt">Video-Vorbereitung</string>
+    <string name="transcoding_prompt_description">Video-Orb benötigt einige Zeit, um das Video vorzubereiten. Wollen Sie fortfahren?</string>
+    <string name="toast_video_add_cancelled">Video hinzufügen fehlgeschlagen</string>
+    <string name="toast_video_unsupported_resolution">Video-Auflösung wird nicht unterstützt.</string>
+    <string name="toast_low_storage">Ihre SD-Karte ist voll.</string>
+    <string name="toast_invalid_video">Nicht unterstütztes Video-Format</string>
+    <string name="no_external_storage_title">Kein Speicher</string>
+    <string name="no_external_storage">Kein externer Speicher verfügbar</string>
+</resources>

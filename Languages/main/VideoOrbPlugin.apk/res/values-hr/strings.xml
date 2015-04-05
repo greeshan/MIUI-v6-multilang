@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">U redu</string>
+    <string name="cancel">Odustani</string>
+    <string name="plugin_description">Pregledajte svoj najnoviji video zapis i reprodukciju na zaključanom zaslonu</string>
+    <string name="transcoding_prompt">Priprema video zapisa</string>
+    <string name="transcoding_prompt_description">Video Orbu treba neko vrijeme za pripremu video zapisa. Želite li nastaviti?</string>
+    <string name="toast_video_add_cancelled">Nije uspjelo dodavanje video zapisa</string>
+    <string name="toast_video_unsupported_resolution">Ta razlučivost video zapisa nije podržana.</string>
+    <string name="toast_low_storage">SD kartica je puna.</string>
+    <string name="toast_invalid_video">Nepodržani video format.</string>
+    <string name="no_external_storage_title">Nema pohrane</string>
+    <string name="no_external_storage">Nema dostupne vanjske pohrane</string>
+</resources>

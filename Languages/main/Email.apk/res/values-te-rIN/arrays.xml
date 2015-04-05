@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>సమాధానం</item>
+        <item>అందరికీ సమాధానం ఇవ్వు</item>
+        <item>ఫార్వార్డ్</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>చాలా తక్కువ</item>
+        <item>తక్కువ</item>
+        <item>సాధారణం</item>
+        <item>ఎక్కువ</item>
+        <item>చాలా ఎక్కువ</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>ఇటీవల చూసినవి</item>
+        <item>ఆకృతి</item>
+        <item>పేరు</item>
+        <item>లేఖరి</item>
+        <item>వచ్చిన తేదీ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>సిస్టమ్</item>
+        <item>తరచుగా ఉపయోగించినవి</item>
+        <item>అన్ని ఫోల్డర్‌లు</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>కొత్త సందేశం</item>
+        <item>పాత సందేశం</item>
+        <item>సంభాషణ జాబితా</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ఆర్కైవ్‌ను మాత్రమే చూపు</item>
+        <item>తొలగింపు మాత్రమే చూపు</item>
+        <item>ఆర్కైవ్ &amp; తొలగింపు చూపు</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>మీరు తొలగించిన తర్వాత కొత్త సంభాషణను చూపుతుంది</item>
+        <item>మీరు తొలగించిన తర్వాత పాత సంభాషణను చూపుతుంది</item>
+        <item>మీరు తొలగించిన తర్వాత సంభాషణ జాబితాను చూపుతుంది</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ఆర్కైవ్ మాత్రమే చూపు</item>
+        <item>తొలగింపు మాత్రమే చూపు</item>
+        <item>ఆర్కైవ్ &amp; తొలగింపు చూపు</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>చిరునామా:</item>
+        <item>టెలి:</item>
+        <item>పేరు:</item>
+        <item>ఇమెయిల్:</item>
+        <item>మొబైల్:</item>
+        <item>WeChat:</item>
+        <item>ఫ్యాక్స్:</item>
+        <item>పోస్టల్ కోడ్:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ధన్యవాదాలు,</item>
+        <item>భవదీయులు</item>
+        <item>నాకు చెందిన దీని నుండి పంపబడింది</item>
+        <item>అసలు ఇమెయిల్</item>
+        <item>పంపినది నాకు చెందిన దీని నుండి</item>
+        <item>పంపినది</item>
+        <item>వీరి నుండి</item>
+        <item>ఈ ఇమెయిల్</item>
+        <item>నిరాకరణ</item>
+        <item>ఇమెయిల్ నిరాకరణ</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>సింక్ విజయవంతమైంది.</item>
+        <item>నెట్‌వర్క్ కనెక్షన్‌లో లోపం.</item>
+        <item>సైన్ ఇన్ చేయడంలో విఫలమైంది.</item>
+        <item>సురక్షిత కనెక్షన్‌లో లోపం.</item>
+        <item>సింక్ చేయడం విఫలమైంది.</item>
+        <item>సర్వర్ లోపం.</item>
+    </string-array>
+</resources>

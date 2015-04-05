@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d చదవనివి</item>
+        <item quantity="one">%1$d చదవనిది</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను ఆర్కైవ్ చేయాలా?</item>
+        <item quantity="one">ఈ సంభాషణను ఆర్కైవ్ చేయాలా?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణలను తొలగించాలా?</item>
+        <item quantity="one">ఈ సంభాషణను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">ఈ సంభాషణలు విలీనమైన అంశాలను కలిగి ఉన్నాయి. ఏదేమైనా వాటిని తొలగించాలా?</item>
+        <item quantity="one">ఈ సంభాషణ విలీనమైన అంశాలను కలిగి ఉంది. ఏదేమైనా దాన్ని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">ఈ %1$d సంభాషణల నుండి డ్రాఫ్ట్‌లను విస్మరించాలా?</item>
+        <item quantity="one">ఈ సంభాషణ నుండి డ్రాఫ్ట్‌లను విస్మరించాలా?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ఆర్కైవ్ చేయబడ్డాయి.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ఆర్కైవ్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> తొలగించబడ్డాయి.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> తొలగించబడింది.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">మారిన ఫోల్డర్‌లు.</item>
+        <item quantity="one">మారిన ఫోల్డర్.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> మ్యూట్ చేయబడ్డాయి</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> మ్యూట్ చేయబడింది.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> సందేశాలు స్పామ్‌గా నివేదించబడ్డాయి</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> సందేశం స్పామ్‌గా నివేదించబడింది</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> స్పామ్‌గా గుర్తించబడ్డాయి</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> స్పామ్‌గా గుర్తించబడింది</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">నక్షత్రం లేని %1$d సంభాషణలు</item>
+        <item quantity="one">నక్షత్రం లేని %1$d సంభాషణ</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">డ్రాఫ్ట్‌లు</item>
+        <item quantity="one">డ్రాఫ్ట్</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d సందేశాలు శాశ్వతంగా తొలగించబడతాయి.</item>
+        <item quantity="one">%1$d సందేశం శాశ్వతంగా తొలగించబడుతుంది.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">%1$d సంభాషణలను తరలించండి</item>
+        <item quantity="one">సంభాషణను తరలించండి</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">సందేశాలను తరలించు</item>
+        <item quantity="one">సందేశాన్ని తరలించు</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">%1$d కొత్త సందేశాలను చూపు.</item>
+        <item quantity="one">%1$d కొత్త సందేశాన్ని చూపు.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d పాత సందేశాలు</item>
+        <item quantity="one">%1$d పాత సందేశం</item>
+    </plurals>
+</resources>

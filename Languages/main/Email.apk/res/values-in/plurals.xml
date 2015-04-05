@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d belum dibaca</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arsipkan %1$d percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Hapus %1$d percakapan ini?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">Percakapan ini mengandung item gabungan. Hapus juga?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Buang draf dari %1$d percakapan ini?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d terpilih</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> diarsipkan.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> terhapus.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Folder diganti.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> diheningkan</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> pesan dihapus dari folder 'penting'"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> dihapus dr folder 'spam'"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> pesan dilaporkan sebagai spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ditandai sbg spam</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">Hapus bintang %1$d percakapan</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Draf</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d pesan akan dihapus permanen.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">Pindah %1$d percakapan</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">Pindah pesan</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">Tampil %1$d pesan baru.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d terpilih</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d pesan lama</item>
+    </plurals>
+</resources>

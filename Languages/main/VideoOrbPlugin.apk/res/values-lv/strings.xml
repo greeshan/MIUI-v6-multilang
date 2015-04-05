@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">Labi</string>
+    <string name="cancel">Atcelt</string>
+    <string name="plugin_description">Skatiet savu jaunāko video un demonstrējiet bloķēšanas ekrānā</string>
+    <string name="transcoding_prompt">Video sagatavošana</string>
+    <string name="transcoding_prompt_description">Video Orb būs nepieciešams laiks video sagatavošanai. Vai vēlaties turpināt?</string>
+    <string name="toast_video_add_cancelled">Neizdevās pievienot video</string>
+    <string name="toast_video_unsupported_resolution">Video izšķirtspēja netiek atbalstīta.</string>
+    <string name="toast_low_storage">SD karte ir pilna.</string>
+    <string name="toast_invalid_video">Neatbalstīts video formāts.</string>
+    <string name="no_external_storage_title">Nav atmiņas</string>
+    <string name="no_external_storage">Nav pieejama ārējā atmiņa</string>
+</resources>

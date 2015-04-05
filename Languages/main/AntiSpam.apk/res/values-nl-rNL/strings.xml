@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="st_antispam_mode_smart">Gerapporteerde nummers</string>
+    <string name="st_antispam_mode_blacklist">Geblokkeerde nummers</string>
+    <string name="st_antispam_mode_only_contacts">Alleen contacten toestaan</string>
+    <string name="st_antispam_mode_only_whitelist">Alleen uitzonderingen toestaan</string>
+    <string name="st_antispam_mode_only_all_deny_sum">Alle gesprekken en berichten blokkeren</string>
+</resources>

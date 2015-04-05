@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>उत्तर दें</item>
+        <item>सभी को उत्तर दें</item>
+        <item>फॉरवर्ड करें</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>बिल्कुल छोटा</item>
+        <item>छोटा</item>
+        <item>सामान्य</item>
+        <item>बड़ा</item>
+        <item>विशाल</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recently viewed</item>
+        <item>फ़ॉर्मेट करें</item>
+        <item>नाम</item>
+        <item>प्रेषक</item>
+        <item>Date received</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>सिस्टम</item>
+        <item>अक्सर प्रयुक्त</item>
+        <item>सभी फ़ोल्डर</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer message</item>
+        <item>Older message</item>
+        <item>बातचीत सूची</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>केवल संग्रह दिखाएं</item>
+        <item>केवल हटाए गए दिखाएं</item>
+        <item>संग्रहीत किए गए और हटाए गए दिखाएं</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>आपके द्वारा हटाये जाने के बाद नए बातचीत दिखाएं</item>
+        <item>आपके द्वारा हटाये जाने के बाद पुराने बातचीत दिखाएं</item>
+        <item>आपके द्वारा हटाये जाने के बाद बातचीत सूची दिखाएं</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>केवल संग्रह दिखाएं</item>
+        <item>केवल हटाए गए दिखाएं</item>
+        <item>संग्रहीत किए गए और हटाए गए दिखाएं</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>पता:</item>
+        <item>टेलि:</item>
+        <item>नाम:</item>
+        <item>ईमेल:</item>
+        <item>मोबाइल:</item>
+        <item>WeChat:</item>
+        <item>फ़ैक्स:</item>
+        <item>पोस्टल कोड:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>धन्यवाद,</item>
+        <item>भवदीय</item>
+        <item>मेरे इस डिवाइस से भेजा गया</item>
+        <item>मूल ईमेल</item>
+        <item>मेरे इस डिवाइस से भेजा गया</item>
+        <item>मेरे इस डिवाइस से भेजा गया</item>
+        <item>प्रेषक</item>
+        <item>यह ईमेल</item>
+        <item>अस्वीकरण</item>
+        <item>ईमेल अस्वीकरण</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>सफल</item>
+        <item>कोई कनेक्शन नहीं.</item>
+        <item>साइन इन नहीं किया जा सका.</item>
+        <item>सुरक्षा त्रुटि.</item>
+        <item>सिंक नहीं कर सका.</item>
+        <item>आंतरिक त्रुटि</item>
+    </string-array>
+</resources>

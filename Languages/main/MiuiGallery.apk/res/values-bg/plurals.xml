@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Да се изтрият ли %s снимки от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки?</item>
+        <item quantity="one">Да се изтрие ли %s снимка?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Да се изтрият ли %s снимки локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s снимка локално и от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Да се изтрият ли %s видеоклипа локално и от облака?</item>
+        <item quantity="one">Да се изтрие ли %s видеоклип локално и от облака?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрани: %1$d</item>
+        <item quantity="zero">Избрани: %1$d</item>
+        <item quantity="one">Избрани: %1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d снимки</item>
+        <item quantity="one">%d снимка</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d видеота</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d папки</item>
+        <item quantity="one">%d папка</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Нямате разрешение за изтриване на тези %d файла.</item>
+        <item quantity="one">Нямате разрешение за изтриване на този %d файл.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Може да изберте %d елемента</item>
+        <item quantity="one">Може да изберте %d елемент</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">Изображения: %1$d</item>
+        <item quantity="zero">Изображения: %1$d</item>
+        <item quantity="one">Изображения: %1$d</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d елементи</item>
+        <item quantity="zero">%1$d елементи</item>
+        <item quantity="one">%1$d елемент</item>
+    </plurals>
+</resources>

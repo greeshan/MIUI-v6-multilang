@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_channel_tabs">
+        <item>Odporúčané</item>
+        <item>Rebríček</item>
+        <item>Populárne</item>
+        <item>Najnovšie</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Odporúčané</item>
+        <item>Populárne</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Populárne</item>
+        <item>Rebríček</item>
+        <item>Najnovšie</item>
+    </string-array>
+</resources>

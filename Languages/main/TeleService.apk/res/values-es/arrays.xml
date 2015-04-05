@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_language_entries">
+        <item>Inglés</item>
+        <item>Francés</item>
+        <item>Español</item>
+        <item>Japonés</item>
+        <item>Coreano</item>
+        <item>Chino</item>
+        <item>Hebreo</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>En casa sólo</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="ims_call_cap_types">
+        <item>Voz</item>
+        <item>Vídeo</item>
+    </string-array>
+    <string-array name="ims_call_types">
+        <item>Voz</item>
+        <item>Vídeo</item>
+        <item>CSVoz</item>
+    </string-array>
+    <string-array name="ims_video_cs_call_types">
+        <item>Vídeo</item>
+        <item>CSVoz</item>
+    </string-array>
+    <string-array name="ims_voice_cs_call_types">
+        <item>Voz</item>
+        <item>CSVoz</item>
+    </string-array>
+</resources>

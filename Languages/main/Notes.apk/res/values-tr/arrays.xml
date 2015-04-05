@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>İsim</item>
+        <item>Takma İsim</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organizasyon</item>
+        <item>IM</item>
+        <item>SIP Phone</item>
+        <item>Doğum günü</item>
+        <item>Websitesi</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Küçük</item>
+        <item>Varsayılan</item>
+        <item>Büyük</item>
+        <item>En büyük</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"Notlar uygulamasını kullanarak düşüncelerinizi bir kenera yazın
+\u0009"</item>
+        <item>"Resim ve kişi ekleyin
+\u0009"</item>
+        <item>"Yapılacakları kontrol edin
+\u0009"</item>
+        <item>"Ve bir çok özellik!
+\u0009 -Mi Bulut ile senkronizasyon
+\u0009 -Hatırlatıcı ayarlama
+\u0009 
+\u0009 Daha fazlasını öğrenmek için...
+\u0009 http://www.miui.com/forum.php?lang=1
+\u0009 "</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

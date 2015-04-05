@@ -1,0 +1,4 @@
+<resources>
+    <string name="date_format">M月d日 EEEE</string>
+    <string name="emergency_call">紧急呼叫</string>
+</resources>

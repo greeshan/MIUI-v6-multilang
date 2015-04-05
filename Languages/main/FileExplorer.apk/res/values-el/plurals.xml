@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Διαγραφή %1$d αρχείων</item>
+        <item quantity="zero">Διαγραφή %1$d αρχείων</item>
+        <item quantity="one">Διαγραφή %1$d αρχείου</item>
+        <item quantity="two">Διαγραφή %1$d αρχείων</item>
+        <item quantity="few">Διαγραφή %1$d αρχείων</item>
+        <item quantity="many">Διαγραφή %1$d αρχείων</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" και %1$d φακέλων;"</item>
+        <item quantity="zero">" και %1$d φακέλων;"</item>
+        <item quantity="one">" και %1$d φακέλου;"</item>
+        <item quantity="two">" και %1$d φακέλων;"</item>
+        <item quantity="few">" και %1$d φακέλων;"</item>
+        <item quantity="many">" και %1$d φακέλων;"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d στοιχεία</item>
+        <item quantity="zero">%d στοιχεία</item>
+        <item quantity="one">%d στοιχείο</item>
+        <item quantity="two">%d στοιχεία</item>
+        <item quantity="few">%d στοιχεία</item>
+        <item quantity="many">%d στοιχεία</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d αρχεία έμειναν για λήψη</item>
+        <item quantity="zero">%1$d αρχεία έμειναν για λήψη</item>
+        <item quantity="one">%1$d αρχείο έμεινε για λήψη</item>
+        <item quantity="two">%1$d αρχεία έμειναν για λήψη</item>
+        <item quantity="few">%1$d αρχεία έμειναν για λήψη</item>
+        <item quantity="many">%1$d αρχεία έμειναν για λήψη</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="zero">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="one">%1$d αρχείο έμεινε για αποστολή</item>
+        <item quantity="two">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="few">%1$d αρχεία έμειναν για αποστολή</item>
+        <item quantity="many">%1$d αρχεία έμειναν για αποστολή</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d επιλεγμένα</item>
+        <item quantity="zero">%1$d επιλεγμένα</item>
+        <item quantity="one">%1$d επιλεγμένο</item>
+        <item quantity="two">%1$d επιλεγμένα</item>
+        <item quantity="few">%1$d επιλεγμένα</item>
+        <item quantity="many">%1$d επιλεγμένα</item>
+    </plurals>
+</resources>

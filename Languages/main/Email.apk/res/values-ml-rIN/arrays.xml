@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compose_modes">
+        <item>മറുപടി അയയ്ക്കുക</item>
+        <item>എല്ലാവർക്കും മറുപടി അയയ്ക്കുക</item>
+        <item>കൈമാറുക</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>തീരെ ചെറിയ</item>
+        <item>ചെറിയ</item>
+        <item>സാധാരണ</item>
+        <item>വലുത്</item>
+        <item>വളരെ വലിയ</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Recently viewed</item>
+        <item>ഫോർമാറ്റ്</item>
+        <item>പേര്</item>
+        <item>അയയ്ക്കുന്ന ആൾ</item>
+        <item>Date received</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>സിസ്റ്റം</item>
+        <item>അടിക്കടി ഉപയോഗിക്കുന്നവ</item>
+        <item>എല്ലാ ഫോൾഡറുകളും</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Newer message</item>
+        <item>Older message</item>
+        <item>സംഭാഷണ പട്ടിക</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>ആർക്കൈവ് മാത്രം കാണിക്കുക</item>
+        <item>മായ്ചതു മാത്രം കാണിക്കുക</item>
+        <item>ആർക്കൈവ് കാണിക്കുക &amp; മായ്ക്കുക</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>നിങ്ങൾ മായ്ച്ചതിനു ശേഷം പുതിയ സംഭാഷണങ്ങൾ കാണിക്കുക</item>
+        <item>നിങ്ങൾ മായ്ച്ചതിനു ശേഷം പഴയ സംഭാഷണങ്ങൾ കാണിക്കുക</item>
+        <item>നിങ്ങൾ മായ്ച്ചതിനു ശേഷം സംഭാഷണ പട്ടിക കാണിക്കുക</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>ആർക്കൈവ് മാത്രം കാണിക്കുക</item>
+        <item>മായ്ചതു മാത്രം കാണിക്കുക</item>
+        <item>ആർക്കൈവ് കാണിക്കുക &amp; മായ്ക്കുക</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>അഡ്രസ്സ്:</item>
+        <item>ടെലി:</item>
+        <item>പേര്:</item>
+        <item>ഇമെയിൽ:</item>
+        <item>മൊബൈൽ:</item>
+        <item>WeChat:</item>
+        <item>ഫാക്സ്:</item>
+        <item>തപാൽ കോഡ്:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>നന്ദി,</item>
+        <item>ശുഭാശംസകൾ</item>
+        <item>എന്റേതിൽ നിന്നും അയയ്ക്കുക</item>
+        <item>യഥാർത്ഥ ഇമെയിൽ</item>
+        <item>എന്റേതിൽ നിന്നും അയയ്ക്കുക</item>
+        <item>ൽ നിന്നും അയയ്ക്കുക</item>
+        <item>നിന്നും</item>
+        <item>ഈ ഇമെയിൽ</item>
+        <item>ബാധ്യതാ നിരാകരണം</item>
+        <item>ഇമെയിൽ ബാധ്യതാ നിരാകരണം</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>സമന്വയിപ്പിക്കൽ വിജയകരം.</item>
+        <item>നെറ്റ്‌വർക്ക് കണക്ഷനിൽ പിശക്.</item>
+        <item>സൈർ ഇർ ചെയ്യാർ പരാജയപ്പെട്ടു.</item>
+        <item>സുരക്ഷിതമായ കണക്ഷനിൽ പിശക്.</item>
+        <item>സമന്വയിപ്പിക്കുവാൻ പരാജയപ്പെട്ടു.</item>
+        <item>സെർവർ പിശക്.</item>
+    </string-array>
+</resources>

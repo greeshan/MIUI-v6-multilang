@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Naam</item>
+        <item>Roepnaam</item>
+        <item>Telefoon</item>
+        <item>E-mail</item>
+        <item>Organisatie</item>
+        <item>IM</item>
+        <item>SIP Telefoon</item>
+        <item>Verjaardag</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Notities</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Klein</item>
+        <item>Standaard</item>
+        <item>Groot</item>
+        <item>Enorm</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>Tik om een notitie te maken</item>
+        <item>Om een foto toe te voegen of om de selectievakjes laten zien , tikt op de onderstaande knop</item>
+        <item>Drukken en houden om een notitie te pinnen, verplaatsen of verwijderen</item>
+        <item>"En nog meer leuke eigenschappen!
+  - Sync met Mi Cloud
+  - Herinneringen instellen
+
+Om meer te leren, bezoek 
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

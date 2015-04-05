@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Διαγραφή %s φωτογραφιών;</item>
+        <item quantity="one">Διαγραφή %s φωτογραφίας;</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο από το &lt;font color=#323232>&lt;b>cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Διαγραφή %s βίντεο;</item>
+        <item quantity="one">Διαγραφή %s βίντεο;</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφιών ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> φωτογραφίας ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Διαγραφή &lt;xliff:g id=ITEM>%s&lt;/xliff:g> βίντεο ταυτόχρονα από &lt;font color=#323232>&lt;b>τοπικά και cloud&lt;/b>&lt;/font>;&lt;/Data> "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d φωτογραφίες</item>
+        <item quantity="one">%d φωτογραφία</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d βίντεο</item>
+        <item quantity="one">%d βίντεο</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d φάκελοι</item>
+        <item quantity="one">%d φάκελος</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Δεν έχετε άδεια να διαγράψετε αυτά τα %d αρχεία.</item>
+        <item quantity="one">Δεν έχετε άδεια να διαγράψετε αυτό το %d αρχείο.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Μπορείτε να επιλέξετε %d στοιχεία</item>
+        <item quantity="one">Μπορείτε να επιλέξετε %d στοιχείο</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d φωτογραφίες</item>
+        <item quantity="zero">%1$d φωτογραφίες</item>
+        <item quantity="one">%1$d φωτογραφία</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d στοιχεία</item>
+        <item quantity="zero">%1$d στοιχεία</item>
+        <item quantity="one">%1$d στοιχείο</item>
+    </plurals>
+</resources>

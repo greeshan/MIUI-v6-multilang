@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d படிக்காதது</item>
+        <item quantity="one">%1$d படிக்காதது</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">இந்த உரையாடல்களை %1$d காப்பகப்படுத்தவா?</item>
+        <item quantity="one">இந்த உரையாடலைக் காப்பகப்படுத்தவா?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">இந்த உரையாடல்களை %1$d நீக்கவா?</item>
+        <item quantity="one">இந்த உரையாடலை நீக்கவா?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">இந்த உரையாடல்கள் இணைக்கப்பட்ட பொருட்களை கொண்டுள்ளது. இருந்தாலும் அதை நீக்கவா?</item>
+        <item quantity="one">இந்த உரையாடல்கள் இணைக்கப்பட்ட பொருட்களை கொண்டுள்ளது. இருந்தாலும் அதை நீக்கவா?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">இந்த உரையாடல்களில் இருந்து வரைவுகளை %1$d விலக்கவா?</item>
+        <item quantity="one">இந்த உரையாடலில் இருந்து வரைவுகளை விலக்கவா?</item>
+    </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="one">%d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> காப்பகப்படுத்தப்பட்டது.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> காப்பகப்படுத்தப்பட்டது.</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> நீக்கப்பட்டது.</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> நீக்கப்பட்டது.</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">கோப்புறைகளை மாற்று.</item>
+        <item quantity="one">கோப்புறையை மாற்று.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஊமையானது</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஊமையானது.</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'முக்கியமான' அடைவையிலிருந்து நீக்கப்பட்ட செய்திகள்"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'முக்கியமான'அடைவையிலிருந்து நீக்கப்பட்டது"</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ஸ்பேம்' அடைவையிலிருந்து நீக்கப்பட்டது"</item>
+        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ஸ்பேம்' அடைவையிலிருந்து நீக்கப்பட்டது"</item>
+    </plurals>
+    <plurals name="conversation_phished">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஸ்பேம் என செய்திகள் அறிவிக்கப்பட்டது</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஸ்பேம் என செய்தி அறிவிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஸ்பேம் என குறிக்கப்பட்டது</item>
+        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ஸ்பேம் என குறிக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">நட்சத்திரமிடாத %1$d உரையாடல்கள்</item>
+        <item quantity="one">நட்சத்திரமிடாத %1$d உரையாடல்</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">வரைவுகள்</item>
+        <item quantity="one">வரைவு</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d செய்திகள் நிரந்தரமாக நீக்கப்படும்.</item>
+        <item quantity="one">%1$d செய்தி நிரந்தரமாக நீக்கப்படும்.</item>
+    </plurals>
+    <plurals name="message_view_attachment_bytes">
+        <item quantity="other">%dB</item>
+        <item quantity="one">%dB</item>
+    </plurals>
+    <plurals name="message_view_attachment_gigabytes">
+        <item quantity="other">%dGB</item>
+        <item quantity="one">%dGB</item>
+    </plurals>
+    <plurals name="message_view_attachment_kilobytes">
+        <item quantity="other">%dKB</item>
+        <item quantity="one">%dKB</item>
+    </plurals>
+    <plurals name="message_view_attachment_megabytes">
+        <item quantity="other">%dMB</item>
+        <item quantity="one">%dMB</item>
+    </plurals>
+    <plurals name="move_conversation">
+        <item quantity="other">உரையாடல்களை %1$d நகர்த்து</item>
+        <item quantity="one">உரையாடலை நகர்த்து</item>
+    </plurals>
+    <plurals name="move_messages">
+        <item quantity="other">செய்திகளை நகர்த்து</item>
+        <item quantity="one">செய்தியை நகர்த்து</item>
+    </plurals>
+    <plurals name="new_incoming_messages_many">
+        <item quantity="other">புதிய செய்திகளை %1$d காண்பி.</item>
+        <item quantity="one">புதிய செய்தியை %1$d காண்பி.</item>
+    </plurals>
+    <plurals name="num_selected">
+        <item quantity="other">%d தேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="one">%d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d பழைய செய்திகள்</item>
+        <item quantity="one">%1$d பழைய செய்தி</item>
+    </plurals>
+</resources>

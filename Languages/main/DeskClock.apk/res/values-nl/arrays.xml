@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_in_furture">
+        <item>Alarm binnen 1 minuut</item>
+        <item>Alarm in %1$s</item>
+        <item>Alarm in %2$s</item>
+        <item>Alarm in %1$s %2$s</item>
+        <item>Alarm in %3$s</item>
+        <item>Alarm in %1$s %3$s</item>
+        <item>Alarm in %2$s %3$s</item>
+        <item>Alarm in %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Gisteren</item>
+        <item>Vaandaag</item>
+        <item>Morgen</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Werkdagen</item>
+        <item>Maan to Vrij</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Eenmaal</item>
+        <item>Dagelijks</item>
+        <item>Maan to Vrij</item>
+        <item>Aangepast</item>
+    </string-array>
+    <string-array name="alarm_set">
+        <item>Alarm is ingesteld voor minder dan 1 minuut vanaf nu.</item>
+        <item>Alarm is ingesteld voor %1$s vanaf nu.</item>
+        <item>Alarm is ingesteld voor %2$s vanaf nu.</item>
+        <item>Alarm is ingesteld voor %1$s en %2$s vanaf nu.</item>
+        <item>Alarm gaat over %3$s af.</item>
+        <item>Alarm is ingesteld voor %1$s en %3$s vanaf nu.</item>
+        <item>Alarm is ingesteld voor %2$s en %3$s vanaf nu.</item>
+        <item>Alarm is ingesteld voor %1$s, %2$s en %3$s vanaf nu.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuut</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>20 minuten</item>
+        <item>25 minuten</item>
+        <item>30 minuten</item>
+        <item>Nooit</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Snooze</item>
+        <item>Sluiten</item>
+        <item>Niets doen</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="plugin_name">Video Orb</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Annulla</string>
+    <string name="plugin_description">Vedi i tuoi ultimi video e riproducili sulla schermata di blocco</string>
+    <string name="transcoding_prompt">Preparazione video</string>
+    <string name="transcoding_prompt_description">Video Orb impiagherà del tempo per preparare i video. Continuare?</string>
+    <string name="toast_video_add_cancelled">Aggiunta di video non riuscita</string>
+    <string name="toast_video_unsupported_resolution">Risoluzione video non supportata.</string>
+    <string name="toast_low_storage">La scheda SD è piena.</string>
+    <string name="toast_invalid_video">Formato video non supportato.</string>
+    <string name="no_external_storage_title">Nessun archivio</string>
+    <string name="no_external_storage">Nessun archivio esterno disponibile</string>
+</resources>
