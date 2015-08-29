@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ang napili</item>
+        <item quantity="zero">%1$d ang napili</item>
+        <item quantity="one">%1$d ang napili</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">%1$s mga lungsod ang tatanggalin</item>
+        <item quantity="one">Tatanggalin ang isang lungsod</item>
+    </plurals>
+</resources>

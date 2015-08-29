@@ -45,6 +45,8 @@
     <string name="cancel_download_buton_text">Annuler</string>
     <string name="boot_recovery">Redémarrer en mode recovery</string>
     <string name="cancel_download">Arrêter le téléchargement ?</string>
+    <string name="update_success_reboot_immediately">Appareil mis à jour</string>
+    <string name="download_success_reboot_immediately">Redémarrer pour appliquer la mise à jour</string>
     <string name="update_success">Félicitations, la mise à jour est appliquée avec succès !</string>
     <string name="install_failed">Mise à jour échouée</string>
     <string name="download_current_rom">Télécharger la ROM complète</string>
@@ -56,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Toucher pour redémarrer.</string>
     <string name="notification_reboot_btn">Redémarrer</string>
     <string name="notification_reboot_seccess_title">Appareil mis à jour</string>
+    <string name="notification_auto_reboot_seccess_title">Appareil mis à jour automatiquement</string>
     <string name="notification_reboot_seccess_des">Appuyer pour partager</string>
     <string name="notification_share">Partager</string>
     <string name="notification_downloading">Téléchargement…</string>
@@ -146,15 +149,15 @@ http://zhushou.xiaomi.com"</string>
     <string name="open_now">Activer</string>
     <string name="not_open">Plus tard</string>
     <string name="title_toast_auto">Les mises à jour seront téléchargées automatiquement</string>
-    <string name="update_feedback">Donner son avis</string>
-    <string name="update_feedback_end">Vous avez manqué de noter la mise à jour</string>
-    <string name="update_feedback_end_sum">Vous pourrez le faire mardi prochain.</string>
+    <string name="update_feedback">Notez cette mise à jour</string>
+    <string name="update_feedback_end">Vous avez manqué le vote de cette semaine</string>
+    <string name="update_feedback_end_sum">Vous pourrez le faire lundi prochain.</string>
     <string name="update_feedback_need_update">Mise à jour vers la dernière version nécessaire.</string>
-    <string name="update_feedback_expired">"Quel dommage que vous ayez manqué de commenter la mise à jour !
-Vous pourrez le faire mardi prochain"</string>
+    <string name="update_feedback_expired">"Quel dommage que vous ayez manqué le vote de cette semaine !
+Vous pourrez le faire lundi prochain"</string>
     <string name="update_feedback_need_account">Veuillez vous connecter à votre compte Mi</string>
     <string name="update_feedback_need_network">Veuillez vous connecter au réseau</string>
-    <string name="update_happy">Satisfait</string>
+    <string name="update_happy">Satisfait!</string>
     <string name="update_general">Indifférent</string>
     <string name="update_sad">Déçu</string>
     <string name="update_feel">Comment vous sentez-vous ?</string>
@@ -190,6 +193,28 @@ Vous pourrez le faire mardi prochain"</string>
     <string name="submit_success">Envoi réussi, Merci !</string>
     <string name="submit_fail">"Échec d'envoi"</string>
     <string name="submit">Envoyer</string>
+    <string name="updater_wait_for_unzip">Décompression de la mise à jour…</string>
+    <string name="vote_beta">"Programme d'évaluation Beta"</string>
+    <string name="vote_submit">Envoyer</string>
+    <string name="vote_recommend">Recommander cette mise à jour</string>
+    <string name="vote_not_recommend">Ne pas recommander</string>
+    <string name="vote_error_nonetwork">Pas de connexion réseau</string>
+    <string name="vote_error1">"Il semble que vous ne soyez pas un membre
+du programme d'évaluation Beta"</string>
+    <string name="vote_error2">"Impossible de soumettre le rapport.
+Mettez à jour votre appareil et essayez à nouveau"</string>
+    <string name="vote_hint">"Obtenez 20 points d'expérience sur le forum MIUI en votant"</string>
+    <string name="vote_join">Voté</string>
+    <string name="vote_experience">Expérience sur le forum</string>
+    <string name="vote_error3">"Connexion impossible.
+Essayez de vous connecter à votre compte Mi une nouvelle fois."</string>
+    <string name="vote_error4">Vous avez déjà soumis un rapport</string>
+    <string name="vote_error5">"Quelque chose a échoué
+Impossible de soumettre le rapport"</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Accéder au forum MIUI</a>" "</string>
+    <string name="welcom_title">Bienvenue sur MIUI 6</string>
+    <string name="welcom_message">Terminé !</string>
+    <string name="welcom_button">OK</string>
     <string name="menu_title_check_update">Vérifier les MàJ via Wi-Fi uniquement</string>
     <string name="no_proper_updates">Aucune mise à jour trouvée</string>
     <string name="install_file_explorer">Installer un explorateur de fichiers</string>
@@ -206,4 +231,8 @@ Vous pourrez le faire mardi prochain"</string>
     <string name="now">Redémarrer</string>
     <string name="notification_new_version">Mettre à jour vers %s</string>
     <string name="notification_reboot_des">Redémarrer pour mettre à jour %s.</string>
+    <string name="sogou_uninstall_title">Compatibilité du clavier</string>
+    <string name="sogou_uninstall_msg">"Le clavier Sogou (Edition Mi) n'est plus compatible avec MIUI 6. Changez de clavier ou installez une version plus récente de Sogou."</string>
+    <string name="sogou_uninstall_positive_button">Changer de clavier</string>
+    <string name="sogou_uninstall_negative_button">Mettre à jour Sogou</string>
 </resources>

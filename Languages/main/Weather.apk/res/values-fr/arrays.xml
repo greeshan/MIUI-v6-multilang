@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Nouvelle Lune</item>
+        <item>Premier croissant</item>
+        <item>Premier quartier</item>
+        <item>Lune gibbeuse croiss.</item>
+        <item>Pleine lune</item>
+        <item>Lune gibbeuse décroiss.</item>
+        <item>Dernier quartier</item>
+        <item>Dernier croissant</item>
+        <item>Lune noire</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Ensoleillé</item>
         <item>Nuageux</item>
@@ -27,7 +38,7 @@
         <item>Dust</item>
         <item>Brume</item>
         <item>Pluie verglaçante</item>
-        <item>Aucunes données</item>
+        <item>Aucune donnée</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Très faible</item>
@@ -45,16 +56,5 @@
         <item>Vent SO</item>
         <item>Vent O</item>
         <item>Vent NO</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Nouvelle Lune</item>
-        <item>Premier croissant</item>
-        <item>Premier quartier</item>
-        <item>Lune gibbeuse croiss.</item>
-        <item>Pleine lune</item>
-        <item>Lune gibbeuse décroiss.</item>
-        <item>Dernier quartier</item>
-        <item>Dernier croissant</item>
-        <item>Lune noire</item>
     </string-array>
 </resources>

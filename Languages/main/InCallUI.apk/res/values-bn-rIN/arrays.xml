@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>নেটওয়ার্ক ডিফল্ট</item>
+        <item>নম্বর লুকান</item>
+        <item>নম্বর দেখান</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE / WCDMA</item>
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>শুধুমাত্র EvDo</item>
+        <item>EvDo ছাড়া CDMA</item>
+        <item>CDMA/EvDo স্বতঃ</item>
+        <item>GSM/WCDMA স্বতঃ</item>
+        <item>শুধুমাত্র WCDMA</item>
+        <item>শুধুমাত্র GSM</item>
+        <item>GSM/WCDMA প্রস্তাবিত</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ইংরেজি</item>
+        <item>ফরাসী</item>
+        <item>স্পেনীয়</item>
+        <item>জাপানি</item>
+        <item>কোরিও</item>
+        <item>চিনা</item>
+        <item>হিব্রু</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>শুধুমাত্র হোম</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>আরইউআইএম/সিম</item>
+        <item>এনভি</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>০</item>
+        <item>১</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY বন্ধ</item>
+        <item>TTY পূর্ণ</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>স্বাভাবিক</item>
+        <item>দীর্ঘ</item>
+    </string-array>
+</resources>

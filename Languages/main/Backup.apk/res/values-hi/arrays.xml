@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>वाई-फाई डेटा</item>
+        <item>सभी ऐप्स</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>ब्राउज़र</item>
+        <item>अनुमतियां</item>
+        <item>कैमरा</item>
+        <item>डेटा उपयोग</item>
+        <item>मौसम डेटा</item>
+        <item>मौसम</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>संपर्क</item>
+        <item>कॉल लॉग</item>
+        <item>संदेश</item>
+        <item>मल्टीमीडिया संदेश</item>
+        <item>सिस्टम सेटिंग्स</item>
+        <item>वाई-फाई सेटिंग्स</item>
+        <item>होम स्क्रीन लेआउट</item>
+        <item>अलार्म सेटिंग्स</item>
+        <item>नोट्स</item>
+        <item>DND</item>
+        <item>खाता</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>डेटा</item>
+        <item>ऐप्स</item>
+        <item>ऐप्स और डेटा</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>संपर्क</item>
+        <item>कॉल लॉग</item>
+        <item>संदेश</item>
+        <item>वाई-फाई सेटिंग्स</item>
+        <item>नोट्स</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>संपर्क</item>
+        <item>वाई-फाई सेटिंग्स</item>
+        <item>नोट्स</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>कॉल लॉग</item>
+        <item>संदेश</item>
+    </string-array>
+</resources>

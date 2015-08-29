@@ -178,6 +178,9 @@
     <string name="status_bar_network_flow_limit">"   Μηνιαίο όριο: %1$s"</string>
     <string name="drive_mode_tip">Λειτουργία στο αυτοκίνητο, παρακαλώ οδηγείτε προσεχτικά</string>
     <string name="no_notification_tips">Χωρίς ειδοποιήσεις</string>
+    <string name="expanded_notification_manager">Διαχείριση</string>
+    <string name="disable_notification_title">Απενεργοποίηση ειδοποίησης</string>
+    <string name="disable_notification_summary">Η ειδοποίηση δεν θα εμφανίζεται μετά την απενεργοποίηση</string>
     <string name="notification_otg_mouse_in">Το ποντίκι συνδέθηκε</string>
     <string name="notification_otg_keyboard_in">Το πληκτρολόγιο συνδέθηκε</string>
     <string name="notification_otg_gamestick_in">Ο ελεγκτής παιχνιδιού συνδέθηκε</string>
@@ -209,10 +212,15 @@
     <string name="usb_share_net_info">Κοινή χρήση δικτύου μέσω USB</string>
     <string name="hint_for_long_press_app_switch_key">Πιέστε παρατεταμένα για να δείτε το μενού</string>
     <string name="battery_profiles">Χρησιμοποιήστε τα προφίλ μπαταρίας</string>
+    <string name="notification_template_text">Υπάρχει μήνυμα. Πατήστε για εμφάνιση</string>
     <string name="audio_effect_settings">Ορισμός τύπου ακουστικών</string>
     <string name="audio_effect_info">Βελτιστοποίηση ήχου</string>
     <string name="audio_effect_custom">Ρύθμιση</string>
     <string name="media_projection_dialog_text">%s θα αρχίσει να καταγράφει ότι εμφανίζεται στην οθόνη σας.</string>
     <string name="media_projection_remember_text">Να μην εμφανιστεί ξανά</string>
     <string name="media_projection_action_text">Έναρξη τώρα</string>
+    <string name="vpn_title">Το VPN ενεργοποιήθηκε</string>
+    <string name="vpn_title_long">Σύνδεση σε VPN μέσω %s</string>
+    <string name="vpn_text">Πατήστε για να δείτε τις ρυθμίσεις.</string>
+    <string name="vpn_text_long">Συνδεδεμένο στο %s. Πατήστε για να δείτε λεπτομέρειες.</string>
 </resources>

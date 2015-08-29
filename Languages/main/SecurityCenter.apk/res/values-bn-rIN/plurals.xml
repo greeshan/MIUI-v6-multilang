@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d দিনগুলি "</item>
+        <item quantity="one">"%d দিন "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ঘন্টা "</item>
+        <item quantity="one">"%d ঘন্টা "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d মিনিট "</item>
+        <item quantity="one">"%d মিনিট "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d অ্যাপ্স আপনাআপনি শুরু হতে পারে</item>
+        <item quantity="one">%d অ্যাপ্ আপনাআপনি শুরু হতে পারে</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d অ্যাপ্সটিকে আপনাআপনি শুরু হওয়ার অনুমতি দেওয়া হয় নি</item>
+        <item quantity="one">%d অ্যাপটিকে আপনাআপনি শুরু হওয়ার অনুমতি দেওয়া হয় নি</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d অনুমতি</item>
+        <item quantity="one">%d অনুমতি</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d টি অ্যাপ্স</item>
+        <item quantity="one">%d টি অ্যাপ</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d অ্যাপ্সের বিশেষ অ্যাকসেস আছে</item>
+        <item quantity="one">%d অ্যাপের বিশেষ অ্যাকসেস আছে</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d অ্যাপ্সের বিশেষ অ্যাকসেস নেই</item>
+        <item quantity="one">%d অ্যাপের বিশেষ অ্যাকসেস নেই</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d অ্যাপ্সের জন্য আপডেট উপলব্ধI</item>
+        <item quantity="one">%d অ্যাপের জন্য আপডেট উপলব্ধI</item>
+    </plurals>
+</resources>

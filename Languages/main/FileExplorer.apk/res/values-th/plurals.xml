@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">ลบ %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" และอีก %1$d โฟลเดอร์?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d รายการ</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">ไฟล์จำนวน %1$d ไฟล์รอการดาวน์โหลด</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">ยังคงเหลือไฟล์ที่รออัพโหลดอีก %1$d ไฟล์</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+</resources>

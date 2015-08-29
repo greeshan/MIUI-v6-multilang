@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s ఆల్బమ్‌లు తొలగించాలా (మొత్తం %2$s)?</item>
+        <item quantity="one">%1$s ఆల్బమ్ తొలగించాలా (మొత్తం %2$s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ఫోటోలను తొలగించాలా?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ఫోటోని తొలగించాలా?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s ఫోటోలను తొలగించాలా?</item>
+        <item quantity="one">%s ఫోటోను తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> వీడియోలను తొలగించాలా?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> వీడియోని తొలగించాలా?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s వీడియోలను తొలగించాలా?</item>
+        <item quantity="one">%s వీడియోని తొలగించాలా?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ఫోటోలను తొలగించాలా?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ఫోటోని తొలగించాలా?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">" "&lt;Data> మీ పరికరం మరియు Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> వీడియోలను తొలగించాలా?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> మీ పరికరం మరియు Mi క్లౌడ్ నుండి &lt;xliff:g id=ITEM>%s&lt;/xliff:g> వీడియోని తొలగించాలా?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> %2$d ఆల్బమ్‌ల నుండి &lt;xliff:g id=ITEM>%1$d వీడియోలను&lt;/xliff:g> తొలగించాలా?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> %2$d ఆల్బమ్‌ల నుండి &lt;xliff:g id=ITEM>%1$d వీడియో&lt;/xliff:g>ని తొలగించాలా?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ఎంచుకున్నారు</item>
+        <item quantity="one">%1$d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d ఫోటోలు</item>
+        <item quantity="one">%d ఫోటో</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d వీడియోలు</item>
+        <item quantity="one">%d వీడియో</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d ఫోల్డర్‌లు</item>
+        <item quantity="one">%d ఫోల్డర్</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">మీకు ఈ %d ఫైల్‌లను తొలగించడానికి అనుమతి లేదు.</item>
+        <item quantity="one">మీకు ఈ %d ఫైల్‌ను తొలగించడానికి అనుమతి లేదు.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">మీరు %d అంశాలను ఎంచుకోవచ్చు</item>
+        <item quantity="one">మీరు %d అంశాన్ని ఎంచుకోవచ్చు</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d చిత్రాలు</item>
+        <item quantity="one">%1$d చిత్రం</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d అంశాలు</item>
+        <item quantity="one">%1$d అంశం</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s photos of %2$s</item>
+        <item quantity="one">%1$s photo of %2$s</item>
+    </plurals>
+</resources>

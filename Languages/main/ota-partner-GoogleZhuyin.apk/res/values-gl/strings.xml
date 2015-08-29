@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Configuración de entrada de zhuyin de Google</string>
+    <string name="ime_name">Entrada de zhuyin de Google</string>
+    <string name="label_subtype_zhuyin">Zhuyin de chinés</string>
+</resources>

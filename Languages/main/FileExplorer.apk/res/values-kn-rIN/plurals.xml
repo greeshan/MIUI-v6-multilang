@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">%1$d ಫೈಲ್‌ಗಳನ್ನು ಅಳಿಸಿ</item>
+        <item quantity="one">%1$d ಫೈಲ್ ಅಳಿಸು</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" ಮತ್ತು %1$d ಫೋಲ್ಡರ್‌ಗಳು?"</item>
+        <item quantity="one">" ಮತ್ತು %1$d ಫೋಲ್ಡರ್?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d ಐಟಂಗಳು</item>
+        <item quantity="one">%d ಐಟಂ</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d ಫೈಲ್‌ಗಳು ಡೌನ್‌ಲೋಡ್ ಆಗಲು ಉಳಿದಿವೆ</item>
+        <item quantity="one">%1$d ಫೈಲ್ ಡೌನ್‌ಲೋಡ್ ಆಗಲು ಉಳಿದಿದೆ</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d ಫೈಲ್‌ಗಳು ಅಪ್‌ಲೋಡ್ ಆಗಲು ಉಳಿದಿವೆ</item>
+        <item quantity="one">%1$d ಫೈಲ್ ಅಪ್‌ಲೋಡ್ ಆಗಲು ಉಳಿದಿದೆ</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

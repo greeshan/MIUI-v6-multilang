@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_ringtone_silent">Niciunul</string>
+    <string name="android_ringtone_unknown">Ton de sonerie necunoscut</string>
+    <string name="presentation_payphone">Payphone</string>
+    <string name="presentation_private">Număr privat</string>
+    <string name="presentation_unknown">Număr necunoscut</string>
+    <string name="yellow_page_module_sms_sent">SMS trimis</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">Nu se pot trimite mesaje în modul Vizitator</string>
+    <string name="yellow_page_sms_send_failed">Nu s-a putut trimite mesajul SMS</string>
+    <string name="yellow_page_sms_sending">Trimitere…</string>
+    <string name="yellow_page_unable_send_sms">Nu se poate trimite mesajul SMS</string>
+    <string name="device_hongmi">Redmi</string>
+    <string name="device_pad">Mi Pad</string>
+    <string name="device_xiaomi">Telefon Mi</string>
+    <string name="miui_device_name">Android</string>
+    <string name="group_name_contacts">Contacte</string>
+    <string name="group_name_friends">Prieteni</string>
+    <string name="group_name_family">Familie</string>
+    <string name="group_name_coworkers">Colegi</string>
+    <string name="no_notification_tips">Nicio notificare</string>
+    <string name="maml_component_customization_title">Setări</string>
+    <string name="default_name">Prestabilit</string>
+    <string name="resource_select">Selectaţi</string>
+    <string name="android_ringtone_default_with_actual">Ton de sonerie prestabilit (%1$s)</string>
+    <string name="loading">Încărcare…</string>
+    <string name="app_name_which_call">Aplicaţiie: %s</string>
+    <string name="app_version_which_call">Versiune aplicaţie: %s</string>
+    <string name="policy_name">Politică: %s</string>
+    <string name="mibi_license">Condiţii de utilizare Mi credit</string>
+    <string name="license_host_unreachable">"Nu se poate conecta la rețea. Pentru a vedea aceste informații acum, 
+accesaţi %s"</string>
+</resources>

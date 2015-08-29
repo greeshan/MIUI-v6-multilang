@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Wybrane: %1$d</item>
+        <item quantity="zero">Wybrane: %1$d</item>
+        <item quantity="one">Wybrane: %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">Liczba miast, które zostaną usunięte: %1$s</item>
+        <item quantity="one">Jedno miasto zostanie usunięte</item>
+    </plurals>
+</resources>

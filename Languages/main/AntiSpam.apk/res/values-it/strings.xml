@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Guard</string>
+    <string name="app_name">AntiSpam</string>
     <string name="fw_blocked">Lista blocco</string>
     <string name="fw_blocked_count">"Bloccati "</string>
     <string name="fw_blocked_join">" e "</string>
@@ -221,6 +221,7 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="st_sub_title_customize_mode_name">Nome modalità</string>
     <string name="read_all_sms">Segna come già letto</string>
     <string name="loding">Caricamento dati</string>
+    <string name="action_source_sms_title">SMS Bloccato</string>
     <string name="st_title_open_antispam">Attiva filtro</string>
     <string name="st_title_antispam_mode">Regole</string>
     <string name="st_sub_title_whiteblack_list_group">Filtro</string>
@@ -281,15 +282,11 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="mark_fraud">Truffa</string>
     <string name="mark_agent">Venditore</string>
     <string name="mark_sell">Telemarketing</string>
-    <string name="mark_meal">Cibo a domicilio</string>
-    <string name="mark_express">Corriere</string>
-    <string name="mark_banking_insurance">Proposte assicurative</string>
+    <string name="mark_harass">Indesiderato</string>
     <string name="mark_fraud_block">Segnalato come truffa</string>
     <string name="mark_agent_block">Segnalato come venditore</string>
     <string name="mark_sell_block">Segnalato come telemarketing</string>
-    <string name="mark_meal_block">Segnalato come cibo a domicilio</string>
-    <string name="mark_express_block">Segnalato come corriere</string>
-    <string name="mark_banking_insurance_block">Segnalato come agente assicurativo</string>
+    <string name="mark_harass_block">Segnalato come indesiderato</string>
     <string name="mark_number_info">Ricorda che a volte queste chiamate potrebbero essere utili (ad esempio se stai realmente cercando qualcosa da acquistare). Blocca soltanto i numeri da cui non vuoi mai ricevere chiamate.</string>
     <string name="dlg_title_not_open_stranger_identify">Attiva Identificazione numeri sconosciuti</string>
     <string name="dlg_message_not_open_stranger_identify">"Devi attivare l'Identificazione dei numeri sconosciuti in TelefonoPhone >Impostazioni, prima di segnalare un numero."</string>
@@ -301,5 +298,30 @@ Aggiungi più parole separandole con la virgola."</string>
     <string name="call_transfer_block">Blocco chiamate inoltrate</string>
     <string name="call_transfer_block_type">Blocca chiamate inoltrate</string>
     <string name="call_transfer_info">Blocca chiamate inoltrate da numeri sconosciuti</string>
+    <string name="repeated_marked_number_title">Non bloccare chiamate segnalate più volte</string>
+    <string name="repeated_marked_number_summary">Non bloccare la seconda chiamata dallo stesso numero entro 3 minuti.</string>
+    <string name="mark_fraud_time_setting">Blocca i numeri segnalati come fraudolenti più di un certo numero di volte</string>
+    <string name="mark_agent_time_setting">Blocca i numeri segnalati come telemarketing più di un certo numero di volte</string>
+    <string name="mark_sell_time_setting">Blocca i numeri segnalati come venditori più di un certo numero di volte</string>
+    <string name="mark_harass_time_setting">Blocca i numeri segnalati come indesiderati più di un certo numero di volte</string>
+    <string name="mark_time_text">%d</string>
+    <string name="mark_time_setting_dialog_title">Reported times settings</string>
     <string name="sms_smart_engine_update">Aggiorna automaticamente il filtro SMS</string>
+    <string name="mark_number_setting_guide_title">Blocca i numeri segnalati</string>
+    <string name="mark_number_setting_guide_content1">Bloccare le chiamate dai numeri segnalati?</string>
+    <string name="mark_number_setting_guide_content2">Blocca automaticamente le chiamate dai numeri segnalati da altri utenti</string>
+    <string name="mark_number_setting_guide_content3">Hai segnalato un numero come %1$s. Vuoi bloccare le chiamate dai numeri segnati come %2$s?</string>
+    <string name="mark_number_setting_guide_forward">Impostazione lista blocchi</string>
+    <string name="mark_number_fraud">Truffa</string>
+    <string name="mark_number_agent">Venditore</string>
+    <string name="mark_number_sell">Promozioni</string>
+    <string name="mark_number_harass">Indesiderato</string>
+    <string name="antispam_notification_setting_title">Notifiche lista blocchi</string>
+    <string name="antispam_notificaiton_type_show_all">Mostra quando una chiamata viene bloccata</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">MOstra quando una chiamata non presente nela lista blocco viene bloccata</string>
+    <string name="antispam_notificaiton_type_show_none">Non mostrare notifiche</string>
+    <string name="quiet_off_mode">Consenti sempre gli indesiderati</string>
+    <string name="quiet_important_interruptions_mode">Consenti solo le eccezioni</string>
+    <string name="quiet_mode">Silenzia gli indesiderati</string>
+    <string name="quiet">Silenzia</string>
 </resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d दिन पहले उपयोग किया गया था</item>
+        <item quantity="one">कल उपयोग किया गया था</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d ऐप्स खोजें</item>
+        <item quantity="one">%d ऐप्स खोजें</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">रोमिंग के दौरान %d ऐप्स मोबाइल डेटा का उपयोग कर सकते हैं</item>
+        <item quantity="one">रोमिंग के दौरान %d ऐप्प मोबाइल डेटा का उपयोग कर सकता है</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">रोमिंग के दौरान %d ऐप्स मोबाइल डेटा का उपयोग कर सकते हैं</item>
+        <item quantity="one">रोमिंग के दौरान %d ऐप्प मोबाइल डेटा का उपयोग कर सकता है</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d ऐप्स मिले</item>
+        <item quantity="one">%d ऐप्प मिला</item>
+    </plurals>
+</resources>

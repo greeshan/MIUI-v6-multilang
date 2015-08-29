@@ -10,13 +10,15 @@
     <string name="cancel_action">Annuleren</string>
     <string name="bad_wallpaper_source_prompt">Kan achtergrond niet laden</string>
     <string name="apply_action">Toepassen</string>
+    <string name="download_action">Downloaden</string>
     <string name="apply_as_lock_wallpaper_message">Achtergrond ook toepassen op uw vergrendelscherm?</string>
     <string name="lock_screen_failed_message">Kan vergrendelscherm achtergrond niet toepassing</string>
     <string name="lock_screen_success_message">Toegepast op vergrendelscherm</string>
     <string name="wallpaper_failed_message">Kan achtergrond niet toepassen</string>
     <string name="image_too_small_message">Originele afbeelding is niet groot genoeg</string>
+    <string name="failed_to_load_image">Kan afbeelding niet laden</string>
     <string name="wallpaper_success_message">Achtergrond toegepast</string>
-    <string name="is_setting_wallpaper_toast">Instellen achtergrond…</string>
+    <string name="is_setting_wallpaper_message">Instellen achtergrond…</string>
     <string name="current_wallpaper">Huidige</string>
     <string name="menu_item_add_item">Op startscherm plaatsen</string>
     <string name="group_shortcuts">Snelkoppelingen</string>
@@ -26,6 +28,7 @@
     <string name="title_select_shortcut">Snelkoppeling selecteren</string>
     <string name="title_select_live_folder">Selecteer map</string>
     <string name="app_being_backup_message">App wordt geback-upt</string>
+    <string name="app_being_restored_message">App wordt hersteld</string>
     <string name="menu_add">Toevoegen</string>
     <string name="menu_wallpaper">Achtergrond</string>
     <string name="menu_search">Zoeken</string>
@@ -50,8 +53,10 @@
     <string name="status_downloaded">Gedownload</string>
     <string name="status_installing">Installeren</string>
     <string name="loading_desktop">Een momentje…</string>
+    <string name="loading_wallpaper">Een momentje…</string>
     <string name="start_activity_failed">Kan launcher niet starten</string>
     <string name="gadget_error_text">Probleem bij het laden van widget</string>
+    <string name="mtzgadget_missing_text">Widget is niet beschikbaar</string>
     <string name="menu_edit">Widgets toevoegen</string>
     <string name="menu_sort">Menu sorteren</string>
     <string name="menu_launcher_setting">Launcher instellingen</string>
@@ -130,6 +135,7 @@
     <string name="transformation_type_rotate">Draaien</string>
     <string name="pref_screen_transformation_type_title">Selecteer scherm overgangseffect</string>
     <string name="pref_wallpaper_scroll_type_title">Achtergrond scroll optie</string>
+    <string name="configure_wallpaper">Instellingen</string>
     <string name="pref_cell_layout_size">App icoon layout</string>
     <string name="pref_keep_layout_title">Behoud huidige layout</string>
     <string name="pref_keep_layout_summary">Wisselen van icoon layout heeft geen invloed op de positie van apps ten opzichte van elkaar.</string>
@@ -208,10 +214,12 @@
     <string name="menu_picktheme">Selecteer thema</string>
     <string name="scroll_tip_format_when_announce_accessibility">pagina %1$d, %2$d apps</string>
     <string name="editing_mode_enter_tip_text">Knijpen om startscherm te bewerken</string>
-    <string name="delete">Delete</string>
+    <string name="delete">Verwijderen</string>
     <string name="delete_wallpaper_message">Geselecteerde achtergrond %1$d verwijderen?</string>
     <string name="delete_wallpapers_message">Geselecteerde achtergronden %1$d verwijderen?</string>
     <string name="is_system_wallpaper_message">Kan systeembronnen niet verwijderen</string>
+    <string name="select_all">Alle selecteren</string>
+    <string name="deselect_all">Alle deselecteren</string>
     <string name="cloud_app_restore_title">In afwachting</string>
     <string name="app_category_finance">Financiën</string>
     <string name="app_category_social">Sociaal</string>
@@ -229,4 +237,14 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_health">Gezondheid</string>
     <string name="app_category_productivity">Productiviteit</string>
+    <string name="app_already_exist">App bestaat reeds</string>
+    <string name="wallpaper_settings_for_pad">Achtergrond</string>
+    <string name="choose_theme">Thema</string>
+    <string name="default_theme_name">Standaard</string>
+    <string name="gadget_power_clear_button_label">Diepe schoonmaak</string>
+    <string name="recommend_apps_notice">Aanbevolen apps</string>
+    <string name="recommend_apps_switch_title">Aanbevolen apps</string>
+    <string name="recommend_apps_switch_summary">Aanbevolen apps aan de onderkant van het scherm weergeven.</string>
+    <string name="recommend_apps_default_title">Leeg</string>
+    <string name="recommend_apps_tips">Deze functie moet verbonden zijn met internet om normaal te werken. Om deze functie uit te schakelen, raakt de naam van deze map aan.</string>
 </resources>

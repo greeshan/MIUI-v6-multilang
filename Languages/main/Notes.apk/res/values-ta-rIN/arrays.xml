@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>பெயர்</item>
+        <item>புனைப்பெயர்</item>
+        <item>ஃபோன்</item>
+        <item>மின்னஞ்சல்</item>
+        <item>நிறுவனம்</item>
+        <item>IM</item>
+        <item>SIP ஃபோன்</item>
+        <item>பிறந்த நாள்</item>
+        <item>இணையத்தளம்</item>
+        <item>முகவரி</item>
+        <item>குறிப்பு</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>சிறியது</item>
+        <item>இயல்புநிலை</item>
+        <item>பெரியது</item>
+        <item>சூப்பர்</item>
+    </string-array>
+    <string-array name="welcome_notes_content">
+        <item>"ஒரு குறிப்பை உருவாக்க தட்டுக
+"</item>
+        <item>"ஒரு படம் சேர்க்க அல்லது தேர்வுப்பெட்டிகளை காட்ட, கீழே உள்ள பொத்தானை தட்டுக
+"</item>
+        <item>"ஒரு குறிப்பை பின் செய்ய, நகர்த்த, அல்லது நீக்க அதை அழுத்திப் பிடிக்கவும்
+"</item>
+        <item>"இன்னும் ஏராளமான சிறந்த அம்சங்கள்! 
+ -Mi கிளவுட் உடன் ஒத்திசைக்கலாம்
+- நினைவூட்டல்களை அமை
+
+மேலும் அறிந்து கொள்ள, பின்வரும் இணையத்தளத்தைக் காணவும்: 
+http://www.miui.com/forum.php?lang=1
+"</item>
+    </string-array>
+    <integer-array name="welcome_notes_color">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi ಕಡತ</item>
+        <item>ಎಲ್ಲ ಅಪ್ಸ್</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>ಬ್ರೌಸರ್</item>
+        <item>ಅನುಮತಿಗಳು</item>
+        <item>ಛಾಯಾಚಿತ್ರಗ್ರಾಹಕ</item>
+        <item>ಮಾಹಿತಿ ಬಳಕೆ</item>
+        <item>ಹವಾಮಾನ ಮಾಹಿತಿ</item>
+        <item>ಹವಾಮಾನ</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>ಸಂಪರ್ಕಗಳು</item>
+        <item>ಕರೆ ದಾಖಲೆ</item>
+        <item>ಸಂದೇಶಗಳು</item>
+        <item>ಬಹುಮಾಧ್ಯಮ ಸಂದೇಶಗಳು</item>
+        <item>ವ್ಯವಸ್ಥೆಯ ಸೆಟ್ಟಿಂಗ್ಗಳು</item>
+        <item>Wi-Fi ವ್ಯವಸ್ಥೆ</item>
+        <item>ಮುಖಪುಟ ಪರದೆ ವಿನ್ಯಾಸ</item>
+        <item>ಎಚ್ಚರಿಕೆ ಧನಿ ವ್ಯವಸ್ಥೆ</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು</item>
+        <item>DND</item>
+        <item>ಖಾತೆ</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>ಡೇಟಾ</item>
+        <item>ಅಪ್ಸ್</item>
+        <item>ಅಪ್ಸ್ ಮತ್ತು ಡೇಟಾ</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>ಸಂಪರ್ಕಗಳು</item>
+        <item>ಕರೆ ದಾಖಲೆ</item>
+        <item>ಸಂದೇಶಗಳು</item>
+        <item>Wi-Fi ವ್ಯವಸ್ಥೆ</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>ಸಂಪರ್ಕಗಳು</item>
+        <item>Wi-Fi ವ್ಯವಸ್ಥೆ</item>
+        <item>ಟಿಪ್ಪಣಿಗಳು</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>ಕರೆ ದಾಖಲೆಗಳು</item>
+        <item>ಸಂದೇಶಗಳು</item>
+    </string-array>
+</resources>

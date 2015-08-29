@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d நாட்கள் முன்பு பயன்படுத்தியது</item>
+        <item quantity="one">இன்று பயன்படுத்தியது</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d பயன்பாடுகளைத் தேடவும்</item>
+        <item quantity="one">%d பயன்பாட்டைத் தேடவும்</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">%d பயன்பாடுகள் ரோமிங்கின்போது, மொபைல் தரவைப் பயன்படுத்தலாம்</item>
+        <item quantity="one">%d பயன்பாடு ரோமிங்கின்போது, மொபைல் தரவைப் பயன்படுத்தலாம்</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">%d பயன்பாடுகள் ரோமிங்கின்போது, மொபைல் தரவைப் பயன்படுத்த முடியாது</item>
+        <item quantity="one">%d பயன்பாடு ரோமிங்கின்போது, மொபைல் தரவைப் பயன்படுத்த முடியாது</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d பயன்பாடுகள் கண்டறியப்பட்டன</item>
+        <item quantity="one">%d பயன்பாடு கண்டறியப்பட்டது</item>
+    </plurals>
+</resources>

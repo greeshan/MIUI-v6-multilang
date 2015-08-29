@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">เรียกใช้ %d วันก่อน</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">ค้นหาแอป %d รายการ</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">แอปจำนวน %d รายการสามารถใช้เครือข่ายข้อมูลได้ขณะโรมมิ่ง</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">แอปจำนวน %d รายการไม่สามารถใช้เครือข่ายข้อมูลได้ขณะโรมมิ่ง</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">พบแอปจำนวน %d แอป</item>
+    </plurals>
+</resources>

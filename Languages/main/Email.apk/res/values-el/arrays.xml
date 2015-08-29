@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_providers">
-        <item>content://com.android.email.provider/uiaccts</item>
-    </string-array>
     <string-array name="compose_modes">
         <item>Απάντηση</item>
         <item>Απάντηση όλων</item>
@@ -53,18 +50,5 @@
         <item>Εμφάνιση μόνο του αρχείου</item>
         <item>Εμφάνιση μόνο διαγραμμένων</item>
         <item>Εμφάνιση αρχείου &amp; διαγραφή</item>
-    </string-array>
-    <string-array name="smtp_host_prefixes">
-        <item>pop3</item>
-        <item>pop</item>
-        <item>imap</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Επιτυχία</item>
-        <item>Χωρίς σύνδεση.</item>
-        <item>Αδύνατη σύνδεση.</item>
-        <item>Σφάλμα ασφάλειας.</item>
-        <item>Αδύνατος συγχρονισμός.</item>
-        <item>Εσωτερικό Σφάλμα</item>
     </string-array>
 </resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d రోజులు "</item>
+        <item quantity="one">"%d రోజు "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d గం "</item>
+        <item quantity="one">"%d గం "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d నిమి "</item>
+        <item quantity="one">"%d నిమి "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d అప్లికేషన్‌లు స్వయంప్రారంభం చేయగలవు</item>
+        <item quantity="one">%d అప్లికేషన్ స్వయంప్రారంభం చేయగలదు</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d అప్లికేషన్‌లు స్వయంప్రారంభానికి అనుమతి ఇవ్వలేదు</item>
+        <item quantity="one">%d అప్లికేషన్ స్వయంప్రారంభానికి అనుమతి ఇవ్వలేదు</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d అనుమతులు</item>
+        <item quantity="one">%d అనుమతి</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d అప్లికేషన్‌లు</item>
+        <item quantity="one">%d అప్లికేషన్</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d అప్లికేషన్‌లు రూట్ ప్రవేశాన్ని కలిగి ఉన్నాయి</item>
+        <item quantity="one">%d అప్లికేషన్ రూట్ ప్రవేశాన్ని కలిగి ఉంది</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d అప్లికేషన్‌లు రూట్ ప్రవేశాన్ని కలిగి లేవు</item>
+        <item quantity="one">%d అప్లికేషన్ రూట్ ప్రవేశాన్ని కలిగి లేదు</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d అప్లికేషన్‌ల కోసం అప్‌డేట్‌లు అందుబాటులో ఉన్నాయి.</item>
+        <item quantity="one">%d అప్లికేషన్ కోసం అప్‌డేట్ అందుబాటులో ఉంది.</item>
+    </plurals>
+</resources>

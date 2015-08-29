@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vädertjänst</string>
+    <string name="choose_city">Välj stad</string>
+    <string name="searching">Söker, vänligen vänta…</string>
+    <string name="no_found">Ingen stad hittades som matchar %s. Kontrollera inmatade ord.</string>
+    <string name="net_error">Nätverket är inte tillgänligt. Kontrollera att det fungerar korrekt.</string>
+    <string name="no_city_error">Kan inte hämta stadsinformation. Ställ in systemets tid och tidszon korrekt.</string>
+    <string name="searching_fail">Sökning av stad misslyckades.</string>
+    <string name="no_weather_error">Kan inte hämta väderinformation. Ställ in systemets tid och tidszon korrekt.</string>
+    <string name="no_weather">Har för närvarande inte vädret för %s.</string>
+    <string name="setting_title">Konfiguration</string>
+    <string name="temperature">Temperaturenheter</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Städer</string>
+    <string name="update_fre">Uppdateringsfrekvens</string>
+    <string name="every12">Var 12:e timme</string>
+    <string name="weatherserver">Väderserver</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Avbryt</string>
+    <string name="menu_add_city">Lägg till stad</string>
+    <string name="add_city">Tryck på ikonen för att lägga till en ny stad</string>
+    <string name="remove">Ta bort</string>
+    <string name="warn">Högst 8 städer kan läggas till.</string>
+    <string name="has_chosen">har valts.</string>
+    <string name="no_city">Inga städer</string>
+    <string name="powered_by">Drivs av:</string>
+    <string name="menu_about">Om</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Delete</string>
+    <string name="no">Avbryt</string>
+    <string name="select_all">Välj alla</string>
+    <string name="deselect_all">Avmarkera alla</string>
+    <string name="delete">Delete</string>
+</resources>

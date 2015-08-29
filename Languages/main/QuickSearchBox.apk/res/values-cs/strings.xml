@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search_in_web">Vyhledat na internetu</string>
+    <string name="search_in_web">Vyhledat online</string>
     <string name="search_in_app_store">Vyhledat v Google Play</string>
     <string name="send_secret_code">Odeslat tajný kód</string>
-    <string name="xiaomi_search_label">Online</string>
+    <string name="xiaomi_search_label">Výsledky</string>
     <string name="cta_declaration_title">Podmínky používání</string>
     <string name="cta_declaration">Pro vyhledávání je využíváno i internetové připojení. Souhlasíte s jeho využíváním?</string>
     <string name="cta_declaration_ignore">Znovu se neptat</string>
     <string name="cta_declaration_positive_text">OK</string>
     <string name="cta_declaration_negative_text">Ukončit</string>
+    <string name="searchable_sources">Online</string>
+    <string name="searchable_lable_app">Apl.</string>
+    <string name="searchable_lable_music">Hudba</string>
+    <string name="searchable_lable_video">Video</string>
+    <string name="searchable_lable_browser">Internet</string>
+    <string name="searchable_lable_duokan">Noviny</string>
+    <string name="searchable_lable_o2o">Mapy</string>
     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="apps_search_activity" />

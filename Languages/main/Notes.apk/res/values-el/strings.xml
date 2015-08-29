@@ -50,6 +50,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Η σημείωση υπάρχει ήδη στην Αρχική Οθόνη</string>
     <string name="error_unsupport_content">Αυτό το σημείωμα περιέχει περιεχόμενο που δεν υποστηρίζεται. Πατήστε εδώ για να ενημερώσετε την απαιτούμενη εφαρμογή</string>
     <string name="error_contact_not_exist">Η επαφή δεν υπάρχει</string>
+    <string name="sync_tips">Πατήστε για συγχρονισμό σημειώσεων με το Mi Cloud.</string>
     <string name="pref_title_font_size">Μέγεθος Γραμματοσειράς</string>
     <string name="call_record_folder_name">Κλήση σημείωσης</string>
     <string name="hint_foler_name">Όνομα</string>
@@ -97,6 +98,7 @@
     <string name="sns_hint_title">Θέμα (Προαιρετικό)</string>
     <string name="sns_hint_content">Τι έχεις στο μυαλό σου;</string>
     <string name="sns_footer_text">Δημιουργήθηκε με Mi Notes</string>
+    <string name="dlg_info_creating_message">Δημιουργία μηνύματος…</string>
     <string name="sns_message_disconnect">Αδυναμία σύνδεσης στο δίκτυο. Παρακαλώ ελέγξτε τη σύνδεσή σας και προσπαθήστε ξανά.</string>
     <string name="sns_content_default">Μοιραστείτε την εικόνα</string>
     <string name="sns_toast_empty">Δεν μπορείτε να στείλετε κενό μήνυμα</string>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s ಸಂಪರ್ಕಗಳನ್ನು ನವೀಕರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%s ಸಂಪರ್ಕ ಅಪ್‌ಡೇಟ್ ಮಾಡಿದೆ</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%d ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d ಸಂದೇಶಗಳು</item>
+        <item quantity="one">%d ಸಂದೇಶ</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d ಟಿಪ್ಪಣಿಗಳು</item>
+        <item quantity="one">%d ಟಿಪ್ಪಣಿ</item>
+    </plurals>
+</resources>

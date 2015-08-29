@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d நாட்கள் "</item>
+        <item quantity="one">"%d நாள் "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d மணிநேரம் "</item>
+        <item quantity="one">"%d மணிநேரம் "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d நிமிடங்கள் "</item>
+        <item quantity="one">"%d நிமிடம் "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d பயன்பாடுகள் தானாகத் தொடங்க முடியும்</item>
+        <item quantity="one">%d பயன்பாடு தானாகத் தொடங்கும்</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d தன்னியக்கத்தொடக்கத்திற்கு பயன்பாடுகளுக்கு அனுமதி இல்லை</item>
+        <item quantity="one">%d தானி.தொடக்கத்திற்கு பயன்பாட்டிற்கு அனுமதி இல்லை</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d அனுமதிகள்</item>
+        <item quantity="one">%d அனுமதி</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d பயன்பாடுகள்</item>
+        <item quantity="one">%d பயன்பாடு</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d பயன்பாடுகள் மூலநிலை அணுகலை கொண்டுள்ளது</item>
+        <item quantity="one">%d பயன்பாடு மூலநிலை அணுகலை கொண்டுள்ளது</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d பயன்பாடுகளுக்கு மூலநிலை அணுகல் இல்லை</item>
+        <item quantity="one">%d பயன்பாட்டிற்கு மூலநிலை அணுகல் இல்லை</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d பயன்பாடுகளுக்குப் புதுப்பிப்புகள் கிடைக்கின்றன.</item>
+        <item quantity="one">%d பயன்பாட்டுக்குப் புதுப்பிப்பு கிடைக்கிறது.</item>
+    </plurals>
+</resources>

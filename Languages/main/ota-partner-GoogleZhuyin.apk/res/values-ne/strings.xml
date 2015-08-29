@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Google Zhuyin इनपुट सेटिङहरू</string>
+    <string name="ime_name">Google Zhuyin इनपुट</string>
+    <string name="label_subtype_zhuyin">चिनियाँ Zhuyin</string>
+</resources>

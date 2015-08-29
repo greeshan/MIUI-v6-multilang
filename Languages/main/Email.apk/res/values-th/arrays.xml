@@ -27,22 +27,22 @@
     <string-array name="prefEntries_autoAdvance">
         <item>อีเมลที่ใหม่กว่า</item>
         <item>อีเมลที่เก่ากว่า</item>
-        <item>เนื้อหาการติดต่อ</item>
+        <item>กล่องขาเข้า</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>แสดงเฉพาะรายการที่จัดเก็บไว้</item>
-        <item>แสดงเฉพาะที่ลบ</item>
-        <item>แสดงรายการที่จัดเก็บ &amp; ลบ</item>
+        <item>แสดงเฉพาะรายการที่ลบ</item>
+        <item>แสดงรายการที่จัดเก็บและที่ลบ</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>แสดงเนื้อหาการติดต่อที่ใหม่กว่าเมื่อลบ</item>
         <item>แสดงเนื้อหาการติดต่อที่เก่ากว่าเมื่อลบ</item>
-        <item>แสดงรายการของอีเมลเมื่อลบ</item>
+        <item>เมื่อลบข้อความเสร็จให้กลับไปที่กล่องขาเข้า</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>แสดงเฉพาะรายการที่จัดเก็บไว้</item>
-        <item>แสดงเฉพาะที่ลบ</item>
-        <item>แสดงรายการที่จัดเก็บ &amp; ลบ</item>
+        <item>แสดงเฉพาะรายการที่ลบ</item>
+        <item>แสดงรายการที่จัดเก็บและที่ลบ</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>ที่อยู่:</item>
@@ -65,13 +65,5 @@
         <item>อีเมลฉบับนี้</item>
         <item>ข้อสงวนสิทธิ์</item>
         <item>ข้อสงวนสิทธิ์ในอีเมล</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>การซิงค์เสร็จสมบูรณ์</item>
-        <item>ข้อผิดพลาดในการเชื่อมต่อเครือข่าย</item>
-        <item>ไม่สามารถเข้าสู่ระบบ</item>
-        <item>ข้อผิดพลาดในการเชื่อมต่อแบบปลอดภัย</item>
-        <item>ซิงค์ไม่ได้</item>
-        <item>พบข้อผิดพลาดเซิร์ฟเวอร์</item>
     </string-array>
 </resources>

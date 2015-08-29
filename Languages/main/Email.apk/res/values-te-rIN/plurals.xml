@@ -25,36 +25,36 @@
         <item quantity="one">%d ఎంచుకోబడింది</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ఆర్కైవ్ చేయబడ్డాయి.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ఆర్కైవ్ చేయబడింది.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ఆర్కైవ్ చేయబడ్డాయి.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> ఆర్కైవ్ చేయబడింది.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> తొలగించబడ్డాయి.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> తొలగించబడింది.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> తొలగించబడ్డాయి.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> తొలగించబడింది.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">మారిన ఫోల్డర్‌లు.</item>
         <item quantity="one">మారిన ఫోల్డర్.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> మ్యూట్ చేయబడ్డాయి</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> మ్యూట్ చేయబడింది.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> మ్యూట్ చేయబడ్డాయి</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> మ్యూట్ చేయబడింది.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> 'ముఖ్యమైనవి' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడ్డాయి"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> 'స్పామ్' ఫోల్డర్ నుండి తీసివేయబడింది"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> సందేశాలు స్పామ్‌గా నివేదించబడ్డాయి</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> సందేశం స్పామ్‌గా నివేదించబడింది</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> సందేశాలు స్పామ్‌గా నివేదించబడ్డాయి</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> సందేశం స్పామ్‌గా నివేదించబడింది</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> స్పామ్‌గా గుర్తించబడ్డాయి</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> స్పామ్‌గా గుర్తించబడింది</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> స్పామ్‌గా గుర్తించబడ్డాయి</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> స్పామ్‌గా గుర్తించబడింది</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">నక్షత్రం లేని %1$d సంభాషణలు</item>

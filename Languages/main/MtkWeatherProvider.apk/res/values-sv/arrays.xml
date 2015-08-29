@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Uppdatera aldrig automatiskt</item>
+        <item>Varje timme</item>
+        <item>Varannan timme</item>
+        <item>Var 6:e timme</item>
+        <item>Var 12:e timme</item>
+        <item>Varje dag</item>
+    </string-array>
+</resources>

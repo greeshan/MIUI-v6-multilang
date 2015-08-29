@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="server_list_entries">
+        <item>Serveur de test</item>
+        <item>Serveur en ligne</item>
+    </string-array>
+    <string-array name="version_list_entries">
+        <item>Stable</item>
+        <item>Dev</item>
+        <item>Alpha</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Populaire</item>
+        <item>Classement</item>
+        <item>Nouveautés</item>
+    </string-array>
     <string-array name="movie_channel_tabs">
         <item>Recommandé</item>
         <item>Classement</item>
@@ -9,10 +23,5 @@
     <string-array name="variety_channel_tabs">
         <item>Recommandé</item>
         <item>Populaire</item>
-    </string-array>
-    <string-array name="channel_tabs">
-        <item>Populaire</item>
-        <item>Classement</item>
-        <item>Nouveautés</item>
     </string-array>
 </resources>

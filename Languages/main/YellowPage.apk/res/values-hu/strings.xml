@@ -80,8 +80,6 @@
     <string name="confirm_to_remove_blacklist">Kiveszi a tiltólistából ezt a telefonszámot?</string>
     <string name="custom_mark_category">Egyéni</string>
     <string name="mark_number_dialog_maintitle">Ismeretlen szám megjelölése és feltöltés</string>
-    <string name="mark_number_custom_dialog_maintitle">Címke javítása vagy elfogadás</string>
-    <string name="selected_category_format">%2$d személy megjelölve, mint %1$s. Kattintson az elfogadáshoz.</string>
     <string name="mark_title_null_hint">Címke megadása szükséges</string>
     <string name="smart_antispam">Intelligens ismeretlen szám azonosítás</string>
     <string name="turn_on_smart_antispam_hint">Ismeretlen telefonszámok azonosítása a Xiaomi adatbázis használatával.</string>
@@ -210,8 +208,6 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="express_order_succeeded">Sikeres megrendelés</string>
     <string name="express_order_failed">A megrendelés nem sikerült</string>
     <string name="express_field_empty">Üres</string>
-    <string name="express_order_internal_id">Megrendelés ID</string>
-    <string name="express_order_created_time">Létrehozás ideje</string>
     <string name="express_cancel_order">Mégsem</string>
     <string name="express_delete_order">Törlés</string>
     <string name="express_order_state_ordered">Megrendelve</string>
@@ -243,7 +239,6 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="express_company_list_empty">Nincs cég</string>
     <string name="express_send_notice">A tiltott tárgyakról</string>
     <string name="express_tracking_number">Nyomkövetési szám</string>
-    <string name="express_order_info">Megrendelési adatok</string>
     <string name="remind_user_suspect_number_title">Gyanús szám</string>
     <string name="remind_user_suspect_number_message">Legyen óvatos: Ellenőrizze a kapcsolat tartó adatait mielőtt megadja a személyes adatait.</string>
     <string name="remind_another_time">Ne emlékeztessen</string>
@@ -262,7 +257,6 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="order_empty_hint">Nincs megrendelés</string>
     <string name="order_merchant_title">Rendelések</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_status">%s</string>
     <string name="order_product_name_label">"Termék neve: "</string>
     <string name="order_status_label">Megrendelés állapota: %s</string>
     <string name="order_price_label">Ár: %s</string>
@@ -306,9 +300,15 @@ Ellenőrizze a nyomkövetési számot."</string>
     <string name="sina_token_expired_warning">Weibo fiók érvényessége lejárt: Lépjen be újra</string>
     <string name="sina_token_invalid_warning">Weibo fiók érvénytelen: Lépjen be újra</string>
     <string name="sina_share_fail_content_repeat">Nem osztható meg, mert már van ilyen tartalom…</string>
-    <string name="express_order_detail">Részletek</string>
     <string name="express_no_tracking_number">Nincs nyomkövetési szám</string>
+    <string name="express_order_created_time">Létrehozás ideje</string>
+    <string name="express_order_detail">Részletek</string>
+    <string name="express_order_info">Megrendelési adatok</string>
+    <string name="express_order_internal_id">Megrendelés ID</string>
+    <string name="mark_number_custom_dialog_maintitle">Címke javítása vagy elfogadás</string>
+    <string name="order_status">%s</string>
     <string name="recharge_pay_hint">Xiaomi szolgáltató támogatásával</string>
+    <string name="selected_category_format">%2$d személy megjelölve, mint %1$s. Kattintson az elfogadáshoz.</string>
     <string name="express_inquiry_logistics_indication">Kézbesítő társaság</string>
     <string name="menu_about_yellow_page">Az oldalról</string>
     <string name="select">Kiválasztás</string>

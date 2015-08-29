@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">%d วันล่าสุด</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d จากทั้งหมด %2$d</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">พบ %d รายการ</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">บล็อกไว้ %d รายการ</item>
+    </plurals>
+</resources>

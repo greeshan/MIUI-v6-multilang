@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_provider_label">ಎಸ್ಎಂಎಸ್</string>
+    <string name="mms_provider_label">ಎಂಎಂಎಸ್</string>
+    <string name="mms_sms_provider_label">ಸಂದೇಶ</string>
+</resources>

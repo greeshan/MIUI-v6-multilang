@@ -6,7 +6,7 @@
     <string name="unlockscreen_low_battery">Conecte el cargador.</string>
     <string name="lockscreen_charging_msg">Cargando</string>
     <string name="emergency_call_string">Emergencias</string>
-    <string name="forget_password_string">Olvidar contraseña</string>
+    <string name="forget_password_string">Olvidé la contraseña</string>
     <string name="input_puk_code">Introducir PUK</string>
     <string name="unlocking_sim_card">Desbloqueando la tarjeta SIM</string>
     <string name="input_pin_code">¿PIN?</string>
@@ -20,7 +20,7 @@
     <string name="lockscreen_glogin_checking_password">Comprobando…</string>
     <string name="login_website_in_case_forget_password">Para restablecer su contraseña, vaya a i.mi.com</string>
     <string name="experimental_validate_thanks">¡Gracias!</string>
-    <string name="experimental_validate_warning">Gracias por ayudar a mejorar MIUI!</string>
+    <string name="experimental_validate_warning">¡Gracias por ayudar a mejorar MIUI!</string>
     <string name="experimental_validate">Validar</string>
     <string name="experimental_try_string">Probar</string>
     <string name="experimental_validate_username">Nombre de usuario</string>
@@ -52,4 +52,7 @@ Inténtelo de nuevo en %d segundos."</string>
     <string name="confirm_pin_msg">Introduzca el PIN de nuevo</string>
     <string name="invalid_confirm_pin_hint">Los PIN no coinciden</string>
     <string name="unlock_string">Desbloquear</string>
+    <string name="open_camera_hint_text">Deslice hacia la izquierda para abrir Cámara</string>
+    <string name="open_remote_center_hint_text">Deslice hacia la derecha para abrir Teléfono</string>
+    <string name="click_to_enter_text">Pulse para ver</string>
 </resources>

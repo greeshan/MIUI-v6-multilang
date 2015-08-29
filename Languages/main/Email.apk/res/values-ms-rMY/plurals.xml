@@ -19,28 +19,28 @@
         <item quantity="other">%d dipilih</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> diarkibkan.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> diarkibkan.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> dipadamkan.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> dipadamkan.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Folder diubah.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> disenyapkan</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> disenyapkan</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mesej disingkir dari folder \"penting\"</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> mesej disingkir dari folder \"penting\"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> disingkir dari folder 'spam'"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> disingkir dari folder 'spam'"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> mesej dilaporkan sebagai spam</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> mesej dilaporkan sebagai spam</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ditanda sebagai spam</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ditanda sebagai spam</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Buang kegemaran %1$d perbualan</item>

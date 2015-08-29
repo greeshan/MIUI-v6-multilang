@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%dটি গানগুলি পাওয়া গেছে</item>
+        <item quantity="one">%dটি গান পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d দিনগুলো বাকি রয়েছে</item>
+        <item quantity="one">%d দিন বাকি রয়েছে</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d গানগুলি ডাউনলোড হবে</item>
+        <item quantity="one">১ টি গান ডাউনলোড হবে</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">নতুন %d</item>
+        <item quantity="one">%dটি নতুন</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d টি গান</item>
+        <item quantity="one">%dটি গান</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d টি একরকমের গান</item>
+        <item quantity="one">%d টি একরকমের গান</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d প্লেতালিকায় গানগুলি যোগ করা হয়েছে</item>
+        <item quantity="one">প্লেতালিকায় গান যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d গানগুলি প্লেতালিকা থেকে সরানো হয়েছে</item>
+        <item quantity="one">গানটি প্লেতালিকা থেকে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d টি গান</item>
+        <item quantity="one">১ টি গান</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d টি গান পাঠানো হবে</item>
+        <item quantity="one">১ টি গান পাঠানো হবে</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d টি গান</item>
+        <item quantity="one">১ টি গান</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d songs added</item>
+        <item quantity="one">%d গান যোগ করা হয়েছে</item>
+    </plurals>
+</resources>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d കോണ്ടാക്റ്റുകള്‍ ഫോണ്‍നമ്പര്‍ ഉള്ളത്</item>
+        <item quantity="one">ഫോണ്‍നമ്പര്‍ ഉള്ള 1 കോണ്ടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d കോണ്ടാക്റ്റുകള്‍</item>
+        <item quantity="one">1 കോണ്ടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d കണ്ടെത്തി</item>
+        <item quantity="one">1 കണ്ടെത്തി</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d കണ്ടെത്തി</item>
+        <item quantity="one">1 കണ്ടെത്തി</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d സ്രോതസില്‍ നിന്നും ലയിപ്പിച്ചു</item>
+        <item quantity="one">ലയിപ്പിച്ചിട്ടില്ല</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ഗ്രൂപ്പുകള്‍</item>
+        <item quantity="one">1 ഗ്രൂപ്പ്</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d വ്യക്തികള്‍ ഇതില്‍ നിന്ന് %2$s</item>
+        <item quantity="one">%2$s ൽ നിന്ന് %1$d പേർ</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d ആളുകള്‍</item>
+        <item quantity="one">%1$d പേർ</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d നമ്പറുകള്‍</item>
+        <item quantity="one">%1$d എണ്ണം</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d വോയ്‌സ് മെയിലുകള്‍</item>
+        <item quantity="one">വോയ്‌സ് മെയില്‍</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">സിം കാര്‍ഡിന് %d കോൺടാക്റ്റുകൾ സ്റ്റോര്‍ ചെയ്യാനാകും.</item>
+        <item quantity="one">സിം കാര്‍ഡിന് %d കോൺടാക്‌റ്റ് സ്റ്റോര്‍ ചെയ്യാനാകും.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">സിം കാർഡിൽ നിന്നും %d കോൺടാക്റ്റുകൾ മായ്ക്കട്ടെ?</item>
+        <item quantity="one">സിം കാർഡിൽ നിന്നും %d കോൺടാക്റ്റ് മായ്ക്കട്ടെ?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d പ്രിയങ്കരങ്ങൾ</item>
+        <item quantity="one">%1$d പ്രിയങ്കരം</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d സമീപകാല കോണ്ടാക്റ്റുകൾ</item>
+        <item quantity="one">1 പുതിയ കോണ്ടാക്ട്</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d കോണ്ടാക്റ്റുകൾ</item>
+        <item quantity="one">%1$d കോണ്ടാക്ട്</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d നമ്പരുകൾ</item>
+        <item quantity="one">%1$d നമ്പർ</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d കോണ്ടാക്ട് ഇ-മെയിലുകൾ</item>
+        <item quantity="one">1 കോണ്ടാക്ട് ഇമെയിൽ</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d പ്രിയങ്കരങ്ങള്‍</item>
+        <item quantity="one">%1$d പ്രിയങ്കരം</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d സമീപകാല കോണ്ടാക്റ്റുകൾ</item>
+        <item quantity="one">%1$d പുതിയ കോണ്ടാക്ട്</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">"%1$d സമ്പര്‍ക്കങ്ങള്‍ ചേര്‍ക്കപ്പെട്ടു
+"</item>
+        <item quantity="one">%1$d കോണ്ടാക്ട് ചേർക്കപ്പെട്ടു</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">%d കോൺടാക്‌റ്റുകൾ മായ്‌ക്കുക</item>
+        <item quantity="one">കോൺടാക്റ്റ് മായ്‌ക്കുക</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d വ്യക്തികള്‍</item>
+        <item quantity="one">1 വ്യക്തി</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d കോണ്ടാക്റ്റുകൾ ഇംപോർട്ട് ചെയ്യപ്പെട്ടു</item>
+        <item quantity="one">%1$d കോണ്ടാക്റ്റുകൾ ഇംപോർട്ടുചെയ്തു</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">%d കോൺടാക്‌റ്റുകൾ മായ്‌ക്കണോ?</item>
+        <item quantity="one">%d കോൺടാക്റ്റ് മായ്‌ക്കണോ?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="one">%1$d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">ഈ %1$d നമ്പറുകൾ ബ്ലോക്ക് ചെയ്യട്ടെ?</item>
+        <item quantity="one">ഈ നമ്പര്‍ ബ്ലോക്ക് ചെയ്യട്ടെ?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">ഈ %1$d നമ്പറുകൾ അൺബ്ലോക്ക് ചെയ്യട്ടെ?</item>
+        <item quantity="one">ഈ %1$d നമ്പർ അൺബ്ലോക്ക് ചെയ്യട്ടെ?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d തവണ റിംഗ് ചെയ്തു</item>
+        <item quantity="one">%d തവണ റിംഗ് ചെയ്തു</item>
+    </plurals>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>ข้างขึ้น</item>
+        <item>ข้างแรม</item>
+        <item>ข้างขึ้น</item>
+        <item>ข้างขึ้น</item>
+        <item>จันทร์เต็มดวง</item>
+        <item>ข้างแรม</item>
+        <item>ข้างแรม</item>
+        <item>ข้างแรม</item>
+        <item>ข้างแรม</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>อากาศแจ่มใส</item>
+        <item>มีเมฆ</item>
+        <item>มีเมฆมาก</item>
+        <item>มีหมอกลง</item>
+        <item>พายุฝนรุนแรง</item>
+        <item>ฝนตกหนัก</item>
+        <item>พายุฝน</item>
+        <item>ฝนฟ้าคะนอง</item>
+        <item>ฝนตก</item>
+        <item>ฝนตกหนัก</item>
+        <item>ฝนปานกลาง</item>
+        <item>ฝนเล็กน้อย</item>
+        <item>ฝนและหิมะตก</item>
+        <item>พายุหิมะ</item>
+        <item>หิมะตก</item>
+        <item>หิมะตกหนัก</item>
+        <item>หิมะปานกลาง</item>
+        <item>หิมะตกเล็กน้อย</item>
+        <item>พายุทรายรุนแรง</item>
+        <item>พายุทราย</item>
+        <item>พายุทราย</item>
+        <item>ลมแรง</item>
+        <item>ลูกเห็บตก</item>
+        <item>ฝุ่นละออง</item>
+        <item>มีเมฆหมอก</item>
+        <item>ฝนเยือกแข็ง</item>
+        <item>ไม่มีข้อมูล</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>น้อยที่สุด</item>
+        <item>น้อย</item>
+        <item>ปานกลาง</item>
+        <item>แรง</item>
+        <item>แรงมาก</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>ลมเหนือ</item>
+        <item>ลมตะวันออกเฉียงเหนือ</item>
+        <item>ลมตะวันออก</item>
+        <item>ลมตะวันออกเฉียงใต้</item>
+        <item>ลมใต้</item>
+        <item>ลมตะวันตกเฉียงใต้</item>
+        <item>ลมตะวันตก</item>
+        <item>ลมตะวันตกเฉียงเหนือ</item>
+    </string-array>
+</resources>

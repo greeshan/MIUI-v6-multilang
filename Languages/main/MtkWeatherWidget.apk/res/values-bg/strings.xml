@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноза за времето</string>
+    <string name="updating">Актуализиране</string>
+    <string name="failed_to_locate">Не може да се определи място</string>
+    <string name="no_weather">Сега няма прогноза за %s.</string>
+    <string name="add_setting">Чукнете тук за добавяне на градове</string>
+    <string name="net_error">Мрежата е недостъпна. Проверете я.</string>
+</resources>

@@ -15,6 +15,7 @@
     <string name="presonal_center">Account</string>
     <string name="local_list_item_history">Geschiedenis</string>
     <string name="access_history">Geschiedenis</string>
+    <string name="local_program">Offline</string>
     <string name="hotlist_name">Aanbevolen</string>
     <string name="updated">" bijgewerkt"</string>
     <string name="load_failed">Kan niet verbinden met netwerk.</string>
@@ -45,14 +46,15 @@
     <string name="notification_description_from_radio">Radio</string>
     <string name="ok">Ok</string>
     <string name="cancel">Annuleren</string>
-    <string name="dialog_title_download_quality">Download kwaliteit</string>
+    <string name="dialog_title_download_quality">Kies audio kwaliteit</string>
     <string name="ultra_high_quality">Goed (64 bps)</string>
     <string name="high_quality">Hoger (48 bps)</string>
     <string name="normal_quality">Normaal (24 bps)</string>
     <string name="download_successful">Gedownload</string>
     <string name="download_invalid">Geen bronnen</string>
-    <string name="download_start_toast">%1$s(%2$dbps) download voorbereiden</string>
-    <string name="download_quality_toast">Kies download kwaliteit</string>
+    <string name="download_start_toast">%1$s(%2$dbps) downloaden</string>
+    <string name="batch_download_start_toast">Downloaden…</string>
+    <string name="dialog_title_listen_quality">Choose audio quality</string>
     <string name="download_progress_toast">%1$d%%</string>
     <string name="download_network_is_not_available">Kan niet verbinden met netwerk.</string>
     <string name="play_local_sound">Speelt offline: %1$s</string>
@@ -62,7 +64,8 @@
     <string name="no_network_button_radio">Gebruik FM radio</string>
     <string name="no_network_button_refresh">Vernieuwen</string>
     <string name="no_display_history_text">Geen geschiedenis</string>
-    <string name="no_display_channel_text">Geen kanalen</string>
+    <string name="no_download_text">Geen downloads</string>
+    <string name="no_display_channel_text">"Geen programma's"</string>
     <string name="no_display_other_text">Geen resultaten</string>
     <string name="favorite">Favoriet</string>
     <string name="unfavorite">Favoriet verwijderen</string>
@@ -73,7 +76,7 @@
     <string name="device_connected">Verbonden</string>
     <string name="device_not_connected">Niet verbonden</string>
     <string name="bluetooth_device">Bluetooth apparaat</string>
-    <string name="select_device">CKies apparaat</string>
+    <string name="select_device">Kies apparaat</string>
     <string name="download_completed">Gedownload</string>
     <string name="project_device">Mi Telefoon</string>
     <string name="still_in_dev">We zijn nog steeds bezig met deze functie</string>
@@ -82,7 +85,7 @@
     <string name="metered_alert">Data verbruiks waarschuwing</string>
     <string name="metered_allow">Streamen</string>
     <string name="metered_disallow">Annuleren</string>
-    <string name="sleep_mode_canceled">Slaapp modus uitgeschakeld</string>
+    <string name="sleep_mode_canceled">Slaap modus uitgeschakeld</string>
     <string name="priority_storage">Gebruik externae SD kaart</string>
     <string name="priority_storage_summary">Automatisch downloaden naar externe SD kaart, indien beschikbaar</string>
     <string name="play_quality_toast">Kies afspeel kwaliteit</string>
@@ -101,10 +104,19 @@
     <string name="channel_off">Dit programma langer beschikbaar</string>
     <string name="action_item_delete">Verwijderen</string>
     <string name="confirm_delete_history_text">Geselecteerde items verwijderen?</string>
+    <string name="similar_programs">"Vergelijkbare programma's"</string>
+    <string name="all">Alle</string>
+    <string name="batch_download">Batch download</string>
+    <string name="continue_play">Afspelen</string>
+    <string name="section">Aanbevolen</string>
+    <string name="get_channel_failed">Kon kanaal info niet verkrijgen</string>
     <string name="impunity_declaration_title">Internet verbinding</string>
-    <string name="impunity_declaration">Radio heeft internet verbinding nodig om normaal te functioneren.</string>
+    <string name="impunity_declaration">Radio heeft internet verbinding en toegang tot je locatie nodig om normaal te functioneren.</string>
     <string name="impunity_declaration_ignore">Niet meer weergeven</string>
     <string name="impunity_declaration_positive_text">Ok</string>
     <string name="impunity_declaration_negative_text">Weigeren</string>
     <string name="share_in_development" />
+    <string name="multi_subscriptions_title">%1$d abbonementen zijn upgedate</string>
+    <string name="multi_subscriptions_subtitle_title">Tik om te luisteren %1$s/%2$s</string>
+    <string name="one_subscription_title">%1$s geupdate</string>
 </resources>

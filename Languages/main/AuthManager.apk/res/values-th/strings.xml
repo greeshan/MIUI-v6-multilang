@@ -32,8 +32,8 @@
     <string name="HIPS_Perm_Location_Desc">ใช้การกำหนดตำแหน่งพิกัดแบบแม่นยำ (ใช้GPSและเครือข่ายมือถือ)</string>
     <string name="HIPS_Perm_Location_Hint">%1$s แอปสามารถใช้การกำหนดตำแหน่งพิกัดแบบแม่นยำ (ใช้GPSและเครือข่ายมือถือ)</string>
     <string name="HIPS_Perm_PhoneID">เข้าถึงรหัสประจำตัวเครื่อง</string>
-    <string name="HIPS_Perm_PhoneID_Desc">เข้าถึงหมายเลข IMEI และ IMSI</string>
-    <string name="HIPS_Perm_PhoneID_Hint">%1$s แอปสามารถเข้าถึงหมายเลข IMEI และ IMSI ของเครื่องได้</string>
+    <string name="HIPS_Perm_PhoneID_Desc">เข้าถึงเลขหมาย IMEI และ IMSI</string>
+    <string name="HIPS_Perm_PhoneID_Hint">%1$s แอปสามารถเข้าถึงเลขหมาย IMEI และ IMSI ของเครื่องได้</string>
     <string name="HIPS_Perm_MobileNetwork">ใช้งานเครือข่ายข้อมูลมือถือ</string>
     <string name="HIPS_Perm_MobileNetwork_Desc">ใช้งานเครือข่ายข้อมูลมือถือของคุณ</string>
     <string name="HIPS_Perm_MobileNetwork_Hint">%1$s แอปสามารถใช้งานเครือข่ายข้อมูลมือถือของคุณ</string>
@@ -41,7 +41,7 @@
     <string name="HIPS_Perm_WIFINetwork_Desc">เชื่อมต่ออินเตอร์เน็ตผ่าน WLAN</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s แอปสามารถเชื่อมต่ออินเตอร์เน็ตผ่าน WLAN</string>
     <string name="HIPS_Perm_Network_UnknownAddr">ที่อยู่ที่ไม่รู้จัก</string>
-    <string name="HIPS_Perm_Network_MobileEvent">ใช้งานเครือข่ายมือถือ</string>
+    <string name="HIPS_Perm_Network_MobileEvent">ใช้งานเครือข่ายข้อมูลมือถือ</string>
     <string name="HIPS_Perm_Network_WIFIEvent">WLAN</string>
     <string name="HIPS_Perm_Network_Accept">ยอมรับการเชื่อมโยงจาก %1$s?</string>
     <string name="HIPS_Perm_Network_Connect">เชื่อมโยงตำแหน่งพิกัด: %1$s</string>
@@ -66,9 +66,9 @@
     <string name="HIPS_Perm_Settings">แก้ไขเปลี่ยนแปลงการตั้งค่าของระบบ</string>
     <string name="HIPS_Perm_Settings_Desc">แก้ไขเปลี่ยนแปลงการตั้งค่าของระบบ</string>
     <string name="HIPS_Perm_Settings_Hint">%1$s แอปสามารถแก้ไขการตั้งค่าระบบ</string>
-    <string name="HIPS_Perm_DisableKeyguard">ปลดล็อคหน้าจอ</string>
-    <string name="HIPS_Perm_DisableKeyguard_Desc">ปลดล็อคหน้าจอ</string>
-    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s แอปสามารถปลดล็อคหน้าจอ</string>
+    <string name="HIPS_Perm_DisableKeyguard">ปลดล็อกหน้าจอ</string>
+    <string name="HIPS_Perm_DisableKeyguard_Desc">ปลดล็อกหน้าจอ</string>
+    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s แอปสามารถปลดล็อกหน้าจอ</string>
     <string name="HIPS_Perm_VideoRecorder">เข้าถึงกล้องถ่ายรูป</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">ใช้งานกล้องเพื่อถ่ายภาพหรือวิดีโอ</string>
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s แอปสามารถใช้งานกล้องเพื่อถ่ายภาพหรือวิดีโอ</string>
@@ -101,7 +101,7 @@
     <string name="HIPS_Perm_Wakelock_Hint">%1$s แอปสามารถกำหนดไม่ให้เครื่องพักจอ</string>
     <string name="HIPS_Perm_SendSMS_Recipient">ผู้รับ</string>
     <string name="HIPS_Perm_SendSMS_Content">เนื้อหา</string>
-    <string name="HIPS_Perm_SendSMS_SMSC">หมายเลข SMSC</string>
+    <string name="HIPS_Perm_SendSMS_SMSC">เลขหมาย SMSC</string>
     <string name="HIPS_Perm_SendSMS_SMSC_Default">ค่าเริ่มต้น</string>
     <string name="HIPS_Perm_SendSMS_Port">พอร์ต</string>
     <string name="HIPS_Perm_SendSMS_Data">ข้อมูล SMS %1$s:%2$d</string>
@@ -119,11 +119,11 @@
     <string name="HIPS_Perm_Location_CellInfo">ใช้ตำแหน่งพิกัดโดยประมาณจากข้อมูลสถานีฐาน</string>
     <string name="HIPS_Perm_Location_Monitor">ค้นหาตำแหน่งพิกัดของคุณ</string>
     <string name="HIPS_Perm_Location_Access">ใช้การกำหนดตำแหน่งแบบแม่นยำ (ใช้GPSและเครือข่ายมือถือ)</string>
-    <string name="HIPS_Perm_PhoneID_IMEI">เข้าถึงหมายเลข IMEI ของเครื่อง</string>
-    <string name="HIPS_Perm_PhoneID_IMEISN">เข้าถึงหมายเลขลำดับของเลข IMEI</string>
+    <string name="HIPS_Perm_PhoneID_IMEI">เข้าถึงเลขหมาย IMEI ของเครื่อง</string>
+    <string name="HIPS_Perm_PhoneID_IMEISN">เข้าถึงเลขหมายลำดับของเลข IMEI</string>
     <string name="HIPS_Perm_PhoneID_ICCID">เข้าถึงรหัส ICCID ของเครื่อง</string>
-    <string name="HIPS_Perm_PhoneID_Number">เข้าถึงหมายเลขประจำเครื่อง</string>
-    <string name="HIPS_Perm_PhoneID_IMSI">เข้าถึงหมายเลข IMSI ของเครื่อง</string>
+    <string name="HIPS_Perm_PhoneID_Number">เข้าถึงเลขหมายประจำเครื่อง</string>
+    <string name="HIPS_Perm_PhoneID_IMSI">เข้าถึงเลขหมาย IMSI ของเครื่อง</string>
     <string name="HIPS_Perm_AllowAll">อนุญาตทั้งหมด</string>
     <string name="HIPS_Perm_PromptAll">ถามทั้งหมด</string>
     <string name="HIPS_Perm_RejectAll">ปฏิเสธทั้งหมด</string>
@@ -183,7 +183,7 @@
     <string name="Generic_Check">ตรวจสอบ</string>
     <string name="Generic_Clean">ล้าง</string>
     <string name="Generic_Good">ดี</string>
-    <string name="Generic_Update">อัพเดต</string>
+    <string name="Generic_Update">อัพเดท</string>
     <string name="Generic_Shortcut">เมนูพร้อมบริบท</string>
     <string name="HIPS_SecurityPrompt_Caption">คำเตือนความปลอดภัย</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s กำลังจะ %2$s</string>
@@ -195,7 +195,7 @@
     <string name="HIPS_SecurityPrompt_ROOT_Caption">การรูท</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">อนุญาตให้ %1$s เข้าถึงรูท?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">การอนุญาตให้แอปเข้าถึงรูทอาจมีผลต่อเสถียรภาพและการทำงานของเครื่อง</string>
-    <string name="HIPS_SecurityPrompt_ROOT_Step3">ข้อมูลของคุณย่อมตกอยู่ในภาวะเสี่ยงภัยจากแอปที่สามารถเข้าถึงรูทได้</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step3">ข้อมูลของคุณอาจตกอยู่ในภาวะเสี่ยงภัยจากแอปที่สามารถเข้าถึงรูทได้</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step4">แอปที่เข้าถึงรูทสามารถก่อให้เกิดอันตรายต่ออุปกรณ์ฮาร์ดแวร์เครื่องของคุณได้</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">การรูทเครื่องคุณต้องยอมรับความเสี่ยงด้วยตนเอง</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">อนุญาตให้ %1$s เข้าถึงรูท?</string>
@@ -207,7 +207,7 @@
     <string name="Dashboard_Perm_SU_Switch">การรูท</string>
     <string name="Dashboard_Perm_SU">จัดการการรูท</string>
     <string name="Dashboard_Perm_SU_Desc">เฝ้าระวัง %1$d แอปที่เข้าถึงรูท</string>
-    <string name="Dashboard_Perm_SU_Disabled">ปิดการรูท</string>
+    <string name="Dashboard_Perm_SU_Disabled">การรูทปิดอยู่</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable">การรูทไม่สามารถทำได้สำหรับการใช้งานรอม MIUI แบบเสถียร</string>
     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"การอนุญาตให้แอปภายนอกเข้าถึงรูทอาจทำให้การทำงานของระบบไม่เสถียร ข้อมูลสูญหายหรือเกิดความเสียหายต่อตัวเครื่องได้
 
@@ -218,7 +218,7 @@
     <string name="Dashboard_Perm_HIPS">จัดการสิทธิ์</string>
     <string name="Dashboard_Perm_HIPS_Desc">เฝ้าระวัง %1$d แอป</string>
     <string name="Dashboard_Perm_HIPS_Desc2">เฝ้าระวัง %1$d แอป</string>
-    <string name="Dashboard_Perm_HIPS_Disabled">ตรวจสอบสิทธิ์ถูกปิด</string>
+    <string name="Dashboard_Perm_HIPS_Disabled">การตรวจสอบสิทธิ์ถูกปิด</string>
     <string name="Dashboard_Perm_HIPS_Risky">สิทธิ์การใช้งานที่เสี่ยง (%1$d)</string>
     <string name="Dashboard_Perm_HIPS_Safe">สิทธิ์การใช้งานปกติ (%1$d)</string>
     <string name="Dashboard_Perm_AutoStart">การอนุญาตให้เริ่มทำงานอัตโนมัติ</string>
@@ -226,7 +226,7 @@
     <string name="Dashboard_HIPS_Disable_Title">สิทธิ์การใช้งาน</string>
     <string name="Dashboard_HIPS_Disable_Content">MIUI จะไม่ตรวจสอบคำขออนุญาตของแอปพลิเคชัน</string>
     <string name="Dashboard_Su_Enable_Title">คำเตือนการรูท</string>
-    <string name="Dashboard_Su_Enable_Content">การอนุญาตการรูทต่อแอปอื่นๆอาจส่งผลให้ระบบขาดความเสถียร ข้อมูลผู้ใช้สูญหาย หรือฮาร์ดแวร์ถูกทำลาย</string>
+    <string name="Dashboard_Su_Enable_Content">การอนุญาตให้แอปภายนอกเข้าถึงรูทอาจทำให้การทำงานของระบบไม่เสถียร ข้อมูลสูญหายหรือเกิดความเสียหายต่อตัวเครื่องได้</string>
     <string name="Dashboard_Log_Clear_Title">ล้างข้อมูลบันทึกการใช้งาน</string>
     <string name="Dashboard_Log_Clear_Content">บันทึกทั้งหมดจะถูกลบ</string>
     <string name="Privacy_Perm_Count">%1$d อนุญาต %2$d ปฏิเสธ</string>
@@ -248,7 +248,7 @@
     <string name="SysOpt_Boost_AutoStart_Group">เริ่มอัตโนมัติ</string>
     <string name="SysOpt_Boost_AutoStart">การอนุญาตให้เริ่มทำงานอัตโนมัติ</string>
     <string name="Su_Enable_Dialog">%1$s ร้องขอการเข้าถึงรูท</string>
-    <string name="Su_Unavailable">ระบบไม่รองรับการรูทสำหรับ MIUI รุ่นนี้ กรุณาเลือกใช้ MIUI รุ่นนักพัฒนาเพื่อให้สามารถกำหนดการเข้าถึงรูทได้เอง</string>
+    <string name="Su_Unavailable">ระบบไม่รองรับการรูทสำหรับรอม MIUI เวอร์ชั่นนี้ กรุณาเลือกใช้รอม MIUI รุ่นนักพัฒนาซึ่งคุณสามารถรูทเครื่องได้เอง</string>
     <string name="Su_Package_Forbidden">%1$s ไม่ได้รับอนุญาตรูท</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\" ไม่ได้รับสิทธิ์ %2$s คุณสามารถเปลี่ยนแปลงการตั้งค่าการอนุญาตของแอปได้จากเมนูความปลอดภัย > การอนุญาต</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">อนุญาตครั้งเดียว (%d)</string>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>ข้อมูล Wi-Fi</item>
+        <item>แอปทั้งหมด</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>เบราเซอร์</item>
+        <item>การอนุญาต</item>
+        <item>กล้อง</item>
+        <item>การใช้ข้อมูล</item>
+        <item>สภาพอากาศ</item>
+        <item>สภาพอากาศ</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>รายชื่อ</item>
+        <item>รายการโทรเข้าออก</item>
+        <item>ข้อความ</item>
+        <item>ข้อความมัลติมีเดีย</item>
+        <item>การตั้งค่าระบบ</item>
+        <item>การตั้งค่า Wi-Fi</item>
+        <item>รูปแบบหน้าจอหลัก</item>
+        <item>การตั้งค่าการเตือน</item>
+        <item>บันทึก</item>
+        <item>ห้ามรบกวน</item>
+        <item>บัญชี</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>ข้อมูล</item>
+        <item>แอป</item>
+        <item>แอปและข้อมูล</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>รายชื่อ</item>
+        <item>รายการโทรเข้าออก</item>
+        <item>ข้อความ</item>
+        <item>การตั้งค่า Wi-Fi</item>
+        <item>บันทึก</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>รายชื่อ</item>
+        <item>การตั้งค่า Wi-Fi</item>
+        <item>บันทึก</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>รายการโทรเข้าออก</item>
+        <item>ข้อความ</item>
+    </string-array>
+</resources>

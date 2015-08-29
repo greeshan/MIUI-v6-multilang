@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Servicio del clima</string>
+    <string name="choose_city">Escoger ciudad</string>
+    <string name="searching">Buscando, espere...</string>
+    <string name="no_found">No se encontró ciudad que coincida con %s. Verifique las palabras que ingresó.</string>
+    <string name="net_error">Red no disponible. Verifique.</string>
+    <string name="no_city_error">No se puede obtener la información de la ciudad. Configure la hora del sistema y la zona horaria de modo correcto.</string>
+    <string name="searching_fail">Falló la búsqueda de la ciudad.</string>
+    <string name="no_weather_error">No se puede obtener la información del clima. Configure la hora del sistema y la zona horaria de modo correcto.</string>
+    <string name="no_weather">Sin información del clima para %s en este momento.</string>
+    <string name="setting_title">Configuración</string>
+    <string name="temperature">Unidades de temperatura</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Ciudades</string>
+    <string name="update_fre">Actualizar frecuencia</string>
+    <string name="every12">Cada 12 horas</string>
+    <string name="weatherserver">Servidor del clima</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Cancelar</string>
+    <string name="menu_add_city">Añadir ciudad</string>
+    <string name="add_city">Presione el ícono para añadir una ciudad nueva</string>
+    <string name="remove">Eliminar</string>
+    <string name="warn">Se pueden añadir 8 ciudades como máximo.</string>
+    <string name="has_chosen">ha sido escogido.</string>
+    <string name="no_city">Ninguna ciudad</string>
+    <string name="powered_by">Accionado por:</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Eliminar</string>
+    <string name="no">Cancelar</string>
+    <string name="select_all">Seleccionar todo</string>
+    <string name="deselect_all">Deseleccionar todo</string>
+    <string name="delete">Eliminar</string>
+</resources>

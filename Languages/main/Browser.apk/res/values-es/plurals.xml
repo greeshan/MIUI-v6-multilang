@@ -2,7 +2,15 @@
 <resources>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d seleccionados</item>
-        <item quantity="one">%1$d seleccionado</item>
+        <item quantity="one">%1$d seleccionados</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Últimos %d días</item>
+        <item quantity="one">Ayer</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d de %2$d</item>
+        <item quantity="one">1 coincidencia</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d coincidencias</item>
@@ -10,14 +18,6 @@
     </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">%d elementos bloqueados</item>
-        <item quantity="one">%d elemento bloqueado</item>
-    </plurals>
-    <plurals name="webview_matches_found">
-        <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">%1$d de %2$d</item>
-    </plurals>
-    <plurals name="webview_last_num_days">
-        <item quantity="other">Últimos %d días</item>
-        <item quantity="one">Último %d día</item>
+        <item quantity="one">%d elementos bloqueados</item>
     </plurals>
 </resources>

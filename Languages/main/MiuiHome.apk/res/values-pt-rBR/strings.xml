@@ -12,8 +12,9 @@
     <string name="lock_screen_failed_message">Não foi possível aplicar o plano de fundo da tela de bloqueio</string>
     <string name="lock_screen_success_message">Aplicado à Tela de bloqueio</string>
     <string name="wallpaper_failed_message">Não foi possível aplicar o plano de fundo</string>
+    <string name="image_too_small_message">A imagem original não é grande o suficiente</string>
+    <string name="failed_to_load_image">Não foi possível carregar imagme</string>
     <string name="wallpaper_success_message">Plano de fundo aplicado com sucesso</string>
-    <string name="is_setting_wallpaper_toast">Definindo plano de fundo…</string>
     <string name="current_wallpaper">Atual</string>
     <string name="menu_item_add_item">Colocar na Tela Inicial</string>
     <string name="group_shortcuts">Atalhos</string>
@@ -49,6 +50,7 @@
     <string name="loading_desktop">Aguarde…</string>
     <string name="start_activity_failed">Não foi possível iniciar o Launcher</string>
     <string name="gadget_error_text">Erro ao carregar widget</string>
+    <string name="mtzgadget_missing_text">Widget indisponível</string>
     <string name="menu_edit">Editar Tela inicial</string>
     <string name="menu_sort">Organizar apps</string>
     <string name="menu_launcher_setting">Configurações do Launcher</string>
@@ -128,6 +130,7 @@
     <string name="transformation_type_rotate">Girar</string>
     <string name="pref_screen_transformation_type_title">Efeitos de transição de tela</string>
     <string name="pref_wallpaper_scroll_type_title">Alinhamento do plano de fundo</string>
+    <string name="configure_wallpaper">Configurações</string>
     <string name="pref_cell_layout_size">Layout dos ícones</string>
     <string name="pref_keep_layout_title">Fixar posição dos ícones</string>
     <string name="pref_keep_layout_summary">Ao alterar o layout da tela inicial a posição atual dos apps não será alterada</string>
@@ -207,4 +210,25 @@
     <string name="delete_wallpaper_message">Excluir %1$d plano de fundo?</string>
     <string name="delete_wallpapers_message">Excluir %1$d planos de fundo?</string>
     <string name="is_system_wallpaper_message">Não é possível excluir um recurso de sistema</string>
+    <string name="cloud_app_restore_title">Pendente</string>
+    <string name="app_category_finance">Finanças</string>
+    <string name="app_category_social">Social</string>
+    <string name="app_category_travel">Viagem</string>
+    <string name="app_category_music_movie">Multimídia</string>
+    <string name="app_category_shopping">Compras</string>
+    <string name="app_category_photos">Fotos</string>
+    <string name="app_category_games">Jogos</string>
+    <string name="app_category_news">Notícias</string>
+    <string name="app_category_lifestyle">Estilo de vida</string>
+    <string name="app_category_tools">Ferramentas</string>
+    <string name="app_category_entertainment">Entretenimento</string>
+    <string name="app_category_education">Educação</string>
+    <string name="app_category_books">Livros</string>
+    <string name="app_category_sport">Esportes</string>
+    <string name="app_category_health">Saúde</string>
+    <string name="app_category_productivity">Produtivitdade</string>
+    <string name="is_setting_wallpaper_toast">Definindo plano de fundo…</string>
+    <string name="download_action">Download</string>
+    <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
+    <string name="loading_wallpaper">Aguarde…</string>
 </resources>

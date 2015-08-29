@@ -6,13 +6,15 @@
 
   - Klawiatura Xperia w kolorach MIUI 6 (by ZduneX25)
   - Klasyczna klawiatura Google"</string>
-    <string name="provision_inputmethod_policy_description">Wybór ten możesz potem zmienić w Ustawieniach telefonu</string>
+    <string name="provision_inputmethod_policy_description">"
+Wybór ten możesz potem zmienić w Ustawieniach telefonu"</string>
     <string name="provision_inputmethod_policy_description1" />
     <string name="multisim_settings_title">Wykryto 2 karty SIM</string>
     <string name="multisim_settings_category">Opcje kart SIM</string>
     <string name="page_layout_title">Wygląd systemu</string>
     <string name="page_layout_label">Dostosuj rozmiar czcionki i wygląd ekranu domowego, paska powiadomień, dialera itp.</string>
     <string name="sim_card_detection">Włóż kartę SIM</string>
+    <string name="sim_card_detecting_title">Wykryj kartę SIM</string>
     <string name="sim_card_detection_info">O tym jak włożyć kartę SIM do urządzenia przeczytasz w instrukcji obsługi</string>
     <string name="sim_card_detecting">Sprawdzanie karty SIM…</string>
     <string name="other_settings">Inne ustawienia</string>
@@ -22,6 +24,7 @@
     <string name="other_settings_user_experience_summary">Pomóż MIUI w ulepszaniu produktów przez przesyłanie anonimowych danych %s</string>
     <string name="other_settings_user_experience_summary1">(Polityka Prywatności)</string>
     <string name="next">Dalej</string>
+    <string name="skip_underline">Pomiń krok</string>
     <string name="sim_dectection_next">Dalej</string>
     <string name="shut_down">Wyłącz</string>
     <string name="sim_redetection">Sprawdź ponownie</string>

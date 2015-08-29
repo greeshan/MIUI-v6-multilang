@@ -13,7 +13,7 @@
     <string name="bl_no_block_call">Žádné blokované hovory</string>
     <string name="bl_no_block_sms">Žádné blokované SMS</string>
     <string name="bl_no_blacklist">Žádná černá listina</string>
-    <string name="wl_no_whitelist">Žádná čísla</string>
+    <string name="wl_no_whitelist">Povolit jen výjimky</string>
     <string name="log_count">(%d)</string>
     <string name="tab_block_log_unKnowNumber">Neznámé číslo</string>
     <string name="user_define_title">Vlastní režim</string>
@@ -220,6 +220,7 @@
     <string name="st_sub_title_customize_mode_name">Název režimu</string>
     <string name="read_all_sms">Označit jako přečtené</string>
     <string name="loding">Načítání dat</string>
+    <string name="action_source_sms_title">Blokované SMS</string>
     <string name="st_title_open_antispam">AntiSpam</string>
     <string name="st_title_antispam_mode">Režim filtrování</string>
     <string name="st_sub_title_whiteblack_list_group">Černá listina</string>
@@ -279,15 +280,9 @@
     <string name="mark_fraud">Podvodník</string>
     <string name="mark_agent">Prodejce</string>
     <string name="mark_sell">Prodejce</string>
-    <string name="mark_meal">Donáška</string>
-    <string name="mark_express">Kurýr</string>
-    <string name="mark_banking_insurance">Prodej pojistek</string>
     <string name="mark_fraud_block">Označeno jako podvodník</string>
     <string name="mark_agent_block">Označeno jako prodejce</string>
     <string name="mark_sell_block">Označeno jako Prodejce</string>
-    <string name="mark_meal_block">Označeno jako donáška</string>
-    <string name="mark_express_block">Označeno jako kurýr</string>
-    <string name="mark_banking_insurance_block">Nahlásit jako Prodej pojistek</string>
     <string name="mark_number_info">"
 Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla, která opravdu blokovat chcete."</string>
     <string name="dlg_title_not_open_stranger_identify">Povolte rozpoznání neznámých čísel</string>
@@ -300,6 +295,14 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="call_transfer_block">Blokovat přesměrované hovory</string>
     <string name="call_transfer_block_type">Blokovat přesměrované hovory</string>
     <string name="call_transfer_info">Blokovat hovory přesměrované z neznámých čísel</string>
+    <string name="repeated_marked_number_title">Neblokovat opakující se nahlášené volání</string>
+    <string name="repeated_marked_number_summary">Neblokovat druhý hovor během 3 minut ze stejného čísla</string>
+    <string name="mark_fraud_time_setting">Blokovat obtěžující čísla vícekrát nahlášená</string>
+    <string name="mark_agent_time_setting">Blokovat čísla prodejců vícekrát nahlášená</string>
+    <string name="mark_sell_time_setting">Blokovat čísla prodejců vícekrát nahlášená</string>
+    <string name="mark_harass_time_setting">Blokovat obtěžující čísla vícekrát nahlášená</string>
+    <string name="mark_time_text">%d</string>
+    <string name="mark_time_setting_dialog_title">Nastavení počtu nahlášení</string>
     <string name="sms_smart_engine_update">Automaticky aktualizovat SMS filtr</string>
     <string name="mark_number_setting_guide_title">Blokovat nahlášená čísla</string>
     <string name="mark_number_setting_guide_content1">Blokovat hovory z nahlášených čísel?</string>
@@ -309,14 +312,26 @@ Pamatujte, že někdy tyto hovory mohou být užitečné. Blokujte pouze čísla
     <string name="mark_number_fraud">Otravný</string>
     <string name="mark_number_agent">Agent</string>
     <string name="mark_number_sell">Prodejce</string>
-    <string name="mark_number_banking">Pojišťovací agent</string>
     <string name="antispam_notification_setting_title">Upozornit na blokování</string>
-    <string name="antispam_notificaiton_type_show_all">Zobrazit blokování hovoru</string>
+    <string name="antispam_notificaiton_type_show_all">Všechna čísla</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Pokud není v černé listině</string>
-    <string name="antispam_notificaiton_type_show_none">Nezobrazovat upozornění</string>
+    <string name="antispam_notificaiton_type_show_none">Nikdy</string>
+    <string name="quiet_off_mode">Normální režim</string>
+    <string name="quiet_important_interruptions_mode">Tichý režim</string>
+    <string name="quiet_mode">Tichý režim</string>
+    <string name="quiet">Ticho</string>
     <string name="Call_MODENAME">Neinteligentní hovory</string>
     <string name="SMS_MODENAME">Neinteligentní SMS</string>
+    <string name="mark_express">Kurýr</string>
+    <string name="mark_express_block">Označeno jako kurýr</string>
+    <string name="mark_meal">Donáška</string>
+    <string name="mark_meal_block">Označeno jako donáška</string>
+    <string name="mark_banking_insurance">Prodej pojistek</string>
+    <string name="mark_banking_insurance_block">Nahlásit jako Prodej pojistek</string>
+    <string name="mark_number_banking">Pojišťovací agent</string>
     <string name="fw_blocked_count_call">Hovory (%d)</string>
     <string name="fw_blocked_count_sms">SMS (%d)</string>
+    <string name="quiet_group">Tichý režim</string>
     <string name="APKTOOL_DUMMY_0130">false</string>
+    <string name="sim_not_ready_toast">SIM karta není připravena, nastavení selhalo.</string>
 </resources>

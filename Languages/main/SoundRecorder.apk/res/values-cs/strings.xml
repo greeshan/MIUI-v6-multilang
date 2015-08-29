@@ -41,7 +41,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Nastavení nahrávání</string>
     <string name="preference_led_indicator">Indikace nahrávání</string>
-    <string name="preference_tip_rename">Zobrazit přejmenování souboru po ukončení nahrávání</string>
+    <string name="preference_tip_rename">Přejmenovat nahrávku po ukončení nahrávání</string>
     <string name="preference_led_indicator_prompt">Blikat LED a zobrazit informace v oznamovací listě po dobu nahrávání a uzamknutého telefonu</string>
     <string name="preference_record_type_title">Typ nahrávky</string>
     <string name="preference_scenes">Režim nahrávání</string>
@@ -94,6 +94,7 @@ Při použití mobilních dat se budou účtovat poplatky u operátora."</string
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">SD karta je odpojena, vložte SD kartu</string>
     <string name="record_back_pressed_hint">Dotkněte se znovu pro ukončení nahrávání</string>
+    <string name="record_mark_point">Značky: %s</string>
     <string name="access_error">Nelze nahrávat v režimu Návštěvník</string>
     <string name="button_ok">OK</string>
     <string name="hour">%d hod.</string>

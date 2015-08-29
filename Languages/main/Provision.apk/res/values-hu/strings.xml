@@ -11,6 +11,7 @@ A kiválasztott billentyűzet megtekintése "</string>
     <string name="page_layout_title">Elrendezés</string>
     <string name="page_layout_label">A szövegméret, a kezdőképernyő elrendezés, kapcsolók, tárcsázó stb. beállítása.</string>
     <string name="sim_card_detection">Nem található SIM kártya</string>
+    <string name="sim_card_detecting_title">SIM kártya ellenőrzés</string>
     <string name="sim_card_detection_info">A Mi fiók beállításához SIM kártya szükséges.</string>
     <string name="sim_card_detecting">SIM kártya ellenőrzése…</string>
     <string name="other_settings">További beállítások</string>
@@ -20,7 +21,8 @@ A kiválasztott billentyűzet megtekintése "</string>
     <string name="other_settings_user_experience_summary">Segítse a MIUI fejlesztését névtelen adatok elküldésével (%s)</string>
     <string name="other_settings_user_experience_summary1">Adatvédelmi nyilatkozat megtekintése</string>
     <string name="next">Tovább</string>
-    <string name="sim_dectection_next">Folytatás</string>
+    <string name="skip_underline">Átugrás</string>
+    <string name="sim_dectection_next">Tovább</string>
     <string name="shut_down">Kikapcsolás</string>
     <string name="sim_redetection">Ellenőrzés újra</string>
     <string name="title_congratulation">Beállítás kész!</string>

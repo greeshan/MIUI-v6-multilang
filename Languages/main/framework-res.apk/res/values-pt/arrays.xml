@@ -43,4 +43,56 @@
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="app_ops_labels">
+        <item>Tentando acessar a localização</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando usar a vibração</item>
+        <item>Tentanto ler os contatos</item>
+        <item>Tentando modificar os contatos</item>
+        <item>Tentando ler o registro de chamadas</item>
+        <item>Tentando modificar o registro de chamadas</item>
+        <item>Tentando ler a agenda</item>
+        <item>Tentando modificar a agenda</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando postar uma notificação</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando efetuar uma chamada</item>
+        <item>Tentando ler os SMS</item>
+        <item>Tentando escrever/modificar os SMS</item>
+        <item>Tentando receber SMS</item>
+        <item>Tentando receber SMS</item>
+        <item>Tentando receber SMS</item>
+        <item>Tentando receber SMS</item>
+        <item>Tentando enviar SMS</item>
+        <item>Tentando ler os SMS</item>
+        <item>Tentando escrever/modificar os SMS</item>
+        <item>Tentando modificar as configurações</item>
+        <item>Tentando desenhar no topo</item>
+        <item>Tentando acessar notificações</item>
+        <item>Tentando acessar a câmera</item>
+        <item>Tentando gravar áudio</item>
+        <item>Tentando reproduzir áudio</item>
+        <item>Tentando ler a área de transferência</item>
+        <item>Tentando modificar a área de transferência</item>
+        <item>Tentando usar os botões de mídia</item>
+        <item>Tentando usar o foco por áudio</item>
+        <item>Tentando alterar o volume principal</item>
+        <item>Tentando alterar o volume do microfone</item>
+        <item>Tentando alterar o volume do toque</item>
+        <item>Tentando alterar o volume de mídia</item>
+        <item>Tentando alterar o volume do alarme</item>
+        <item>Tentando alterar o volume da notificação</item>
+        <item>Tentando alterar o volume do bluetooth</item>
+        <item>Tentando manter a tela ativa</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando acessar a localização</item>
+        <item>Tentando ativar/desativar Wi-Fi</item>
+        <item>Tentando ativar/desativar Bluetooth</item>
+        <item>Tentando ativar/desativar Dados móveis</item>
+        <item>Tentando enviar MMS</item>
+        <item>Tentando ler MMS</item>
+        <item>Tentando escrever MMS</item>
+        <item>Tentando abrir na inicialização</item>
+    </string-array>
 </resources>

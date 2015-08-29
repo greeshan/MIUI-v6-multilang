@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="mediasize_standard_iso">0</string>
+    <string name="mediasize_standard_north_america">1</string>
+    <string name="mediasize_standard_japan">2</string>
+    <string name="mediasize_standard_china">3</string>
+    <string name="mediasize_default">ISO_A4</string>
     <string name="app_label">Sp. de impressão</string>
     <string name="advanced_settings_button">Configur. da impressora</string>
     <string name="print_button">Imprimir</string>
@@ -9,7 +14,7 @@
     <string name="label_paper_size">Tamanho do papel</string>
     <string name="label_color">Cor</string>
     <string name="label_orientation">Orientação</string>
-    <string name="label_pages">Páginas (%1$s)</string>
+    <string name="label_pages">Páginas</string>
     <string name="pages_range_example">Ex.: 1–5, 8, 11–13</string>
     <string name="print_preview">Visualização de impressão</string>
     <string name="install_for_print_preview">Instalar o visualizador de PDF</string>
@@ -25,13 +30,13 @@
     <string name="print_search_box_shown_utterance">Caixa de pesquisa exibida</string>
     <string name="print_search_box_hidden_utterance">Caixa de pesquisa oculta</string>
     <string name="print_add_printer">Adicionar impressora</string>
-    <string name="print_select_printer">Selecionar impressora</string>
+    <string name="print_select_printer">Seleccionar impressora</string>
     <string name="print_forget_printer">Esquecer impressora</string>
-    <string name="choose_print_service">Selecione o serviço de impressão</string>
+    <string name="choose_print_service">Seleccione o serviço de impressão</string>
     <string name="print_searching_for_printers">Procurando impressoras</string>
     <string name="print_no_printers">Nenhuma impressora encontrada</string>
     <string name="printing_notification_title_template">Imprimindo %1$s</string>
-    <string name="cancelling_notification_title_template">Cancelando %1$s</string>
+    <string name="cancelling_notification_title_template">A cancelar %1$s</string>
     <string name="failed_notification_title_template">Erro ao imprimir %1$s</string>
     <string name="blocked_notification_title_template">A impressora bloqueou %1$s</string>
     <string name="cancel">Cancelar</string>
@@ -40,8 +45,25 @@
     <string name="reason_unknown">desconhecido</string>
     <string name="printer_unavailable">%1$s – não disponível</string>
     <string name="print_error_default_message">Não foi possível criar o trabalho de impressão</string>
-    <string name="permlab_accessAllPrintJobs">access all print jobs</string>
-    <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
-    <string name="permlab_startPrintServiceConfigActivity">start print service configuration activities</string>
-    <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
+    <string name="permlab_accessAllPrintJobs">Acesso a todos os trabalhos de impressão</string>
+    <string name="permdesc_accessAllPrintJobs">Permite o detentor ter acesso a trabalhos de impressão criados por outra aplicação. Nunca deve ser necessário para aplicações normais.</string>
+    <string name="permlab_startPrintServiceConfigActivity">Iniciar configuração das actividades de impressão</string>
+    <string name="permdesc_startPrintServiceConfigActivity">Permite o detentor ter acesso a trabalhos de impressão criados por outra aplicação. Nunca deve ser necessário para aplicações normais.</string>
+    <string name="collapse_handle">Fechar trinco</string>
+    <string name="current_page_template">%1$d /%2$d</string>
+    <string name="expand_handle">Expandir trinco</string>
+    <string name="label_copies_summary">Copies:</string>
+    <string name="label_paper_size_summary">Tamanho do papel:</string>
+    <string name="more_options_button">Mais opções</string>
+    <string name="page_description_template">Página %1$d de %2$d</string>
+    <string name="print_error_printer_unavailable">A impressora não está disponivel neste momento.</string>
+    <string name="print_error_retry">Repetir</string>
+    <string name="print_options_collapsed">Opções de impressão fechadas</string>
+    <string name="print_options_expanded">Opções de impressão expandidas</string>
+    <string name="print_preparing_preview">A preparar prévisualização…</string>
+    <string name="print_write_error_message">Não é possível imprimir para ficheiro</string>
+    <string name="savetopdf_button">Guardar para PDF</string>
+    <string name="summary_template">Sumário, cópias %1$s, tamanho do papel %2$s</string>
+    <string name="template_all_pages">Tudo %1$s</string>
+    <string name="template_page_range">Alcance de %1$s</string>
 </resources>

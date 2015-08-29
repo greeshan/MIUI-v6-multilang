@@ -25,7 +25,7 @@
     <string name="exit_fm">Kilépés</string>
     <string name="toast_sleep_mode">Rádió kikapcsolása %s</string>
     <string name="toast_sleep_mode_exit">Időzített kikapcsolás megszakítva.</string>
-    <string name="record_file_location_format">Kattintson a %s fájl meghallgatásához</string>
+    <string name="notification_rec_title">Érintse meg a felvételek megtekintéséhez</string>
     <string name="record_completed">A rögzítés befejeződött</string>
     <string name="turn_off_fm">Rádió kikapcsolása</string>
     <string name="view_stations_list">Mentett állomások</string>
@@ -58,6 +58,7 @@
     <string name="txt_sleep_mode">Alvó mód</string>
     <string name="group_favor">Csatornák</string>
     <string name="group_other">Állomások</string>
+    <string name="record_file_location_format">Kattintson a %s fájl meghallgatásához</string>
     <string name="FMRecording_reach_storage_threshold">A rögzítés megállítva: az SD kártyán nincs elég szabad hely</string>
     <string name="access_sd_fail">SD kártya hozzáférés megtagadva.</string>
     <string name="alert_dialog_cancel">Mégsem</string>

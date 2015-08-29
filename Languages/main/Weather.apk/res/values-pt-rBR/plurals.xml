@@ -12,4 +12,8 @@
         <item quantity="other">%d dias atrás</item>
         <item quantity="one">%d dia atrás</item>
     </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Ensolarado</item>
+    </plurals>
 </resources>

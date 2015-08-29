@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Imate još nekoliko preostalih pokušaja (%d) prije zaključavanja SIM kartice.</item>
+        <item quantity="one">Imate još %d pokušaj prije zaključavanja SIM kartice.</item>
+    </plurals>
     <plurals name="num_seconds_ago">
-        <item quantity="other">Prije %d s</item>
+        <item quantity="other">prije %d s</item>
         <item quantity="one">Prije 1 sekundu</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">Prije %d min</item>
-        <item quantity="one">Prije 1 minutu</item>
+        <item quantity="one">prije 1 minutu</item>
     </plurals>
     <plurals name="num_hours_ago">
         <item quantity="other">Prije %d h</item>
@@ -28,7 +32,7 @@
         <item quantity="one">za 1 minutu</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">za %d h</item>
+        <item quantity="other">za %d sati</item>
         <item quantity="one">za 1 sat</item>
     </plurals>
     <plurals name="in_num_days">
@@ -44,7 +48,7 @@
         <item quantity="one">Prije 1 min</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
-        <item quantity="other">Prije %d h</item>
+        <item quantity="other">Prije %d sati</item>
         <item quantity="one">Prije 1 sat</item>
     </plurals>
     <plurals name="abbrev_num_days_ago">
@@ -76,7 +80,7 @@
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d h</item>
+        <item quantity="other">%d s</item>
         <item quantity="one">1 sat</item>
     </plurals>
     <plurals name="wifi_available">
@@ -90,5 +94,9 @@
     <plurals name="matches_found">
         <item quantity="other">%1$d od %2$d</item>
         <item quantity="one">1 podudaranje</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Ponovite za %d s</item>
+        <item quantity="one">Ponovite za 1 s</item>
     </plurals>
 </resources>

@@ -15,7 +15,7 @@
     <string name="notelist_menu_new">Adicionar nota</string>
     <string name="note_alert_expired">Expirado</string>
     <string name="notealert_ok">Ignorar</string>
-    <string name="notealert_enter">Dê uma olhada</string>
+    <string name="notealert_enter">Veja</string>
     <string name="note_link_tel">Chamada</string>
     <string name="note_link_email">Enviar email</string>
     <string name="note_link_web">Navegar na internet</string>
@@ -23,6 +23,7 @@
     <string name="note_link_select">Seleccione o texto</string>
     <string name="menu_create_folder">Nova Pasta</string>
     <string name="menu_delete">Eliminar</string>
+    <string name="menu_folders">Pastas</string>
     <string name="menu_stick">Afixar</string>
     <string name="menu_unstick">Desafixar</string>
     <string name="folder_exist">Já existe uma pasta com o mesmo nome</string>
@@ -49,6 +50,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Esta nota já existe na área de trabalho</string>
     <string name="error_unsupport_content">Esta nota contém conteúdo não suportado. É necessário tocar aqui para actualizar o aplicação.</string>
     <string name="error_contact_not_exist">O contacto não existe</string>
+    <string name="sync_tips">Pressione para sincronizar notas com a Nuvem Mi.</string>
     <string name="pref_title_font_size">Tamanho da letra</string>
     <string name="call_record_folder_name">Registo das chamadas</string>
     <string name="hint_foler_name">Nome</string>
@@ -96,6 +98,7 @@
     <string name="sns_hint_title">Assunto (Opcional)</string>
     <string name="sns_hint_content">O que vai na sua mente?</string>
     <string name="sns_footer_text">Criado com Notas Mi</string>
+    <string name="dlg_info_creating_message">A criar mensagem…</string>
     <string name="sns_message_disconnect">Não é possível ligar à rede. Verifique a sua ligação e tente novamente.</string>
     <string name="sns_content_default">Partilhar imagem</string>
     <string name="sns_toast_empty">Não é possível enviar um comentário vazio</string>
@@ -105,5 +108,12 @@
     <string name="sns_choose_quality_title">Escolha a qualidade de imagem</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Baixa</string>
-    <string name="menu_move">Mover</string>
+    <string name="welcome_note_for_cm">"Mais recursos!
+    - Sincronizar com a Nuvem Mi
+    - Guardar ao sair
+    - Definir alertas
+
+Para saber mais, visite
+https://www.miuiportugal.pt/forum/
+"</string>
 </resources>

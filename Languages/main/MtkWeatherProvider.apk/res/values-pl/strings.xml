@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usługa prognozy pogody</string>
+    <string name="choose_city">Wybierz miasto</string>
+    <string name="searching">Trwa wyszukiwanie, czekaj...</string>
+    <string name="no_found">Nie znaleziono miasta pasującego do %s. Sprawdź wpisane słowa.</string>
+    <string name="net_error">Sieć jest niedostępna. Sprawdź to.</string>
+    <string name="no_city_error">Nie można uzyskać informacji o mieście. Ustaw prawidłowy czas systemowy i strefę czasową.</string>
+    <string name="searching_fail">Wyszukanie miasta nie powiodło się.</string>
+    <string name="no_weather_error">Nie można uzyskać informacji o pogodzie. Ustaw prawidłowy czas systemowy i strefę czasową.</string>
+    <string name="no_weather">Prognoza pogody dla %s nie jest aktualnie dostępna.</string>
+    <string name="setting_title">Konfiguracja</string>
+    <string name="temperature">Jednostki temperatury</string>
+    <string name="tem_celsius">Stopnie Celsjusza</string>
+    <string name="cities_title">Miasta</string>
+    <string name="update_fre">Częstotliwość aktualizacji</string>
+    <string name="every12">Co 12 godzin</string>
+    <string name="weatherserver">Serwer pogodowy</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Anuluj</string>
+    <string name="menu_add_city">Dodaj miasto</string>
+    <string name="add_city">Naciśnij ikonę, aby dodać nowe miasto</string>
+    <string name="remove">Usuń</string>
+    <string name="warn">Można dodać maksymalnie 8 miast.</string>
+    <string name="has_chosen">wybrano.</string>
+    <string name="no_city">Brak miast</string>
+    <string name="powered_by">Obsługiwane przez:</string>
+    <string name="menu_about">Informacje</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Delete</string>
+    <string name="no">Anuluj</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="deselect_all">Usuń zaznaczenie wszystkiego</string>
+    <string name="delete">Delete</string>
+</resources>

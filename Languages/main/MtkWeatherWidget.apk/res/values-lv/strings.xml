@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laikapstākļi</string>
+    <string name="updating">Atjaunina</string>
+    <string name="failed_to_locate">Neizdevās atrast</string>
+    <string name="no_weather">Šobrīd laika ziņas par %s nav pieejamas.</string>
+    <string name="add_setting">Pieskarieties šeit, lai pievienotu pilsētas</string>
+    <string name="net_error">Tīkls nav pieejams. Pārbaudiet to.</string>
+</resources>

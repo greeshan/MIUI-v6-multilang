@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sääpalvelu</string>
+    <string name="choose_city">Valitse kaupunki</string>
+    <string name="searching">Etsitään. Odota...</string>
+    <string name="no_found">Kohdetta %s vastaavaa kaupunkia ei löydy. Tarkista syöttämäsi sanat.</string>
+    <string name="net_error">Verkko ei ole käytettävissä. Tarkista se!</string>
+    <string name="no_city_error">Kaupunkitietoja ei saada. Aseta järjestelmän aika ja aikavyöhyke oikein.</string>
+    <string name="searching_fail">Kaupungin haku epäonnistui.</string>
+    <string name="no_weather_error">Säätietoja ei saada. Aseta järjestelmän aika ja aikavyöhyke oikein.</string>
+    <string name="no_weather">Kohteelle %s ei tällä hetkellä ole säätä.</string>
+    <string name="setting_title">Asetukset</string>
+    <string name="temperature">Lämpötilayksiköt</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Kaupungit</string>
+    <string name="update_fre">Päivitystaajuus</string>
+    <string name="every12">12 tunnin välein</string>
+    <string name="weatherserver">Sääpalvelin</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Peruuta</string>
+    <string name="menu_add_city">Lisää kaupunki</string>
+    <string name="add_city">Paina kuvaketta lisätäksesi uuden kaupungin</string>
+    <string name="remove">Poista</string>
+    <string name="warn">Enintään 8 kaupunkia voidaan lisätä.</string>
+    <string name="has_chosen">on valittu.</string>
+    <string name="no_city">Ei kaupunkeja</string>
+    <string name="powered_by">Palvelun tarjoaa:</string>
+    <string name="menu_about">Tietoja</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Poista</string>
+    <string name="no">Peruuta</string>
+    <string name="select_all">Valitse kaikki</string>
+    <string name="deselect_all">Poista valinta kaikista</string>
+    <string name="delete">Poista</string>
+</resources>

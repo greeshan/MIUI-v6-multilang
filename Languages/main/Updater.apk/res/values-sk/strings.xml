@@ -14,6 +14,7 @@
     <string name="download_cancel">Zrušiť</string>
     <string name="install">Inštalovať</string>
     <string name="install_local">Vybrať ZIP z úložiska</string>
+    <string name="reboot">Reštart</string>
     <string name="set_auto">Nastaviť automatický režim</string>
     <string name="get_auto">Použiť 3G a Wi-Fi</string>
     <string name="set_only_wifi">Nastaviť kontrolu len cez Wi-Fi</string>
@@ -25,7 +26,7 @@
     <string name="button_text_check">Skontrolovať</string>
     <string name="button_text_update">Aktualizovať</string>
     <string name="button_text_reboot">Reštartovať</string>
-    <string name="button_text_reboot_hm">Po reštarte</string>
+    <string name="button_text_reboot_hm">Reštartovať</string>
     <string name="button_text_later_reboot">Neskôr</string>
     <string name="download_title_first">Získavanie informácií...</string>
     <string name="download_title_full_download">Získavanie informácií...</string>
@@ -45,6 +46,8 @@
     <string name="cancel_download_buton_text">Zrušiť</string>
     <string name="boot_recovery">Reštart do Recovery</string>
     <string name="cancel_download">Zastaviť sťahovanie aktualizácie?</string>
+    <string name="update_success_reboot_immediately">Zariadenie je aktualizované</string>
+    <string name="download_success_reboot_immediately">Reštartujte do novej verzie</string>
     <string name="update_success">Aktualizácia prebehla úspešne!</string>
     <string name="install_failed">Aktualizácia zlyhala</string>
     <string name="download_current_rom">Stiahnuť najnovšiu verziu ROM</string>
@@ -56,6 +59,7 @@
     <string name="notification_reboot_summary_hm">Reštartovať zariadenie.</string>
     <string name="notification_reboot_btn">Reštart</string>
     <string name="notification_reboot_seccess_title">Aktualizované!</string>
+    <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
     <string name="notification_reboot_seccess_des">Zdieľať informácie o aktualizácií</string>
     <string name="notification_share">Zdieľať</string>
     <string name="notification_downloading">Sťahovanie aktualizácie...</string>
@@ -115,6 +119,7 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
     <string name="top_secret_build">Tajná verzia</string>
     <string name="stable_build">Stabilná verzia</string>
     <string name="unstable_build">Stabilná verzia</string>
+    <string name="particular_build">Špeciálny</string>
     <string name="about_device">Info o telefóne</string>
     <string name="emegency_build">Verzia:</string>
     <string name="loading">Pripojenie na MIUI server...</string>
@@ -146,15 +151,15 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
     <string name="title_toast_auto">Automatické sťahovanie aktualizácií je povolené</string>
     <string name="update_feedback">Odozva na aktualizáciu</string>
     <string name="update_feedback_end">Zmeškali ste hodnotenie aktuálnej verzie</string>
-    <string name="update_feedback_end_sum">Svoj názor môžte odoslať každý utorok.</string>
+    <string name="update_feedback_end_sum">Svoj názor môžete odoslať každý pondelok.</string>
     <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
     <string name="update_feedback_expired">"Zmeškali ste hodnotenie aktuálnej verzie.
-Svoj názor môžte odoslať každý utorok"</string>
+Svoj názor môžete odoslať každý pondelok"</string>
     <string name="update_feedback_need_account">Musíte sa prihlásiť k Xiaomi účtu</string>
     <string name="update_feedback_need_network">Pripojte sa k sieti</string>
     <string name="update_happy">Skvelý!</string>
-    <string name="update_general">Spokojný</string>
-    <string name="update_sad">Nič moc</string>
+    <string name="update_general">Priemerný</string>
+    <string name="update_sad">Sklamanie</string>
     <string name="update_feel">Čo si o tom myslíte?</string>
     <string name="best_update">Skvelá aktualizácia</string>
     <string name="worst_update">Najhoršia aktualizácia</string>
@@ -189,6 +194,28 @@ Svoj názor môžte odoslať každý utorok"</string>
     <string name="submit_success">Odoslané</string>
     <string name="submit_fail">Odosielanie zlyhalo</string>
     <string name="submit">Odoslať</string>
+    <string name="updater_wait_for_unzip">Rozbaľovanie aktualizácie...</string>
+    <string name="vote_beta">Beta Feedback Program</string>
+    <string name="vote_submit">Odoslať</string>
+    <string name="vote_recommend">Odporúčam túto verziu MIUI</string>
+    <string name="vote_not_recommend">Neodporúčam túto verziu MIUI</string>
+    <string name="vote_error_nonetwork">Nie je možné sa pripojiť k sieti</string>
+    <string name="vote_error1">"Zrejme nie ste člen 
+BETA Feedback Programu"</string>
+    <string name="vote_error2">"Nie je možné odoslať váš názor.
+Aktualizujte vaše zariadenie a skúste to znova"</string>
+    <string name="vote_hint">Získajte 20 bodov na fóre en.miui.com za hlasovanie</string>
+    <string name="vote_join">Už ste hlasovali</string>
+    <string name="vote_experience">Forum experience</string>
+    <string name="vote_error3">"Nie je možné sa prihlásiť.
+Skúste sa znova prihlásiť vašim Xiaomi účtom."</string>
+    <string name="vote_error4">Váš názor už bol odoslaný</string>
+    <string name="vote_error5">"Nastala chyba,
+Nie je možné odoslať váš názor"</string>
+    <string name="miui_BBS">" &lt;a href=http://bbs.miui.com>MIUI fórum&lt;/a> "</string>
+    <string name="welcom_title">Vitajte v MIUI 6</string>
+    <string name="welcom_message">Dokončené</string>
+    <string name="welcom_button">OK</string>
     <string name="menu_title_check_update">Kontrolovať nové verzie len cez Wi-Fi</string>
     <string name="no_proper_updates">Žiadna aktualizácia sa nenašla pre vašu verziu ROM. Skontrolujte novú verziu na miuios.cz/rom</string>
     <string name="install_file_explorer">Prosím nainštalujte správcu súborov</string>

@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Plus</string>
+    <string name="miuishare_title_share">Partager</string>
+    <string name="miuishare_account_login_ok">Se connecter</string>
+    <string name="miuishare_account_activate_ok">Activer</string>
+    <string name="miuishare_account_login_cancel">Annuler</string>
+    <string name="miuishare_account_login_confirmation">Connexion requise</string>
+    <string name="miuishare_account_activate_confirmation">Activation requise</string>
+    <string name="miuishare_account_need_login">Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui est enregistré actuellement. Connectez-vous et partager maintenant ?</string>
+    <string name="miuishare_account_need_activate">"Partager avec Weibo nécessite que votre compte Weibo soit associé au compte Xiaomi, qui n'est actuellement pas activée. Activez votre compte ?"</string>
+    <string name="miuishare_wechat_timeline_title">Chronologie WeChat</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Envoyer</string>
+    <string name="miuishare_share_done">Le contenu partagé est envoyé.</string>
+    <string name="miuishare_share_editor_title">Partager</string>
+    <string name="miuishare_no_network">Pas de réseau pour partager</string>
     <string name="miui_search_notification_title">Recherche</string>
     <string name="miui_search_notification_message">Ouvrir la Recherche rapide</string>
     <string name="miui_quicksearch_enable_pref_title">Recherche rapide dans le menu déroulant</string>
@@ -11,7 +27,7 @@
     <string name="menu_exit_nightmode">Quitter</string>
     <string name="pref_content_auto_light_mode">Luminosité auto</string>
     <string name="pref_content_fontsize_setting">Paramètres de police</string>
-    <string name="readmode_page_loading">Chargement, veuillez patienter…</string>
+    <string name="readmode_page_loading">Un instant…</string>
     <string name="readmode_page_load_error">Échec du chargement de la page, veuillez appuyer sur Actualiser pour réessayer</string>
     <string name="readmode_already_add_to_bookshelf">"Ajouté à l'étagère"</string>
     <string name="readmode_login_message">Les chapitres suivants requièrent de vous connecter avant de pouvoir les lire</string>
@@ -44,7 +60,7 @@
     <string name="ssl_warnings_header">Le certificat de sécurité pour ce site présente des problèmes.</string>
     <string name="ssl_continue">Continuer</string>
     <string name="security_warning">Avertissement de sécurité</string>
-    <string name="view_certificate">Afficher le certificat</string>
+    <string name="view_certificate">Afficher</string>
     <string name="ssl_go_back">Retour</string>
     <string name="ssl_untrusted">"Ce certificat provient d'une autorité non approuvée."</string>
     <string name="ssl_mismatch">Le nom du site ne correspond pas au nom indiqué dans le certificat.</string>
@@ -228,7 +244,7 @@
     <string name="download_no_sdcard_dlg_title">Aucune carte SD</string>
     <string name="download_no_sdcard_dlg_msg">Le téléchargement de %1$s requiert une carte SD.</string>
     <string name="download_sdcard_busy_dlg_title">Carte SD non disponible</string>
-    <string name="download_sdcard_busy_dlg_msg">"La carte SD est indisponible. Pour autoriser les téléchargements, sélectionnez l'option \"Désactiver la mémoire de stockage USB\" dans la notification."</string>
+    <string name="download_sdcard_busy_dlg_msg">La carte SD est indisponible. Pour autoriser les téléchargements, désactivez la mémoire de stockage USB dans le menu déroulant des notifications.</string>
     <string name="cannot_download">Vous ne pouvez télécharger que des URL de type \"http\" et \"https\".</string>
     <string name="download_pending">Démarrage du téléchargement…</string>
     <string name="dump_nav">Extraire le cache de navigation</string>
@@ -446,7 +462,7 @@
     <string name="pref_file_downlaod_save_is_reset_default_settings">Restaurer le chemin de téléchargement par défaut</string>
     <string name="pref_file_download_save_modify_default_path">Modifier le chemin par défaut</string>
     <string name="download_dialog_file_length_hint_txt">"Taille du fichier : "</string>
-    <string name="download_dialog_file_length_nolength_txt">Calcul de la taille du fichier</string>
+    <string name="download_dialog_file_length_nolength_txt">Un instant…</string>
     <string name="download_dialog_file_length_nolength_error_txt">Échec du calcul de la taille du fichier</string>
     <string name="download_dialog_file_length_lessthan1kb">Moins de 1 Ko</string>
     <string name="download_dialog_default_path_invalid">Chemin de téléchargement non valide, le chemin de téléchargement par défaut sera utilisé</string>
@@ -588,7 +604,7 @@
     <string name="date_picker_dialog_other_button_label">Autres</string>
     <string name="copy_to_clipboard_failure_message">Impossible de copier dans le presse-papier</string>
     <string name="miuichromium_error_page_title">Impossible de trouver cette page</string>
-    <string name="miuichromium_error_page_reason_network">"Afficher l'URL du lien"</string>
+    <string name="miuichromium_error_page_reason_network">Echec de connexion au réseau</string>
     <string name="miuichromium_error_page_mobile">Réseaux mobiles</string>
     <string name="miuichromium_error_page_wlan">Wi-Fi</string>
     <string name="miuichromium_error_page_reason_server">Impossible de charger cette page</string>
@@ -621,6 +637,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="no_matches">Aucun résultat</string>
     <string name="webview_find_on_page">Rechercher sur la page</string>
     <string name="miui_content_open_url">"Ouvrir l'URL"</string>
+    <string name="miuichromium_error_page_diagnostic">Diagnostique réseau</string>
     <string name="dump_counters">Compteurs de vidage V8</string>
     <string name="dump_dom_tree">"Dump de l'arborescence DOM au fichier"</string>
     <string name="dump_render_tree">"Dump de l'arborescence de rendu au fichier"</string>
@@ -653,6 +670,10 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="find_on_page_prev">Précédent</string>
     <string name="find_on_page_next">Suivant</string>
     <string name="find_on_page_cancel">Annuler</string>
+    <string name="sub_sync_item_browser_title_video">"Synchroniser l'historique des vidéos"</string>
+    <string name="sub_sync_item_browser_title_video_summary">Synchronise entre vos divers appareils la liste des vidéos vues récemment</string>
+    <string name="sub_sync_item_browser_title_useful">Synchroniser la page de démarrage</string>
+    <string name="sub_sync_item_browser_title_useful_summary">Synchronise la page de démarrage du navigateur</string>
     <string name="pref_volume_key_action">Défiler avec les boutons volume</string>
     <string name="pref_other_title">Autres</string>
     <string name="pref_clear_data_title">Effacer les données</string>
@@ -692,6 +713,9 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="pref_check_security_url_title">Vérifier les liens</string>
     <string name="pref_check_security_url_summary">"Envoi l'adresse des sites web vers les serveurs de Xiaomi afin vérifier sa sécurité"</string>
     <string name="action_menu_text_video">Vidéo</string>
+    <string name="action_menu_text_bandwidth">Bande passante</string>
+    <string name="action_menu_text_bandwidth_on">Bande passante/Actif</string>
+    <string name="action_menu_text_bandwidth_off">Bande passante/Inactif</string>
     <string name="block_ads_title">Contenu potentiellement publicitaire</string>
     <string name="block_ads_message">Souhaitez-vous bloquer les messages provenant de ce site web ?</string>
     <string name="block_ads_choice_continue">Continuer</string>
@@ -750,6 +774,7 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="media_error_nomemory">"La mémoire de l'appareil est pleine"</string>
     <string name="media_error_action_refresh">Actualiser</string>
     <string name="media_error_action_replace_video_source">Changer de source vidéo</string>
+    <string name="video_buffering_percent_string">Mise en mémoire tampon</string>
     <string name="webapp_app_name">Boutique Web Mi Market</string>
     <string name="webapp_dialog_title">"Ajouter l'app. sur l'écran d'accueil"</string>
     <string name="webapp_add_to_desktop">"Ajouter sur l'écran d'accueil"</string>
@@ -771,15 +796,18 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="pref_webapp_settings_hidebottombar">Masquer la barre inférieure</string>
     <string name="webapp_bottom_bar_addtodesk">"Ajouter sur l'accueil"</string>
     <string name="webapp_splashview_loading">Chargement...</string>
+    <string name="pref_min_font_size">Taille de police minimale</string>
+    <string name="pref_text_zoom">"Mise à l'échelle du texte"</string>
+    <string name="pref_inverted_summary">Le noir devient blanc, et inversement.</string>
+    <string name="bookmark_page">Ajouter la dernière page consultée</string>
+    <string name="pref_development_title">Débogage</string>
     <string name="miuichromium_save_password_message">Mémoriser le mot de passe ?</string>
     <string name="miuichromium_save_password_never">Jamais</string>
     <string name="miuichromium_save_password_notnow">Pas maintenant</string>
     <string name="miuichromium_save_password_remember">Retenir</string>
     <string name="tab_videopage">Vidéos</string>
     <string name="webview_cancel">Quitter</string>
-    <string name="webview_js_dialog_before_unload">"%s
-
-Êtes-vous sûr de vouloir quitter cette page ?"</string>
+    <string name="webview_js_dialog_before_unload">%s Êtes-vous sûr de vouloir quitter cette page ?</string>
     <string name="webview_js_dialog_before_unload_negative_button">Rester sur cette Page</string>
     <string name="webview_js_dialog_before_unload_positive_button">Quitter cette page</string>
     <string name="webview_js_dialog_before_unload_title">Confirmer la Navigation</string>
@@ -792,11 +820,21 @@ Voulez-vous vraiment quitter cette page ?"</string>
     <string name="webview_today">"Aujourd'hui"</string>
     <string name="webview_yesterday">Hier</string>
     <string name="clear_history_by_group_alert">"Effacer l'historique de %s ?"</string>
+    <string name="action_menu_text_add_bookmark">Ajouter un favori</string>
+    <string name="back_button_label">Retour</string>
+    <string name="contextmenu_webpage_capture">"Enregistrer en tant que capture d'écran"</string>
+    <string name="contextmenu_webpage_html">Enregistrer en tant que fichier HTML</string>
+    <string name="contextmenu_webpage_snapshot">Enregistrer cette page</string>
+    <string name="find_new_version">Mises à jour disponibles</string>
+    <string name="find_on_page_hint">Taper votre recherche</string>
+    <string name="license_activity_title">Aperçu du système de licence</string>
+    <string name="next_button_label">Suivant</string>
+    <string name="pref_auto_update_under_wifi">Mise à jour automatique depuis Wi-Fi</string>
+    <string name="pref_extras_title_version">Version</string>
+    <string name="pref_version_info">Version Info</string>
+    <string name="save_button_text">Sauvegarder</string>
+    <string name="save_page_capture_tip">"Ouvrir la notification pour afficher la capture d'écran."</string>
+    <string name="save_page_capture_to_camera">"Capture d'écran sauvegardée"</string>
     <string name="miuichromium_default_text_encoding">Latin-1</string>
-    <string name="pref_min_font_size">Taille de police minimale</string>
-    <string name="pref_text_zoom">"Mise à l'échelle du texte"</string>
-    <string name="pref_inverted_summary">Le noir devient blanc, et inversement.</string>
-    <string name="bookmark_page">Ajouter la dernière page consultée</string>
-    <string name="pref_development_title">Débogage</string>
     <string name="bookmark_URL_already_exisit">Ce lien est déjà présent dans vos favoris</string>
 </resources>

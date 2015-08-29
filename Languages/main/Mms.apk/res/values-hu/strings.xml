@@ -366,6 +366,7 @@
     <string name="title_date_type">Üzenet időbélyege</string>
     <string name="mx_msg">Mi üzenet</string>
     <string name="mx_enable">Mi üzenetkezelés</string>
+    <string name="mx_enable_ex">Mi üzenet és Hanghívás</string>
     <string name="mx_on_sim_1">Mi Üzenetkezelés a 1.SIM kártyával</string>
     <string name="mx_on_sim_2">Mi Üzenetkezelés a 2.SIM kártyával</string>
     <string name="mx_btn_enable">Bekapcsolás</string>
@@ -393,8 +394,9 @@
     <string name="mx_activate_hint_server">Központnak nem sikerült az aktiválás? Aktiválja?</string>
     <string name="mx_activate_int_hint_server">>Egy nemzetközi sms elküldése szükséges a Mi üzenetkezelés újraaktiválásához (a szolgáltató költséget számíthat fel).</string>
     <string name="need_download">Letöltés...</string>
-    <string name="found_wild_messages_title">Üzenetek letöltése</string>
-    <string name="found_wild_messages">%s üzenetet találtam a másik SIM kártyán a MiCloud-ban, letölti őket?</string>
+    <string name="found_wild_messages_title">SMS üzenetek szinkronizálása a MiCloudból</string>
+    <string name="found_wild_messages_guide_settings_desc">Az üzenetek szinkronizálása az üzenetek beállításában.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Az üzenetek szinkronizálásához jelentkezzen be a Mi fiókba és kapcsolja be az Üzenetek szinkronizálását.</string>
     <string name="found_old_messages_title">Üzenetek feltöltése</string>
     <string name="found_old_messages">%1$s üzenetet találtam a régi telefon fiókján. Feltölti őket a %2$s fiókjába?</string>
     <string name="show_all_messages">Minden üzenet</string>
@@ -444,6 +446,7 @@
     <string name="context_menu_add_to_browser_favorite">Hozzáadás a kedvencekhez</string>
     <string name="restore_all_button_msg">Visszaállítja a szám összes elküldött üzenetét?</string>
     <string name="no_block_button_msg">Feloldás</string>
+    <string name="reply_button_msg">Válasz</string>
     <string name="restore_blocked_message">Üzenet visszaállítása</string>
     <string name="overwrite_edited_content">A szerkesztett tartalom felülíródik.</string>
     <string name="back_to_message_list">Vissza az üzenetekhez</string>
@@ -460,6 +463,8 @@
     <string name="sp_conversation_title">Értesítő üzenetek</string>
     <string name="title_show_sms_template">Ellenőrzőkódokhoz SMS ellenőrzés</string>
     <string name="pref_show_sms_template_summary">Ellenőrzőkódok automatikus másolása és beillesztése</string>
+    <string name="title_show_blocked_messages">Kéretlen üzenetek megjelenítése</string>
+    <string name="pref_show_blocked_messages_summary">Kéretlen üzenetek megjelenítése a listában</string>
     <string name="sp_mark_as_read_title">Összes üzenetet megjelölése olvasottként</string>
     <string name="sp_mark_as_read">Megjelöli az összes üzenetet olvasottként?</string>
     <string name="sp_mark_as_read_progress">Összes üzenet megjelölése olvasottként...</string>
@@ -477,7 +482,7 @@
     <string name="feedback_submit">Elküld</string>
     <string name="action_firewall_setting">Tiltólista</string>
     <string name="user_agreement1">További szoftver telepítése illetve a termék használata előtt olvassa el figyelmesen a vonatkozó feltételeket.</string>
-    <string name="user_agreement2">" Felhasználói nyilatkozat"</string>
+    <string name="user_agreement2">" Szolgáltatási feltételek"</string>
     <string name="user_agreement3">" és "</string>
     <string name="user_agreement4">Adatvédelmi irányelvek</string>
     <string name="user_agreement5">Az OK gombra kattintással elfogadja az abban foglaltakat.</string>
@@ -523,8 +528,10 @@
     <string name="hms_add_image_progress_message">Folyamatban. Várjon...</string>
     <string name="view_hms_attachment_fail">Kép letöltése sikertelen.</string>
     <string name="mx_dspt_provision">Az Mi Üzenetek bekapcsolásával a MIUI felhasználók egymás között ingyen küldhetnek SMS üzeneteket. A szolgáltató a szolgáltatás bekapcsoláshoz egy SMS üzenet díját számíthatja fel.</string>
-    <string name="mx_activate_user_agreement_p1">"A szolgáltatás használatával az alábbi elfogadása: "</string>
+    <string name="mx_dspt_provision_ex">Küldjön üzeneteket és hívja a MIUI felhasználókat külön díjazás nélkül. VoIP a Weihui támogatásával. Adatvédelmi Irányelvek megtekintése.</string>
+    <string name="mx_dspt_provision_ex2">Adatvédelmi Irányelvek</string>
     <string name="mx_activate_dlg_title">Mi üzenetkezelés bekapcsolása</string>
+    <string name="mx_activate_dlg_title_ex">Mi üzenet és Hanghívás aktiválása</string>
     <string name="resource_price_free">Ingyenes</string>
     <string name="menu_send_as_common">SMS-ként küldve</string>
     <string name="message_sent">Elküldve</string>
@@ -544,6 +551,7 @@
     <string name="pref_title_mms_validity_period">MMS érvényessége</string>
     <string name="open_url_with_web">Megnyitja az URL-t az interneten?</string>
     <string name="block_messaging_entry_title">Blokkolt üzenetek</string>
+    <string name="mipub_messaging_entry_title">Mi Üzenetek</string>
     <string name="message_contact">Névjegy:</string>
     <string name="message_number">Telefonszám:</string>
     <string name="storage_dialog_mms">Mms: %d</string>
@@ -552,7 +560,16 @@
     <string name="storage_dialog_sms">Sms: %d</string>
     <string name="storage_dialog_database">Adatbázis:</string>
     <string name="storage_dialog_available_space">Elérhető tárhely:</string>
+    <string name="security_alert_desc">"&lt;font color=#7f000000>A feladó nincs a Kapcsolatok közt.
++ &lt;/font>"</string>
+    <string name="security_alert_desc_highlight">Telefonszám bejelentése</string>
+    <string name="security_alert_dialog_title">Jelentés</string>
+    <string name="security_alert_dialog_desc">A telefonszám (%s) és az üzenet elküldése a Xiaomihoz ellenőrzésre.</string>
+    <string name="sms_report_failed">A jelentést nem sikerült elküldeni</string>
+    <string name="sms_report_success">Jelentés elküldve</string>
     <string name="add_bookmark">Kedvencek</string>
+    <string name="found_wild_messages">%s üzenetet találtam a másik SIM kártyán a MiCloud-ban, letölti őket?</string>
+    <string name="mx_activate_user_agreement_p1">"A szolgáltatás használatával az alábbi elfogadása: "</string>
     <string name="mx_activate_int_popup_msg">Ennek engedélyezése lehetővé teszi a MIUI felhasználók egymás közötti üzenetküldését mobil adatforgalom használata nélkül.</string>
     <string name="mx_activate_popup_msg">Mi üzeneteket küldhet minden MIUI felhasználó egymás között. Normál üzenetdíjnak felel meg, hacsak nem csatlakozik a Wi-Fi-hez.</string>
     <string name="mx_activation_done">Mi üzenetkezelés engedélyezve</string>

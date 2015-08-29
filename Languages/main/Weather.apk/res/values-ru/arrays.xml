@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Новолуние</item>
+        <item>Молодая луна</item>
+        <item>Первая четверть</item>
+        <item>Прибывающая луна</item>
+        <item>Полнолуние</item>
+        <item>Убывающая луна</item>
+        <item>Последняя четверть</item>
+        <item>Убывающий месяц</item>
+        <item>Старая луна</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Ясно</item>
-        <item>Местами облачность</item>
-        <item>Сплошная облачность</item>
-        <item>Туманно</item>
-        <item>Сильный дождь</item>
-        <item>Ливень</item>
-        <item>Ливень с ураганом</item>
+        <item>Облачно</item>
+        <item>Пасмурно</item>
+        <item>Туман</item>
+        <item>Буря</item>
+        <item>Шторм</item>
+        <item>Сильный ливень</item>
         <item>Гроза</item>
         <item>Дождь</item>
-        <item>Сильный дождь</item>
-        <item>Умеренный дождь</item>
-        <item>Небольшой дождик</item>
+        <item>Ливень</item>
+        <item>Дождь</item>
+        <item>Небольшой дождь</item>
         <item>Снег с дождем</item>
         <item>Метель</item>
         <item>Снег</item>
         <item>Снегопад</item>
-        <item>Умеренный снег</item>
-        <item>Небольшой снежок</item>
-        <item>Песочная буря</item>
-        <item>Песочный шторм</item>
-        <item>Песок</item>
-        <item>Ветренно</item>
+        <item>Легкий снег</item>
+        <item>Небольшой снег</item>
+        <item>Пыльный шторм</item>
+        <item>Песчаная буря</item>
+        <item>Умеренная пыль</item>
+        <item>Ветрено</item>
         <item>Град</item>
         <item>Пыль</item>
         <item>Дымка</item>
-        <item>Ледяной дождь</item>
+        <item>Морозный дождь</item>
         <item>Нет данных</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Очень слабый</item>
-        <item>Слабый</item>
+        <item>Низкий</item>
         <item>Средний</item>
-        <item>Сильный</item>
-        <item>Очень сильный</item>
+        <item>Умеренный</item>
+        <item>Высокий</item>
+        <item>Опасный</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Северный</item>
-        <item>С-Восточный</item>
-        <item>Восточный</item>
-        <item>Ю-Восточный</item>
-        <item>Южный</item>
-        <item>Ю-Западный</item>
-        <item>Западный</item>
-        <item>С-Западный</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Новолуние</item>
-        <item>Растущий полумесяц</item>
-        <item>Первая четверть</item>
-        <item>Растущая луна</item>
-        <item>Полная луна</item>
-        <item>Убывающая луна</item>
-        <item>Последняя четверть</item>
-        <item>Убывающий полумесяц</item>
-        <item>Темная луна</item>
+        <item>Ветер С</item>
+        <item>Ветер СВ</item>
+        <item>Ветер В</item>
+        <item>Ветер ЮВ</item>
+        <item>Ветер Ю</item>
+        <item>Ветер ЮВ</item>
+        <item>Ветер З</item>
+        <item>Ветер СЗ</item>
     </string-array>
 </resources>

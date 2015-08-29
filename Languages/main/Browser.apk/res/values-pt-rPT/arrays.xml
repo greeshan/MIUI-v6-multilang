@@ -40,11 +40,6 @@
         <item>Verde</item>
         <item>Azul</item>
     </string-array>
-    <string-array name="dianping_in_list">
-        <item>search_dianping</item>
-        <item>ic_search_engine_dianping</item>
-        <item>dianping</item>
-    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Sempre activo</item>
         <item>Sob demanda</item>

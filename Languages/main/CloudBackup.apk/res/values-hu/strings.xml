@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Asztali alkalmazások mentése</string>
+    <string name="app_name">Alkalmazások mentése</string>
+    <string name="settings_backup">Rendszerbeállítások</string>
+    <string name="deskclock_backup">Ébresztőóra</string>
     <string name="button_cancel">Mégsem</string>
     <string name="button_next">Tovább</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
@@ -8,11 +10,11 @@
     <string name="retry">Újra</string>
     <string name="cloud_app_current_device">Jelenlegi eszköz</string>
     <string name="cloud_app_other_devices">Egyéb eszközök</string>
-    <string name="cloud_app_restore_app_and_data">Asztali elrendezés és alkalmazások visszaállítása</string>
-    <string name="cloud_app_restore_data">Előzőleg telepített alkalmazások visszaállítása</string>
-    <string name="cloud_app_dont_restore">Ne állítsa vissza</string>
+    <string name="cloud_app_restore_app_and_data">Eszköz beállítása</string>
+    <string name="cloud_app_restore_data">A személyes adatok és az előzőleg telepített alkalmazások hamarosan megjelennek az eszközön</string>
+    <string name="cloud_app_dont_restore">Beállítás új eszközként</string>
     <string name="cloud_app_restore_wifi_prompt">Az alkalmazás visszaállításához csatlakozzon Wi-Fi hálózathoz.</string>
-    <string name="cloud_app_no_data">Nincs asztali elrendezés és alkalmazás</string>
+    <string name="cloud_app_no_data">Nem található előzőleg telepített alkalmazás</string>
     <string name="cloud_app_restore_error">Nem állítható vissza</string>
     <string name="cloud_app_restore_success">Alkalmazások visszaállítva</string>
     <string name="cloud_app_backup_success">Alkalmazásmentés befejeződött</string>
@@ -46,16 +48,17 @@
     <string name="desktop_downloading">Letöltés</string>
     <string name="desktop_installing">Telepítés</string>
     <string name="desktop_recovering">Visszaállítás</string>
-    <string name="desktop_wait_wifi">Várakozás Wi-Fi kapcsolatra</string>
-    <string name="recover_from_micloud">Visszaállítás a MiCloud használatával</string>
+    <string name="desktop_wait_wifi">Várakozás</string>
+    <string name="recover_from_micloud">Visszaállítás a MiCloudból</string>
     <string name="open_wifi">Wi-Fi bekapcsolása</string>
     <string name="open_wifi_description">Csatlakozás Wi-Fi hálózathoz az alkalmazások visszaállításához</string>
     <string name="open_wifi_setting">W-Fi beállítások</string>
     <string name="name_model">"%1$s's %2$s"</string>
     <string name="download_settings">Kezdőképernyő beállítások letöltése: %s%%</string>
-    <string name="recover_settings">Kezdőképernyő beállítások visszaállítása</string>
-    <string name="cancel_recover_settings">&lt;u>Mégsem&lt;/u></string>
+    <string name="recover_home_settings">Kezdőképernyő beállítások visszaállítása</string>
+    <string name="cancel_recover_settings">Mégsem</string>
     <string name="recover_settings_description">Ne kapcsolja ki az eszközt</string>
+    <string name="recover_miui_settings">MIUI rendszerbeállítások visszaállítása</string>
     <string name="wait_icon_download">Alkalmazásikon letöltése</string>
     <string name="download_settings_fail">A kezdőképernyő beállítások letöltése nem sikerült</string>
     <string name="backup_fail">Az Asztali alkalmazások mentése nem sikerült</string>
@@ -68,4 +71,6 @@
     <string name="remove_task_in_process">eltávolítás</string>
     <string name="remove_task_unfinished">az eltávolítás még nem fejeződött be</string>
     <string name="back_up_task_unfinished">A mentés még nem fejeződött be</string>
+    <string name="about_to_recover">Egy pillanat…</string>
+    <string name="recover_settings">Kezdőképernyő beállítások visszaállítása</string>
 </resources>

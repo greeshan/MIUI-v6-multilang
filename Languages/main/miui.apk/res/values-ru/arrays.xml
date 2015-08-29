@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="alphabet_table">
+    <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
         <item>Б</item>
@@ -31,8 +30,8 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-     </string-array>
-     <string-array name="alphabet_table_with_starred">
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
         <item>А</item>
@@ -63,5 +62,5 @@
         <item>Э</item>
         <item>Ю</item>
         <item>Я</item>
-     </string-array>
+    </string-array>
 </resources>

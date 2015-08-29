@@ -40,6 +40,7 @@
     <string name="import_contact">Импортиране на контакт</string>
     <string name="secure_access_web_url">Сигурен достъп</string>
     <string name="not_recommend_access_web_url">Сигурен достъп (не се препоръчва)</string>
+    <string name="continue_to_website">Към уеб страницата</string>
     <string name="continue_access_web_url">Сигурен достъп</string>
     <string name="download_by_browser">Изтегляне чрез браузъра</string>
     <string name="launch_market">Стартирай Google Play</string>

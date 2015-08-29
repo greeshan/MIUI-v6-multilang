@@ -6,4 +6,5 @@
     <string name="edit_contact">Adicionar aos contatos</string>
     <string name="call_log_provider_label">Registro de chamadas</string>
     <string name="third_party_delete_contact_info">\"%s\" está tentando excluir seus contatos. Esta ação não pode ser executada por aplicativos de terceiros. Para excluir contatos, utilize o aplicativo de contatos nativo da MIUI.</string>
+    <string name="search_the_yellowpage">Pesquisar no diretório</string>
 </resources>

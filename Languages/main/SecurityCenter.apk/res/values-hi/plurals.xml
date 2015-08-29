@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d दिन "</item>
+        <item quantity="one">"%d दिन "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d घंटे "</item>
+        <item quantity="one">"%d घंटा "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dm "</item>
+        <item quantity="one">"%dm "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ऐप्स ऑटोस्टार्ट किए जा सकते हैं</item>
+        <item quantity="one">%d ऐप्प ऑटोस्टार्ट किया जा सकता है</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ऐप्स के लिए ऑटोस्टार्ट अनुमत नहीं है</item>
+        <item quantity="one">%d ऐप्प के लिए ऑटोस्टार्ट अनुमत नहीं है</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d अनुमतियां</item>
+        <item quantity="one">%d अनुमति</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ऐप</item>
+        <item quantity="one">%d ऐप्प</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ऐप्स के पास रूट एक्सेस मौजूद है</item>
+        <item quantity="one">%d ऐप्प के पास रूट पहुंच है</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ऐप के पास रूट एक्सेस मौजूद नहीं है</item>
+        <item quantity="one">%d ऐप्प के पास रूट पहुंच नहीं है</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ऐप्प के लिए अपडेट उपलब्ध.</item>
+        <item quantity="one">%d ऐप्प के लिए अपडेट उपलब्ध.</item>
+    </plurals>
+</resources>

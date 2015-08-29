@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">ಆಯ್ಕೆಮಾಡಿದ %1$s ಸಂಭಾಷಣೆಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">ಈ ಸಂಭಾಷಣೆಯನ್ನು ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s ಸೆಕೆಗಳು</item>
+        <item quantity="one">%s ಸೆಕೆ</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s ಸೆಕೆಂಡುಗಳು</item>
+        <item quantity="one">%s ಸೆಕೆ</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s ಕ್ಕೆ %1$s ಗಾಗಿ ಫಲಿತಾಂಶಗಳು</item>
+        <item quantity="one">\"%2$s ಕ್ಕೆ %1$s ಗಾಗಿ ಫಲಿತಾಂಶ</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s ಜನರು</item>
+        <item quantity="one">%1$s ಜನರು</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s ಸಂದೇಶಗಳು</item>
+        <item quantity="one">%1$s ಸಂದೇಶ</item>
+    </plurals>
+</resources>

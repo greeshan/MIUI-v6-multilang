@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Újhold</item>
+        <item>Növekvő hold</item>
+        <item>Első negyed</item>
+        <item>Növekvő hold</item>
+        <item>Telihold</item>
+        <item>Fogyó hold</item>
+        <item>Utolsó negyed</item>
+        <item>Fogyó félhold</item>
+        <item>Újhold</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Tiszta</item>
         <item>Felhős</item>
@@ -45,16 +56,5 @@
         <item>Szél ÉNy</item>
         <item>Szél Ny</item>
         <item>Szél DNy</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Újhold</item>
-        <item>Növekvő hold</item>
-        <item>Első negyed</item>
-        <item>Növekvő hold</item>
-        <item>Telihold</item>
-        <item>Fogyó hold</item>
-        <item>Utolsó negyed</item>
-        <item>Fogyó félhold</item>
-        <item>Újhold</item>
     </string-array>
 </resources>

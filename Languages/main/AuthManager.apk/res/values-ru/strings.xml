@@ -257,6 +257,7 @@
     <string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Установите еженедельную версию (для разработчиков).</string>
     <string name="Su_Package_Forbidden">Приложение \"%1$s\" не имеет ROOT доступ</string>
     <string name="permisson_reject_notice_toast_text">Приложение \"%1$s\" не имеет: %2$s</string>
-    <string name="HIPS_SecurityPrompt_Accept_Once">Разрешить сейчас (%d)</string>
-    <string name="HIPS_SecurityPrompt_Reject_Once">Запретить сейчас (%d)</string>
+    <string name="HIPS_SecurityPrompt_Accept_Once">Разрешить (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Once">Запретить (%d)</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
 </resources>

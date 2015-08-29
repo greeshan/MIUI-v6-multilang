@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Data Wi-Fi</item>
+        <item>Semua apl</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Pelayar</item>
+        <item>Kebenaran</item>
+        <item>Kamera</item>
+        <item>Penggunaan data</item>
+        <item>Data cuaca</item>
+        <item>Cuaca</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kenalan</item>
+        <item>Log panggilan</item>
+        <item>Mesej</item>
+        <item>Mesej multimedia</item>
+        <item>Tetapan sistem</item>
+        <item>Tetapan Wi-Fi </item>
+        <item>Susun atur Skrin Utama</item>
+        <item>Tetapan penggera</item>
+        <item>Nota</item>
+        <item>DND </item>
+        <item>Akaun</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Data</item>
+        <item>Apl</item>
+        <item>Apl dan data</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kenalan</item>
+        <item>Log panggilan</item>
+        <item>Mesej</item>
+        <item>Tetapan Wi-Fi</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kenalan</item>
+        <item>Tetapan Wi-Fi</item>
+        <item>Nota</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Log panggilan</item>
+        <item>Mesej</item>
+    </string-array>
+</resources>

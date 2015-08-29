@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s नोट्स</item>
+        <item quantity="one">1 नोट</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s के लिए %1$s परिणाम</item>
+        <item quantity="one">"\" %2$s  के लिए  %1$s  परिणाम"</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s नोट्स</item>
+        <item quantity="one">%1$s नोट</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s फ़ोल्डर्स</item>
+        <item quantity="one">%1$s फ़ोल्डर</item>
+    </plurals>
+</resources>

@@ -3,7 +3,7 @@
     <string name="app_label">Dokumenty</string>
     <string name="title_open">Otwórz z</string>
     <string name="title_save">Zapisz w</string>
-    <string name="menu_create_dir">Utwórz katalog</string>
+    <string name="menu_create_dir">Utwórz folder</string>
     <string name="menu_grid">Widok siatki</string>
     <string name="menu_list">Widok listy</string>
     <string name="menu_sort">Sortuj według</string>
@@ -20,7 +20,7 @@
     <string name="drawer_open">Pokaż elementy główne</string>
     <string name="drawer_close">Ukryj elementy główne</string>
     <string name="save_error">Nie udało się zapisać dokumentu</string>
-    <string name="create_error">Nie udało się zapisać katalogu</string>
+    <string name="create_error">Nie udało się utworzyć folderu</string>
     <string name="query_error">Nie udało się pobrać listy dokumentów</string>
     <string name="root_recent">Ostatnie</string>
     <string name="root_available_bytes">%1$s wolne</string>
@@ -35,4 +35,9 @@
     <string name="toast_no_application">Nie można otworzyć pliku</string>
     <string name="toast_failed_delete">Nie można usunąć niektórych dokumentów</string>
     <string name="share_via">Udostępnij przez</string>
+    <string name="menu_advanced_hide">Ukryj pamięć wewnętrzną</string>
+    <string name="menu_advanced_show">Pokaż pamięć wewnętrzną</string>
+    <string name="menu_file_size_hide">Ukryj rozmiar pliku</string>
+    <string name="menu_file_size_show">Pokaż rozmiar pliku</string>
+    <string name="menu_select">Zaznacz „^1”</string>
 </resources>

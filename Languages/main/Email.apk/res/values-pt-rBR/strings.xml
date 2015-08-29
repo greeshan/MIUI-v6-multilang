@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="Folders">Pastas</string>
+    <string name="SMTP_independent_verification_text">Verificação independente de SMTP</string>
+    <string name="SMTP_password_text">Senha</string>
+    <string name="SMTP_username_text">Usuário</string>
     <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_menu_overflow_description">Mais opções</string>
@@ -52,6 +54,7 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">O login na conta %s falhou. Mensagem do servidor: %s</string>
     <string name="account_settings_login_dialog_title">Não foi possível fazer o login</string>
     <string name="account_settings_mail_check_frequency_label">Frequência de sincronização</string>
+    <string name="account_settings_mibill_resolve_label">Analizar conteúdo de e-mails</string>
     <string name="account_settings_name_label">Seu nome</string>
     <string name="account_settings_notifications">Configurações de notificação</string>
     <string name="account_settings_notify_label">Notificações de e-mail</string>
@@ -77,6 +80,7 @@
     <string name="account_setup_account_type_headline">Tipo de conta</string>
     <string name="account_setup_account_type_instructions">Que tipo de conta é esta?</string>
     <string name="account_setup_account_type_title">Configuração da conta</string>
+    <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Verifique se o nome de usuário, a senha e as configurações da conta estão corretos.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">Problema com a configuração da conta</string>
     <string name="account_setup_basics_email_label">Endereço de e-mail</string>
@@ -87,7 +91,9 @@
     <string name="account_setup_check_settings_check_incoming_msg">Validando as configurações do servidor…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">Validando as configurações de SMTP…</string>
     <string name="account_setup_check_settings_retr_info_msg">Recuperando informações sobre a conta…</string>
+    <string name="account_setup_correct_address_tips">Digite um endereço de e-mial</string>
     <string name="account_setup_creating_account_msg">Criando conta…</string>
+    <string name="account_setup_deleting_account_msg">Excluindo conta…</string>
     <string name="account_setup_exchange_certificate_title">Certificado do cliente</string>
     <string name="account_setup_exchange_device_id_label">ID do aparelho celular</string>
     <string name="account_setup_exchange_no_certificate">Nenhum</string>
@@ -141,10 +147,13 @@
     <string name="account_setup_names_user_name_empty_error">Este campo não pode ficar em branco.</string>
     <string name="account_setup_names_user_name_label">Seu nome (exibido nas mensagens enviadas)</string>
     <string name="account_setup_need_password_verification">Sua conta possui uma autenticação secundária de senha. A autenticação é necessária.</string>
+    <string name="account_setup_not_disturb_title">Não perturbe</string>
     <string name="account_setup_options_background_attachments_label">Fazer o download de anexos automaticamente quando conectado à rede Wi-Fi</string>
     <string name="account_setup_options_headline">Opções da conta</string>
     <string name="account_setup_options_mail_check_frequency_10min">A cada 10 minutos</string>
+    <string name="account_setup_options_mail_check_frequency_12hour">A cada 12 horas</string>
     <string name="account_setup_options_mail_check_frequency_1hour">A cada hora</string>
+    <string name="account_setup_options_mail_check_frequency_4hour">A cada 4 horas</string>
     <string name="account_setup_options_mail_check_frequency_imap_push">Automática (Push, se o servidor suportar)</string>
     <string name="account_setup_options_mail_check_frequency_label">Frequência de verificação da caixa de entrada</string>
     <string name="account_setup_options_mail_check_frequency_never">Nunca</string>
@@ -195,6 +204,8 @@
     <string name="add_label">Adicionar pasta</string>
     <string name="add_photo_attachment">Anexar imagem</string>
     <string name="add_pre_message_attachments">Add the attachments of previous message?</string>
+    <string name="add_pre_message_attachments_no">Não adicionar</string>
+    <string name="add_pre_message_attachments_yes">Adicionar</string>
     <string name="add_star">Marcar como favorito</string>
     <string name="add_video_attachment">Anexar vídeo</string>
     <string name="address_display_format">%1$s | %2$s</string>
@@ -231,6 +242,7 @@
     <string name="attachment_mgr_name">Anexos</string>
     <string name="attachment_not_exists">O anexo não está disponível.</string>
     <string name="attachment_not_found">Não foi possível fazer download do anexo.</string>
+    <string name="attachment_stop_all">Parar</string>
     <string name="attachment_text">Texto</string>
     <string name="attachment_type_blocked">Não é possível salvar ou abrir este tipo de anexo.</string>
     <string name="attachment_unknown">Arquivo %s</string>
@@ -238,8 +250,7 @@
     <string name="attachments_header">Anexos</string>
     <string name="auth_error_notification_text">Toque para editar as configurações de conta para %s</string>
     <string name="auth_error_notification_title">Erro de autenticação</string>
-    <string name="auto_advance_help_title">"Definir preferências de avanço automático
-(ao excluir mensgens, etc.)"</string>
+    <string name="auto_advance_help_title">Após excluir uma mensagem, ir para...</string>
     <string name="auto_advance_label">Avanço automático</string>
     <string name="auto_advance_summary">Selecione qual tela exibir após excluir uma mensagem</string>
     <string name="auto_sync_off">A sincronização automática está desativada.</string>
@@ -252,6 +263,7 @@
     <string name="bottom_bar_more_delete">Excluir</string>
     <string name="bottom_bar_more_quickreply">Resposta rápida</string>
     <string name="bottom_bar_more_unread">Marcar como não lida</string>
+    <string name="bottom_bar_no_quickreply_toast">Sem resposta rápida</string>
     <string name="bytes">%s B</string>
     <string name="cancel">Cancelar</string>
     <string name="cancel_action">Cancelar</string>
@@ -268,6 +280,7 @@
     <string name="change_account_type">Alterar tipo de conta</string>
     <string name="change_folders_selection_dialog_title">Alterar pastas</string>
     <string name="change_sync_settings">Alterar config. de sincronização</string>
+    <string name="changepw_dialog_tips">Reinsira a senha para %s</string>
     <string name="chat_item_msg_people_unit">pessoas</string>
     <string name="chat_item_msg_user_saying">diz:</string>
     <string name="chat_type_name">conversas</string>
@@ -290,6 +303,7 @@
     <string name="compose_sent">E-mail enviado com sucesso</string>
     <string name="confirm">OK</string>
     <string name="confirm_delete">Excluir este e-mail?</string>
+    <string name="confirm_delete_conversation_title">Excluir</string>
     <string name="confirm_discard_text">Descartar esta mensagem?</string>
     <string name="confirm_response">Enviando…</string>
     <string name="confirm_save_message_no">Descartar</string>
@@ -357,14 +371,20 @@
     <string name="dismiss_tip_hover_text">Dispensar dica</string>
     <string name="done">Concluído</string>
     <string name="done_action">Concluído</string>
+    <string name="donot_disturb_endtime_title">Para</string>
+    <string name="donot_disturb_starttime_title">De</string>
+    <string name="donot_disturb_summary">Notificações de e-mails que são recebidos serão silenciadostions for emails that arrive will be silenced</string>
+    <string name="donot_disturb_title">Não perturbe</string>
     <string name="downlaod_cancel_confirm_download">Parar</string>
     <string name="downlaod_cancel_continue_download">Voltar</string>
     <string name="downlaod_confirm_download">Transferir</string>
     <string name="downlaod_nonWifi_confirm_message">Usar sua conexão de dados móveis para transferir este anexo?</string>
+    <string name="downlaod_nonWifi_confirm_title">Transferir este anexo?</string>
     <string name="download_again">Transferir novamente</string>
     <string name="download_before_sharing">" ainda não foi transferido completamente"</string>
     <string name="download_before_view">Este item ainda não foi transferido.</string>
     <string name="download_cancel_confirm_message">O download será interrompido</string>
+    <string name="download_cancel_confirm_title">Transferir este anexo?</string>
     <string name="download_complete_not_cancel">Download concluído</string>
     <string name="download_confirm_message">Transferir %1$s anexos?</string>
     <string name="download_confirm_title">Transferir anexo</string>
@@ -409,6 +429,7 @@
     <string name="folder_picker_title">Selecionar pastas</string>
     <string name="folder_removed">Mensagem removida da pasta %1$s</string>
     <string name="folder_shortcut_widget_label">Pasta de e-mail</string>
+    <string name="folder_synchronization_mail_settings">Config. de sincr. de pastas</string>
     <string name="forward">Encaminhar</string>
     <string name="forward_attachment">Encaminhar</string>
     <string name="forward_attribution">---------- Mensagem encaminhada ----------&lt;br>De: %1$s&lt;br>Data: %2$s&lt;br>Assunto: %3$s&lt;br>Para: %4$s&lt;br></string>
@@ -429,6 +450,11 @@
     <string name="general_preference_text_zoom_small">Pequeno</string>
     <string name="general_preference_text_zoom_tiny">Muito pequeno</string>
     <string name="generic_attachment_problem">Não foi possível anexar o arquivo.</string>
+    <string name="gmail_acceleration">Usar servidor de proxy para a Conta do Gmail</string>
+    <string name="gmail_login_confirm_to_use_proxy">Usar o servidor de proxy para acessar sua conta Gmail?</string>
+    <string name="gmail_login_verify">Adicionar Conta Gmail</string>
+    <string name="gmail_web_login_go">OK</string>
+    <string name="gmail_web_login_required_message">Fazer login no Gmail</string>
     <string name="head_only_enable_dialog_message">Only the title (instead of the whole email) is downloaded without click under traffic.</string>
     <string name="head_only_enable_dialog_nagative">Reject</string>
     <string name="head_only_enable_dialog_positive">Accept</string>
@@ -555,6 +581,11 @@ Cc: %4$s
     <string name="message_saved">Mensagem salva como rascunho.</string>
     <string name="message_type_name">mensagens</string>
     <string name="message_view_attachment_background_load">Um ou mais anexos de sua mensagem encaminhada serão transferidos antes do envio.</string>
+    <string name="mibill_privacy_policy_button1">Agora não</string>
+    <string name="mibill_privacy_policy_button2">Aceitar</string>
+    <string name="mibill_privacy_policy_description">O Mi Wallet irá analisar o conteúdo de seus e-mails para gerenciar suas faturas de cartão de crédito. Este serviço é desativado por padrão para e-mails corporativos.</string>
+    <string name="mibill_privacy_policy_link">Concordar com &lt;a href=https://www.mipay.com/res/doc/eula/email.html>Acordo do Usuário de Faturas de Cartão de Crédito&lt;/a></string>
+    <string name="mibill_privacy_policy_title">O Mi Wallet analisa o conteúdo de e-mails</string>
     <string name="more_atts_remaining">%1$d restando</string>
     <string name="more_atts_total">%1$d anexos</string>
     <string name="more_context">Mais</string>
@@ -573,6 +604,7 @@ Cc: %4$s
     <string name="no">Não</string>
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">Nenhum app foi encontrado para abrir este anexo.</string>
+    <string name="no_application_found_title">Abrir este anexo.</string>
     <string name="no_contacts">Nenhum contato.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">Nenhuma mensagem</string>
@@ -594,18 +626,22 @@ Cc: %4$s
     <string name="notification_exchange_calendar_added">Agenda Exchange adicionada</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="open_proxy_in_settings">O Gmail não está disponível em sua localização atual. Você ainda poderá enviar e receber mensagens de sua caixa de entrada Gmail ao utilizar nosso servidor proxy. Ative ou desative este recurso a qualquer momento nas Configurações.</string>
     <string name="other_mail">Outro e-mail</string>
     <string name="outbox_alert_button_confirm">Editar</string>
     <string name="outbox_alert_button_no_resend">Não enviar</string>
     <string name="outbox_alert_button_resend">Reenviar</string>
+    <string name="outbox_alert_certificate_error">Exceção no certificado de e-mails, por favor atualize-o</string>
     <string name="outbox_alert_description_auth_error">Erro na autorização com o servidor durante a sincronização da caixa de saída.</string>
     <string name="outbox_alert_description_http_error">Erro HTTP durante a sincronização da caixa de saída.</string>
+    <string name="outbox_alert_description_insufficient_storage_error">Armazenamento insuficiente no servidor de e-mail</string>
     <string name="outbox_alert_description_provision_error">Erro no provisionamento do servidor durante a sincronização da caixa de saída.</string>
     <string name="outbox_alert_description_sent_failed">O tamanho do anexo excede o limite do destinatário.</string>
     <string name="outbox_alert_duplicate_click">Ainda sincronizando…</string>
     <string name="outbox_alert_edit_resend">Editar e reenviar</string>
     <string name="outbox_alert_failed_edit_resend">Não foi possível enviar, edite a mensagem e tente novamente.</string>
     <string name="outbox_alert_mailbox_not_found">Endereço de e-mail não encontrado</string>
+    <string name="outbox_alert_rw_io_error">Exceção de leitura e escrita do e-mail, por favor tente reescrevê-lo e enviá-lo novamente</string>
     <string name="outbox_alert_select_operation">Selecione uma ação</string>
     <string name="outbox_alert_title_sent_failed">Não foi possível enviar o e-mail</string>
     <string name="outbox_no_mails">Vazio</string>
@@ -705,7 +741,10 @@ Cc: %4$s
     <string name="read_string">Mensagem lida</string>
     <string name="recent_folders_heading">Pastas recentes</string>
     <string name="recipient_needed">Adicione ao menos um destinatário.</string>
+    <string name="recipient_needed_title">Atenção</string>
     <string name="recipient_null_dialog_title">Alerta</string>
+    <string name="reduce_the_receiving_frequencye_summary">Sincronizar e-mail com menos frequência durante o modo Não perturbe</string>
+    <string name="reduce_the_receiving_frequencye_title">Sincr. com menor frequência</string>
     <string name="refresh">Atualizar</string>
     <string name="refreshing">Atualizando…</string>
     <string name="refreshing_done">Concluído</string>
@@ -715,6 +754,7 @@ Cc: %4$s
     <string name="remote_search_result">%s e-mails encontrados no servidor</string>
     <string name="remove_account">Remover conta</string>
     <string name="remove_account_confirm">A conta \"%1$s\" será removida do WPS Mail.</string>
+    <string name="remove_account_confirm_title">Remover conta</string>
     <string name="remove_folder">Remover da pasta %1$s</string>
     <string name="remove_star">Remover dos favoritos</string>
     <string name="reply">Responder</string>
@@ -732,14 +772,23 @@ Cc: %4$s
     <string name="save_action">Salvar</string>
     <string name="save_attachment">Salvar</string>
     <string name="save_draft">Salvar rascunho</string>
+    <string name="save_draft_failed">Falha ao salvar rascunho</string>
+    <string name="save_power_summary">Notificações para e-mails recebidos serão silenciadas</string>
+    <string name="save_power_title">Não perturbe</string>
     <string name="saved">Salvo, %s</string>
     <string name="saving">Salvando…</string>
+    <string name="sdcard_cannot_use">O cartãod e armazenamento não pode ser utilizado</string>
     <string name="search_attachment">Pesquisar</string>
     <string name="search_hint">Pesquisar e-mail</string>
     <string name="search_result">Resultados</string>
     <string name="search_results_header">Resultados</string>
     <string name="search_results_loaded">%1$d</string>
     <string name="search_results_searching_header">Pesquisando…</string>
+    <string name="search_tabs_name_all">Tudo</string>
+    <string name="search_tabs_name_recipient">Destinatário</string>
+    <string name="search_tabs_name_sender">Remetente</string>
+    <string name="search_tabs_name_subject">Assunto</string>
+    <string name="search_title">E-mail unificado</string>
     <string name="search_txt_size_limit_prompt">Os termos da pesquisa devem ser maiores que 3 caracteres</string>
     <string name="search_unsupported">O modo de pesquisa não é suportado neste conta.</string>
     <string name="security_changed_ticker_fmt">As configurações de segurança da conta \"%s\" foram alteradas. Nenhuma ação do usuário é necessária.</string>
@@ -809,6 +858,11 @@ Cc: %4$s
     <string name="tip_cannot_switchview_in_unread_folder">Não foi possível alternar visualização no modo de agregação de e-mails não lidos</string>
     <string name="to">Para</string>
     <string name="to_heading">"Para: "</string>
+    <string name="toast_bar_fail_synchronization">Não foi possível conectar-se à rede</string>
+    <string name="toast_bar_insufficient_memory_space">Espaço insuficiente de armazenamento</string>
+    <string name="toast_bar_invalid_account">É necessário fazer o login novamente</string>
+    <string name="toast_bar_no_connection_network">Você não possui uma conexão com a internet</string>
+    <string name="toast_bar_open_gmail_synchronization">Toque para usar um servidor proxy para o Gmail</string>
     <string name="too_large_to_attach_additional">O tamanho do arquivo não pode exceder %1$s.</string>
     <string name="too_large_to_attach_multiple">Um ou mais arquivos não foram anexados. O tamanho dos anexos não pode exceder %1$s.</string>
     <string name="too_large_to_attach_single">O anexo é muito grande para ser adicionado (%1$s).</string>
@@ -823,6 +877,13 @@ Cc: %4$s
     <string name="unsent_messages_in_outbox">%1$s mensagens não enviadas na pasta %2$s</string>
     <string name="updated_at">Atualizado em: %1$s</string>
     <string name="updated_just_now">Atualizado agora mesmo</string>
+    <string name="upload_log">Enviar registros</string>
+    <string name="upload_log_failed">Falha ao enviar registros</string>
+    <string name="upload_log_no">Cancelar</string>
+    <string name="upload_log_success">Os registros foram enviados com sucesso</string>
+    <string name="upload_log_title">Enviar os registros agora？</string>
+    <string name="upload_log_yes">Upload</string>
+    <string name="uploading_logs">Os registros estão sendo enviados</string>
     <string name="validation_failed_prompt">Falha na validação, verifique as configurações de servidor para %s</string>
     <string name="via_domain">via %1$s</string>
     <string name="view_more_conversations">Ver mais conversas</string>
@@ -842,8 +903,34 @@ Toque em &lt;b>Sincronizar Agora&lt;/b> para sincronizar os e-mails uma vez, ou 
     <string name="widget_other_views">Outros</string>
     <string name="wrong_password">A senha digitada está incorreta</string>
     <string name="yes">Sim</string>
+    <string name="you_are_in_mobile_network">Você está utilizando a rede móvel agora</string>
     <string name="zip_viewer_no_file">Nenhum arquivo.</string>
-    <string name="account_setup_options_mail_check_frequency_15min">A cada 15 minutos</string>
-    <string name="account_setup_options_mail_check_frequency_30min">A cada 30 minutos</string>
-    <string name="account_setup_options_mail_check_frequency_5min">A cada 5 minutos</string>
+    <string name="Folders">Pastas</string>
+    <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
+    <string name="account_settings_using_ringtone">Toque</string>
+    <string name="contact_edit_set_black_list">Definir lista de bloqueio</string>
+    <string name="contact_edit_set_phone_contact">Editar contatos do telefone</string>
+    <string name="contact_edit_set_pop_up_tips">Dicas pop-up</string>
+    <string name="contact_edit_set_unread_top">Mostrar e-mails não lidos primeiro</string>
+    <string name="contact_edit_set_vip">Definir VIP</string>
+    <string name="contact_edit_title_permission">Permissões de contatos</string>
+    <string name="contact_edit_title_phone_contact">Lista de telefones do contato</string>
+    <string name="dialog_account_auto_sync_setting_no_open">A sincronização de e-mail está desativada, não é possível receber novas mensagens.</string>
+    <string name="dialog_auto_sync_setting_no_open">A sincronização está desativada, não é possível receber novas mensagens.</string>
+    <string name="folder_list_display_all">Mostrar todas as pastas</string>
+    <string name="folder_list_display_only_import">Mostrar som. pastas importantes</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
+    <string name="imap_password_error">A senha para o servidor de entrada está incorreta</string>
+    <string name="invalid_recipient_title">Erro de destinatário</string>
+    <string name="load_attachment">@string/load_more</string>
+    <string name="oauth_error_description">Não foi possível autenticar</string>
+    <string name="oauth_gmail_login_notify">Digite seu nome de usuário e senha de sua Conta do Google na próxima tela de login.</string>
+    <string name="oauth_login_continue">Continuar</string>
+    <string name="outbox_alert_description_cannot_authenticate">Não foi possível autenticar %s.</string>
+    <string name="outbox_alert_description_reject_by_server">Rejeitado por %s</string>
+    <string name="outbox_alert_description_time_out">Tempo limite de rede atingido</string>
+    <string name="re_download_message_button">Toque para transferir novamente</string>
+    <string name="re_download_message_info">Não foi possível transferir o e-mail</string>
+    <string name="ser_resp_err_map_pserr">Nome de usuário ou senha incorretos</string>
+    <string name="smtp_password_error">A senha para o servidor de saída está incorreta</string>
 </resources>

@@ -27,7 +27,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Újabb</item>
         <item>Korábbi</item>
-        <item>Beszélgetéslista</item>
+        <item>Beérkező</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Csak az archiválás megjelenítése</item>
@@ -37,7 +37,7 @@
     <string-array name="prefSummaries_autoAdvance">
         <item>Törlés után az újabb beszélgetés megjelenítése</item>
         <item>Törlés után a korábbi beszélgetés megjelenítése</item>
-        <item>Törlés után a beszélgetéslista megjelenítése</item>
+        <item>Törlés után a beérkező levelek megjelenítése</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Csak az archiválás megjelenítése</item>

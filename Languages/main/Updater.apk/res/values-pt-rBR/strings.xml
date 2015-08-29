@@ -46,6 +46,7 @@
     <string name="boot_recovery">Reiniciar no modo de Recovery?</string>
     <string name="cancel_download">Parar download da atualização?</string>
     <string name="update_success">Dispositivo atualizado</string>
+    <string name="install_failed">Falha no download</string>
     <string name="download_current_rom">Reinicie para aplicar a atualização</string>
     <string name="later">Depois</string>
     <string name="notification_update_new_version">Atualização disponível</string>
@@ -77,6 +78,11 @@
     <string name="pause">Pausar</string>
     <string name="repeat">Repetir</string>
     <string name="user_begin">Download</string>
+    <string name="recovery_failed_title">Usar o Mi PC Suite para atualizar o sistema</string>
+    <string name="recovery_failed_msg">"Seu dispositivo não possui memória suficiente para entrar no Recovery e atualizar seu sistema. Tente usar o Mi PC Suite no lugar:
+http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_button">OK</string>
+    <string name="recovery_failed_notification_msg">Não foi possível entrar no modo Recovery</string>
     <string name="validate_pkg_failed_title">Não foi possível verificar a atualização</string>
     <string name="validate_pkg_failed_msg">Não foi possível verificar a origem desta atualização. Tente transferí-la novamente.</string>
     <string name="user_intertup_download_title">Download pausado</string>
@@ -184,4 +190,29 @@ Mas você poderá participar novamente na próxima Terça."</string>
     <string name="submit_success">Enviado</string>
     <string name="submit_fail">Não foi posível enviar</string>
     <string name="submit">Enviar</string>
+    <string name="vote_beta">Programa de Feedback de Betas</string>
+    <string name="vote_submit">Enviar</string>
+    <string name="vote_recommend">Recomendar esta atualização</string>
+    <string name="vote_not_recommend">Não recomendar</string>
+    <string name="vote_error_nonetwork">Não foi possível conectar-se à rede</string>
+    <string name="vote_error1">"Parece que você não é um membro
+do Programa de Feedback de Betas"</string>
+    <string name="vote_error2">"Não foi possível enviar o feedback.
+Atualize seu dispositivo e tente novamente"</string>
+    <string name="vote_hint">Obtenha 20 pontos de experiência para o Fórum MIUI quando você votar</string>
+    <string name="vote_join">Votado</string>
+    <string name="vote_experience">Experiência do fórum</string>
+    <string name="vote_error3">"Não foi possível fazer o login.
+Tente fazer o login em sua Conta Mi novamente."</string>
+    <string name="vote_error4">Você já enviou seu feedback</string>
+    <string name="vote_error5">"Algo deu errado
+Não foi possível enviar o feedback"</string>
+    <string name="miui_BBS">" &lt;a href=http://bbs.miui.com>Ir ao Fórum MIUI&lt;/a> "</string>
+    <string name="update_success_reboot_immediately">Dispositivo atualizado</string>
+    <string name="download_success_reboot_immediately">Reinicie par aplicar a atualização</string>
+    <string name="notification_auto_reboot_seccess_title">Dispositivo atualizado automaticamente</string>
+    <string name="updater_wait_for_unzip">Descompactando atualização…</string>
+    <string name="welcom_title">Bem-vindo à MIUI 6</string>
+    <string name="welcom_message">Tudo pronto para começar</string>
+    <string name="welcom_button">OK</string>
 </resources>

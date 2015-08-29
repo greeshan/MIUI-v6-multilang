@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d ഗാനങ്ങൾ കണ്ടു</item>
+        <item quantity="one">%d ഗാനം കണ്ടു</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d ദിവസങ്ങൾ ബാക്കിയുണ്ട്</item>
+        <item quantity="one">%d ദിവസം ബാക്കിയുണ്ട്</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d ഗാനങ്ങൾ ഡൗൺലോഡ് ചെയ്യുന്നതാണ്</item>
+        <item quantity="one">ഗാനം ഡൗൺലോഡ് ചെയ്യുന്നതാണ്</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d പുതിയത്</item>
+        <item quantity="one">%d പുതിയത്</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d ഗാനങ്ങൾ</item>
+        <item quantity="one">%d ഗാനം</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d സമാനമായ ഗാനങ്ങൾ</item>
+        <item quantity="one">%d സമാനമായ ഗാനം</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%dഗാനങ്ങൾ പ്ലേലിസ്റ്റിൽ ചേർത്തു</item>
+        <item quantity="one">ഗാനം പ്ലേലിസ്റ്റിൽ ചേർത്തു</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d ഗാനങ്ങൾ പ്ലേലിസ്റ്റിൽ നിന്ന് നീക്കി</item>
+        <item quantity="one">ഗാനം പ്ലേലിസ്റ്റിൽ നിന്ന് നീക്കി</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d ഗാനങ്ങൾ</item>
+        <item quantity="one">1 ഗാനം</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d ഗാനങ്ങൾ അയക്കുന്നതാണ്</item>
+        <item quantity="one">1 ഗാനം അയക്കുന്നതാണ്</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d ഗാനങ്ങൾ</item>
+        <item quantity="one">1 ഗാനം</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d പാട്ടുകൾ ചേർത്തു</item>
+        <item quantity="one">%d പാട്ട് ചേർത്തു</item>
+    </plurals>
+</resources>

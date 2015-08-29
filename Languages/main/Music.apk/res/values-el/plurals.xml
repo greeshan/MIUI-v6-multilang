@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d τραγούδια βρέθηκαν</item>
+        <item quantity="one">%d τραγούδι βρέθηκε</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d ημέρες απομένουν</item>
+        <item quantity="one">%d ημέρα απομένει</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d τραγούδια θα ληφθούν.</item>
+        <item quantity="one">1 τραγούδι θα ληφθεί.</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d νέα</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">%d τραγούδι</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d παρόμοια τραγούδια</item>
+        <item quantity="one">%d παρόμοιο τραγούδι</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d τραγούδια προστέθηκαν στη λίστα</item>
+        <item quantity="one">1 τραγούδι προστέθηκε στη λίστα</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d τραγούδια διαγράφηκαν από την λίστα</item>
+        <item quantity="one">1 τραγούδι διαγράφηκε από την λίστα</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">1 τραγούδι</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d τραγούδια θα αποσταλούν</item>
+        <item quantity="one">1 τραγούδι θα αποσταλεί</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d τραγούδια</item>
+        <item quantity="one">1 τραγούδι</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d τραγούδια προστέθηκαν</item>
+        <item quantity="one">%d τραγούδι προστέθηκε</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s గమనికలు</item>
+        <item quantity="one">1 గమనిక</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">\"%2$s కోసం %1$s ఫలితాలు</item>
+        <item quantity="one">\"%2$s కోసం %1$s ఫలితం</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s గమనికలు</item>
+        <item quantity="one">%1$s గమనిక</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s ఫోల్డర్‌లు</item>
+        <item quantity="one">%1$s ఫోల్డర్</item>
+    </plurals>
+</resources>

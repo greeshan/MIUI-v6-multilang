@@ -621,6 +621,7 @@
     <string name="online_check_warning_type_by_cmb">Spam</string>
     <string name="livetalk_provider_info">%s támogatásával</string>
     <string name="livetalk_waiting">Várakozás…</string>
+    <string name="livetalk_left_minute">%s van hátra</string>
     <string name="description_direction_down_left">Balra le</string>
     <string name="description_direction_down_right">Jobbra le</string>
     <string name="description_direction_left">Balra: %s</string>
@@ -647,4 +648,5 @@
     <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
     <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
     <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
+    <string name="antispam_notification_title">Ismeretlen szám</string>
 </resources>

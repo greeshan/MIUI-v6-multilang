@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sää</string>
+    <string name="updating">Päivitetään</string>
+    <string name="failed_to_locate">Paikallistaminen epäonnistui</string>
+    <string name="no_weather">Kohteelle %s ei tällä hetkellä ole säätä.</string>
+    <string name="add_setting">Napauta tässä lisätäksesi kaupunkeja</string>
+    <string name="net_error">Verkko ei ole käytettävissä. Tarkista se!</string>
+</resources>

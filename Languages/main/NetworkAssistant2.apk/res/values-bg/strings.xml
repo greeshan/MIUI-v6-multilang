@@ -49,12 +49,15 @@
     <string name="firewall_fragment_sys_listempty">Празно</string>
     <string name="firewall_fragment_nonesys_listempty">Празно</string>
     <string name="firewall_service_network_blocked">%1$s е ограничено от използването на %2$s мрежи</string>
+    <string name="firewall_network_restrict_notify_title">%1$s няма разрешение за свързване към %2$s.</string>
+    <string name="firewall_network_restrict_notify_message">Чукнете за промяна на настройките.</string>
     <string name="usage_sorted_activity_lable">Използване на данни</string>
     <string name="usage_sorted_loading_text">Зарежда се…</string>
     <string name="usage_sorted_empty_text">Празно</string>
     <string name="person_hotpot">Мобилни т.достъп</string>
     <string name="system_app">Системни приложения</string>
     <string name="deleted_apps">Изтрити приложения</string>
+    <string name="root">ROOT достъп</string>
     <string name="sorted_button">Сортиране</string>
     <string name="app_detail">Детайли</string>
     <string name="app_version">Версия</string>
@@ -193,10 +196,15 @@
     <string name="network_assistant_upgraded_body">Докоснете за ограничаване на трафика.</string>
     <string name="lock_screen_traffic_warn_title">Предупреждение за трафик</string>
     <string name="lock_screen_traffic_notify_body">Заключен за %2$s на %1$s, изп. данни %3$s</string>
-    <string name="lock_screen_setting_summary">Показване на известие след като използвате 100 КБ</string>
     <string name="timeshow_h_m">%1$dч %2$dм</string>
     <string name="timeshow_m_s">%1$dм %2$dс</string>
     <string name="timeshow_s">%dс</string>
+    <string name="timeshow_m">%dм</string>
+    <string name="timeshow_h">%.1fh</string>
+    <string name="timeshow_h_int">%dч</string>
+    <string name="lock_screen_traffic_guide_notification_title">Използвани %s</string>
+    <string name="lock_screen_traffic_guide_notification_summary">Мобилни данни, използвани докато телефона е заключен.</string>
+    <string name="lock_screen_traffic_purchase_textview">Купи (за Китай)</string>
     <string name="free_time_traffic_title">Въведете лимит за данни при слаб трафик</string>
     <string name="free_time_traffic_hint">Въведете лимит за данни при слаб трафик</string>
     <string name="traffic_protection_label">Предупреждение при превишаване</string>
@@ -211,6 +219,7 @@
     <string name="traffic_correction_start_correction_failed">Грешна заявка. Проверете настройките на оператора.</string>
     <string name="traffic_correction_success">Употребата на данни е актуализирана</string>
     <string name="traffic_correction_failed">Не може да се получи информация за трафика на данни</string>
+    <string name="traffic_correction_success_notify_message">Показване на детайлите.</string>
     <string name="traffic_config_alert_title">%s корекция</string>
     <string name="traffic_config_alert_ok">OK</string>
     <string name="traffic_config_alert_cancel">Отказ</string>
@@ -279,6 +288,9 @@ Check with your service provider for more info."</string>
     <string name="traffic_saving_button_start">Активиране</string>
     <string name="traffic_saving_button_stop">Деактивиране</string>
     <string name="traffic_saving_button_sorted">Детайли</string>
+    <string name="traffic_saving_button_mng">Управление на прил. за ползване на данни</string>
+    <string name="traffic_saving_start_tip_title">Активирай</string>
+    <string name="traffic_saving_start_tip_context">"&lt;big>&lt;font color='#7F000000'>Автоматично активиране на спестяване на данни.&lt;/font>&lt;/big>&lt;br />&lt;br />&lt;font color='#FF000000'>If you have a monthly data plan, remember to turn off Data saver for individual apps to avoid additional charges from your carrier.&lt;/font>"</string>
     <string name="traffic_saving_button_sorted_chose_simcard">Сортиране по</string>
     <string name="traffic_saving_msg_today">Спестено днес:</string>
     <string name="traffic_saving_msg_month">Спестено за месеца:</string>
@@ -298,6 +310,8 @@ Check with your service provider for more info."</string>
     <string name="pref_traffic_saving_switch_hint">Използване на proxy за компресиране на данните</string>
     <string name="pref_traffic_saving_notify_switch">Показване в лентата с известия</string>
     <string name="pref_traffic_saving_notify_switch_hint">Показване на информация за спестените данни в лентата с известия</string>
+    <string name="pref_traffic_saving_auto_add_whitelist">Ограничи изп. данни от нови прил.</string>
+    <string name="pref_traffic_saving_auto_add_whitelist_hint">Автоматично активиране на Спестяване на данни за новоинсталирани приложения, за които е приложимо спестяването на данни</string>
     <string name="pref_traffic_saving_whitelist">Изключения</string>
     <string name="pref_traffic_saving_whitelist_hint">Използването на данни от тези приложения няма да се ограничава</string>
     <string name="pref_traffic_saving_issue">Помощ</string>
@@ -327,6 +341,18 @@ Check with your service provider for more info."</string>
     <string name="chat_uint">" часа"</string>
     <string name="read_unit">" статии"</string>
     <string name="checkout_traffic_saving_history">Покажи историята</string>
+    <string name="traffic_saving_one_key_optimize">Оптимизиране за спестяване на данни</string>
+    <string name="traffic_saving_need_optimize">Може да се оптимизира</string>
+    <string name="traffic_saving_optimized">Вече е оптимизирано</string>
+    <string name="traffic_saving_ratio">Спестени данни: %.2f%%</string>
+    <string name="traffic_saving_ratio_low">Не могат да се спестят мобилни данни</string>
+    <string name="traffic_saving_recommanded_open">Включване</string>
+    <string name="traffic_saving_recommanded_close">Изключване</string>
+    <string name="traffic_saving_notification_button_start">Активирай</string>
+    <string name="pref_traffic_saving_pic_compress_level">Ниво на компресиране на снимките</string>
+    <string name="pref_traffic_saving_no_compress">Без компресиране</string>
+    <string name="pref_traffic_saving_compressed">Компресирано</string>
+    <string name="traffic_saving_pic_compress_orig">Оригинал</string>
     <string name="mi_service_framework">Mi Service Framework</string>
     <string name="mi_service_app_detail">Детайли за употребата на данни</string>
     <string name="mi_service_traffic_detail">Framework детайли</string>
@@ -372,23 +398,10 @@ Check with your service provider for more info."</string>
     <string name="privacy_prompt_traffic_adjust_message">Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за обновяване на шаблоните за SMS заявки и за проверка дали услугата се поддържа в региона ви.</string>
     <string name="privacy_prompt_traffic_purchase_message">Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за получаване на възможните опции за поръчка на мобилни данни.</string>
     <string name="privacy_prompt_tc_sms_report_message">Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi с цел обновяване на информацията за използваните от вас данни.</string>
-    <string name="title_limit_traffic_per_day">Дневен лимит за данни</string>
-    <string name="pref_title_traffic_limit_number">Размер</string>
-    <string name="pref_title_over_traffic_limit_warning">При превишаване</string>
-    <string name="reach_daily_limit_value_title">Достигнахте дневният си лимит за данни</string>
-    <string name="reach_daily_limit_value_body">Ограничете използването на мобилни данни.</string>
-    <string name="daily_limit_network_available_body">Докоснете за преглед на използваните данни.</string>
-    <string name="daily_limit_over_message">Превишихте дневния си лимит за данни.</string>
-    <string name="three_percent_total_pkg">%s (3%% от месечния ви план за данни)</string>
-    <string name="five_percent_total_pkg">%s (5%% от месечния ви план за данни)</string>
-    <string name="ten_percent_total_pkg">%s (10%% от месечния ви план за данни)</string>
     <string name="international_roaming_setting">Международен роуминг</string>
     <string name="pref_allow_connect_network_title">Международен роуминг на данни</string>
-    <string name="pref_allow_connect_network_summary">Свързване към услугите за данни при международен роуминг</string>
     <string name="pref_allow_connect_network_whitelist_title">Позволяване на изключения</string>
-    <string name="pref_allow_connect_network_whitelist_summary">Разрешаване на приложенията в списъка с изключения да се свързват с услугите за данни при международен роуминг</string>
     <string name="pref_whitelist_setting">Изключения</string>
-    <string name="alter_dialog_message">Свързването към услуги за данни в условия на международен роуминг може да доведе до високи такси от мобилния ви оператор. Разрешавате ли на приложенията в списъка на изключения да се свързват с услуги за данни при международен роуминг?</string>
     <string name="add_white_list">Добави</string>
     <string name="international_roaming_whitelist_count">%d прил-я могат да се свързват с услугите за данни при международен роуминг</string>
     <string name="firewall_rule_group_title_roaming">Международен роуминг</string>
@@ -401,29 +414,158 @@ Check with your service provider for more info."</string>
     <string name="roaming_start_body">Разрешаване на приложенията в списъка с изключения да се свързват с услугите за данни при международен роуминг.</string>
     <string name="dialog_app_roaming_title">Междунардният роуминг не е активиран за %1$s</string>
     <string name="dialog_app_roaming_message">Когато сте в усовия на международен роуминг, само добавените в списъка с изключения приложения ще могат да използват услугите за данни. %1$s не е добавено към списъка на изключенията. Преглед на списъка сега?</string>
+    <string name="add_miservice_dialog_title">MIUI service framework</string>
+    <string name="add_miservice_dialog_content">%s изисква да добавите MIUI service framework в изключенията. Може да получавате известия от MIUI и другите приложения.</string>
+    <string name="pref_roaming_daily_limit_setting">Дневен лимит за данни при роуминг</string>
+    <string name="dialog_roaming_apps_sorted_title">Сортиране по</string>
+    <string name="hints_install_apps_new">не е използвано</string>
+    <string name="hints_install_apps_today">използвано днес</string>
+    <string name="mian_page_primary_txt">Международен роуминг</string>
+    <string name="hints_input_roaming_daily_limit">Въведете лимит за данни</string>
+    <string name="roaming_limit_notification_title">Достигнахте дневния лимит за данни в роуминг</string>
+    <string name="roaming_limit_warning_notification_body">Показване на използваните данни.</string>
+    <string name="roaming_limit_network_notification_body">Показване на достъпните мрежи</string>
+    <string name="roaming_limit_dialog_message">Достигнахте дневния лимит за данни в роуминг.</string>
+    <string name="title_limit_traffic_per_day">Дневен лимит за данни</string>
+    <string name="pref_title_traffic_limit_number">Размер</string>
+    <string name="pref_title_over_traffic_limit_warning">При превишаване</string>
+    <string name="reach_daily_limit_value_title">Достигнахте дневният си лимит за данни</string>
+    <string name="reach_daily_limit_value_body">Ограничете използването на мобилни данни.</string>
+    <string name="reach_daily_limit_value_body_open_traffic_saving">Включи спестяване на данни.</string>
+    <string name="daily_limit_network_available_body">Докоснете за преглед на използваните данни.</string>
+    <string name="daily_limit_network_available_body_open_traffic_saving">Tap to turn on Mobile data.</string>
+    <string name="daily_limit_over_message">Превишихте дневния си лимит за данни.</string>
+    <string name="three_percent_total_pkg">%s (3%% от месечния ви план за данни)</string>
+    <string name="five_percent_total_pkg">%s (5%% от месечния ви план за данни)</string>
+    <string name="ten_percent_total_pkg">%s (10%% от месечния ви план за данни)</string>
     <string name="traffic_setting_completed">ОК</string>
     <string name="traffic_setting_extra_pkg_title">Допълнителни настройки</string>
     <string name="traffic_setting_extra_pkg_summary">Регулиране на пакет и лимит за използвани данни</string>
     <string name="traffic_setting_extra_pkg_oversea_summary">Регулиране на пакет и лимит за използвани данни</string>
-    <string name="traffic_setting_daily_limit_summary">Задаване на лимит от използвани данни</string>
     <string name="traffic_setting_extra_traffic_title">Допълнителни настройки</string>
     <string name="traffic_setting_step_num">Настройки за пакет от данни</string>
     <string name="traffic_setting_open">Вкл.</string>
     <string name="traffic_setting_app_count">%d приложения</string>
-    <string name="traffic_setting_update_template_falure">Няма връзка с мрежата</string>
     <string name="traffic_warning_purchase_title">Известие за използвани данни</string>
     <string name="traffic_purchase_body" />
     <string name="traffic_purchse_suggestion">Лимитът за данни е надвишен</string>
     <string name="traffic_over_purchase_title">Лимитът за данни е надвишен</string>
     <string name="traffic_over_purchase_body">Докоснете за преглед на детайлите.</string>
     <string name="traffic_over_purchase_link" />
+    <string name="repair_loading_text">Зарежда се…</string>
+    <string name="network_diagnostics">Тест на мрежата</string>
+    <string name="btn_start_diagnostic">Старт</string>
+    <string name="btn_stop_diagnostic">Стоп</string>
+    <string name="btn_finish_diagnostic">ОК</string>
+    <string name="main_toolbar_internet_by_pc_brige">Интернет чрез USB</string>
+    <string name="main_toolbar_internet_by_wifi">Свързване чрез Wi-Fi</string>
+    <string name="main_toolbar_internet_by_mobiledata">Свързване чрез мобилни данни</string>
+    <string name="connect_internet_by_usbshare">Интернет чрез USB</string>
+    <string name="connect_internet_by_mobiledata">Свързване чрез мобилни данни</string>
+    <string name="connect_internet_by_wifi">Свързване чрез Wi-Fi</string>
+    <string name="unable_connect_internet">Не може да се свърже с мрежата</string>
+    <string name="enable_network">Включете мобилните даннни</string>
+    <string name="disable_air_mode">Изклчете самолетен режим</string>
+    <string name="repair">Поправи</string>
+    <string name="check_network_state">Проверка на състоянието на мрежата</string>
+    <string name="current_network_state_not_need_diagnose">Всичко е наред</string>
+    <string name="apn_exception_title">Проверете APN настройките</string>
+    <string name="apn_exception_summary">Настройките за APN на оператора не са правилни</string>
+    <string name="dns_exception_title">Проверка на DNS настройките</string>
+    <string name="dns_exception_summary">Настройкита за DNS на рутера ви са недостъпни.</string>
+    <string name="wifi_exception_title">Тест на Wi-Fi</string>
+    <string name="wifi_exception_summary">Тест на достъпните за свързване Wi-Fi мрежи</string>
+    <string name="signal_exception_title">Слаб сигнал на мрежата</string>
+    <string name="signal_exception_summary">Не може да се свърже с мрежата.</string>
+    <string name="usbsharenet_exception_title">Тест на мрежа чрез USB</string>
+    <string name="usbsharenet_exception_summary">Не може да се проверява свързване чрез Mi PC Suite.</string>
+    <string name="usbsharenet_pc_exception_summary">Не е възможно да се свържете към мрежата чрез споделена връзка. Проверете връзката на вашия компютър.</string>
+    <string name="gateway_exception_title">Тест на рутера</string>
+    <string name="gateway_exception_summary">Проверете рутера си и опитайте отново.</string>
+    <string name="gateway_exception_summary2">Не може да се установи връзка със сървъра</string>
+    <string name="other_exception_title">Проверка за други грешки</string>
+    <string name="other_exception_summary">Нямате връзка с интернет</string>
+    <string name="see_detail">Детайли</string>
+    <string name="choose">Изберете</string>
+    <string name="pay_charge">Поръчка на още данни</string>
+    <string name="replace_dns">Автоматично заместване</string>
+    <string name="load_fail">Неуспешно зареждане</string>
     <string name="notify_setting_pkg_title">Задаване на месечен лимит за данни</string>
+    <string name="notify_setting_pkg_title_for_slotnum">Задай месечен лимит от данни за %s</string>
     <string name="notify_weekly_pkg_body">%s използвани тази седмица. Чукнете, за да зададете лимит.</string>
     <string name="notify_daily_data_usage_body">%s използвани днес. Чукнете, за да зададете лимит.</string>
     <string name="notify_month_traffic_body">%s използвани този месец. Чукнете, за да зададете лимит.</string>
     <string name="notify_daily_limit_title">Задаване на дневен лимит за данни</string>
+    <string name="notify_daily_limit_title_for_slotnum">Задай дневен лимит от данни за %s</string>
     <string name="notify_daily_limit_body">%s използвани тази седмица. Чукнете, за да зададете лимит.</string>
+    <string name="notify_daily_traffic_saving_title">%s used today</string>
+    <string name="network_blocked_notification_summary">Чукнете за преглед на детайлите.</string>
+    <string name="network_blocked_switch_wifi">Превключване на мрежите</string>
+    <string name="wifi_network_blocked_notification_title">Нямате връзка с интернет</string>
+    <string name="data_network_blocked_notification_title">Няма интернет връзка</string>
+    <string name="sim_state_exception_summary">Нещо не е наред с вашата SIM карта.</string>
+    <string name="network_operator_exception_summary">Не е възможно да активирате вашата SIM карта. Уверете се, че правилно сте поставили SIM картата и мобилните данни са активирани от вашия оператор.</string>
+    <string name="network_blocked_connected_open_wifi">Свързан към публична мрежа</string>
+    <string name="network_connected_exception_title">Тест на мрежата</string>
+    <string name="protocol_exception_title">Диагностика на мрежата</string>
+    <string name="protocol_loop_back_exception_summary">Неуспешен тест. Препоръчваме ви да изпратите отчет за грешката чрез приложението Отзиви.</string>
+    <string name="ip_address_exception_summary">Неуспешно получаване на IP адрес. Ако се повтори тази грешка, опитайте да зададете статичен IP адрес.</string>
+    <string name="local_ip_exception_summary">Неуспешно получаване на IP адрес. За да докладвате този проблем до MIUI, отидете в приложението Отзиви и изпратете лог от устройството ви.</string>
+    <string name="renew_ip">Нов опит</string>
+    <string name="network_permission_exception_tips">Не е възможно да използвате мобилни данни.</string>
+    <string name="open_now">Позволи на прил. използването на мобилни данни</string>
+    <string name="network_roaming_exception_tips">Не е възможно да използвате мобилни данни в роуминг.</string>
+    <string name="network_mobile_exception_detail">"Вашето устройство не може да се свърже с интернет:
+
+1. Уверете се, че не сте надвишили лимита си за данни при вашия оператор.
+
+2. Ако току-що сте заредили нов пакет от данни, рестартирайте устройството си и опитайте отново.
+
+3. Сигнала на оператора ви може да е твърде слаб на мястото, на което се намирате."</string>
+    <string name="network_sim_exception_detail">"Може да има проблем с вашата SIM карта:
+
+1. Уверете се, че настройките ви за мобилни данни съвпадат с препопъчваните от вашия оператор. Опитайте да използвате друга SIM карта за проба.
+
+2. Ако използвате две SIM карти, опитайте с размяната им в слота на устройството.
+
+3. Уверете се, че вашата SIM карта и слот на телефона не са повредени. Проверете дали използваната от вас SIM карта е правилно поставена в SIM гнездото на вашето устройство."</string>
+    <string name="network_route_exception_detail">"Може да има проблем с рутера, с който сте свързани:
+
+&lt;b>1. Проблеми с публични Wi-Fi мрежи
+&lt;/b>Ако сте свързани към публична Wi-Fi мрежа броят на потребителите, свързани към тази мрежа може да забави или създаде проблеми с връзката. Превключете към друга мрежа и опитайте отново.
+
+2.&lt;b> Грешки от интернет доставчика
+У&lt;/b>верете се, че правилно сте настроили интернет връзката при вашия доставчик.
+
+3.&lt;b> Хардуерни проблеми с рутера
+О&lt;/b>питайте да рестартирате рутера си или да проверите admin настройките му.
+
+4.&lt;b> Други проблеми с рутера
+П&lt;/b>печетете упътването на вашия рутер и нулирайте настроките му в заводско състояние.
+
+5.&lt;b> Уверете се, че вашия рутер е свързан правилно
+О&lt;/b>питайте връзката с друг Ethernet кабел. Ако подозирате грешка в свързаността в домът ви, свържете се с вашия интернет доставчик."</string>
+    <string name="permission_exception_title">Показване на мрежовите разрешения</string>
+    <string name="permission_exception_summary">Някой приложения нямат разрешение за свързване към интернет</string>
+    <string name="networkchanged_exception_title">Променена връзка</string>
+    <string name="networkchanged_exception_summary">Връзката с мрежата бе променена. Моля, тествайте отново.</string>
+    <string name="miuishare_title_more">Още</string>
+    <string name="miuishare_title_share">Сподели</string>
+    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="network_not_available">Няма връзка с мрежата</string>
+    <string name="no_network_btn">Опитай пак</string>
     <string name="notification_content_title">Използвани %1$s по време на закл.</string>
     <string name="notification_title">%1$s-%2$s: около %3$s използвани</string>
     <string name="privacy_prompt_purchase_history_message">Вашия телефонен номер и данни за оператора ще бъдат изпратени до сървърите на Xiaomi за получаване на историята с поръчките ви за мобилни данни.</string>
+    <string name="alter_dialog_message">Свързването към услуги за данни в условия на международен роуминг може да доведе до високи такси от мобилния ви оператор. Разрешавате ли на приложенията в списъка на изключения да се свързват с услуги за данни при международен роуминг?</string>
+    <string name="pref_allow_connect_network_summary">Свързване към услугите за данни при международен роуминг</string>
+    <string name="pref_allow_connect_network_whitelist_summary">Разрешаване на приложенията в списъка с изключения да се свързват с услугите за данни при международен роуминг</string>
+    <string name="traffic_setting_daily_limit_summary">Задаване на лимит от използвани данни</string>
+    <string name="lock_screen_setting_summary">Показване на известие след като използвате 100 КБ</string>
+    <string name="traffic_setting_update_template_falure">Няма връзка с мрежата</string>
+    <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top up now"</string>
+    <string name="arrearage_exception_title">Your balance is too low</string>
+    <string name="pref_title_diagnostics_dont_show_float_notification">Показване на предупреждения в лентата с известия</string>
+    <string name="captive_portal_exception_title">Свързване към публична мрежа</string>
 </resources>

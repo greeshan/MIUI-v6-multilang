@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Метеорологічна служба</string>
+    <string name="choose_city">Виберіть місто</string>
+    <string name="searching">Пошук, будь ласка, почекайте...</string>
+    <string name="no_found">Не знайдено міста з %s. Будь ласка, перевірте введені слова.</string>
+    <string name="net_error">Мережа недоступна. Будь ласка, перевірте її.</string>
+    <string name="no_city_error">Не отримано інформацію міста. Будь ласка, правильно встановіть час і часовий пояс.</string>
+    <string name="searching_fail">Не знайдено місто.</string>
+    <string name="no_weather_error">Не отримано інформацію про погоду. Будь ласка, правильно встановіть час системи і часовий пояс.</string>
+    <string name="no_weather">Зараз нема прогнозу погоди для %s.</string>
+    <string name="setting_title">Налаштування</string>
+    <string name="temperature">Температура у градусах</string>
+    <string name="tem_celsius">Цельсій</string>
+    <string name="cities_title">Міста</string>
+    <string name="update_fre">Поновити частоту</string>
+    <string name="every12">Кожні 12 годин</string>
+    <string name="weatherserver">Сервер погоди</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Скасувати</string>
+    <string name="menu_add_city">Додати місто</string>
+    <string name="add_city">Натисніть піктограму, щоб додати нове місто</string>
+    <string name="remove">Вилучити</string>
+    <string name="warn">Можна додати макс. 8 міст.</string>
+    <string name="has_chosen">було вибрано.</string>
+    <string name="no_city">Нема міст</string>
+    <string name="powered_by">Працює від:</string>
+    <string name="menu_about">Про</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Delete</string>
+    <string name="no">Скасувати</string>
+    <string name="select_all">Вибрати все</string>
+    <string name="deselect_all">Зняти вибір з усіх</string>
+    <string name="delete">Delete</string>
+</resources>

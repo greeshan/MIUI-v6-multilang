@@ -27,7 +27,7 @@
     <string name="download">Pobierz</string>
     <string name="downloading">Pobieranie</string>
     <string name="insufficient_drm_rights">Wykryto niewystarczające uprawnienia DRM.</string>
-    <string name="copy_message_text">Kopiuj</string>
+    <string name="copy_message_text">Kopiuj tekst</string>
     <string name="copy_message_text_success">Skopiowano!</string>
     <string name="done">Gotowe</string>
     <string name="move_up">Przesuń w górę</string>
@@ -110,7 +110,7 @@
     <string name="pref_title_mms_read_reports">Raporty przeczytania</string>
     <string name="pref_title_sms_delete">Limit wiadomości SMS</string>
     <string name="pref_title_mms_delete">Limit wiadomości MMS</string>
-    <string name="pref_messages_to_save">Set number of messages to save</string>
+    <string name="pref_messages_to_save">Liczba wiadomości</string>
     <string name="pref_title_storage_status">Pojemność skrzynki SMS</string>
     <string name="pref_title_mms_auto_retrieval">Autoodbieranie</string>
     <string name="pref_summary_mms_auto_retrieval">Odbierz wiadomości automatycznie</string>
@@ -329,8 +329,8 @@
     <string name="send_signature_confirm_dialog_title">Potwierdzenia wysyłania</string>
     <string name="send_signature_confirm_dialog_message">Brak treści w wiadomości, czy na pewno wysłać?</string>
     <string name="enter_edit_mode">Edycja</string>
-    <string name="check_all">Zaznacz wszystkie</string>
-    <string name="batch_delete_confirm_dialog_message">Usuń %1$s wybranych wiadomości</string>
+    <string name="check_all">Wszystkie</string>
+    <string name="batch_delete_confirm_dialog_message">Usunąć %1$s wybranych wiadomości?</string>
     <string name="batch_deleting_progress_message">Usuwanie wybranych...</string>
     <string name="batch_deleting_message_progress_message">Usuwanie wybranych wiadomości</string>
     <string name="attach_subject">Temat</string>
@@ -339,7 +339,7 @@
     <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
     <string name="activity_not_found_uri">Nie znaleziono odpowiedniego programu</string>
     <string name="fetion_prefix">[Otwórz]</string>
-    <string name="chenghu_disable_mms">Nieprawidłowy adres MMS</string>
+    <string name="chenghu_disable_mms">Nie możesz używać pseudonimów w MMS</string>
     <string name="non_english_subject_limit">Limit 13 znaków dla nieangielskich tematów</string>
     <string name="english_subject_limit">40 character limit</string>
     <string name="text_in_popup_saved_to_clipboard">Tekst został zapisany w schowku</string>
@@ -392,12 +392,11 @@
     <string name="mx_activate_hint_server">Zostanie wysłany międzynarodowy SMS aktywacyjny.</string>
     <string name="mx_activate_int_hint_server">Zostanie wysłany międzynarodowy SMS aktywacyjny.</string>
     <string name="need_download">Oczekiwanie na synchronizację...</string>
-    <string name="found_wild_messages_title">Pobrane wiadomości</string>
-    <string name="found_wild_messages">"Znaleziono wiadomości z innych numerów powiązanych z kontem Xiaomi: 
-  %s 
-Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
-    <string name="found_old_messages_title">Skopiuj wiadomości</string>
-    <string name="found_old_messages">Znaleziono %1$s wiadomości na starym koncie telefonu. Chcesz je skopiować na nowe konto: %2$s?</string>
+    <string name="found_wild_messages_title">Synchronizacja SMS w Chmurze</string>
+    <string name="found_wild_messages_guide_settings_desc">Włącz synchronizację SMS z Chmurą w ustawieniach SMS.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Aby zsynchronizować wiadomości z Chmurą wpisz się na swoje konto Xiaomi i włącz synchronizację SMS.</string>
+    <string name="found_old_messages_title">Skopiować wiadomości z innych kart SIM?</string>
+    <string name="found_old_messages">Skopiować wiadomości z %1$s do %2$s?</string>
     <string name="show_all_messages">Pokaż wszystkie wiadomości</string>
     <string name="loading_all_messages">Wczytywanie wiadomości...</string>
     <string name="mx_online">Połączono</string>
@@ -409,7 +408,10 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="unknown_num">Nieznany numer</string>
     <string name="in_sms">Wiadomość</string>
     <string name="sms_content">Treść wiadomości</string>
-    <string name="hint_search_sms">%d SMS</string>
+    <string name="hint_search_sms">%d wiadomości</string>
+    <string name="cloud_state_sync_finished">Zsynchronizowano</string>
+    <string name="cloud_state_syncing">Synchronizowanie z Chmurą…</string>
+    <string name="cloud_state_disabled">Synchronizacja wyłączona</string>
     <string name="search_show_more_results">Więcej</string>
     <string name="add_private_contact">Dodaj prywatny kontakt</string>
     <string name="private_settings">Ustawienia</string>
@@ -447,6 +449,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="context_menu_add_to_browser_favorite">Dodaj do ulubionych w Przeglądarce</string>
     <string name="restore_all_button_msg">Przywróć wszystkie wiadomości wysłane z tego numeru</string>
     <string name="no_block_button_msg">Nie blokuj wiadomości z tego numeru</string>
+    <string name="reply_button_msg">Odpowiedz</string>
     <string name="restore_blocked_message">Przywróć zablokowane wiadomości</string>
     <string name="overwrite_edited_content">Edytowana treść zostanie nadpisana. Kontynuować?</string>
     <string name="back_to_message_list">Powrót do listy wiadomości</string>
@@ -463,6 +466,8 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="sp_conversation_title">Powiadomienia o wiadomościach</string>
     <string name="title_show_sms_template">Wykryj kody weryfikacyjne</string>
     <string name="pref_show_sms_template_summary">Kopiuj kody weryfikacyjne do formularzy</string>
+    <string name="title_show_blocked_messages">Pokaż blokowane SMS</string>
+    <string name="pref_show_blocked_messages_summary">Pokaż blokowane SMS w jednym wątku</string>
     <string name="sp_mark_as_read_title">Przeczytane wiadomości</string>
     <string name="sp_mark_as_read">Oznaczyć wiadomości jako przeczytane?</string>
     <string name="sp_mark_as_read_progress">Oznaczanie wiadomości...</string>
@@ -505,6 +510,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Anuluj</string>
+    <string name="cloud_recommend_msg">Dotknij by zsynchronizować z Chmurą.</string>
     <string name="view_hms_details">Szczegóły</string>
     <string name="xiaomi_service_number">Numer serwisowy</string>
     <string name="retrive_hms_tips">Przywracanie...</string>
@@ -515,6 +521,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="file_create_time">Utworzono:</string>
     <string name="file_size">Rozmiar:</string>
     <string name="file_title">Nazwa:</string>
+    <string name="festival_networking_title">Notice</string>
     <string name="festival_networking_desc">This feature needs to connect to the internet to function normally.</string>
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">"Don't show again."</string>
@@ -523,7 +530,6 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="view_hms_attachment_fail">Nie można pobrać zdjęcia</string>
     <string name="mx_type_guide">Wiadomości w chmurze umożliwiają wysyłanie SMS między urządzeniami z MIUI</string>
     <string name="mx_dspt_provision">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
-    <string name="mx_activate_user_agreement_p1">"Korzystając z usługi Wiadomości w chmurze zgadzasz się na "</string>
     <string name="mx_activate_dlg_title">Aktywuj Wiadomości w chmurze</string>
     <string name="menu_send_as_common">Wyślij jako SMS</string>
     <string name="message_sent">Wysłana</string>
@@ -551,4 +557,11 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_dialog_database">Baza danych:</string>
     <string name="storage_dialog_available_space">Dostępne miejsce:</string>
+    <string name="storage_unavailable">Brak dostępnego miejsca</string>
+    <string name="security_alert_desc">"The sender isn't in your contacts. &lt;u>&lt;font color=red>Report this number&lt;/font>&lt;/u>"</string>
+    <string name="security_alert_dialog_title">Report</string>
+    <string name="security_alert_dialog_desc">Report this number (%s) and message by sending it to Xiaomi for review.</string>
+    <string name="sms_report_failed">Nie można wysłać raportu</string>
+    <string name="sms_report_success">Raport wysłany</string>
+    <string name="mx_activate_user_agreement_p1">"Korzystając z usługi Wiadomości w chmurze zgadzasz się na "</string>
 </resources>

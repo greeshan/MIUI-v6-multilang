@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d தொடர்புகள்</item>
+        <item quantity="one">%d தொடர்பு</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d செய்திகள்</item>
+        <item quantity="one">%d செய்தி</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d குறிப்புகள்</item>
+        <item quantity="one">%d குறிப்பு</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d படங்கள்</item>
+        <item quantity="one">%d படம்</item>
+    </plurals>
+</resources>

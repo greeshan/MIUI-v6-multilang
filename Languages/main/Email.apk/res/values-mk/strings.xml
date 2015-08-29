@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="Folders">Папки</string>
     <string name="abc_action_bar_home_description">Навигирај до дома</string>
     <string name="abc_action_bar_up_description">Отиди до</string>
     <string name="abc_action_menu_overflow_description">Повеќе опции</string>
@@ -200,7 +199,6 @@
     <string name="always_show_images_toast">Слики од овој испраќач ќе бидат прикажани автоматски.</string>
     <string name="annex_size">прикачувања</string>
     <string name="app_name">Пошта</string>
-    <string name="application_mime_type">апликација/е-пошта-ls</string>
     <string name="archive">Архива</string>
     <string name="archived">Архивирано</string>
     <string name="att_download_failed_content">Превземањето не успеа</string>
@@ -808,6 +806,8 @@ CC: %4$s
     <string name="wrong_password">Внесената лозинка е неточна</string>
     <string name="yes">Да</string>
     <string name="zip_viewer_no_file">Празно</string>
+    <string name="Folders">Папки</string>
+    <string name="message_invite_label_attending">Одите?</string>
     <string name="account_setup_options_mail_check_frequency_15min">Секој 15 минути</string>
     <string name="account_setup_options_mail_check_frequency_30min">Секој 30 минути</string>
     <string name="account_setup_options_mail_check_frequency_5min">Секој 5 минути</string>
@@ -822,5 +822,5 @@ CC: %4$s
     <string name="xiaomi_update_dialog_message_diff">"Воведување на верзијата %1$s Делта големина на ажурирање: %2$s  "</string>
     <string name="xiaomi_update_dialog_title">%1$s ажурирање!</string>
     <string name="file_not_found_reDownload">Неможе да пронајде датотека</string>
-    <string name="message_invite_label_attending">Одите?</string>
+    <string name="application_mime_type">апликација/е-пошта-ls</string>
 </resources>

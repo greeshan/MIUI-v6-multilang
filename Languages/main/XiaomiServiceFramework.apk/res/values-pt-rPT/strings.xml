@@ -6,15 +6,12 @@
     <string name="error_device_id_message">"ID do dispositivo inválida: %s
 Algumas funções da conta e da nuvem estarão indisponíveis"</string>
     <string name="accept">OK</string>
-    <string name="xiaomi_cloud_service">Núvem Mi</string>
+    <string name="xiaomi_cloud_service">Nuvem Mi</string>
     <string name="sync_notification_title_format">A sincronizar: %1$s</string>
     <string name="activate_phone_failed_notif_title">Não é possível activar o cartão SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Não é possível activar o cartão SIM %s</string>
     <string name="activate_status_title_activating">Activar o seu cartão SIM</string>
     <string name="activate_status_title_activating_msim">Activar o seu cartão SIM %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">A aguardar pelo serviço de telefone</string>
-    <string name="activate_status_desc_registration">A registar o cartão SIM</string>
-    <string name="activate_status_desc_registration_server_error">Ocorreu um erro no servdor ao registar o cartão SIM</string>
     <string name="activate_status_desc_query_activation_info">A comunicar com o servidor</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nenhuma informação de activação no servidor</string>
     <string name="activate_status_desc_query_activation_info_server_error">Ocorreu um erro no servidor ao consultar informações de activação</string>
@@ -24,7 +21,6 @@ Algumas funções da conta e da nuvem estarão indisponíveis"</string>
     <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber a SMS de activação do servidor</string>
     <string name="activate_status_desc_request_activation_sms">A solicitar uma SMS activação do servidor para o seu telefone</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Ocorreu um erro de servidor, a solicitar um SMS activação do servidor para o seu telefone</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">O número de telefone digitado é inválido</string>
     <string name="activate_status_desc_getting_gateway">A obter SMS Gateway</string>
     <string name="activate_status_desc_failed_getting_gateway">Falha ao obter SMS de acesso</string>
     <string name="activate_status_desc_prepare_sending_sms">Prepare-se para enviar uma SMS de activação de acesso</string>
@@ -36,12 +32,10 @@ Algumas funções da conta e da nuvem estarão indisponíveis"</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Não é possível obter o número de telefone</string>
     <string name="activate_status_desc_registering_sim_account">A registar o cartão SIM no servidor</string>
     <string name="activate_status_desc_registering_sim_account_server_error">Ocorreu um erro ao registar o cartão SIM no servidor</string>
-    <string name="activate_status_desc_checking_xiaomi_account">A verificar a conta Xiaomi no servidor</string>
+    <string name="activate_status_desc_checking_xiaomi_account">A verificar a conta Mi no servidor</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Ocorreu um erro enquanto registava a contra servidor Xiaomi</string>
-    <string name="activate_status_desc_registering_xiaomi_account">A registar a conta Xiaomi no servidor</string>
+    <string name="activate_status_desc_registering_xiaomi_account">A registar a conta Mi no servidor</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Ocorreu um erro enquanto registava a contra servidor Xiaomi</string>
-    <string name="activate_status_desc_getting_sim_info">A obter informação do cartão SIM</string>
-    <string name="activate_status_desc_getting_sim_info_fail">Não é possível obter informações do cartão SIM</string>
     <string name="sim_unactivated_title">O seu cartão SIM está activado</string>
     <string name="activate">Activar</string>
     <string name="activate_popup_title_manual">Activado %s</string>
@@ -58,6 +52,8 @@ Algumas funções da conta e da nuvem estarão indisponíveis"</string>
     <string name="activate_popup_desc_new_2_sim_cards">Os seus cartões SIM foram alterados. A sua operadora pode cobrar 2 mensagens para reactivar %s.</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Os seus cartões SIM foram alterados. A sua operadora pode cobrar 2 mensagens internacionais para reactivar %s.</string>
     <string name="activate_popup_desc_new_sim_card_downlink">O seu cartão SIM foi alterado. Digite o número de telefone associado ao novo cartão SIM para reactivar %s</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". VoIP é suportado por Weihui, ver Weihui "</string>
+    <string name="activate_popup_desc_voip_privacy">Política de Privacidade</string>
     <string name="activate_popup_title_register_account">A criar conta Mi</string>
     <string name="activate_popup_desc_register_account">A sua operadora pode cobrar por uma mensagem para criar a sua conta Mi.</string>
     <string name="activate_popup_desc_register_account_intl">A sua operadora pode cobrar por uma mensagem internacional para criar a sua conta Mi.</string>
@@ -77,13 +73,20 @@ Algumas funções da conta e da nuvem estarão indisponíveis"</string>
     <string name="activate_popup_title_failed_phone_error">Número de telefone inválido</string>
     <string name="activate_popup_desc_failed_phone_error">O número que digitou é inválido.</string>
     <string name="activate_popup_confirm_failed_phone_error">Tente novamente</string>
-    <string name="activate_popup_title_upload_diagnosis_info">Não é possível activar o cartão SIM</string>
-    <string name="activate_popup_desc_upload_diagnosis_info">Enviar relatório de erro para a Mi? (ID do relatório : %s)</string>
-    <string name="activate_popup_confirm_upload_diagnosis_info">Relatório</string>
-    <string name="activate_popup_link_diagnosis_detail">Qual a informação incluída no relatório?</string>
-    <string name="activate_popup_title_diagnosis_detail">Informações de diagnóstico</string>
     <string name="activate_feature_mx">Mensagens Mi</string>
+    <string name="activate_feature_mx_and_voip">Mensagens e Voz Mi</string>
     <string name="activate_feature_mms_sync">Sincronizar mensagens</string>
     <string name="activate_feature_call_log_sync">Sincronizar o histórico das chamadas</string>
     <string name="activate_feature_find_device">A localizar dispositivo</string>
+    <string name="activate_status_desc_getting_sim_info">A obter informação do cartão SIM</string>
+    <string name="activate_status_desc_getting_sim_info_fail">Não é possível obter informações do cartão SIM</string>
+    <string name="activate_status_desc_registration">A registar o cartão SIM</string>
+    <string name="activate_status_desc_registration_server_error">Ocorreu um erro no servidor ao registar o cartão SIM</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">O número de telefone digitado é inválido</string>
+    <string name="activate_status_desc_wait_for_phone_service">A aguardar pelo serviço de telefone</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Relatório</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Enviar relatório de erro para a Mi? (ID do relatório : %s)</string>
+    <string name="activate_popup_link_diagnosis_detail">Qual a informação incluída no relatório?</string>
+    <string name="activate_popup_title_diagnosis_detail">Informações de diagnóstico</string>
+    <string name="activate_popup_title_upload_diagnosis_info">Não é possível activar o cartão SIM</string>
 </resources>

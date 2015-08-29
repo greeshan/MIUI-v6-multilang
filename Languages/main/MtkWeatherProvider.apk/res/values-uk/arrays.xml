@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Цельсій</item>
+        <item>Фаренгейт</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Ніколи не автопоновлювати</item>
+        <item>Кожну 1 годину</item>
+        <item>Кожні 2 години</item>
+        <item>Кожні 6 годин</item>
+        <item>Кожні 12 годин</item>
+        <item>Кожен 1 день</item>
+    </string-array>
+</resources>

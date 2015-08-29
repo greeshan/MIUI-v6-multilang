@@ -44,6 +44,23 @@
         <item>Mostrar excluir somente</item>
         <item>Mostrar arquivar e excluir</item>
     </string-array>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Site:</item>
+        <item>Email:</item>
+        <item>Celular:</item>
+        <item>Telefone:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Endereço:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>Endereço:</item>
         <item>Tel.:</item>
@@ -53,6 +70,15 @@
         <item>WeChat:</item>
         <item>Fax:</item>
         <item>Código Postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Aviso:</item>
+        <item>Aviso de E-mail</item>
+        <item>Enviado via WPSMail</item>
+        <item>Enviado de</item>
+        <item>Enviado com</item>
+        <item>Obrigado,</item>
+        <item>Atenciosamente</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
         <item>Obrigado,</item>
@@ -65,13 +91,5 @@
         <item>Este e-mail</item>
         <item>Aviso</item>
         <item>Aviso de e-mail</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Sincronização concluída.</item>
-        <item>Erro na conexão de rede.</item>
-        <item>Falha ao fazer o login.</item>
-        <item>Erro na conexão segura.</item>
-        <item>Falha ao sincronizar.</item>
-        <item>Erro no servidor.</item>
     </string-array>
 </resources>

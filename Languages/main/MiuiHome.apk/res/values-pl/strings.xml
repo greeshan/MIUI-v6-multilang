@@ -11,13 +11,15 @@
     <string name="cancel_action">Anuluj</string>
     <string name="bad_wallpaper_source_prompt">Nie można wczytać tapety</string>
     <string name="apply_action">Zastosuj</string>
+    <string name="download_action">Pobierz</string>
     <string name="apply_as_lock_wallpaper_message">Zastosować na ekranie blokady?</string>
     <string name="lock_screen_failed_message">Nie udało się zastosować</string>
     <string name="lock_screen_success_message">Pomyślnie zastosowano</string>
     <string name="wallpaper_failed_message">Nie można zastosować tapety</string>
     <string name="image_too_small_message">Oryginalny obraz jest za mały</string>
+    <string name="failed_to_load_image">Nie można wczytać obrazu</string>
     <string name="wallpaper_success_message">Tapeta zastosowana</string>
-    <string name="is_setting_wallpaper_toast">Ustawianie tapety…</string>
+    <string name="is_setting_wallpaper_message">Ustawianie tapety…</string>
     <string name="current_wallpaper">Aktualna</string>
     <string name="menu_item_add_item">Dodaj do pulpitu</string>
     <string name="group_shortcuts">Skróty</string>
@@ -26,7 +28,8 @@
     <string name="out_of_space">Brak miejsca na tym pulpicie</string>
     <string name="title_select_shortcut">Wybierz skrót</string>
     <string name="title_select_live_folder">Wybierz katalog</string>
-    <string name="app_being_backup_message">Kopiowanie aplikacji.</string>
+    <string name="app_being_backup_message">Kopiowanie aplikacji</string>
+    <string name="app_being_restored_message">Przywracanie aplikacji</string>
     <string name="menu_add">Dodaj skrót</string>
     <string name="menu_wallpaper">Tapeta</string>
     <string name="menu_search">Szukaj</string>
@@ -45,9 +48,17 @@
     <string name="permdesc_read_settings">Allows an application to read the settings and shortcuts in Home.</string>
     <string name="permlab_write_settings">write Home settings and shortcuts</string>
     <string name="permdesc_write_settings">Allows an application to change the settings and shortcuts in Home.</string>
+    <string name="status_pending">Oczekujące</string>
+    <string name="status_downloading">Pobieranie</string>
+    <string name="status_paused">Wstrzymane</string>
+    <string name="status_downloaded">Pobrane</string>
+    <string name="status_installing">Instalacja</string>
+    <string name="app_already_exist">Aplikacja już istnieje</string>
     <string name="loading_desktop">Ładowanie pulpitu...</string>
+    <string name="loading_wallpaper">Ładowanie tapety...</string>
     <string name="start_activity_failed">Nie udało się uruchomić, spróbuj ponownie</string>
     <string name="gadget_error_text">Problem z ładowaniem widżetu</string>
+    <string name="mtzgadget_missing_text">Dodaj ponownie widżet</string>
     <string name="menu_edit">Edycja</string>
     <string name="menu_sort">Sortowanie</string>
     <string name="menu_launcher_setting">Launcher</string>
@@ -91,8 +102,11 @@
     <string name="default_folder_title_game">Gry</string>
     <string name="default_folder_title_security">Bezpieczeństwo</string>
     <string name="wallpaper_settings">Ustawienia tapet</string>
+    <string name="wallpaper_settings_for_pad">Tapeta</string>
     <string name="choose_wallpaper">Wybierz tapetę</string>
     <string name="current_preview">Podgląd</string>
+    <string name="choose_theme">Motyw</string>
+    <string name="default_theme_name">Domyślny</string>
     <string name="wallpaper">Tapeta</string>
     <string name="mi_wallpaper">Tapety MIUI</string>
     <string name="show_all">Wszystko</string>
@@ -126,6 +140,7 @@
     <string name="transformation_type_rotate">Obrót</string>
     <string name="pref_screen_transformation_type_title">Efekty przejścia ekranów</string>
     <string name="pref_wallpaper_scroll_type_title">Przewijanie tapety</string>
+    <string name="configure_wallpaper">Ustawienia</string>
     <string name="pref_cell_layout_size">Rozmiar siatki</string>
     <string name="pref_keep_layout_title">Pamiętaj aktualny układ</string>
     <string name="pref_keep_layout_summary">Układ ikon na pulpitach może zostać zachowany przy zmianie rozmiaru siatki</string>
@@ -137,6 +152,7 @@
     <string name="global_search_hint">" "</string>
     <string name="widget_global_search">Globalne wyszukiwanie</string>
     <string name="gadget_clear_button_label">Wyczyść</string>
+    <string name="gadget_power_clear_button_label">Super Cleaner</string>
     <string name="gadget_clock_label">"Zegar "</string>
     <string name="gadget_clock_12_label">Zegar 2x1</string>
     <string name="gadget_clock_22_label">Zegar 2x2</string>
@@ -208,5 +224,12 @@
     <string name="delete_wallpaper_message">Usunąć %1$d tapetę?</string>
     <string name="delete_wallpapers_message">Usunąć %1$d wybranych tapet?</string>
     <string name="is_system_wallpaper_message">Nie można usunąć zasobu systemowego</string>
+    <string name="select_all">Zaznacz wszystko</string>
+    <string name="deselect_all">Odznacz wszystko</string>
     <string name="cloud_app_restore_title">Oczekiwanie</string>
+    <string name="recommend_apps_notice">Polecane aplikacje</string>
+    <string name="recommend_apps_switch_title">Polecane aplikacja</string>
+    <string name="recommend_apps_switch_summary">Pokaż polecane aplikacje na dole ekranu</string>
+    <string name="recommend_apps_default_title">Pusto</string>
+    <string name="recommend_apps_tips">Ta funkcja wymaga dostępu do sieci. Aby wyłączyć funkcję dotknij nazwy katalogu.</string>
 </resources>

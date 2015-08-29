@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s एल्बम हटाएं (कुल %2$s )?</item>
+        <item quantity="one">%1$s एल्बम हटाएं (कुल %2$s )?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> फ़ोटो हटाएं?&lt;/Data>" "</item>
+        <item quantity="one">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> फ़ोटो हटाएं?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s फ़ोटो हटाएं?</item>
+        <item quantity="one">%s फ़ोटो हटाएं?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> वीडियो हटाएं?&lt;/Data>" "</item>
+        <item quantity="one">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> वीडियो हटाएं?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s वीडियो हटाएं?</item>
+        <item quantity="one">%s वीडियो हटाएं?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> फ़ोटो हटाएं?&lt;/Data>" "</item>
+        <item quantity="one">"             "&lt;Data>                 Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> फ़ोटो हटाएं?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">"             "&lt;Data>                 इस डिवाइस से और Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> वीडियो हटाएं?&lt;/Data>" "</item>
+        <item quantity="one">"             "&lt;Data>                 इस डिवाइस से और Mi क्लाउड से &lt;xliff:g id=ITEM>%s&lt;/xliff:g> वीडियो हटाएं?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> %2$d एल्बम से &lt;xliff:g id=ITEM>%1$d वीडियो&lt;/xliff:g> हटाएं?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> %2$d एल्बम से &lt;xliff:g id=ITEM>%1$d वीडियो&lt;/xliff:g> हटाएं?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d चयनित</item>
+        <item quantity="one">%1$d चयनित</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d फ़ोटो</item>
+        <item quantity="one">%d फ़ोटो</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d वीडियो</item>
+        <item quantity="one">%d वीडियो</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d फ़ोल्डर</item>
+        <item quantity="one">%d फ़ोल्डर</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">आपको इन %d फ़ाइलों को हटाने की अनुमति नहीं है.</item>
+        <item quantity="one">आपको इन %d फ़ाइल को हटाने की अनुमति नहीं है.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">आप इन %d आइटमों को चुन सकते हैं</item>
+        <item quantity="one">आप इस आइटम %d को चुन सकते हैं</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d चित्र</item>
+        <item quantity="one">%1$d चित्र</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d आइटम</item>
+        <item quantity="one">%1$d आइटम</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%2$s के %1$s फ़ोटो</item>
+        <item quantity="one">%2$s का %1$s फ़ोटो</item>
+    </plurals>
+</resources>

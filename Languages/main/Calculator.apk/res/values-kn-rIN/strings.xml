@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಕ್ಯಾಲ್ಕುಲೇಟರ್</string>
+    <string name="del">ಅಳಿ</string>
+    <string name="error_nan">ಸಂಖ್ಯೆಯಲ್ಲ</string>
+    <string name="error_syntax">ದೋಷ</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">ಕೊಸ್</string>
+    <string name="fun_ln">ಇನ್</string>
+    <string name="fun_log">ಲಾ.</string>
+    <string name="fun_sin">ಸೈನ್</string>
+    <string name="fun_tan">ಟ್ಯಾ</string>
+    <string name="clr">ತೆರ</string>
+    <string name="desc_const_e">ಯೂಲರ್‌ನ ಸಂಖ್ಯೆ</string>
+    <string name="desc_const_pi">ಪೈ</string>
+    <string name="desc_dec_point">ಬಿಂದು</string>
+    <string name="desc_lparen">ಎಡ ಆವರಣದ ವಾಕ್ಯ</string>
+    <string name="desc_rparen">ಬಲ ಆವರಣದ ವಾಕ್ಯ</string>
+    <string name="desc_fun_cos">ಕೊಸೈನ್</string>
+    <string name="desc_fun_ln">ಸ್ವಾಭಾವಿಕ ಲಾಗರಿದಮ್</string>
+    <string name="desc_fun_log">ಲಾಗರಿದಮ್</string>
+    <string name="desc_fun_sin">ಸೈನ್</string>
+    <string name="desc_fun_tan">ಸ್ಪರ್ಶರೇಖೆ</string>
+    <string name="desc_op_add">ಸಂಕಲನ</string>
+    <string name="desc_op_div">ವಿಭಾಗಿಸು</string>
+    <string name="desc_op_fact">ಅಪವರ್ತನೀಯ</string>
+    <string name="desc_op_mul">ಬಾರಿ</string>
+    <string name="desc_op_pow">ಪವರ್‌</string>
+    <string name="desc_op_sqrt">ವರ್ಗಮೂಲ</string>
+    <string name="desc_op_sub">ವ್ಯವಕಲನ</string>
+    <string name="desc_clr">ತೆರವುಗೊಳಿಸು</string>
+    <string name="desc_del">ಅಳಿಸು</string>
+    <string name="desc_eq">ಸಮ ಚಿಹ್ನೆ</string>
+</resources>

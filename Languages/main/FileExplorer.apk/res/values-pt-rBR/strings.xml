@@ -31,6 +31,8 @@
     <string name="operation_hide_sys">Não mostrar arquivos ocultos</string>
     <string name="cancel">Cancelar</string>
     <string name="tab_expand">Expandir</string>
+    <string name="mi_router_label">Mi Router</string>
+    <string name="usb_label">USB</string>
     <string name="background">Segundo plano</string>
     <string name="no_file">Vazio</string>
     <string name="tab_category">Categorias</string>
@@ -46,7 +48,6 @@
     <string name="category_other">Outros</string>
     <string name="category_favorite">Com estrela</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Registros</string>
     <string name="operation_rename_message">Renomear pasta</string>
     <string name="operation_create_folder_message">Nome da pasta</string>
     <string name="operation_delete_confirm_message">Excluir?</string>
@@ -243,7 +244,6 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="operation_moving_detail">Movendo (%1$d/%2$d)</string>
     <string name="operation_copying">Copiando…</string>
     <string name="operation_copying_detail">Copiando (%1$d/%2$d)</string>
-    <string name="name_illegal">Você precisa digitar um nome.</string>
     <string name="open_changed_file_title">Alterações aplicadas.</string>
     <string name="open_changed_file_message">"O arquivo que você está tentando abrir foi alterado. Por favor:
 1. Faça o download do arquivo novamente para atualizá-lo.
@@ -290,13 +290,38 @@ Armazenamento gratuito adicionado: %1$s"</string>
     <string name="share_box_receive">Recebidos</string>
     <string name="file_not_exist">O arquivo não existe</string>
     <string name="open_file_failed">Falha ao abrir</string>
+    <string name="action_mode_deselect_all">Desmarcar tudo</string>
+    <string name="action_mode_select_all">Selecionar tudo</string>
+    <string name="can_not_send_with_too_many">Não é possível enviar esta quantidade de itens</string>
     <string name="file_already_downlaoded">Arquivo salvo em \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Copiar arquivo para o KuaiPan</string>
     <string name="downloading_in_3g">Transferindo com 3G…</string>
     <string name="operate_confirm_in_3g">Usar sua conexão de dados móveis para transferir este arquivo grande?</string>
+    <string name="files">Arquivos</string>
+    <string name="get_cloud_space">Adicionar 500GB</string>
+    <string name="kp_category_all">Categoria</string>
+    <string name="kp_category_doc">Word</string>
+    <string name="kp_category_excel">Excel</string>
+    <string name="kp_category_ppt">PowerPoint</string>
+    <string name="kp_category_pdf">PDF</string>
+    <string name="kp_category_txt">Texto</string>
+    <string name="no_display_file">Não é possível exibir %1$s</string>
+    <string name="delete_selected_tasks">Excluir a seleção?</string>
+    <string name="kuaipan_delete_guide_des">Excluir o guia?</string>
+    <string name="kuaipan_data_formater_with_year">mês M dia d ano YYYY</string>
+    <string name="kuaipan_data_formater_without_year">M mês d dia</string>
+    <string name="kuaipan_root_fooder">Início</string>
+    <string name="kuaipan_cloud_photo">Fotos do KuaiPan</string>
+    <string name="kuaipan_create_shortcut_success">Atalhos criados</string>
+    <string name="kuaipan_delete_success">Foto excluída</string>
     <string name="system_alert">Lembrar</string>
     <string name="network_connect_confirm_des">Para utilizar o KuaiPan, o app utilizará sua conexão de rede. Permitir?</string>
     <string name="operation_agree">Permitir e continuar</string>
     <string name="never_notify_network_connect">Não mostrar novamente</string>
     <string name="connect_network_setting_des">Lembrete de acesso à rede</string>
+    <string name="name_illegal">Você precisa digitar um nome.</string>
+    <string name="category_log">Registros</string>
+    <string name="kuaipan_photo_locate">Localizado %1$s</string>
+    <string name="kuaipan_photo_folder_divider">,</string>
+    <string name="kuaipan_photo_more_folder_count">%1$s</string>
 </resources>

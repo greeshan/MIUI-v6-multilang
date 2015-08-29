@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>மூன்றாம் பிறை</item>
+        <item>வளர்பிறை நிலவு</item>
+        <item>வளர்பிறை அரைநிலவு</item>
+        <item>வளர்பிறையில் பாதியை விட பெரிய நிலவு</item>
+        <item>பெளர்ணமி</item>
+        <item>தேய்பிறையில் பாதியை விட பெரிய நிலவு</item>
+        <item>தேய்பிறை அரைநிலவு</item>
+        <item>தேய்பிறை நிலவு</item>
+        <item>அமாவாசை</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>வெயில்</item>
+        <item>மேக மூட்டம்</item>
+        <item>மூட்டம்</item>
+        <item>மூடுபனி</item>
+        <item>கன மழை</item>
+        <item>மழை</item>
+        <item>புயல்மழை</item>
+        <item>இடியுடன் கூடிய மழை</item>
+        <item>மழைத் தூறல்</item>
+        <item>கன மழை</item>
+        <item>மிதமான மழை</item>
+        <item>லேசான மழை</item>
+        <item>பனி கலந்த மழை</item>
+        <item>பனிப்புயல்</item>
+        <item>பனி</item>
+        <item>கடும் பனி</item>
+        <item>மிதமான பனி</item>
+        <item>இலேசான பனி</item>
+        <item>வலுவான மணற்புயல்</item>
+        <item>மணல் புயல்</item>
+        <item>மணல்</item>
+        <item>காற்று வீச்சு</item>
+        <item>ஆலங்கட்டி மழை</item>
+        <item>தூசு</item>
+        <item>மூட்டம்</item>
+        <item>உறைபனி மழை</item>
+        <item>தரவு இல்லை</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>மிகவும் பலவீனம்</item>
+        <item>பலவீனம்</item>
+        <item>இடைப்பட்ட</item>
+        <item>வலுவானது</item>
+        <item>மிகவும் வலுவானது</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>காற்று வ</item>
+        <item>காற்று வகி</item>
+        <item>காற்று கி</item>
+        <item>காற்று தெகி</item>
+        <item>காற்று தெ</item>
+        <item>காற்று தெமே</item>
+        <item>காற்று மே</item>
+        <item>காற்று வமே</item>
+    </string-array>
+</resources>

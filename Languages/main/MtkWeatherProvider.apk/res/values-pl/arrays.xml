@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Stopnie Celsjusza</item>
+        <item>Stopnie Fahrenheita</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nigdy nie aktualizuj automatycznie</item>
+        <item>Co 1 godzinę</item>
+        <item>Co 2 godziny</item>
+        <item>Co 6 godzin</item>
+        <item>Co 12 godzin</item>
+        <item>Co 1 dzień</item>
+    </string-array>
+</resources>

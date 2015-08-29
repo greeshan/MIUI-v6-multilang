@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsijs</item>
+        <item>Fārenheits</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nekad neatjaunināt automātiski</item>
+        <item>Ik pēc 1 stundas</item>
+        <item>Ik pēc 2 stundām</item>
+        <item>Ik pēc 6 stundām</item>
+        <item>Ik pēc 12 stundām</item>
+        <item>Ik pēc 1 dienas</item>
+    </string-array>
+</resources>

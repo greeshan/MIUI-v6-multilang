@@ -66,12 +66,4 @@
         <item>Disclaimer</item>
         <item>Email Disclaimer</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Sync succeeded.</item>
-        <item>Error in network connection.</item>
-        <item>Failed to sign in.</item>
-        <item>Error in secure connection.</item>
-        <item>Failed to sync.</item>
-        <item>Server error.</item>
-    </string-array>
 </resources>

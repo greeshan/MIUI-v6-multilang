@@ -13,6 +13,7 @@
     <string name="check_network">Voir les paramètres réseau</string>
     <string name="try_again">Réessayer</string>
     <string name="network_unavaliable">Réseau indisponible, veuillez vérifier vos paramètres réseau</string>
+    <string name="network_access_denied">Accès réseau refusé</string>
     <string name="service_unavailiable">"Votre réseau actuel n'est pas bon, veuillez réessayer plus tard"</string>
     <string name="data_error">"Désolé, le service n'est pas disponible, veuillez réessayer plus tard"</string>
     <string name="locating_fail">Échec de localisation, veuillez vérifier vos paramètres de localisation ou réessayer</string>
@@ -43,7 +44,7 @@
     <string name="more_coupons">Tous les coupons</string>
     <string name="gallery">Galerie</string>
     <string name="hms_notification">Messages</string>
-    <string name="hms_no_subject_view">(Aucun sujet)</string>
+    <string name="hms_no_subject_view">(Aucun objet)</string>
     <string name="content_desc_send_sms">Envoyer un SMS</string>
     <string name="currency_character">RMB</string>
     <string name="app_recommendation_install">Installer</string>
@@ -73,8 +74,6 @@
     <string name="confirm_to_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
     <string name="custom_mark_category">Personnalisé</string>
     <string name="mark_number_dialog_maintitle">"Marquer comme numéro de spam et l'envoyer"</string>
-    <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
-    <string name="selected_category_format">"%1$s (%2$d l'ont marqué, appuyez pour approuver)"</string>
     <string name="mark_title_null_hint">La saisie ne peut être laissée vide</string>
     <string name="smart_antispam">Identifier les numéros inconnus automatiquement</string>
     <string name="turn_on_smart_antispam_hint">"Après l'avoir activé les numéros seront identifiés. Étiqueter les numéros aide à déterminer les appels frauduleux."</string>
@@ -92,6 +91,7 @@
     <string name="notify_connect_title">"Autorisation d'accès au réseau"</string>
     <string name="notify_connect_summary">"Demander l'autorisation d'accès au réseau à chaque fois"</string>
     <string name="do_not_remind_me">Ne pas me rappeler</string>
+    <string name="about_phone_event">A propos du service</string>
     <string name="payment_back">Annuler</string>
     <string name="payment_failed_common_problems">Un problème est survenu lors du paiement.</string>
     <string name="payment_unknown_status_title">Erreur du statut de paiement</string>
@@ -189,6 +189,7 @@ Veuillez vérifier le numéro de suivi"</string>
     <string name="express_delete_order">Supprimer</string>
     <string name="express_order_state_unknown">Inconnu</string>
     <string name="express_contact_prefix">"Contact "</string>
+    <string name="express_banner_header">%1$s / Numéro de suivi</string>
     <string name="express_tracking_number">Numéro de suivi</string>
     <string name="remind_user_suspect_number_title">Méfiez-vous des appels frauduleux</string>
     <string name="remind_user_suspect_number_message">"Les malfaiteurs peuvent usurper l'identité d'autres personnes pour frauder, en cas de doute rappelez pour vérifier l'identité de l'appelant. Les banques, les sociétés d'e-commerce etc. ne vous demanderont jamais votre mot de passe ou vos informations bancaires."</string>
@@ -207,7 +208,6 @@ Veuillez vérifier le numéro de suivi"</string>
     <string name="order_empty_hint">Aucune commande</string>
     <string name="order_merchant_title">Mes commandes</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_status">%s</string>
     <string name="general_yellow_page_title">Général</string>
     <string name="general_recent_title">Récent</string>
     <string name="general_favorite_title">Favoris</string>
@@ -217,6 +217,8 @@ Veuillez vérifier le numéro de suivi"</string>
     <string name="general_cancel_favorite_ok">Favori supprimé</string>
     <string name="general_delete_recent_ok">Récent supprimé</string>
     <string name="general_favorite_ok">Ajouté aux favoris</string>
+    <string name="follow_label">Suivre %1$s</string>
+    <string name="follow_success">Vous suivez maintenant %1$s.</string>
     <string name="nearby_yellow_page_title">Alentours</string>
     <string name="nearby_no_yellow_page">Aucun résultat proche</string>
     <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
@@ -240,5 +242,11 @@ Veuillez vérifier le numéro de suivi"</string>
     <string name="sina_token_expired_warning">Jeton de sécurité du compte Weibo expiré, veuillez le réassocier</string>
     <string name="sina_token_invalid_warning">Jeton de sécurité du compte Weibo non valide, veuillez le réassocier</string>
     <string name="express_no_tracking_number">En attente</string>
+    <string name="mark_number_custom_dialog_maintitle">Accepter ou corriger la marque</string>
+    <string name="order_status">%s</string>
     <string name="recharge_pay_hint">"Service fourni par Xiaomi, "</string>
+    <string name="selected_category_format">"%1$s (%2$d l'ont marqué, appuyez pour approuver)"</string>
+    <string name="follow_express">Suivre %1$s</string>
+    <string name="follow_express_success">Vous suivez désormais %1$s.</string>
+    <string name="phone_event_setting_notice_text">Pages Jaunes souhaite transférer les numéros de service certifiés (par ex. votre opérateur mobile) sur les serveurs Mi, afin que vous puissiez recevoir des mises à jour de service.</string>
 </resources>

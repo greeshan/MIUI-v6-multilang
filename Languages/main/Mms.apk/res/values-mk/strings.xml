@@ -381,7 +381,6 @@
     <string name="mx_activate_int_hint_server">Интернационална SMS порака ќе биде испратена за реактивирање Mi порака за вашата моментална SIM картичка. Ќе се направат редовни интернационални трошоци од вашиот мобилен оператор.</string>
     <string name="need_download">Синхронизирање...</string>
     <string name="found_wild_messages_title">Превземи пораки</string>
-    <string name="found_wild_messages">пораки од броевите подолу се зачувани во Вашиот Mi Cloud. % Превземи ги сега?</string>
     <string name="found_old_messages_title">Прикачи пораки од вашите други SIM картички?</string>
     <string name="found_old_messages">Внеси пораки од %1$s на %2$s ?</string>
     <string name="show_all_messages">Прикажи ги сите пораки</string>
@@ -499,6 +498,7 @@
     <string name="file_size">Големина:</string>
     <string name="file_title">Име:</string>
     <string name="add_bookmark">Означено</string>
+    <string name="found_wild_messages">пораки од броевите подолу се зачувани во Вашиот Mi Cloud. % Превземи ги сега?</string>
     <string name="mx_activate_int_popup_msg">Mi порака ти овозможува да испратиш пораки и примиш со некој друг што користи MIUI. Нормалните трошкови за датата се применуваат, освен ако сте поврзани со WLAN</string>
     <string name="mx_activate_popup_msg">Mi порака ти овозможува да испратиш пораки и примиш со некој друг што користи MIUI. Нормалните трошкови за датата се применуваат, освен ако сте поврзани со WLAN</string>
     <string name="mx_activation_done">Mi порака овозможена</string>

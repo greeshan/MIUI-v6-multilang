@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="clir_display_values">
+        <item>เครือข่ายเริ่มต้น</item>
+        <item>ซ่อนเลขหมาย</item>
+        <item>แสดงเลขหมาย</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/WCDMA</item>
+        <item>LTE</item>
+        <item>ทั่วโลก</item>
+        <item>WCDMA/GSM/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>EvDo เท่านั้น</item>
+        <item>CDMA โดย EvDo</item>
+        <item>CDMA/EvDo อัตโนมัติ</item>
+        <item>GSM/WCDMA อัตโนมัติ</item>
+        <item>WCDMA เท่านั้น</item>
+        <item>GSM เท่านั้น</item>
+        <item>GSM/WCDMA</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>อังกฤษ</item>
+        <item>ฝรั่งเศส</item>
+        <item>สเปน</item>
+        <item>ญี่ปุ่น</item>
+        <item>เกาหลี</item>
+        <item>จีน</item>
+        <item>ฮิบรู</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>เครือข่ายหลักเท่านั้น</item>
+        <item>อัตโนมัติ</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>RUIM/SIM</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>ปิดโหมดพิมพ์สนทนา (TTY Off)</item>
+        <item>โหมดพิมพ์สนทนาเต็มรูปแบบ (TTY Full)</item>
+        <item>โหมดพิมพ์สนทนา-ผู้พิการทางการพูด (TTY HCO)</item>
+        <item>โหมดพิมพ์สนทนา-ผู้พิการทางการได้ยิน (TTY VCO)</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>ปกติ</item>
+        <item>ยาว</item>
+    </string-array>
+</resources>

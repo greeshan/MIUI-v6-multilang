@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Scanner</string>
+    <string name="app_name">Digitalizador</string>
     <string name="copy">Copiar</string>
     <string name="name">Nome:</string>
     <string name="nickname">Apelido:</string>
@@ -40,6 +40,7 @@
     <string name="import_contact">Importar contacto</string>
     <string name="secure_access_web_url">Acesso seguro</string>
     <string name="not_recommend_access_web_url">Acesso seguro (não recomendado)</string>
+    <string name="continue_to_website">Continuar para o website</string>
     <string name="continue_access_web_url">Acesso seguro</string>
     <string name="download_by_browser">Transferir com o navegador</string>
     <string name="launch_market">Iniciar o Mercado Mi</string>
@@ -52,14 +53,14 @@
     <string name="web_url_warning">Este site é de um recurso não seguro use por sua conta e risco.</string>
     <string name="web_url_apk_warning">Esta aplicação vem de um recurso desconhecida use por sua conta e risco. Recomendamos que instale aplicações de uma fonte de recursos segura.</string>
     <string name="wifi_ssid">SSID:</string>
-    <string name="wifi_pwd">Palavra passe:</string>
+    <string name="wifi_pwd">Palavra-passe:</string>
     <string name="wifi_security">Segurança:</string>
     <string name="wifi_details">Detalhes Wi-Fi:</string>
     <string name="connect_wifi">Ligar a esta rede</string>
     <string name="qq_details">Detalhes QQ:</string>
     <string name="launch_qq">Iniciar QQ no navegador</string>
-    <string name="download_qq">Treansferir QQ</string>
-    <string name="wifi_warning">Depois de estrar ligado, tenha a certeza que a rede é sugura.</string>
+    <string name="download_qq">Transferir QQ</string>
+    <string name="wifi_warning">Depois de estar ligado, tenha a certeza que a rede é segura.</string>
     <string name="cloud_album_details">Detalhes do album:</string>
     <string name="visit_cloud_album">Ver album</string>
     <string name="find_cloud_album">Digitalizar um código QR</string>
@@ -73,7 +74,7 @@
     <string name="allow_check_website_security">Verificar a segurança dos sites</string>
     <string name="accept">Aceitar</string>
     <string name="cancel">Cancelar</string>
-    <string name="tips_message">Tem que ligar à internet para verificar se este site que visita é seguro.</string>
+    <string name="tips_message">Tem que ligar à Internet para verificar se este site que visita é seguro.</string>
     <string name="tips_title">Ligação à Internet</string>
     <string name="not_tips">Não mostrar novamente</string>
     <string name="settings">Definições</string>

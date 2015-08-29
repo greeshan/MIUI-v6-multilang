@@ -110,6 +110,9 @@
     <string name="user_guide_for_notification">Új értesítés érkezett, megnézheti az állapotsor lehúzásával</string>
     <string name="user_guide_for_toggle">További kapcsolók elérhetők vízszintes görgetéssel</string>
     <string name="user_guide_for_toggle_list">Kattintson a kapcsolók testreszabásához</string>
+    <string name="activate_usb_title">USB aktiválása</string>
+    <string name="activate_usb_message">Az aktiváláshoz helyezze be a SIM-kártyát</string>
+    <string name="usb_function_charging_text">Töltés módban csatlakozva</string>
     <string name="return_to_incall_screen">Visszatérés a hívásokhoz</string>
     <string name="call_status_dialing">Tárcsázás</string>
     <string name="call_status_ringing">Csengetés</string>
@@ -164,7 +167,7 @@
     <string name="ext_media_nomedia_notification_message">A külső tároló eltávolítva. Helyezzen be egy újat.</string>
     <string name="ext_media_mountable_notification_title">USB tároló eszköz csatlakoztatva</string>
     <string name="ext_media_mountable_notification_message">"Kattintson a 'Fájlkezelő megnyitása'-ra"</string>
-    <string name="ext_media_safe_remove">Biztonságos eltávolítás</string>
+    <string name="ext_media_safe_remove">Eltávolítás</string>
     <string name="status_bar_network_flow_today">Ma: %1$s</string>
     <string name="status_bar_network_flow_content">"Ma: %1$s   Hátralévő: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">Ma: %1$s | Túllépve: %3$s</string>
@@ -172,6 +175,9 @@
     <string name="status_bar_network_flow_limit">" Havi limit: %1$s"</string>
     <string name="drive_mode_tip">Autó mód engedélyezve - Vezessen óvatosan!</string>
     <string name="no_notification_tips">Nincs értesítés</string>
+    <string name="expanded_notification_manager">Értesítések kezelése</string>
+    <string name="disable_notification_title">Értesítések kikapcsolása</string>
+    <string name="disable_notification_summary">Az alkalmazás értesítés nem fognak megjelenni</string>
     <string name="notification_otg_mouse_in">Egér csatlakoztatva</string>
     <string name="notification_otg_keyboard_in">Billentyűzet csatlakoztatva</string>
     <string name="notification_otg_gamestick_in">Játékvezérlő csatlakoztatva</string>
@@ -205,12 +211,19 @@
     <string name="battery_profiles">Akkumulátor profilok használata</string>
     <string name="oldman_airplane_mode_text">repülőgép</string>
     <string name="oldman_incall_text">hívásban</string>
+    <string name="notification_template_text">" értesítés érkezett, kattintson a megtekintéshez."</string>
     <string name="audio_effect_settings">Fülhallgató típusa</string>
     <string name="audio_effect_info">Hangbeállítások</string>
     <string name="audio_effect_custom">Beállítás</string>
     <string name="media_projection_dialog_text">%s felvesz mindent amit a képernyőn megjelenített.</string>
     <string name="media_projection_remember_text">Ne jelenjen meg újra</string>
     <string name="media_projection_action_text">Indítás</string>
+    <string name="vpn_title">VPN aktiválva</string>
+    <string name="vpn_title_long">Csatlakozás VPN-hez %s használatával</string>
+    <string name="vpn_text">Érintse meg a beállítások megtekintéséhez.</string>
+    <string name="vpn_text_long">%s csatlakozva. Érintse meg a részletek megtekintéséhez.</string>
+    <string name="screen_button_notification_title">Navigációs gombok kikapcsolva</string>
+    <string name="screen_button_notification_text">A bekapcsoláshoz nyomja meg egyszerre a Home és Power gombokat.</string>
     <string name="battery_low_subtitle">Az akkufeszültség alacsony.</string>
     <string name="battery_low_why">Akkumulátorhasználat</string>
     <string name="status_bar_recent_inspect_item_title">Alkalmazásinformáció</string>
@@ -233,7 +246,7 @@
     <string name="status_bar_toggle_privacy_mode">Védelem</string>
     <string name="status_bar_toggle_quiet_mode">Csendes üz.</string>
     <string name="status_bar_toggle_reboot">Újraindítás</string>
-    <string name="status_bar_toggle_rotate">Tájolás</string>
+    <string name="status_bar_toggle_rotate">Tájolás ki</string>
     <string name="status_bar_toggle_screen_button">Képernyőg.</string>
     <string name="status_bar_toggle_screenshot">Képernyők.</string>
     <string name="status_bar_toggle_shutdown">Kikapcsolás</string>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s albüm silinsin mi (toplam %2$s)?</item>
+        <item quantity="one">%1$s albüm silinsin mi (toplam %2$s)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Seçtiğiniz %s fotoğraf Bulut alanından silinsin mi?</item>
         <item quantity="one">Seçtiğiniz %s fotoğraf Bulut alanından silinsin mi?</item>
@@ -17,12 +21,16 @@
         <item quantity="one">Seçtiğiniz %s video silinsin mi?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Seçtiğiniz %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s fotoğraf Yerel ve Bulut alanından silinsin mi?</item>
+        <item quantity="other">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s fotoğraf Telefon ve Bulut alanından silinsin mi?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Seçtiğiniz %s video Yerel ve Bulut alanından silinsin mi?</item>
-        <item quantity="one">Seçtiğiniz %s video Yerel ve Bulut alanından silinsin mi?</item>
+        <item quantity="other">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
+        <item quantity="one">Seçtiğiniz %s video Telefon ve Bulut alanından silinsin mi?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" %2$d albümünden %1$d video silinsin mi? "</item>
+        <item quantity="one">" %2$d albümünden %1$d video silinsin mi? "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d öğe seçildi</item>
@@ -55,13 +63,17 @@
         <item quantity="one">%d öğe seçtiniz</item>
     </plurals>
     <plurals name="number_of_images">
-        <item quantity="other">%1$d resim</item>
-        <item quantity="zero">%1$d resim</item>
-        <item quantity="one">%1$d resim</item>
+        <item quantity="other">%1$d fotoğraf</item>
+        <item quantity="zero">%1$d fotoğraf</item>
+        <item quantity="one">%1$d fotoğraf</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">%1$d öğe</item>
         <item quantity="zero">%1$d öğe</item>
         <item quantity="one">%1$d öğe</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s / %2$s</item>
+        <item quantity="one">%1$s / %2$s</item>
     </plurals>
 </resources>

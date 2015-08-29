@@ -17,6 +17,10 @@
     <string name="notif_title_file_size">Összesen %1$d fájl</string>
     <string name="paused_waiting_for_network">Hálózatra vár</string>
     <string name="dialog_not_show_again">Ne jelenjen meg újra</string>
+    <string name="notification_download_complete">A letöltés befejeződött.</string>
+    <string name="notification_download_failed">A letöltés nem sikerült.</string>
+    <string name="notification_download_success_more">%1$d fájl letöltve</string>
+    <string name="notification_download_failed_more">Nem sikerült %1$d fájl letöltése</string>
     <string name="app_label">Letöltéskezelő</string>
     <string name="permlab_downloadManager">Hozzáférés a letöltéskezelőhöz.</string>
     <string name="permdesc_downloadManager">Lehetővé teszi az alkalmazás számára a letöltéskezelő elérését fájlok letöltéséhez. A rosszindulatú alkalmazások kihasználhatják ezt a letöltések megzavarására és személyes adatok elérésére.</string>
@@ -33,21 +37,19 @@
     <string name="permlab_accessAllDownloads">Hozzáférés a rendszer összes letöltéséhez</string>
     <string name="permdesc_accessAllDownloads">Az alkalmazás megnézheti és módosíthatja a rendszer bármelyik alkalmazása által kezdeményezett letöltést.</string>
     <string name="download_unknown_title">&lt;Névtelen></string>
-    <string name="notification_download_complete">A letöltés befejeződött.</string>
-    <string name="notification_download_failed">A letöltés nem sikerült.</string>
-    <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi kell</string>
+    <string name="notification_need_wifi_for_size">A letöltéshez Wi-Fi szükséges</string>
     <string name="notification_paused_in_background">Szünetel a háttérben.</string>
     <string name="wifi_required_title">A letöltés túl nagy a szolgáltató hálózatához</string>
     <string name="wifi_required_body" formatted="false">"Wi-Fi szükséges a letöltés (%s ) befejezéséhez. 
 
 Érintse meg a(z) %s  lehetőséget a letöltés elindításához, ha majd Wi-Fi hálózathoz csatlakozik."</string>
     <string name="wifi_recommended_title">Várólistára teszi későbbi letöltés céljából?</string>
-    <string name="wifi_recommended_body" formatted="false">"A fájl (%s ) letöltése miatt hamarabb lemerülhet az akku, megnőhet az adathasználat, így előfizetésétől függően egyéb költségei lehetnek.
+    <string name="wifi_recommended_body" formatted="false">"%s letöltés indításával megnőhet az adathasználat, így előfizetésétől függően egyéb költségei lehetnek.
 
- Érintse meg a(z) %s lehetőséget, ha Wi-Fihez csatlakozik."</string>
+Érintse meg a(z) %s lehetőséget, és következő Wi-Fi hálózathoz való csatlakozáskor letöltésre kerül."</string>
     <string name="button_queue_for_wifi">Várólista</string>
     <string name="button_cancel_download">Mégse</string>
-    <string name="button_start_now">Indítás most</string>
+    <string name="button_start_now">Letöltés most</string>
     <string name="download_percent">%d%%</string>
     <string name="download_remaining">%s van hátra</string>
     <string name="download_no_application_title">A fájlt nem lehet megnyitni.</string>

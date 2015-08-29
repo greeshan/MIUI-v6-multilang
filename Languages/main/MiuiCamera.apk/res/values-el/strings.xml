@@ -15,7 +15,7 @@
     <string name="confirm_location_title">Προσθήκη γεωγραφικών ετικετών</string>
     <string name="confirm_location_message">Προσθήκη ετικέτας στις φωτογραφίες και τα βίντεο με την τοποθεσία όπου λαμβάνονται;</string>
     <string name="confirm_location_alert">προσθήκη γεωγραφικών ετικετών</string>
-    <string name="start_capture">Έναρξη καταγραφής</string>
+    <string name="start_capture">OK</string>
     <string name="pref_camera_recordlocation_title">Αποθήκευση Τοποθεσίας</string>
     <string name="pref_camera_recordlocation_entry_off">Ανενεργό</string>
     <string name="pref_camera_recordlocation_entry_on">Ενεργό</string>
@@ -77,6 +77,10 @@
     <string name="pref_camera_whitebalance_entry_manual">Χειροκίνητα</string>
     <string name="pref_camera_whitebalance_entry_measure">Μέτρηση</string>
     <string name="pref_camera_coloreffect_title">Φίλτρα</string>
+    <string name="pref_camera_coloreffect_entry_sepia" />
+    <string name="pref_camera_coloreffect_entry_negative" />
+    <string name="pref_camera_coloreffect_entry_posterize" />
+    <string name="pref_camera_coloreffect_entry_aqua" />
     <string name="pref_camera_coloreffect_entry_none">Χωρίς</string>
     <string name="pref_camera_coloreffect_entry_mono">Μονόχρωμο</string>
     <string name="pref_camera_coloreffect_entry_vivid">Έντονο</string>
@@ -148,6 +152,7 @@
     <string name="accessibility_review_thumbnail">Η πιο πρόσφατη φωτογραφία</string>
     <string name="accessibility_camera_picker">Εναλλαγή μπρος-πίσω κάμερας</string>
     <string name="accessibility_hdr">Κουμπί εναλλαγής HDR</string>
+    <string name="empty">" "</string>
     <string name="pref_camera_autoexposure_title">Αυτόματη έκθεση</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">Μέσος όρος</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">Σταθμισμένο κέντρο</string>
@@ -186,13 +191,13 @@
     <string name="simple_mode_button_text_hand_night">Κλείσιμο Νυχτερινής λειτουργίας</string>
     <string name="simple_mode_button_text_panorama">Κλείσιμο λειτουργίας Πανόραμα</string>
     <string name="simple_mode_button_text_color_effect">Κλείσιμο φίλτρων</string>
-    <string name="simple_mode_button_text_audio_capture">Κλείσιμο φωνητικού κλείστρου</string>
     <string name="simple_mode_button_text_slow_video">Κλείσιμο γρήγορης κίνησης</string>
     <string name="simple_mode_button_text_fast_video">Κλείσιμο αργής κίνησης</string>
     <string name="pref_video_captrue_ability_title">Λήψη εικόνας κατά την εγγραφή</string>
     <string name="find_other_qrcode">Βρείτε ένα κωδικό QR</string>
     <string name="see_qrcode_detals">Δείτε τις λεπτομέρειες των κωδικών QR</string>
     <string name="pref_camera_watermark_title">Υδατογράφημα με χρονολογία</string>
+    <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_setting_title">Ρυθμίσεις</string>
     <string name="pref_scan_qrcode_title">Σάρωση κωδικών QR</string>
@@ -223,7 +228,6 @@
     <string name="face_beauty_age_alias_female_60_m">Γυναίκα 60 +</string>
     <string name="simple_mode_button_text_face_beauty">Κλείσιμο αποχρώσεων δέρματος</string>
     <string name="pref_face_beauty_title">Απ.δέρματος</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Φωτογραφίες και βίντεο δεν μπορεί να εμφανίζονται όταν η οθόνη είναι κλειδωμένη.</string>
     <string name="pref_priority_storage_title">Αποθήκευση σε κάρτα SD</string>
     <string name="setting_top_text">Επιλογές</string>
     <string name="pref_video_speed_fast_title">Γρήγορη κίνηση</string>
@@ -268,12 +272,18 @@
     <string name="pref_camera_hdr_entry_live">Ζωντανό</string>
     <string name="pref_simple_hdr_entry_off">Ανενεργό</string>
     <string name="pref_simple_hdr_entry_on">Ενεργό</string>
-    <string name="pref_camera_countdown_title">Αντίστροφη μέτρηση</string>
-    <string name="simple_mode_button_text_countdown">Κλείσιμο αντίστροφης μέτρησης</string>
     <string name="pref_camera_delay_capture_title">Αντ.μέτρηση</string>
     <string name="simple_mode_button_text_delay_capture">Κλείσιμο αντίστροφης μέτρησης</string>
     <string name="pref_camera_delay_capture_entry_audio">Ήχος</string>
     <string name="pref_camera_asd_night_title">Αυτόματη ενίσχυση νυκτερινής λήψης</string>
     <string name="pref_camera_asd_popup_title">Εμφάνιση επιλογής όταν απαιτείται φλας</string>
     <string name="simple_mode_button_text_scene">Κλείσιμο λειτουργίας σκηνής</string>
+    <string name="pref_camera_peak_title">Επιλεκτική εστίαση</string>
+    <string name="pref_camera_peak_entry_off">Ανενεργή</string>
+    <string name="pref_camera_peak_entry_on">Ενεργή</string>
+    <string name="pref_camera_gradienter_title">Gradienter</string>
+    <string name="simple_mode_button_text_gradienter">Κλείσιμο Gradienter</string>
+    <string name="confirm_recording_fail_title">Αδυναμία εγγραφής</string>
+    <string name="confirm_recording_fail_calling_alert">Δεν είναι δυνατή η εγγραφή κατά τη διάρκεια της κλήσης.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Μια άλλη εφαρμογή μπορεί ήδη να χρησιμοποιεί το μικρόφωνο της συσκευής για καταγραφή.</string>
 </resources>

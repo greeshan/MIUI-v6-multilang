@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi ഡാറ്റ</item>
+        <item>എല്ലാ ആപ്ലിക്കേഷനുകളും</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>ബ്രൗസർ</item>
+        <item>അനുമതികൾ</item>
+        <item>ക്യാമറ</item>
+        <item>ഡാറ്റാ ഉപയോഗം</item>
+        <item>കാലാവസ്ഥാ വിവരം</item>
+        <item>കാലാവസ്ഥ</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>കോൺടാക്റ്റുകൾ</item>
+        <item>കോൾ ലോഗ്</item>
+        <item>സന്ദേശങ്ങൾ</item>
+        <item>മള്‍ട്ടി മീഡിയ മെസേജ്</item>
+        <item>സിസ്റ്റം ക്രമീകരണം</item>
+        <item>Wi-Fi ക്രമീകരണം</item>
+        <item>ഹോം സ്ക്രീൻ ലേ ഔട്ട്</item>
+        <item>അലാറം ക്രമീകരണം</item>
+        <item>കുറിപ്പുകൾ</item>
+        <item>ദയവായി ശല്യപ്പെടുത്തരുത്</item>
+        <item>അക്കൗണ്ട്</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>ഡാറ്റ</item>
+        <item>ആപ്പുകൾ</item>
+        <item>ആപ്പുകളും ഡാറ്റയും</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>കോൺടാക്റ്റുകൾ</item>
+        <item>കോൾ ലോഗ്</item>
+        <item>സന്ദേശങ്ങൾ</item>
+        <item>Wi-Fi ക്രമീകരണം</item>
+        <item>കുറിപ്പുകൾ</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>കോൺടാക്റ്റുകൾ</item>
+        <item>Wi-Fi ക്രമീകരണം</item>
+        <item>കുറിപ്പുകൾ</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>കോൾ ലോഗുകൾ</item>
+        <item>സന്ദേശങ്ങൾ</item>
+    </string-array>
+</resources>

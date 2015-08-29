@@ -66,12 +66,4 @@
         <item>Penafian</item>
         <item>E-mel Penafian</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Segerak berjaya.</item>
-        <item>Ralat semasa sambungan rangkaian.</item>
-        <item>Gagal untuk daftar masuk.</item>
-        <item>Ralat semasa sambungan selamat.</item>
-        <item>Gagal untuk disegerakkan.</item>
-        <item>Ralat pelayan.</item>
-    </string-array>
 </resources>

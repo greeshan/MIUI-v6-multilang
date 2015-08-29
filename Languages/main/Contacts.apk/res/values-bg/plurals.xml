@@ -84,10 +84,6 @@
         <item quantity="other">" %1$d добавени контакти"</item>
         <item quantity="one">%1$d добавен контакт</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Копирано: %d контакти</item>
-        <item quantity="one">Копирано: %d контакт</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Изтрий %d контакти</item>
         <item quantity="one">Изтрий контакта</item>
@@ -109,8 +105,20 @@
         <item quantity="zero">Избрано: %1$d</item>
         <item quantity="one">Избрано: %1$d</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Блокиране на тези %1$d номера?</item>
+        <item quantity="one">Блокиране на този номер?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Деблокиране на тези %1$d номера?</item>
+        <item quantity="one">Деблокиране на този номер?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Звънял %d пъти</item>
         <item quantity="one">Звънял %d път</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Копирано: %d контакти</item>
+        <item quantity="one">Копирано: %d контакт</item>
     </plurals>
 </resources>

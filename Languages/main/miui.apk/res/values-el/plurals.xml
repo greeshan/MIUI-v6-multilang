@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">%d επιλεγμένα</item>
+        <item quantity="one">%d επιλεγμένο</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Μόλις τώρα</item>
     </plurals>
@@ -51,9 +55,5 @@
     <plurals name="in_num_minutes">
         <item quantity="other">σε %d λεπτά</item>
         <item quantity="one">σε 1 λεπτό</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d επιλεγμένα</item>
-        <item quantity="one">%d επιλεγμένο</item>
     </plurals>
 </resources>

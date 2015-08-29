@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="process" />
     <string name="application_name">Miui Başlatıcı</string>
     <string name="folder_name">Klasör</string>
     <string name="unnamed_folder_name">İsimsiz Klasör</string>
@@ -8,13 +9,15 @@
     <string name="cancel_action">İptal</string>
     <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemedi!</string>
     <string name="apply_action">Uygula</string>
-    <string name="apply_as_lock_wallpaper_message">Seçtiğiniz duvar kağıdı kilit ekranına da uygulansın mı?</string>
+    <string name="download_action">İndir</string>
+    <string name="apply_as_lock_wallpaper_message">Kilit ekranına da uygulansın mı?</string>
     <string name="lock_screen_failed_message">Duvar kağıdı ayarlanamadı!</string>
     <string name="lock_screen_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
     <string name="wallpaper_failed_message">Duvar kağıdı ayarlanamadı!</string>
     <string name="image_too_small_message">Orjinal resim yeteri kadar büyük değil</string>
+    <string name="failed_to_load_image">Resim yüklenemedi</string>
     <string name="wallpaper_success_message">Duvar kağıdınız başarıyla ayarlandı</string>
-    <string name="is_setting_wallpaper_toast">Duvar kağıdınız ayarlanıyor…</string>
+    <string name="is_setting_wallpaper_message">Duvar kağıdınız ayarlanıyor…</string>
     <string name="current_wallpaper">Şu anki</string>
     <string name="menu_item_add_item">Ana ekrana yerleştir</string>
     <string name="group_shortcuts">Kısayollar</string>
@@ -23,6 +26,8 @@
     <string name="out_of_space">EKRANDA YETERLİ ALAN YOK !</string>
     <string name="title_select_shortcut">Kısayolu seç</string>
     <string name="title_select_live_folder">Klasörü Seç</string>
+    <string name="app_being_backup_message">Uygulama yedekleniyor</string>
+    <string name="app_being_restored_message">Uygulama geri yükleniyor</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_wallpaper">Duvar kağıdı</string>
     <string name="menu_search">Ara</string>
@@ -46,9 +51,12 @@
     <string name="status_paused">Duraklatıldı</string>
     <string name="status_downloaded">İndirildi</string>
     <string name="status_installing">Yükleniyor</string>
+    <string name="app_already_exist">Uygulama zaten mevcut!</string>
     <string name="loading_desktop">Miui Başlatıcı Yükleniyor...</string>
+    <string name="loading_wallpaper">Lütfen bekleyin…</string>
     <string name="start_activity_failed">Başlatıcı başlatılamıyor</string>
     <string name="gadget_error_text">Widget yüklenmesi sırasında bir sorun oluştu</string>
+    <string name="mtzgadget_missing_text">Artık sağlanmıyor!</string>
     <string name="menu_edit">Ana ekranı düzenle</string>
     <string name="menu_sort">Uygulamaları Sırala</string>
     <string name="menu_launcher_setting">Miui Başlatıcı Ayarları</string>
@@ -116,7 +124,7 @@
     <string name="pref_enable_drawing_cache_title">Çekmece önbelleği</string>
     <string name="pref_enable_drawing_cache_summary">Daha fazla hafıza için bu özelliği kapatın. Telefonunuzun yavaş çalışmasına sebep olabilir.</string>
     <string name="pref_icon_shadow_title">Simgelerin gölgesini göster</string>
-    <string name="pref_icon_shadow_summary">Uygulama ikon gölgelerini ve sık kullanılanların yansıma efektlerini açar</string>
+    <string name="pref_icon_shadow_summary">Uygulama simge gölgelerini ve sık kullanılanların yansıma efektlerini açar</string>
     <string name="transformation_type_classic">Aşırı kaydır</string>
     <string name="transformation_type_classic_no_overshoot">Kaydır</string>
     <string name="transformation_type_crossfade">Çapraz soldurma</string>
@@ -127,6 +135,7 @@
     <string name="transformation_type_rotate">Döndür</string>
     <string name="pref_screen_transformation_type_title">Ana ekran geçiş efektleri</string>
     <string name="pref_wallpaper_scroll_type_title">Duvar kağıdını kaydırma</string>
+    <string name="configure_wallpaper">Ayarlar</string>
     <string name="pref_cell_layout_size">Uygulama Simge Düzeni</string>
     <string name="pref_keep_layout_title">Uygulama konumlarını kilitle</string>
     <string name="pref_keep_layout_summary">Ana ekranınızın düzenini değiştirmek, uygulamaların birbirlerine göre olan konumlarını değiştirmez</string>
@@ -138,6 +147,7 @@
     <string name="global_search_hint">Ara</string>
     <string name="widget_global_search">Ara</string>
     <string name="gadget_clear_button_label">Temizleyici</string>
+    <string name="gadget_power_clear_button_label">Super Cleaner</string>
     <string name="gadget_clock_label">Saat</string>
     <string name="gadget_clock_12_label">Saat 2x1</string>
     <string name="gadget_clock_22_label">Saat 2x2</string>
@@ -206,6 +216,8 @@
     <string name="delete_wallpaper_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
     <string name="delete_wallpapers_message">Seçtiğiniz %1$d duvar kağıdı silisin mi?</string>
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez!</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="deselect_all">Seçim iptal</string>
     <string name="cloud_app_restore_title">Bekliyor</string>
     <string name="app_category_finance">Finans</string>
     <string name="app_category_social">Sosyal</string>
@@ -223,7 +235,13 @@
     <string name="app_category_sport">Spor</string>
     <string name="app_category_health">Sağlık</string>
     <string name="app_category_productivity">Verimlilik</string>
+    <string name="recommend_apps_notice">Önerilen uygulamalar</string>
+    <string name="recommend_apps_switch_title">Önerilen uygulamalar</string>
+    <string name="recommend_apps_switch_summary">Önerilen uygulamaları ekranın altında göster</string>
+    <string name="recommend_apps_default_title">Boş</string>
+    <string name="recommend_apps_tips">Bu özelliğin düzgün çalışması için internet bağlantısı gerekmektedir. Kapatmak için klasör adına dokunun.</string>
     <string name="disable">Kapalı</string>
     <string name="disable_auto_start_format">%s otomatik başlatmayı devre dışı bırak</string>
     <string name="disable_auto_start_message">Açılışta otomatik başlatmayı devre dışı bırak.</string>
+    <string name="default_shortcut_title_10086">10086.cn</string>
 </resources>

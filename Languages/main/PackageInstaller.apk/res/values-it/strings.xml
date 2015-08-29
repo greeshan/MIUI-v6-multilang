@@ -21,10 +21,10 @@
     <string name="perm_action_prompt">Chiedi</string>
     <string name="perm_action_reject">Nega</string>
     <string name="unknown_installer">Installazione sconosciuta</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) sostituirà la versione attuale (%3$s). I contenuti dell'utente verranno mantenuti. Sei sicuro di volerlo installare?"</string>
-    <string name="lift_ban">Rimuovi divieto</string>
-    <string name="uninstall_confirm_question">Vuoi disinstallare questa applicazione?</string>
-    <string name="uninstall_failed_retained_app_msg">Le applicazioni personalizzate dagli operatori non possono essere disinstallate</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s)sostituirà l'attuale versione (%3$s). Tutti i dati esistenti verranno salvati."</string>
+    <string name="lift_ban">Consenti</string>
+    <string name="uninstall_confirm_question">Disintallare questa applicazione?</string>
+    <string name="uninstall_failed_retained_app_msg">Questa applicazione è stata modificata e non può essere disinstallata nella forma attuale.</string>
     <string name="install_failed_system_incompatible">Questa applicazione non è compatibile con MIUI!</string>
     <string name="permission_group_title_charges_related">Telefono</string>
     <string name="permission_group_title_privacy_related">Privacy</string>
@@ -40,6 +40,13 @@
     <string name="virus_scan_is_risk">Questa applicazione presenta dei rischi!</string>
     <string name="virus_scan_clear">Rimuovi</string>
     <string name="virus_scan_caller_unknown">Sconosciuto</string>
+    <string name="lift_ban_once">Consenti una volta</string>
+    <string name="dlg_appstore_notice">Scarica questa app dal nostro &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u> ufficiale</string>
+    <string name="app_store_missing_title">App Store mancante</string>
+    <string name="reboot_time">Preparazione al riavvio……(%1$s)</string>
+    <string name="app_store_missing_message">"Abbiamo rilevato che lo Xiaomi App Store non è installato su questo dispositivo, consigliamo di installare l'App Store adesso."</string>
+    <string name="app_store_install_hint">Installa adesso</string>
+    <string name="app_store_installing_message">Installazione App Store……</string>
     <string name="app_name">Installazione pacchetti</string>
     <string name="install">Installa</string>
     <string name="done">Fine</string>
@@ -90,5 +97,14 @@ Tutti i dati utente precedenti verranno salvati."</string>
     <string name="uninstall_failed_msg">Impossibile disinstallare %1$s.</string>
     <string name="Parse_error_dlg_title">Errore di analisi</string>
     <string name="Parse_error_dlg_text">"Errore durante l'analisi del pacchetto."</string>
+    <string name="activity_package_delete_confirm_title">Avviso Importante</string>
+    <string name="button_text_cancel">Annulla</string>
+    <string name="button_text_delete">Elimina</string>
+    <string name="button_text_next_step_timer">Avanti (%d)</string>
+    <string name="button_text_next_step">Avanti</string>
+    <string name="button_text_delete_timer">Elimina (%d)</string>
+    <string name="package_delete_confirm_step_1">Eliminare %s?</string>
+    <string name="package_delete_confirm_step_2">"L'eliminazione di questa app potrbbe causare instabilità del sistema.."</string>
+    <string name="package_delete_confirm_step_3">Non sarai in grado di aprire questa app dopo averla eliminata.</string>
     <string name="uninstall_application_text_all_users">Vuoi disinstallare questa applicazione per <b>tutti</b>" gli utenti? L'applicazione e i relativi dati verranno rimossi da "<b>tutti</b> gli utenti configurati sul dispositivo.</string>
 </resources>

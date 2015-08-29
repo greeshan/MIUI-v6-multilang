@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="preferred_network_mode_choices">
+        <item>টিডি-এসসিডিএমএ/এলটিই/জিএসএম/ডাব্লুসিডিএমএ/সিডিএমএ/ইভিডিও</item>
+        <item>টিডি-এসসিডিএমএ/জিএসএম/ডাব্লুসিডিএমএ/সিডিএমএ/ইভিডিও</item>
+        <item>টিডি-এসসিডিএমএ/জিএসএম/ডাব্লুসিডিএমএ/এলটিই</item>
+        <item>টিডি-এসসিডিএমএ/ডাব্লুসিডিএমএ/এলটিই</item>
+        <item>টিডি-এসসিডিএমএ/জিএসএম/ডাব্লুসিডিএমএ</item>
+        <item>টিডি-এসসিডিএমএ/জিএসএম/এলটিই</item>
+        <item>টিডি-এসসিডিএমএ/জিএসএম</item>
+        <item>টিডি-এসসিডিএমএ/এলটিই</item>
+        <item>টিডি-এসসিডিএমএ/ডাব্লুসিডিএমএ</item>
+        <item>শুধুমাত্র টিডি-এসসিডিএমএ</item>
+        <item>এলটিই / ডাব্লুসিডিএমএ</item>
+        <item>এলটিই</item>
+        <item>বিশ্বব্যাপী</item>
+        <item>জিএসএম/ডাব্লুসিডিএমএ/এলটিই</item>
+        <item>সিডিএমএ + এলটিই/ইভডো</item>
+        <item>সিডিএমএ/ইভডো/জিএসএম/ডাব্লুসিডিএমএ</item>
+        <item>শুধুমাত্র ইভডো</item>
+        <item>সিডিএমএ ডাব্লু/ও ইভডো</item>
+        <item>CDMA/EvDo স্বয়ংক্রিয়</item>
+        <item>GSM/WCDMA স্বয়ংক্রিয়</item>
+        <item>শুধুমাত্র ডাব্লুসিডিএমএ</item>
+        <item>শুধুমাত্র জিএসএম</item>
+        <item>পছন্দসই জিএসএম/ডাব্লুসিডিএমএ</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>ইংরেজি</item>
+        <item>ফরাসী</item>
+        <item>স্পেনীয়</item>
+        <item>জাপানি</item>
+        <item>কোরিও</item>
+        <item>চিনা</item>
+        <item>হিব্রু</item>
+    </string-array>
+    <string-array name="list_language_values">
+        <item>১</item>
+        <item>২</item>
+        <item>৩</item>
+        <item>৪</item>
+        <item>৫</item>
+        <item>৬</item>
+        <item>৭</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>শুধুমাত্র হোম</item>
+        <item>স্বয়ংক্রিয়</item>
+    </string-array>
+    <string-array name="cdma_subscription_choices">
+        <item>আরইউআইএম/সিম</item>
+        <item>এনভি</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>০</item>
+        <item>১</item>
+    </string-array>
+</resources>

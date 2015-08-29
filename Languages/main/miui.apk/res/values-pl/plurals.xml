@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">Zaznaczonych: %d</item>
+        <item quantity="one">%d zaznaczony</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Teraz</item>
     </plurals>
@@ -51,9 +55,5 @@
     <plurals name="in_num_minutes">
         <item quantity="other">za %d min</item>
         <item quantity="one">za 1 min</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">Zaznaczonych: %d</item>
-        <item quantity="one">%d zaznaczony</item>
     </plurals>
 </resources>

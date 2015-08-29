@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="dialog_insufficient_space_on_external">Espaço insuficiente no armazenamento externo</string>
+    <string name="dialog_insufficient_space_on_cache">Espaço insuficiente no armazenamento interno</string>
+    <string name="auto_restart_under_wifi">O download deste arquivo começará automaticamente em Wi-Fi</string>
+    <string name="task_already_exist">A tarefa já existe</string>
+    <string name="privacy_tip_title">Usar Acelerador Xunlei?</string>
+    <string name="privacy_tip_content">Usar o Acelerador Xunlei para seus downloads? A URL do download será enviada aos servidores da Xiaomi. Os detalhes de sua Conta Mi também serão enviados para o verificar se você possui uma assinatura ativa do serviço.</string>
+    <string name="privacy_tip_cancel">Cancelar</string>
+    <string name="privacy_tip_ok">OK</string>
+    <string name="privacy_notif_title">Acelerador de Downloads Xunlei ativado</string>
+    <string name="privacy_notif_content">Toque para ver detalhes.</string>
+    <string name="notif_text_engine_on">Acelerando…</string>
+    <string name="notif_text_engine_off">Acelerador Xunlei desativado.</string>
+    <string name="notif_title_single_downloading">Transferindo %1$s</string>
+    <string name="notif_title_multiple_downloading">Transferindo %1$d arquivos</string>
+    <string name="notif_title_file_size">%1$d total</string>
+    <string name="paused_waiting_for_network">Aguardando rede</string>
+    <string name="warning_tip_title">Aviso do uso de dados</string>
+    <string name="warning_tip_content">Você não está mais conectado à rede Wi-Fi. Usar sua conexão de dados móveis para concluir este download irá aumentar seu uso de dados. Caso você exceda o limite de seu pacote de dados, sua operadora poderá cobrá-lo o excedente.</string>
+    <string name="warning_tip_cancel">Download</string>
+    <string name="warning_tip_ok">Pausar</string>
+    <string name="dialog_not_show_again">Não exibir novamente</string>
+    <string name="notification_download_complete">Download concluído.</string>
+    <string name="notification_download_failed">Falha no download.</string>
     <string name="app_label">Gerenciador de downloads</string>
     <string name="permlab_downloadManager">Acessar o gerenciador de download.</string>
     <string name="permdesc_downloadManager">Permite que o aplicativo acesse o gerenciador de download e o use para fazer download de arquivos. Aplicativos maliciosos podem usar essa ação para interromper downloads e acessar informações privadas.</string>
@@ -16,8 +39,6 @@
     <string name="permlab_accessAllDownloads">Acessar todos os downloads do sistema</string>
     <string name="permdesc_accessAllDownloads">Permite que o aplicativo visualize e modifique todos os downloads iniciados por qualquer aplicativo no sistema.</string>
     <string name="download_unknown_title">&lt;Sem título></string>
-    <string name="notification_download_complete">Download concluído.</string>
-    <string name="notification_download_failed">Falha no download.</string>
     <string name="notification_need_wifi_for_size">O tamanho do download requer Wi-Fi.</string>
     <string name="notification_paused_in_background">Paus. em segundo plano.</string>
     <string name="wifi_required_title">Download muito grande para a rede da operadora</string>
@@ -39,4 +60,6 @@ Toque em %s  para começar o download da próxima vez que você estiver conectad
     <string name="download_running">Em andamento</string>
     <string name="download_error">Falha</string>
     <string name="download_running_percent">Em andamento, %d%%</string>
+    <string name="notification_download_success_more">%1$d transferido</string>
+    <string name="notification_download_failed_more">Não foi possível transferir %1$d itens</string>
 </resources>

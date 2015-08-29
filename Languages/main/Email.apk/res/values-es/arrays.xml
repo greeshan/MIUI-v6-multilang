@@ -44,12 +44,52 @@
         <item>Mostrar sólo \"Borrar\"</item>
         <item>Mostrar \"Archivar\" y \"Borrar\"</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Correcto</item>
-        <item>No hay conexión.</item>
-        <item>No se ha podido conectar.</item>
-        <item>Error de seguridad.</item>
-        <item>No se ha podido sincronizar.</item>
-        <item>Fallo del Servidor</item>
+    <string-array name="signature_normal_string_array">
+        <item>Blog:</item>
+        <item>Sitio:</item>
+        <item>Email:</item>
+        <item>Móvil:</item>
+        <item>Teléfono:</item>
+        <item>T:</item>
+        <item>www.</item>
+        <item>F:</item>
+        <item>E:</item>
+        <item>E-mail:</item>
+        <item>Tel:</item>
+        <item>Fax:</item>
+        <item>Correspondencia:</item>
+        <item>QQ:</item>
+        <item>MSN:</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>Dirección:</item>
+        <item>Tel:</item>
+        <item>Nombre:</item>
+        <item>Email:</item>
+        <item>Móvil:</item>
+        <item>WeChat:</item>
+        <item>Fax:</item>
+        <item>Código postal:</item>
+    </string-array>
+    <string-array name="signature_special_string_array">
+        <item>Renuncia:</item>
+        <item>Renuncia email</item>
+        <item>Enviado via WPSMail</item>
+        <item>Enviado desde</item>
+        <item>Enviado con</item>
+        <item>Gracias,</item>
+        <item>Atentamente</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>Gracias,</item>
+        <item>Atentamente</item>
+        <item>Enviado desde mi</item>
+        <item>Email original</item>
+        <item>Enviado desde mi</item>
+        <item>Enviado desde</item>
+        <item>Desde</item>
+        <item>Este email</item>
+        <item>Renuncia</item>
+        <item>Renuncia email</item>
     </string-array>
 </resources>

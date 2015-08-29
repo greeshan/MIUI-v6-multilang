@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>New moon</item>
+        <item>Waxing bulan sabit</item>
+        <item>Pada suku pertama</item>
+        <item>Waxing dilunturkan</item>
+        <item>Bulan penuh</item>
+        <item>Waxing dilunturkan</item>
+        <item>Suku terakhir</item>
+        <item>Waxing bulan sabit</item>
+        <item>Bulan gelap</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>Cerah</item>
+        <item>Mendung</item>
+        <item>Mendung</item>
+        <item>Berkabus</item>
+        <item>Hujan lebat</item>
+        <item>hujan</item>
+        <item>Hujan kilat</item>
+        <item>Ribut petir</item>
+        <item>Hujan renyai-renyai</item>
+        <item>Hujan lebat</item>
+        <item>Hujan yang sederhana</item>
+        <item>Hujan ringan</item>
+        <item>Hujan dan salji yang bercampur-campur</item>
+        <item>Ribut salji</item>
+        <item>Salji</item>
+        <item>Salji lebat</item>
+        <item>Salji yang sederhana</item>
+        <item>Salji ringan</item>
+        <item>Ribut pasir yang kuat</item>
+        <item>Ribut Pasir</item>
+        <item>Pasir</item>
+        <item>Berangin</item>
+        <item>Hujan batu</item>
+        <item>Habuk</item>
+        <item>Jerebu</item>
+        <item>Hujan beku</item>
+        <item>Tiada data</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>Paling lemah</item>
+        <item>Lemah</item>
+        <item>Paras</item>
+        <item>Kuat</item>
+        <item>Paling kuat</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>Angin N</item>
+        <item>Angin NE</item>
+        <item>Angin E</item>
+        <item>Angin SE</item>
+        <item>Angin S</item>
+        <item>Angin SW</item>
+        <item>Angin W</item>
+        <item>Angin NW</item>
+    </string-array>
+</resources>

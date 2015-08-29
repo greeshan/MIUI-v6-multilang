@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vejrtjeneste</string>
+    <string name="choose_city">Vælg by</string>
+    <string name="searching">Søger, vent venligst...</string>
+    <string name="no_found">Kunne ikke finde by, der matcher med %s. Kontroller din indtastning.</string>
+    <string name="net_error">Netværket er ikke tilgængeligt. Tjek den.</string>
+    <string name="no_city_error">Kan ikke finde oplysninger om by. Angiv systemtid og tidszone korrekt.</string>
+    <string name="searching_fail">Søgning efter by mislykkedes.</string>
+    <string name="no_weather_error">Kan ikke finde vejroplysninger. Angiv systemtid og tidszone korrekt.</string>
+    <string name="no_weather">Har ikke vejret for %s for øjeblikket.</string>
+    <string name="setting_title">Konfiguration</string>
+    <string name="temperature">Temperaturenhed.</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Byer</string>
+    <string name="update_fre">Opdateringsfrekvens</string>
+    <string name="every12">Hver 12. time</string>
+    <string name="weatherserver">Vejrserver</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Annuller</string>
+    <string name="menu_add_city">Tilføj en by</string>
+    <string name="add_city">Tryk på ikonet for at tilføje en by</string>
+    <string name="remove">Fjern</string>
+    <string name="warn">Der kan højst tilføjes 8 byer.</string>
+    <string name="has_chosen">er valgt.</string>
+    <string name="no_city">Ingen byer</string>
+    <string name="powered_by">Drevet af:</string>
+    <string name="menu_about">Om</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Slet</string>
+    <string name="no">Annuller</string>
+    <string name="select_all">Vælg alle</string>
+    <string name="deselect_all">Fravælg alle</string>
+    <string name="delete">Slet</string>
+</resources>

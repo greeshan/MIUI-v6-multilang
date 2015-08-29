@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>सफ़ेद</item>
+        <item>पीला</item>
+        <item>धूसर</item>
+        <item>भूरा</item>
+        <item>हरा</item>
+        <item>नीला</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>हमेशा चालू</item>
+        <item>मांग पर</item>
+        <item>बंद</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>बहुत छोटा</item>
+        <item>छोटा</item>
+        <item>सामान्य</item>
+        <item>बड़ा</item>
+        <item>बहुत बड़ा</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>चीनी (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>जापानी (ISO-2022-JP)</item>
+        <item>जापानी (SHIFT_JIS)</item>
+        <item>जापानी (EUC-JP)</item>
+        <item>कोरियाई (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>कभी नहीं</item>
+        <item>केवल Wi-Fi पर</item>
+        <item>हमेशा</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>कभी नहीं</item>
+        <item>केवल Wi-Fi पर</item>
+        <item>हमेशा</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>डिफ़ॉल्ट प्रारंभ पृष्ठ</item>
+        <item>कस्टम</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>एंड्रॉयड</item>
+        <item>डेस्कटॉप</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>पिछला पृष्ठ/अगला पृष्ठ</item>
+        <item>पिछला टैब/अगला टैब</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>पृष्ठ आगे करना/पीछे करना</item>
+        <item>विंडो स्विच करें</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>छोटा</item>
+        <item>मध्यम</item>
+        <item>बड़ा</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>कभी नहीं</item>
+        <item>केवल वाई-फाई पर</item>
+        <item>हमेशा</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>बहुत छोटा</item>
+        <item>छोटा</item>
+        <item>सामान्य</item>
+        <item>बड़ा</item>
+        <item>विशाल</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>अधिक बड़ा</item>
+        <item>बड़ा</item>
+        <item>सामान्य</item>
+        <item>छोटा</item>
+    </string-array>
+</resources>

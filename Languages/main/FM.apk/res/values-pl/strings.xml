@@ -6,7 +6,7 @@
     <string name="menu_sleep">Wyłącznik czasowy</string>
     <string name="menu_sleep_cancel">Anuluj wyłączenie</string>
     <string name="menu_record_list">Nagrania FM</string>
-    <string name="menu_scan_start">Skanujj</string>
+    <string name="menu_scan_start">Skanuj</string>
     <string name="menu_new_station">Dodaj nową stację</string>
     <string name="menu_save_station_list">Dodaj do listy</string>
     <string name="menu_save_station_presets">Dodaj do stacji</string>
@@ -26,7 +26,7 @@
     <string name="exit_fm">Zakończ</string>
     <string name="toast_sleep_mode">Radio przestanie grać za %s</string>
     <string name="toast_sleep_mode_exit">Wyłącznik czasowy anulowany</string>
-    <string name="record_file_location_format">Zapisano do %s</string>
+    <string name="notification_rec_title">Dotknij by zobaczyć nagrania</string>
     <string name="record_completed">Nagrywanie zakończone</string>
     <string name="turn_off_fm">Wyłącz FM</string>
     <string name="view_stations_list">Pokaż listę stacji</string>
@@ -50,8 +50,8 @@
     <string name="toast_fm_starting">Rozpoczynanie…</string>
     <string name="toast_fm_seeking">Wyszukiwanie…</string>
     <string name="station_check_favorite">Dodaj do ulubionych</string>
-    <string name="toast_fm_recorder_internal_error">FM recording error</string>
-    <string name="toast_fm_recorder_storage_full">"Can't continue recording: not enough space"</string>
+    <string name="toast_fm_recorder_internal_error">Błąd nagrywania z FM</string>
+    <string name="toast_fm_recorder_storage_full">Brak miejsca na nagrania z FM</string>
     <string name="toast_fm_error_startfailed">Recording error. Another app may be using the recording function.</string>
     <string name="toast_fm_recorder_access_error">"Can't record while you're in Guest mode"</string>
     <string name="fm_has_turned_off">Radio wyłączone</string>

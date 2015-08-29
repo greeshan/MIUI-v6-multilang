@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">त्रुटि</string>
+    <string name="no_market_app">मार्केट अनुप्रयोग स्थापित नहीं किया गया है.</string>
+    <string name="alert_dialog_ok">ठीक</string>
+    <string name="app_name">Pico TTS</string>
+    <string name="eng_usa_sample">यह Pico के साथ अंग्रेजी में बोली संश्लेषण का उदाहरण है।</string>
+    <string name="eng_gbr_sample">यह Pico के साथ अंग्रेजी में बोली संश्लेषण का उदाहरण है।</string>
+    <string name="fra_fra_sample">Voici un échantillon de synthèse vocale en français avec Pico.</string>
+    <string name="deu_deu_sample">Dies ist ein Beispiel für Sprachsynthese in Deutsch mit Pico.</string>
+    <string name="ita_ita_sample">Questo è un esempio di sintesi vocale in italiano con Pico.</string>
+    <string name="spa_esp_sample">Este es un ejemplo de síntesis de voz en español con Pico.</string>
+    <string name="installed">इंस्‍टॉल की गई</string>
+    <string name="not_installed">इंस्‍टॉल नहीं की गई</string>
+</resources>

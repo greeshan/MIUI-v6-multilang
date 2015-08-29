@@ -94,4 +94,5 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Η κάρτα SD δεν είναι προσαρτημένη, παρακαλώ εισάγετε μια κάρτα SD</string>
     <string name="record_back_pressed_hint">Για να σταματήσετε την εγγραφή, πατήστε ξανά το Πίσω</string>
+    <string name="record_mark_point">%s σημ.αναφοράς</string>
 </resources>

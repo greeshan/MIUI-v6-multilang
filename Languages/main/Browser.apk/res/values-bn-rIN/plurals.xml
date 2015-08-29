@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$dটি নির্বাচন হয়েছে</item>
+        <item quantity="one">%1$dটি নির্বাচন হয়েছে</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">গতকাল গত %d দিনে</item>
+        <item quantity="one">গতকাল</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d %2$d -এর মধ্যে</item>
+        <item quantity="one">১টি মিল</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%dটি মিল</item>
+        <item quantity="one">%dটি মিল</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%dটি আইটেম ব্লক হয়েছে</item>
+        <item quantity="one">%dটি আইটেম ব্লক হয়েছে</item>
+    </plurals>
+</resources>

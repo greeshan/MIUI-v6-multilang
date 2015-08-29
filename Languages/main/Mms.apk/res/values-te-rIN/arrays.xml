@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_smiley_names">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Winking</item>
+        <item>Tongue sticking out</item>
+        <item>Surprised</item>
+        <item>Kissing</item>
+        <item>Yelling</item>
+        <item>కూల్</item>
+        <item>Money mouth</item>
+        <item>Foot in mouth</item>
+        <item>Embarrassed</item>
+        <item>Angel</item>
+        <item>Undecided</item>
+        <item>Crying</item>
+        <item>Lips are sealed</item>
+        <item>Laughing</item>
+        <item>Confused</item>
+        <item>Heart</item>
+        <item>Mad</item>
+        <item>Smirk</item>
+        <item>Poker face</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>1 సారి</item>
+        <item>2 సార్లు</item>
+        <item>3 సార్లు</item>
+        <item>5 సార్లు</item>
+        <item>10 సార్లు</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>పేరు</item>
+        <item>మారుపేరు</item>
+        <item>ఫోన్</item>
+        <item>ఇమెయిల్</item>
+        <item>సంస్థ</item>
+        <item>IM</item>
+        <item>SIP ఫోన్</item>
+        <item>పుట్టిన రోజు</item>
+        <item>వెబ్‌సైట్</item>
+        <item>చిరునామా</item>
+        <item>గమనిక</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>స్వీకరించినవి</item>
+        <item>పంపినవి</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>SMS</item>
+        <item>Mi సందేశం</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>SMS</item>
+        <item>Mi సందేశం</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>సెట్ చేయలేదు</item>
+        <item>1 గంట</item>
+        <item>6 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>1 రోజు</item>
+        <item>గరిష్టం</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>గరిష్టం</item>
+        <item>2 రోజులు</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 సెకను</item>
+        <item>2 సెకన్లు</item>
+        <item>3 సెకన్లు</item>
+        <item>4 సెకన్లు</item>
+        <item>5 సెకన్లు</item>
+        <item>6 సెకన్లు</item>
+        <item>7 సెకన్లు</item>
+        <item>8 సెకన్లు</item>
+        <item>9 సెకన్లు</item>
+        <item>10 సెకన్లు</item>
+        <item>ఇతరం</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>ఎల్లప్పుడూ</item>
+        <item>నిశ్శబ్దంగా ఉన్నప్పుడు మాత్రమే</item>
+        <item>ఎప్పుడూ వద్దు</item>
+    </string-array>
+</resources>

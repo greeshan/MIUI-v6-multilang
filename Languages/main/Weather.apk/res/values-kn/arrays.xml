@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>ಅಮಾವಾಸ್ಯೆ</item>
+        <item>ವರ್ಧಿಸುತ್ತಿರುವ ಚಂದ್ರ</item>
+        <item>ಮೊದಲ ತ್ರೈಮಾಸಿಕ</item>
+        <item>ವರ್ಧಿಸುತ್ತಿರುವ ಚಂದ್ರ</item>
+        <item>ಹುಣ್ಣಿಮೆ</item>
+        <item>ಕ್ಷೀಣಿಸುತ್ತಿರುವ ಚಂದ್ರ</item>
+        <item>ಕಳೆದ ತ್ರೈಮಾಸಿಕ</item>
+        <item>ಕ್ಷೀಣಿಸುತ್ತಿರುವ ಚಂದ್ರ</item>
+        <item>ಗಾಢ ಚಂದ್ರ</item>
+    </string-array>
+</resources>

@@ -45,6 +45,13 @@
     <string name="virus_scan_is_risk">Приложение содержит угрозу, продолжить установку?</string>
     <string name="virus_scan_clear">Удалить</string>
     <string name="virus_scan_caller_unknown">Неизвестно</string>
+    <string name="lift_ban_once">Разрешить</string>
+    <string name="dlg_appstore_notice">Загрузите это приложение из официального &lt;u>&lt;font color=#91c727>Маркета&lt;/font>&lt;/u></string>
+    <string name="app_store_missing_title">Mi Маркет отсутствует</string>
+    <string name="reboot_time">Подготовка к перезагрузке…(%1$s)</string>
+    <string name="app_store_missing_message">Mi Маркет не установлен на вашем устройстве</string>
+    <string name="app_store_install_hint">Установить</string>
+    <string name="app_store_installing_message">Установка Mi Маркета…</string>
     <string name="app_name">Установка приложений</string>
     <string name="install">Установить</string>
     <string name="done">Готово</string>
@@ -99,6 +106,15 @@
     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
+    <string name="activity_package_delete_confirm_title">Предупреждение</string>
+    <string name="button_text_cancel">Отмена</string>
+    <string name="button_text_delete">Удалить</string>
+    <string name="button_text_next_step_timer">Далее (%d)</string>
+    <string name="button_text_next_step">Далее</string>
+    <string name="button_text_delete_timer">Удалить (%d)</string>
+    <string name="package_delete_confirm_step_1">Удалить %s?</string>
+    <string name="package_delete_confirm_step_2">Удаление этого приложения может повлиять на работоспособность прошивки.</string>
+    <string name="package_delete_confirm_step_3">Все данные приложения будут также удалены.</string>
     <string name="all">Все разрешения</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_continue">Продолжить</string>

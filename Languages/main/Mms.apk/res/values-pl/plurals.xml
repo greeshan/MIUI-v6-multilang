@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Wątki (%1$s) zostaną usunięte.</item>
-        <item quantity="one">Jeden wątek zostanie usunięty.</item>
+        <item quantity="other">Usunąć wątki (%1$s)?</item>
+        <item quantity="one">Usunąć wątek?</item>
     </plurals>
     <plurals name="slide_duration">
+        <item quantity="other">%s s</item>
+        <item quantity="one">%s s</item>
+        <item quantity="few">%s s</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
         <item quantity="other">%s s</item>
         <item quantity="one">%s s</item>
         <item quantity="few">%s s</item>
@@ -15,9 +20,19 @@
     </plurals>
     <plurals name="recipient_count">
         <item quantity="other">Osoby: %1$s</item>
+        <item quantity="one">1 osoba</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">%d SMS</item>
+        <item quantity="zero">Brak SMS</item>
+        <item quantity="one">1 SMS</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">%d SMS bez synchronizacji</item>
+        <item quantity="one">1 SMS bez synchronizacji</item>
     </plurals>
     <plurals name="message_count">
-        <item quantity="other">Wiadomości: %1$s</item>
-        <item quantity="one">%1$s wiadomość</item>
+        <item quantity="other">SMS: %1$s</item>
+        <item quantity="one">%1$s SMS</item>
     </plurals>
 </resources>

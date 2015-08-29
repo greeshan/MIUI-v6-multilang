@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>வெள்ளை</item>
+        <item>மஞ்சள்</item>
+        <item>சாம்பல் நிறம்</item>
+        <item>பழுப்பு நிறம்</item>
+        <item>பச்சை</item>
+        <item>நீலம்</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>இயல்புநிலை தொடக்க பக்கம்</item>
+        <item>விருப்பம்</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>டெஸ்க்டாப்</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>முன் பக்கம்/அடுத்து பக்கம்</item>
+        <item>முந்தைய தாவல்/அடுத்து தாவல்</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>பக்கத்தை முன்னோக்கி/பின்னோக்கி நகர்தல்</item>
+        <item>சாளரத்தை மாற்ற</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>சிறிய</item>
+        <item>நடுத்தர</item>
+        <item>பெரிய</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>எப்போதும் வேண்டாம்</item>
+        <item>Wi-Fi இல் மட்டுமே</item>
+        <item>எப்போதும்</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>மிகச்சிறியது</item>
+        <item>சிறிய</item>
+        <item>வழக்கமான</item>
+        <item>பெரிய</item>
+        <item>மிகப்பெரிய</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>மிகப்பெரியது</item>
+        <item>பெரியது</item>
+        <item>வழக்கமானது</item>
+        <item>சிறியது</item>
+    </string-array>
+</resources>

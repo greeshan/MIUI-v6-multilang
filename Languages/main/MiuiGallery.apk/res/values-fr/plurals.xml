@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Supprimer %1$s albums (%2$s au total) ?</item>
+        <item quantity="one">Supprimer %1$s album (%2$s au total) ?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Supprimer %s photos du &lt;b>cloud&lt;/b> ?</item>
         <item quantity="one">Supprimer %s photo du &lt;b>cloud&lt;/b> ?</item>
@@ -23,6 +27,10 @@
     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">Supprimer %s vidéos du &lt;b>téléphone et du cloud&lt;/b> ?</item>
         <item quantity="one">Supprimer %s vidéo du &lt;b>téléphone et du cloud&lt;/b> ?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" &lt;Data> Supprimer %1$d vidéos de %2$d album(s) ?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Supprimer %1$d vidéo de %2$d album(s) ?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d sélectionnés</item>
@@ -63,5 +71,9 @@
         <item quantity="other">%1$d éléments</item>
         <item quantity="zero">%1$d élément</item>
         <item quantity="one">%1$d élément</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s nouveaux visages peuvent aussi correspondre à %2$s >></item>
+        <item quantity="one">Un nouveau visage peut aussi correspondre à %2$s >></item>
     </plurals>
 </resources>

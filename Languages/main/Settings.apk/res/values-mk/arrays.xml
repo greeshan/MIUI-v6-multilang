@@ -464,33 +464,6 @@
         <item>мала</item>
         <item>критична</item>
     </string-array>
-    <string-array name="data_usage_data_range">
-        <item>Последните 30 дена</item>
-        <item>Пост. цикл. на корист....</item>
-    </string-array>
-    <string-array name="sim_card_data_range">
-        <item>Последните 4 цифри</item>
-        <item>Првите 4 цифри</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64 K</item>
-        <item>256 K</item>
-        <item>1 M</item>
-        <item>4 M</item>
-        <item>16 M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>64.000</item>
-        <item>256.000</item>
-        <item>1 M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64 K/меѓумеморија</item>
-        <item>256 K/меѓумеморија</item>
-        <item>1 M/меѓумеморија</item>
-        <item>4 M/меѓумеморија</item>
-        <item>16 M/меѓумеморија</item>
-    </string-array>
     <string-array name="entries_zen_mode">
         <item>Исклучено</item>
         <item>Ограничени прекини</item>
@@ -517,5 +490,32 @@
         <item>Кеширана (активност)</item>
         <item>Кеширана (клиент за активност)</item>
         <item>Кеширана (празна)</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>64.000</item>
+        <item>256.000</item>
+        <item>1 M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64 K/меѓумеморија</item>
+        <item>256 K/меѓумеморија</item>
+        <item>1 M/меѓумеморија</item>
+        <item>4 M/меѓумеморија</item>
+        <item>16 M/меѓумеморија</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>64 K</item>
+        <item>256 K</item>
+        <item>1 M</item>
+        <item>4 M</item>
+        <item>16 M</item>
+    </string-array>
+    <string-array name="sim_card_data_range">
+        <item>Последните 4 цифри</item>
+        <item>Првите 4 цифри</item>
+    </string-array>
+    <string-array name="data_usage_data_range">
+        <item>Последните 30 дена</item>
+        <item>Пост. цикл. на корист....</item>
     </string-array>
 </resources>

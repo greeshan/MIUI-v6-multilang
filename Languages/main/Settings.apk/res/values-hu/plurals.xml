@@ -49,7 +49,11 @@
         <item quantity="one">Már csak egy lépésre van attól, hogy belépjen a hardverteszt alkalmazásba.</item>
     </plurals>
     <plurals name="show_rep_countdown">
-        <item quantity="other">%1$d lépésre van, hogy belépjen a hibajejelentés alkalmazásba.</item>
-        <item quantity="one">Már csak egy lépésre van, hogy belépjen a hibajejelentés alkalmazásba.</item>
+        <item quantity="other">%1$d lépésre van, hogy belépjen a hibajelentés alkalmazásba.</item>
+        <item quantity="one">Már csak egy lépésre van, hogy belépjen a hibajelentés alkalmazásba.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">%d alkalmazás biztosít feltételeket</item>
+        <item quantity="one">%d alkalmazás biztosít feltételeket</item>
     </plurals>
 </resources>

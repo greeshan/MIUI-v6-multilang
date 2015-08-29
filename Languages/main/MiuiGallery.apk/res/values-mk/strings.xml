@@ -450,8 +450,6 @@
     <string name="delete">Избриши</string>
     <string name="confirm_delete">избришете %s слики?</string>
     <string name="comfirm_delete_current_album">Избриши го овој албум?</string>
-    <string name="confirm_delete_album" formatted="false">Избришете %s албуми (%s предмети тотално)?</string>
-    <string name="confirm_delete_system_album">%s е системски албум.</string>
     <string name="operation_delete_confirm_message_folder">Сите содржини во папка ќе бидат избришани.</string>
     <string name="delete_folder">Избриши %1$d папки?</string>
     <string name="delete_file">Избриши %1$d датотеки?</string>
@@ -684,7 +682,6 @@
     <string name="add_to_cloud_failed_message_with_count">" %2$s  предмети неможат да бидат додадени во cloud %1$s ."</string>
     <string name="add_to_cloud_reasons" />
     <string name="add_to_cloud_unknow_reasons">Непозната грешка</string>
-    <string name="cant_delete_cloud_album">Неможе да избришете %s , бидејќи е системски албум или е споделен од други корисници.</string>
     <string name="cannot_delete_sharer_photo">"Неможе да избришете %s  предмети поставени од страна на другите членови."</string>
     <string name="share_album">Сподели албум</string>
     <string name="share_album_owner">Сопственик</string>
@@ -892,9 +889,6 @@
     <string name="error_not_acceptable">Синхронизацијата е исклучена.</string>
     <string name="long_press_to_refocus">Допри&amp;задржи за да рефокусирате</string>
     <string name="ubifocus_data_missing">Некои од податоците за оваа слика недостасуваат</string>
-    <string name="ubifocus_map_error">Некои од податоците за оваа слика содржи грешки</string>
-    <string name="ubifocus_refocus_data_missing">Неможеше да рефокусира бидејќи некои информации од оваа слика недостасуваат</string>
-    <string name="ubifocus_refocus_map_error">Неможе да рефокусира бидејќи некој информации од сликата содржат грешки</string>
     <string name="ubifocus_refocus_download_tip">"Треба да ја преземете информацијата на оваа слика пред да рефокусирате. "</string>
     <string name="download_refocus_data">Превземи рефокусирање на податоци</string>
     <string name="refocus_data_downloading">Превземање рефокусирани податоци...</string>
@@ -905,12 +899,15 @@
     <string name="photo_paint_effect">ефект</string>
     <string name="action_fail_unknown_error">Се случи непозната грешка</string>
     <string name="add_to_cloud_fail_too_many_items">Премногу избрани предмети</string>
+    <string name="cant_delete_cloud_album">Неможе да избришете %s , бидејќи е системски албум или е споделен од други корисници.</string>
     <string name="cloud_share_guide_message">"Сподели ги твоите Cloud албуми со пријатели. Види и надгради ги вашите албуми од било каде.
 "</string>
     <string name="cloud_share_guide_title">Споделување е лесно</string>
     <string name="cloud_tab_locations">Локации</string>
+    <string name="confirm_delete_album" formatted="false">Избришете %s албуми (%s предмети тотално)?</string>
     <string name="confirm_delete_home_merge_item">избришете %s слики на уредот и во Mi Cloud?</string>
     <string name="confirm_delete_pictures">избришете %s слики?</string>
+    <string name="confirm_delete_system_album">%s е системски албум.</string>
     <string name="confirm_delete_this_picture">избришете ја оваа слика?</string>
     <string name="confirm_delete_this_video">Избриши го ова видео?</string>
     <string name="confirm_delete_videos">избришете %s видеа?</string>
@@ -927,5 +924,8 @@
     <string name="sina_weibo_save">Weibo</string>
     <string name="slideshow_time_select_title">Намести траење на слајдшоу</string>
     <string name="slideshow_time_title">Времетраење</string>
+    <string name="ubifocus_map_error">Некои од податоците за оваа слика содржи грешки</string>
+    <string name="ubifocus_refocus_data_missing">Неможеше да рефокусира бидејќи некои информации од оваа слика недостасуваат</string>
+    <string name="ubifocus_refocus_map_error">Неможе да рефокусира бидејќи некој информации од сликата содржат грешки</string>
     <string name="miliao_saved">MiTalk</string>
 </resources>

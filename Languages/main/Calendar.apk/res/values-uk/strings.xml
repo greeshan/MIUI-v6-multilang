@@ -168,6 +168,7 @@
     <string name="user_notice_online_title">Повідомлення</string>
     <string name="user_notice_online_ok">Продовжити</string>
     <string name="not_exist_topic_list">Не вдається отримати список календарів</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Готуйтеся до дня народження</string>
     <string name="button_day">Д</string>
     <string name="button_week">Т</string>
     <string name="button_month">М</string>
@@ -232,6 +233,7 @@
     <string name="birthday_event_description">Сьогодні %4$s: %1$s</string>
     <string name="jump_date">Перейти</string>
     <string name="jump_date_full">Перейти до дати</string>
+    <string name="select_date">Виберіть дату</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Новий захід</string>
@@ -273,6 +275,7 @@
     <string name="copy_email">Копіювати адресу Email</string>
     <string name="copy_number">Копіювати номер телефону</string>
     <string name="done">Готове</string>
+    <string name="event_not_found">Захід не знайденоа</string>
     <string name="accessibility_email_notification">Гості Email</string>
     <string name="accessibility_pick_recurrence">Повтор</string>
     <string name="acessibility_recurrence_choose_end_date_description">змінити дату закінчення</string>
@@ -287,12 +290,10 @@
     <string name="day_picker_description">Сітка днів</string>
     <string name="deleted_key">Вилучено: %1$s</string>
     <string name="done_label">Готово</string>
-    <string name="email_guests_label_title">Email</string>
     <string name="email_organizer_label">Email</string>
     <string name="endByDate">; до %s</string>
     <string name="event_color_picker_dialog_title">Колір події</string>
     <string name="event_color_set_to_default">Встановіть колір календаря за замовчуванням</string>
-    <string name="event_not_found">Захід не знайденоа</string>
     <string name="hint_time_zone_search">Введіть країну</string>
     <string name="hour_picker_description">Годинний циферблат</string>
     <string name="item_is_selected">Вибрано: %1$s</string>
@@ -322,4 +323,5 @@
     <string name="select_minutes">Виберіть хвилини</string>
     <string name="select_year">Виберіть рік</string>
     <string name="year_picker_description">Список</string>
+    <string name="email_guests_label_title">Email</string>
 </resources>

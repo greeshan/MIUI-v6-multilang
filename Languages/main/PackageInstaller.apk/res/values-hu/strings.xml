@@ -41,6 +41,13 @@ A felhasználói tartalom megmarad."</string>
     <string name="virus_scan_is_risk">Ez az alkalmazás veszélyt jelent!</string>
     <string name="virus_scan_clear">Eltávolítás</string>
     <string name="virus_scan_caller_unknown">Ismeretlen</string>
+    <string name="lift_ban_once">Engedélyezés</string>
+    <string name="dlg_appstore_notice">Töltse le ezt az alkalmazást a hivatalos &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u>-ból</string>
+    <string name="app_store_missing_title">Az App Store hiányzik</string>
+    <string name="reboot_time">Újraindítás előkészítése……(%1$s)</string>
+    <string name="app_store_missing_message">A Xiaomi App Store nincs telepítve az eszközre, ajánlott azonnali telepítése.</string>
+    <string name="app_store_install_hint">Telepítés most</string>
+    <string name="app_store_installing_message">App Store telepítése……</string>
     <string name="app_name">Csomagtelepítő</string>
     <string name="install">Telepítés</string>
     <string name="done">Kész</string>
@@ -90,4 +97,13 @@ Engedélyezi most és a későbbiekben?"</string>
     <string name="uninstall_failed_msg">Nem sikerült a(z) %1$s eltávolítása</string>
     <string name="Parse_error_dlg_title">Feldolgozási hiba</string>
     <string name="Parse_error_dlg_text">Gond volt a csomag szintaktikai elemzésével.</string>
+    <string name="activity_package_delete_confirm_title">Figyelmeztetés</string>
+    <string name="button_text_cancel">Mégsem</string>
+    <string name="button_text_delete">Törlés</string>
+    <string name="button_text_next_step_timer">Tovább (%d)</string>
+    <string name="button_text_next_step">Tovább</string>
+    <string name="button_text_delete_timer">Törlés (%d)</string>
+    <string name="package_delete_confirm_step_1">%s törlése?</string>
+    <string name="package_delete_confirm_step_2">Az alkalmazás törlésével a rendszer instabillá válhat.</string>
+    <string name="package_delete_confirm_step_3">Az alkalmazást nem fogja tudni megynitni a törlés után.</string>
 </resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi డేటా</item>
+        <item>అన్ని అప్లికేషన్‌లు</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>బ్రౌజర్</item>
+        <item>అనుమతులు</item>
+        <item>కెమెరా</item>
+        <item>డేటా వినియోగం</item>
+        <item>వాతావరణ డేటా</item>
+        <item>వాతావరణం</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>పరిచయాలు</item>
+        <item>కాల్ లాగ్</item>
+        <item>సందేశాలు</item>
+        <item>మల్టీమీడియా సందేశాలు</item>
+        <item>సిస్టమ్ సెట్టింగ్‌లు</item>
+        <item>Wi-Fi సెట్టింగ్‌లు</item>
+        <item>హోమ్ స్క్రీన్ లేఅవుట్</item>
+        <item>అలారం సెట్టింగ్‌లు</item>
+        <item>గమనికలు</item>
+        <item>DND</item>
+        <item>ఖాతా</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>డేటా</item>
+        <item>అప్లికేషన్‌లు</item>
+        <item>అప్లికేషన్‌లు మరియు డేటా</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>పరిచయాలు</item>
+        <item>కాల్ లాగ్</item>
+        <item>సందేశాలు</item>
+        <item>Wi-Fi సెట్టింగ్‌లు</item>
+        <item>గమనికలు</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>పరిచయాలు</item>
+        <item>Wi-Fi సెట్టింగ్‌లు</item>
+        <item>గమనికలు</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>కాల్ లాగ్‌లు</item>
+        <item>సందేశాలు</item>
+    </string-array>
+</resources>

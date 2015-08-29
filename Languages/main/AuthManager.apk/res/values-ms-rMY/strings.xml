@@ -102,7 +102,7 @@
     <string name="HIPS_Perm_SendSMS_Recipient">Penerima</string>
     <string name="HIPS_Perm_SendSMS_Content">Kandungan</string>
     <string name="HIPS_Perm_SendSMS_SMSC">Nombor SMSC</string>
-    <string name="HIPS_Perm_SendSMS_SMSC_Default">Lalai</string>
+    <string name="HIPS_Perm_SendSMS_SMSC_Default">Asal</string>
     <string name="HIPS_Perm_SendSMS_Port">Port</string>
     <string name="HIPS_Perm_SendSMS_Data">Data SMS %1$s:%2$d</string>
     <string name="HIPS_Perm_SendSMS_Text">Teks SMS %1$s</string>

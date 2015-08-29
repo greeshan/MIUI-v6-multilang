@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">%s ಮೋಡದ ಚಿತ್ರಗಳ ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ಮೋಡದ ಚಿತ್ರ ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s ಚಿತ್ರಗಳ ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ಫೋಟೋ ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">%s ಮೋಡದ ವೀಡಿಯೊಗಳ ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ಮೋಡದ ವೀಡಿಯೊ ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s ವೀಡಿಯೊಗಳ ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ವೀಡಿಯೊ ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">%s ಚಿತ್ರಗಳನ್ನು bಸ್ಥಳೀಯ ಮತ್ತು ಮೋಡದಿಂದ/b ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ಚಿತ್ರವನ್ನು bಸ್ಥಳೀಯ ಮತ್ತು ಮೋಡದಿಂದ/b ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">%s ವೀಡಿಯೊಗಳನ್ನು bಸ್ಥಳೀಯ ಮತ್ತು ಮೋಡದಿಂದ/b ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ವಿಡಿಯೋವನ್ನು bಸ್ಥಳೀಯ ಮತ್ತು ಮೋಡದಿಂದ/b ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d ಚಿತ್ರಗಳು</item>
+        <item quantity="one">%1$d ಚಿತ್ರ</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d ಐಟಂಗಳು</item>
+        <item quantity="one">%1$d ಐಟಂ</item>
+    </plurals>
+</resources>

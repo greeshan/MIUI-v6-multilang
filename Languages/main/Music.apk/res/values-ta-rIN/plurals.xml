@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%dபாடல்கள் காணப்பட்டன</item>
+        <item quantity="one">%d பாடல் காணப்பட்டது</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d நாட்கள் மீதமுள்ளன</item>
+        <item quantity="one">%d நாள் மீதமுள்ளது</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d பாடல்கள் பதிவிறக்கப்படும்</item>
+        <item quantity="one">1 பாடல் பதிவிறக்கப்படும்</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d புதியவை</item>
+        <item quantity="one">%d புதியது</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">" %d  பாடல்கள்"</item>
+        <item quantity="one">" %d  பாடல்"</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d போன்ற பாடல்கள்</item>
+        <item quantity="one">%d போன்ற பாடல்</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d பாடல்கள் இசை பட்டியலுக்கு சேர்க்கப்பட்டது</item>
+        <item quantity="one">பாடல் இசை பட்டியலுக்கு சேர்க்கப்பட்டது</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d பாடல்கள் இசை பட்டியலிலிருந்து அகற்றப்பட்டது</item>
+        <item quantity="one">பாடல் இசை பட்டியலிலிருந்து அகற்றப்பட்டது</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d பாடல்கள்</item>
+        <item quantity="one">1 பாடல்</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%dபாடல்கள் அனுப்பப்படும்</item>
+        <item quantity="one">1 பாடல் அனுப்பப்படும்</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%dபாடல்கள்</item>
+        <item quantity="one">1 பாடல்</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%dபாடல்கள் சேர்க்கப்பட்டன</item>
+        <item quantity="one">%d பாடல் சேர்க்கப்பட்டது</item>
+    </plurals>
+</resources>

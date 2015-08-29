@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>ಬಿಳಿ</item>
+        <item>ಹಳದಿ</item>
+        <item>ಬೂದು</item>
+        <item>ಕಂದು</item>
+        <item>ಹಸಿರು</item>
+        <item>ನೀಲಿ</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>ಡೀಫಾಲ್ಟ್ ಪ್ರಾರಂಭ ಪುಟ</item>
+        <item>ಕಸ್ಟಮ್</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>ಡೆಸ್ಕ್‌ಟಾಪ್</item>
+        <item>ಐಫೋನ್‌</item>
+        <item>ಐಪ್ಯಾಡ್</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>ಹಿಂದಿನ ಪುಟ/ಮುಂದಿನ ಪುಟ</item>
+        <item>ಹಿಂದಿನ ಟ್ಯಾಬ್/ಮುಂದಿನ ಟ್ಯಾಬ್</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>ಪುಟ ಮುಂದಕ್ಕೆ/ಹಿಂದಕ್ಕೆ</item>
+        <item>ವಿಂಡೋ ಬದಲಿಸಿ</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ಸಣ್ಣ</item>
+        <item>ಮಧ್ಯಮ</item>
+        <item>ದೊಡ್ಡದು</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>ಎಂದಿಗೂ ಬೇಡ</item>
+        <item>ವೈ-ಫೈನಲ್ಲಿ ಮಾತ್ರ</item>
+        <item>ಯಾವಾಗಲೂ</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>ಚಿಕ್ಕ</item>
+        <item>ಸಣ್ಣ</item>
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಬೃಹತ್</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>ಅತೀ ದೊಡ್ಡದು</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಸಾಮಾನ್ಯ</item>
+        <item>ಸಣ್ಣ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nikdy automaticky aktualizovať</item>
+        <item>Každú 1 hodinu</item>
+        <item>Každé 2 hodiny</item>
+        <item>Každých 6 hodín</item>
+        <item>Každých 12 hodín</item>
+        <item>Každý 1 deň</item>
+    </string-array>
+</resources>

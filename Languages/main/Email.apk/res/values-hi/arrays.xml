@@ -6,18 +6,18 @@
         <item>फॉरवर्ड करें</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>बिल्कुल छोटा</item>
+        <item>बहुत छोटा</item>
         <item>छोटा</item>
         <item>सामान्य</item>
         <item>बड़ा</item>
         <item>विशाल</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recently viewed</item>
-        <item>फ़ॉर्मेट करें</item>
+        <item>हाल ही मे देखे गए</item>
+        <item>फ़ॉर्मेट</item>
         <item>नाम</item>
         <item>प्रेषक</item>
-        <item>Date received</item>
+        <item>प्राप्त होने का दिनांक</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>सिस्टम</item>
@@ -25,8 +25,8 @@
         <item>सभी फ़ोल्डर</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Newer message</item>
-        <item>Older message</item>
+        <item>ताजा संदेश</item>
+        <item>पुराने संदेश</item>
         <item>बातचीत सूची</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
@@ -35,7 +35,7 @@
         <item>संग्रहीत किए गए और हटाए गए दिखाएं</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>आपके द्वारा हटाये जाने के बाद नए बातचीत दिखाएं</item>
+        <item>आपके द्वारा हटाए जाने के बाद नई बातचीत दिखाएं</item>
         <item>आपके द्वारा हटाये जाने के बाद पुराने बातचीत दिखाएं</item>
         <item>आपके द्वारा हटाये जाने के बाद बातचीत सूची दिखाएं</item>
     </string-array>
@@ -59,19 +59,11 @@
         <item>भवदीय</item>
         <item>मेरे इस डिवाइस से भेजा गया</item>
         <item>मूल ईमेल</item>
-        <item>मेरे इस डिवाइस से भेजा गया</item>
-        <item>मेरे इस डिवाइस से भेजा गया</item>
+        <item>इससे भेजा गया:</item>
+        <item>इससे भेजा गया:</item>
         <item>प्रेषक</item>
         <item>यह ईमेल</item>
         <item>अस्वीकरण</item>
         <item>ईमेल अस्वीकरण</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>सफल</item>
-        <item>कोई कनेक्शन नहीं.</item>
-        <item>साइन इन नहीं किया जा सका.</item>
-        <item>सुरक्षा त्रुटि.</item>
-        <item>सिंक नहीं कर सका.</item>
-        <item>आंतरिक त्रुटि</item>
     </string-array>
 </resources>

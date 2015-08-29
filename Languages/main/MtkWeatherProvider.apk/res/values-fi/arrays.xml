@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Älä päivitä koskaan automaattisesti</item>
+        <item>1 tunnin välein</item>
+        <item>2 tunnin välein</item>
+        <item>6 tunnin välein</item>
+        <item>12 tunnin välein</item>
+        <item>1 päivän välein</item>
+    </string-array>
+</resources>

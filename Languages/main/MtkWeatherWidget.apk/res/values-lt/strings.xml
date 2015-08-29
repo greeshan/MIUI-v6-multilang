@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orai</string>
+    <string name="updating">Atnaujinimas</string>
+    <string name="failed_to_locate">Nepavyko nustatyti vietos</string>
+    <string name="no_weather">Šiuo metu nėra orų prognozės %s.</string>
+    <string name="add_setting">Spustelėkite čia, kad pridėtumėte miestų</string>
+    <string name="net_error">Tinklas neveikia. Patikrinkite jį.</string>
+</resources>

@@ -53,7 +53,7 @@
     <string name="HIPS_Perm_SMS_Hint">%1$s ആപ്പുകള്‍ക്ക് SMS സന്ദേശങ്ങൾ എഴുതാന്‍ കഴിയും</string>
     <string name="HIPS_Perm_MMS">MMS സന്ദേശങ്ങൾ എഴുതുക</string>
     <string name="HIPS_Perm_MMS_Desc">മള്‍ട്ടിമീഡിയ സന്ദേശങ്ങൾ എഴുതുക</string>
-    <string name="HIPS_Perm_MMS_Hint">%1$s ആപ്പുകള്‍ക്ക് SMS സന്ദേശങ്ങൾ എഴുതാന്‍ സാധിക്കും</string>
+    <string name="HIPS_Perm_MMS_Hint">%1$s ആപ്പുകള്‍ക്ക് SMS സന്ദേശങ്ങൾ എഴുതാനും മായ്ക്കാനും സാധിക്കും</string>
     <string name="HIPS_Perm_Contact">കോൺടാക്റ്റുകൾ പരിഷ്ക്കരിക്കുക</string>
     <string name="HIPS_Perm_Contact_Desc">നിങ്ങളുടെ കോൺടാക്റ്റുകൾ പരിഷ്ക്കരിക്കുക</string>
     <string name="HIPS_Perm_Contact_Hint">%1$s ആപ്സുകൾക്ക് നിങ്ങളുടെ കോൺടാക്റ്റുകൾ പരിഷ്ക്കരിക്കാനാവും</string>
@@ -248,7 +248,7 @@
     <string name="SysOpt_Boost_AutoStart_Group">ഓട്ടോ സ്റ്റാർട്ട്</string>
     <string name="SysOpt_Boost_AutoStart">ഓട്ടോ സ്റ്റാർട്ട് അനുമതികൾ</string>
     <string name="Su_Enable_Dialog">%1$s റൂട്ട് ആക്സസ് അഭ്യർത്ഥിക്കുന്നു.</string>
-    <string name="Su_Unavailable">MIUI യുടെ ഈ പതിപ്പിനു റൂട്ട് ആക്സസ് ലഭ്യമല്ല. റൂട്ട് ആക്സസ് നല്‍കുന്നതിനു നിങ്ങൾ MIUI യുടെ ഡെവലപ്പർ ബിൽഡ് ഫ്ലാഷ് ചെയ്യേണ്ടതാണ്.</string>
+    <string name="Su_Unavailable">MIUI-യുടെ ഈ പതിപ്പിനു റൂട്ട് ആക്സസ് ലഭ്യമല്ല. റൂട്ട് ആക്സസ് നല്‍കുന്നതിനു നിങ്ങൾ MIUI യുടെ ഡെവലപ്പർ ബിൽഡ് ഫ്ലാഷ് ചെയ്യേണ്ടതാണ്.</string>
     <string name="Su_Package_Forbidden">%1$s നു റൂട്ട് ആക്സസ് ലഭ്യമല്ല.</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\"-ന് %2$s ലേക്ക് അനുമതിയില്ല. സുരക്ഷയും > അനുമതിയും എന്നതിൽ നിങ്ങള്‍ക്ക് എപ്പോള്‍ വേണമെങ്കിലും ആപ്പ് അനുമതി മാറ്റാവുന്നതാണ്.</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">ഒരിക്കൽ അനുവദിക്കുക (%d)</string>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auto_memory_clean">
+        <item>Într-un minut</item>
+        <item>În 5 minute</item>
+        <item>În 10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Lansator de sistem</item>
+        <item>Telefon</item>
+        <item>Mesaje</item>
+        <item>Browser</item>
+        <item>Cameră</item>
+        <item>Galerie</item>
+        <item>Muzică</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>După 1 minut</item>
+        <item>După 5 minute</item>
+        <item>După 10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 secunde</item>
+        <item>30 de secunde</item>
+        <item>1 minut</item>
+        <item>2 minute</item>
+        <item>5 minute</item>
+        <item>10 minute</item>
+        <item>Niciodată</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Performanţă</item>
+        <item>Echilibrat</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Dezactivare</item>
+        <item>Activare</item>
+        <item>Nu se modifică</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Fără vibrare</item>
+        <item>Vibrare în modul silenţios</item>
+        <item>Vibrare întotdeauna</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zile de lucru</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>O dată</item>
+        <item>În fiecare zi</item>
+        <item>Zilele săptămânii</item>
+        <item>Personalizat</item>
+    </string-array>
+</resources>

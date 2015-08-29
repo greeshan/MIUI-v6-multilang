@@ -20,4 +20,9 @@
         <item>Música</item>
         <item>Voz</item>
     </string-array>
+    <string-array name="interview_record_scenes_entries">
+        <item>Música</item>
+        <item>Voz</item>
+        <item>Entrevista</item>
+    </string-array>
 </resources>

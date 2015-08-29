@@ -35,7 +35,7 @@
     <string name="progress_title_checking">Đang kiểm tra cập nhật…</string>
     <string name="menu_title_download_current_rom">Tải xuống bản cập nhật</string>
     <string name="menu_title_pick_rom_file">Chọn gói cập nhật</string>
-    <string name="menu_title_recovery">Vào Recovery</string>
+    <string name="menu_title_recovery">Khởi động lại vào chế độ Khôi phục</string>
     <string name="menu_title_current_version_log">Tóm tắt cập nhật</string>
     <string name="check_update_policy">Cài đặt</string>
     <string name="check_update_when_wifi_available">Chỉ kiểm tra bằng Wi-Fi</string>
@@ -43,9 +43,12 @@
     <string name="apply_update_dialog_update_button">Cập nhật</string>
     <string name="apply_update_dialog_cancel_button">Hủy</string>
     <string name="cancel_download_buton_text">Hủy</string>
-    <string name="boot_recovery">Khởi động lại vào chế độ Recovery?</string>
+    <string name="boot_recovery">Khởi động lại vào chế độ Khôi phục?</string>
     <string name="cancel_download">Dừng tải xuống bản cập nhật?</string>
+    <string name="update_success_reboot_immediately">Cập nhật thành công</string>
+    <string name="download_success_reboot_immediately">Khởi động lại để áp dụng cập nhật</string>
     <string name="update_success">Cập nhật thành công</string>
+    <string name="install_failed">Cập nhật thất bại</string>
     <string name="download_current_rom">Khởi động lại để hoàn tất cập nhật</string>
     <string name="later">Sau</string>
     <string name="notification_update_new_version">Tìm thấy phiên bản mới</string>
@@ -55,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Chạm để khởi động lại thiết bị của bạn.</string>
     <string name="notification_reboot_btn">Khởi động lại</string>
     <string name="notification_reboot_seccess_title">Cập nhật thành công</string>
+    <string name="notification_auto_reboot_seccess_title">Thiết bị đã cập nhật tự động</string>
     <string name="notification_reboot_seccess_des">Bấm để chia sẻ thông tin cập nhật.</string>
     <string name="notification_share">Chia sẻ</string>
     <string name="notification_downloading">Đang tải xuống bản cập nhật…</string>
@@ -77,6 +81,11 @@
     <string name="pause">Tạm dừng</string>
     <string name="repeat">Thử lại</string>
     <string name="user_begin">Tải xuống</string>
+    <string name="recovery_failed_title">Sử dụng Mi PC Suite để cập nhật hệ thống của bạn</string>
+    <string name="recovery_failed_msg">"Thiết bị của bạn không đủ bộ nhớ để vào chế độ Khôi phục và cập nhật hệ thống. Hãy thử sử dụng Mi PC Suite để thay thế:
+http://zhushou.xiaomi.com"</string>
+    <string name="recovery_failed_button">OK</string>
+    <string name="recovery_failed_notification_msg">Không thể vào chế độ Khôi phục</string>
     <string name="validate_pkg_failed_title">Không thể xác minh bản cập nhật</string>
     <string name="validate_pkg_failed_msg">Không thể xác minh nguồn gốc của bản cập nhật này. Thử tải xuống lần nữa.</string>
     <string name="user_intertup_download_title">Tải xuống đã tạm dừng</string>
@@ -110,7 +119,7 @@
     <string name="stable_build">Ổn định</string>
     <string name="unstable_build">Không ổn định</string>
     <string name="particular_build">Bản đặc biệt</string>
-    <string name="about_device">Giới thiệu về điện thoại</string>
+    <string name="about_device">Thông tin điện thoại</string>
     <string name="emegency_build">"Phiên bản "</string>
     <string name="loading">Đang yêu cầu…</string>
     <string name="share_update">Chia sẻ thông tin cập nhật</string>
@@ -140,17 +149,17 @@
     <string name="open_now">Bật</string>
     <string name="not_open">Không phải bây giờ</string>
     <string name="title_toast_auto">Bản cập nhật sẽ tự động tải xuống</string>
-    <string name="update_feedback">Phản hồi Trải nghiệm Người dùng</string>
-    <string name="update_feedback_end">Bạn đã bỏ lỡ Phản hồi Cập nhật tuần này</string>
+    <string name="update_feedback">Đánh giá bản cập nhật này</string>
+    <string name="update_feedback_end">Bạn đã bỏ lỡ bình chọn tuần này</string>
     <string name="update_feedback_end_sum">Bạn có thể tham gia vào các ngày Thứ Ba.</string>
     <string name="update_feedback_need_update">Bạn cần cập nhật hệ thống của mình lên phiên bản mới nhất trước.</string>
-    <string name="update_feedback_expired">"Bạn đã bỏ lỡ Phản hồi Cập nhật tuần này.
- Bạn có thể tham gia vào thứ Ba tuần tới."</string>
+    <string name="update_feedback_expired">"Bạn đã bỏ lỡ bình chọn tuần này.
+Bạn có thể tham gia vào thứ Ba tuần tới."</string>
     <string name="update_feedback_need_account">Bạn cần phải đăng nhập vào Tài khoản Mi trước</string>
     <string name="update_feedback_need_network">Kết nối mạng trước</string>
     <string name="update_happy">Tuyệt vời!</string>
-    <string name="update_general">Tàm tạm</string>
-    <string name="update_sad">Buồn (không tốt)</string>
+    <string name="update_general">Tàm tạm!</string>
+    <string name="update_sad">Thất vọng!</string>
     <string name="update_feel">Bạn cảm thấy thế nào?</string>
     <string name="best_update">Cập nhật tốt nhất cho đến nay</string>
     <string name="worst_update">Cập nhật tệ nhất cho đến nay</string>
@@ -184,4 +193,25 @@
     <string name="submit_success">Gửi thành công, cảm ơn bạn</string>
     <string name="submit_fail">Không thể gửi</string>
     <string name="submit">Gửi</string>
+    <string name="updater_wait_for_unzip">Đang giải nén bản cập nhật…</string>
+    <string name="vote_beta">Phản hồi Trải nghiệm Người dùng</string>
+    <string name="vote_submit">Gửi</string>
+    <string name="vote_recommend">Đề nghị cập nhật</string>
+    <string name="vote_not_recommend">Không khuyến khích</string>
+    <string name="vote_error_nonetwork">Không thể kết nối mạng</string>
+    <string name="vote_error1">Dường như bạn không phải là thành viên của Chương trình Trải nghiệm Người dùng</string>
+    <string name="vote_error2">"Không thể gửi phản hồi.
+Cập nhật thiết bị và thử lại"</string>
+    <string name="vote_hint">Nhận 20 điểm kinh nghiệm cho diễn đàn MIUI khi bình chọn</string>
+    <string name="vote_join">Đã bình chọn</string>
+    <string name="vote_experience">Kinh nghiệm Diễn đàn</string>
+    <string name="vote_error3">"Không thể đăng nhập.
+Thử đăng nhập Tài khoản Mi lần nữa."</string>
+    <string name="vote_error4">Bạn đã gửi phản hồi</string>
+    <string name="vote_error5">"Lỗi
+Không thể gửi phản hồi"</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Truy cập diễn đàn MIUI</a>" "</string>
+    <string name="welcom_title">Chào mừng đến với MIUI 6</string>
+    <string name="welcom_message">Xin chào</string>
+    <string name="welcom_button">OK</string>
 </resources>

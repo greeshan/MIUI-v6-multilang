@@ -7,6 +7,7 @@
         <item>Alarm</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Geen herinering</item>
         <item>0 minuten</item>
         <item>1 minuut</item>
         <item>5 minuten</item>
@@ -21,6 +22,7 @@
         <item>3 uur</item>
         <item>12 uur</item>
         <item>24 uur</item>
+        <item>1 dag</item>
         <item>2 dagen</item>
         <item>1 week</item>
     </string-array>
@@ -145,7 +147,7 @@
         <item>Alle afspraken</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Deze en toekomstige afspraken</item>
+        <item>Deze &amp; en toekomstige afspraken</item>
         <item>Alle afspraken</item>
     </string-array>
     <string-array name="change_response_labels">
@@ -156,7 +158,7 @@
         <item>Dag</item>
         <item>Week</item>
         <item>Maand</item>
-        <item>Agenda</item>
+        <item>Evenementen</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Altijd</item>
@@ -166,6 +168,18 @@
     <string-array name="widget_style_list">
         <item>Transparant</item>
         <item>Witte achtergrond</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Geen herinering</item>
+        <item>0 minuten</item>
+        <item>5 minuten</item>
+        <item>10 minuten</item>
+        <item>15 minuten</item>
+        <item>30 minuten</item>
+        <item>1 uur</item>
+        <item>1 dag</item>
+        <item>2 dagen</item>
+        <item>1 week</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>Dag</item>
@@ -253,33 +267,33 @@
         <item>#ffce7e6f</item>
     </array>
     <array name="account_xiaomi">
-        <item>#ff31aeaa</item>
-        <item>#b355c3bf</item>
-        <item>#ffe9f5f5</item>
-        <item>#ff349a97</item>
-    </array>
-    <array name="account_preset1">
-        <item>#ff64bce1</item>
-        <item>#b33aadd2</item>
-        <item>#ffe2f5fb</item>
-        <item>#ff5bb5db</item>
-    </array>
-    <array name="account_preset2">
-        <item>#ff88c984</item>
-        <item>#b37dc07a</item>
-        <item>#fff1faf1</item>
-        <item>#ff91c58e</item>
-    </array>
-    <array name="account_preset3">
         <item>#ffb69dd0</item>
         <item>#b3bfa5db</item>
         <item>#fff6f1fa</item>
         <item>#ffa894be</item>
     </array>
-    <array name="account_preset4">
+    <array name="account_preset1">
+        <item>#ffb69dd0</item>
+        <item>#b3bfa5db</item>
+        <item>#fff6f1fa</item>
+        <item>#ffa894be</item>
+    </array>
+    <array name="account_preset2">
         <item>#fff0a16f</item>
         <item>#b3d88c5b</item>
         <item>#fffdf3ec</item>
         <item>#ffe4884d</item>
+    </array>
+    <array name="account_preset3">
+        <item>#ff64bce1</item>
+        <item>#b33aadd2</item>
+        <item>#ffe2f5fb</item>
+        <item>#ff5bb5db</item>
+    </array>
+    <array name="account_preset4">
+        <item>#ff88c984</item>
+        <item>#b37dc07a</item>
+        <item>#fff1faf1</item>
+        <item>#ff91c58e</item>
     </array>
 </resources>

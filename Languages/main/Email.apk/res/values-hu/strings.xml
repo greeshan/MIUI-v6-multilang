@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Folders">Mappák</string>
+    <string name="SMTP_independent_verification_text">SMTP függettlen ellenőrzés</string>
+    <string name="SMTP_password_text">Jelszó</string>
+    <string name="SMTP_username_text">Felhasználónév</string>
     <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
     <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
     <string name="abc_action_menu_overflow_description">További lehetőségek</string>
@@ -51,6 +53,7 @@
     <string name="account_settings_login_dialog_reason_fmt" formatted="false">Nem sikerült belépni a(z) %s fiókba; a szerver a következő választ küldte: %s. Szeretné módosítani a felhasználónevet és/vagy a jelszót?</string>
     <string name="account_settings_login_dialog_title">Sikertelen bejelentkezés</string>
     <string name="account_settings_mail_check_frequency_label">Szinkronizálás gyakorisága</string>
+    <string name="account_settings_mibill_resolve_label">Email nyilatkozatok elemzése</string>
     <string name="account_settings_name_label">Az Ön neve</string>
     <string name="account_settings_notifications">Értesítési beállítások</string>
     <string name="account_settings_notify_label">E-mail értesítések</string>
@@ -72,13 +75,14 @@
     <string name="account_settings_sync_email_summary">A fiók e-mailjeinek szinkronizálása</string>
     <string name="account_settings_unsupported_label">Nem támogatott rendszabályok</string>
     <string name="account_settings_unsupported_summary">Nincs</string>
+    <string name="account_settings_using_ringtone">Csengőhang</string>
     <string name="account_settings_vibrate_when_label">Rezgés</string>
     <string name="account_setup_account_type_headline">Fiók típusa</string>
     <string name="account_setup_account_type_instructions">Milyen típusú ez a fiók?</string>
     <string name="account_setup_account_type_title">Fiók beállítása</string>
     <string name="account_setup_address_label">E-mail</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">Erősítse meg felhasználónevének, jelszavának és fiókbeállításainak helyességét.</string>
-    <string name="account_setup_autodiscover_dlg_authfail_title">Probléma a fiók beállításával</string>
+    <string name="account_setup_autodiscover_dlg_authfail_title">Nem állítható be a fiók</string>
     <string name="account_setup_basics_email_label">E-mail cím</string>
     <string name="account_setup_basics_headline">E-mail fiók</string>
     <string name="account_setup_basics_manual_setup_action">Kézi beállítás</string>
@@ -107,6 +111,7 @@
     <string name="account_setup_failed_dlg_certificate_message">Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nem lehet biztonságos kapcsolatot létesíteni a szerverrel.
 (%s)"</string>
+    <string name="account_setup_failed_dlg_device_locked">Nem sikerült a bejelentkezés. Lehet, hogya a fiók zárolva van?</string>
     <string name="account_setup_failed_dlg_edit_details_action">Beállítások módosítása</string>
     <string name="account_setup_failed_dlg_server_message">Nem lehet kapcsolatot létesíteni a szerverrel.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Nem csatlakozható a szerverhez.
@@ -124,7 +129,7 @@
     <string name="account_setup_incoming_imap_path_prefix_hint">Opcionális</string>
     <string name="account_setup_incoming_imap_path_prefix_label">IMAP-alapú elérési út előtagja</string>
     <string name="account_setup_incoming_mail_adress_label">E-mail cím</string>
-    <string name="account_setup_incoming_mail_domain_hint">Lehet üres</string>
+    <string name="account_setup_incoming_mail_domain_hint">Opcionális</string>
     <string name="account_setup_incoming_mail_domain_label">Domain</string>
     <string name="account_setup_incoming_password_label">Jelszó</string>
     <string name="account_setup_incoming_port_label">Port</string>
@@ -137,6 +142,7 @@
     <string name="account_setup_incoming_server_label">Szerver</string>
     <string name="account_setup_incoming_title">Fiók beállítása</string>
     <string name="account_setup_incoming_username_label">Felhasználónév</string>
+    <string name="account_setup_incoming_username_label_default_hint">You may include domain</string>
     <string name="account_setup_names_account_name_label">Fiók elnevezése (opcionális)</string>
     <string name="account_setup_names_headline">A fiók beállítása befejeződött, az e-mailek úton vannak.</string>
     <string name="account_setup_names_title">Fiók beállítása</string>
@@ -235,6 +241,8 @@
     <string name="attachment_mgr_name">Melléklet</string>
     <string name="attachment_not_exists">A melléklet nem elérhető!</string>
     <string name="attachment_not_found">Nem sikerült letölteni a mellékletet.</string>
+    <string name="attachment_open_SecurityException_hint">Engedélyek ellenőrzése, sérülés, stb.</string>
+    <string name="attachment_open_SecurityException_title">A fájl megnyitása sikertelen</string>
     <string name="attachment_stop_all">Leállítás</string>
     <string name="attachment_text">Szöveg</string>
     <string name="attachment_type_blocked">Sajnos nem menthet el vagy nyithat meg ilyen típusú mellékletet.</string>
@@ -243,8 +251,7 @@
     <string name="attachments_header">Mellékletek</string>
     <string name="auth_error_notification_text">Érintse meg a %s fiók beállításainak módosításához</string>
     <string name="auth_error_notification_title">Azonosítási hiba</string>
-    <string name="auto_advance_help_title">"Automatikus léptetés beállítása
-(törlés, archiválás stb. után)"</string>
+    <string name="auto_advance_help_title">Automatikus léptetés beállítása (törlés, archiválás stb. után)</string>
     <string name="auto_advance_label">Automatikus léptetés</string>
     <string name="auto_advance_summary">Válassza ki, melyik képernyő jelenjen meg üzenet törlése után.</string>
     <string name="auto_sync_off">Automatikus szinkronizálás kikapcsolva.</string>
@@ -306,6 +313,16 @@
     <string name="confirm_send_message_with_no_subject">Nincs szöveg az üzenet tárgyában.</string>
     <string name="confirm_send_title">Elküldi az üzenetet?</string>
     <string name="contact_content_provider">Névjegyzék szolgáltató</string>
+    <string name="contact_edit_set_black_list">Feketelista beállítása</string>
+    <string name="contact_edit_set_black_list_from">Az összes email törlése a feladótól</string>
+    <string name="contact_edit_set_black_list_receive">Az összes email törlése a címzettől</string>
+    <string name="contact_edit_set_black_list_receive_summary">To/Cc lists only contain this recipient</string>
+    <string name="contact_edit_set_phone_contact">Telefon névjegyeinek módosítása</string>
+    <string name="contact_edit_set_pop_up_tips">Tippek</string>
+    <string name="contact_edit_set_unread_top">Először az olvasatlan e-mailek mutatása</string>
+    <string name="contact_edit_set_vip">VIP beállítása</string>
+    <string name="contact_edit_title_permission">"Kapcsolatok' engedélyei"</string>
+    <string name="contact_edit_title_phone_contact">Névjegyzék</string>
     <string name="contact_info_string">%1$s elérhetőségi adatainak megjelenítése</string>
     <string name="contact_info_string_default">Névjegy információk megjelenítése</string>
     <string name="contact_list_add_btn">Hozzáad</string>
@@ -315,12 +332,14 @@
     <string name="content_description">%1$s a következővel kapcsolatban: %2$s | %3$s, ezen a napon: %4$s | %5$s</string>
     <string name="content_description_today">%1$s a következővel kapcsolatban: %2$s | %3$s, ekkor: %4$s | %5$s</string>
     <string name="contextmenu_add_contact">Névjegy hozzáadása</string>
+    <string name="contextmenu_call">Hívás</string>
     <string name="contextmenu_copy">Másolás</string>
     <string name="contextmenu_copylink">Link URL-címének másolása</string>
     <string name="contextmenu_dial_dot">Tárcsázás...</string>
     <string name="contextmenu_feedback">Visszajelzés küldése</string>
     <string name="contextmenu_help">Súgó</string>
     <string name="contextmenu_map">Térkép</string>
+    <string name="contextmenu_open">Megnyitás</string>
     <string name="contextmenu_openlink">Megnyitás böngészőben</string>
     <string name="contextmenu_send_mail">E-mail küldése</string>
     <string name="contextmenu_sharelink">Link megosztása</string>
@@ -331,6 +350,7 @@
     <string name="conversation_list_net_check">A hálózat nem elérhető, ellenőrizze a hálózati beállításokat vagy próbálja később</string>
     <string name="conversation_overload_toast">Az e-mail túl nagy a betöltéséhez, nézze meg PC-n</string>
     <string name="conversation_photo_welcome_text">A beszélgetés kiválasztásához érintse meg a küldő képét.</string>
+    <string name="copied">Kimásolva</string>
     <string name="copy_email">E-mail cím másolása</string>
     <string name="copy_number">Telefonszám másolása</string>
     <string name="create_action">Új létrehozása</string>
@@ -359,10 +379,13 @@
     <string name="device_admin_label">E-mail</string>
     <string name="device_not_activiey_lint1">Az eszközkezelő nincs aktiválva</string>
     <string name="device_not_activiey_lint2">A levelezőrendszer nem működik megfelelően</string>
-    <string name="dialog_auto_download_failed">Az automatikus letöltést nem lehet befejezni</string>
-    <string name="dialog_insufficient_space_for_single_account_on_internal">Nincs elég szabad hely a %s.</string>
-    <string name="dialog_insufficient_space_on_external">A letöltés nem fejeződött be. Nincs elég szabad hely a külső tárolón.</string>
-    <string name="dialog_insufficient_space_on_internal">Nincs elég hely a belső tárolón.</string>
+    <string name="dialog_account_auto_sync_setting_no_open">A szinkronizálás ki van kapcsolva.</string>
+    <string name="dialog_auto_download_failed">Nem tölthető le automatikusan.</string>
+    <string name="dialog_auto_sync_setting_no_open">A szinkronizálás ki van kapcsolva.</string>
+    <string name="dialog_gmail_proxy_server_is_error">Gmail proxy szerver hiba.</string>
+    <string name="dialog_insufficient_space_for_single_account_on_internal">Nincs elég szabad hely a mellékletek letöltésére ide: %s.</string>
+    <string name="dialog_insufficient_space_on_external">Nem sikerült letölteni a mellékletet. Nincs elég szabad hely a külső tárolón.</string>
+    <string name="dialog_insufficient_space_on_internal">Nincs elég szabad hely a belső tárolón.</string>
     <string name="disable_admin_warning">FIGYELMEZTETÉS: ha kikapcsolja az E-mail alkalmazás azon jogosultságát, hogy felügyelje az eszközt, akkor törli az összes olyan e-mail fiókot, amelyhez szükség van az alkalmazásra; a fiókokkal együtt pedig törli az e-maileket, a névjegyeket, a naptári eseményeket és más adatokat is.</string>
     <string name="discard">Elvetés</string>
     <string name="discard_drafts">Piszkozatok elvetése</string>
@@ -381,11 +404,13 @@
     <string name="download_again">Letöltés újra</string>
     <string name="download_before_sharing">" meg nem lett letöltve, töltse le megosztás előtt!"</string>
     <string name="download_before_view">Ez az üzenet nem lett letöltve.</string>
+    <string name="download_cancel_confirm_message">A letöltés meg lett állítva</string>
     <string name="download_cancel_confirm_title">Megszakítja a letöltést?</string>
     <string name="download_complete_not_cancel">A letöltés befejeződött, a megszakítás nem sikerült!</string>
     <string name="download_confirm_message">A fájl megnyitásához a %1$s 180K a melléklet méretének letöltése szükséges</string>
     <string name="download_confirm_title">Letöltés megerősítése</string>
     <string name="download_failed">Nem tölthető le. Érintse meg.</string>
+    <string name="download_message_failed_for_too_large">Az üzenet túl nagy a letöltéshez.</string>
     <string name="download_show_image">Kép letöltése és megjelenítése</string>
     <string name="downloading_message_body">E-mail letöltése, várjon…</string>
     <string name="draft_count_format"> (%1$s)</string>
@@ -425,6 +450,8 @@
     <string name="folder_icon_desc">Mappa ikon</string>
     <string name="folder_junk_name_en0">Kéretlen</string>
     <string name="folder_junk_name_en1">Összes Mail</string>
+    <string name="folder_list_display_all">Minden mappa megjelenítése</string>
+    <string name="folder_list_display_only_import">Csak a fontos mappák megjelenítése</string>
     <string name="folder_picker_title">Mappaválasztó</string>
     <string name="folder_removed">Eltávolítva innen: %1$s</string>
     <string name="folder_sent_name_en0">Sent</string>
@@ -456,6 +483,11 @@
     <string name="general_preference_text_zoom_small">Kicsi</string>
     <string name="general_preference_text_zoom_tiny">Apró</string>
     <string name="generic_attachment_problem">A fájlt nem lehet csatolni.</string>
+    <string name="gmail_acceleration">Proxy szerver használata a Gmail fiókhoz</string>
+    <string name="gmail_login_confirm_to_use_proxy">Használ proxy szervert a Gmail fiók hozzáféréséhez?</string>
+    <string name="gmail_login_verify">Gmail fiók hozzáadása</string>
+    <string name="gmail_web_login_go">OK</string>
+    <string name="gmail_web_login_required_message">Bejelentkezés a Gmail fiókba</string>
     <string name="head_only_enable_dialog_message">Csak a cím (az egész e-mail helyett) letöltése mobil adatkapcsolat használatakor.</string>
     <string name="head_only_enable_dialog_nagative">Elutasítás</string>
     <string name="head_only_enable_dialog_positive">Engedélyezés</string>
@@ -470,6 +502,7 @@
     <string name="hint_quick_reply_all">Válasz mindenkinek itt</string>
     <string name="ignore_spam_warning">Megbízom ebben az üzenetben.</string>
     <string name="imap_name">IMAP</string>
+    <string name="imap_password_error">A bejövő email szerver jelszava hibás</string>
     <string name="inbox_folders_heading">Beérkező levelek</string>
     <string name="info">Információ</string>
     <string name="inline_picture_deleted">Nem található ez a kép, letöltés…</string>
@@ -495,7 +528,7 @@
     <string name="mail_header_downloading_message_body">Letöltés…</string>
     <string name="mail_header_message_body_auto_download_complete">E-mail letöltve Wi-Fi használatával.</string>
     <string name="mail_header_message_body_auto_download_tip">Az e-mail le lesz töltve Wi-Fi kapcsolódáskor.</string>
-    <string name="mail_header_message_body_download_failed">Csatlakozás időtúllépés.</string>
+    <string name="mail_header_message_body_download_failed">Email tartalom letöltése sikertelen.</string>
     <string name="mail_header_network_not_available">Nincs internetkapcsolat.</string>
     <string name="mailbox_list_account_selector_combined_view">Kombinált nézet</string>
     <string name="mailbox_name_display_drafts">Piszkozatok</string>
@@ -578,6 +611,11 @@ Másolatot kap: %4$s
     <string name="message_saved">Az üzenet mentve piszkozatként.</string>
     <string name="message_type_name">üzenet</string>
     <string name="message_view_attachment_background_load">Küldés előtt továbbított üzenete egy vagy több melléklete letöltődik.</string>
+    <string name="mibill_privacy_policy_button1">Nem fogadom el</string>
+    <string name="mibill_privacy_policy_button2">Elfogadom</string>
+    <string name="mibill_privacy_policy_description">A Mi Wallet engedélyezése a számlák automatikus kezeléséhez. ez a funkció kikapcsolha a munkához kapcsolódó e-mail címeket.</string>
+    <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our &lt;a href=https://www.mipay.com/res/doc/eula/email.html>Felhasználási feltételek&lt;/a>"</string>
+    <string name="mibill_privacy_policy_title">Számlák automatikus kezelése</string>
     <string name="more_atts_remaining">%1$d további</string>
     <string name="more_atts_total">%1$d attachments in total</string>
     <string name="more_context">Egyéb</string>
@@ -615,17 +653,25 @@ Másolatot kap: %4$s
     <string name="notification_action_undo_delete">Törölve</string>
     <string name="notification_action_undo_remove_label">Címke eltávolítva</string>
     <string name="notification_exchange_calendar_added">Exchange naptár hozzáadva</string>
+    <string name="oauth_error_description">Nem sikerült a hitelesítés</string>
+    <string name="oauth_gmail_login_notify">Adja meg a Google fiók felhasználónevét és jelszaváta következő bejelentkezési oldalon.</string>
+    <string name="oauth_login_continue">Tovább</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="open_proxy_in_settings">A Gmail nem elérhető a jelenlegi helyén. Így is küldhet és fogadhat a Gmailből a levelezőrendszer proxy szerver használatával. Ez a funkció a beármikor ki és bekapcsolható a Beállításokban.</string>
     <string name="other_mail">Egyéb email</string>
     <string name="outbox_alert_button_confirm">Szerkesztés</string>
     <string name="outbox_alert_button_no_resend">Ne küldje</string>
     <string name="outbox_alert_button_resend">Újraküldés</string>
     <string name="outbox_alert_certificate_error">E-mail tanúsítvány hiba, kérjük frissítse</string>
     <string name="outbox_alert_description_auth_error">Figyelem: Hitelesítési hiba a kimenő levelek szinkronizálása során</string>
+    <string name="outbox_alert_description_cannot_authenticate">%s levelezőrendszer hiba</string>
     <string name="outbox_alert_description_http_error">Figyelem: HTTP hiba a kimenő levelek szinkronizálása során</string>
+    <string name="outbox_alert_description_insufficient_storage_error">Nincs elég hely az email szerveren</string>
     <string name="outbox_alert_description_provision_error">Figyelem: Provizió hiba a kimenő levelek szinkronizálása során</string>
+    <string name="outbox_alert_description_reject_by_server">Rejected by %s</string>
     <string name="outbox_alert_description_sent_failed">A mellékletmérete elérte a maximálisan fogadható mérethatárt</string>
+    <string name="outbox_alert_description_time_out">Hálózati kapcsolat hiba</string>
     <string name="outbox_alert_duplicate_click">Szinkronizálás folyamatban…</string>
     <string name="outbox_alert_edit_resend">Módosítás és újraküldés</string>
     <string name="outbox_alert_failed_edit_resend">Nem küldhető el. Módosítsa és próbálja újra.</string>
@@ -710,17 +756,30 @@ Másolatot kap: %4$s
     <string name="preferences_signature_title">Aláírás</string>
     <string name="preview_attachment">Előnézet</string>
     <string name="previous_action">Vissza</string>
+    <string name="print">Nyomtatás</string>
     <string name="prompt_title">Felugró ablak</string>
     <string name="protocol">Protokoll</string>
     <string name="provider_note_live">Csak bizonyos \"Plus\" típusú fiókok rendelkeznek olyan POP-hozzáféréssel, amely lehetővé teszi a program számára a kapcsolódást. Ha nem tud bejelentkezni a megfelelő e-mail címmel és jelszóval, valószínűleg nem fizetett elő \"Plus\" típusú fiókra. Az ilyen e-mail fiókok eléréséhez indítsa el a böngészőt.</string>
     <string name="provider_note_t_online">Kérjük, az e-mail fiók beállítása előtt keresse fel a T-Online webhelyét, és hozzon létre jelszót a POP3-alapú e-mail hozzáféréshez.</string>
     <string name="pull_to_refresh">Húzza a frissítéshez</string>
+    <string name="push_wps_better_confirm_download">Letöltés</string>
+    <string name="push_wps_better_confirm_exit">Megnyitáshoz egyéb alkalmazások</string>
+    <string name="push_wps_better_confirm_message">WPS Office jobban támogatja mellékletben szereplő fájltípust, mellyel hatékonyabb lehet a munka</string>
+    <string name="push_wps_better_confirm_noshow_hint">Ne jelenjen meg újra</string>
+    <string name="push_wps_better_confirm_title">WPS Office ajánlott</string>
+    <string name="push_wps_confirm_cancel">Mégsem</string>
+    <string name="push_wps_confirm_download">Letöltés</string>
+    <string name="push_wps_confirm_message">Az alkalmazás nem tudja megnyitni ezt a mellékletet, ajánlott a WPS Office használata</string>
+    <string name="push_wps_confirm_title">WPS Office ajánlott</string>
+    <string name="push_wps_no_response_app">Az alkalmazás nem válaszol</string>
     <string name="quick_1">Köszönjük!</string>
     <string name="quick_2">Jól hangzik!</string>
     <string name="quick_3">Később elolvasom és visszatérünk rá.</string>
     <string name="quick_4">Szervezzünk egy találkozót a dolog megvitatására.</string>
     <string name="quick_reply_dialog_title">Válasszon</string>
     <string name="quick_reply_hint">Válasz mind a(z) %1$d személynek</string>
+    <string name="quick_reply_hint_bcc">"(In BCC) "</string>
+    <string name="quick_reply_hint_cc">"(In CC) "</string>
     <string name="quick_responses_empty_view">Nincsenek gyors válaszok.</string>
     <string name="quote_divider_6">---Eredeti---</string>
     <string name="quote_divider_7">Eredeti üzenet</string>
@@ -729,6 +788,8 @@ Másolatot kap: %4$s
     <string name="quote_divider_qq_en">------------------ Eredeti ------------------</string>
     <string name="quoted_text">Idézett szöveg beillesztése</string>
     <string name="quoted_text_label">Idézett szöveg</string>
+    <string name="re_download_message_button">Kattintson az újbóli letöltéshez</string>
+    <string name="re_download_message_info">Az email letöltése nem sikerült</string>
     <string name="read_string">beszélgetés elolvasva</string>
     <string name="recent_folders_heading">Legutóbbi mappák</string>
     <string name="recipient_needed">Vegyen fel legalább egy címzettet.</string>
@@ -751,9 +812,14 @@ Másolatot kap: %4$s
     <string name="reply">Válasz</string>
     <string name="reply_all">Válasz mind.</string>
     <string name="reply_attribution" formatted="false">%s ezt írta (%s):</string>
+    <string name="reply_subject_label">Válasz:</string>
     <string name="replyto_heading">"Válaszcím: "</string>
     <string name="report">Visszajelzés</string>
     <string name="report_phishing">Adathalászat bejelentése</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
     <string name="report_spam">Jelentés spamként</string>
     <string name="request_entity_large">A szükséges fájl túl nagy méretű!</string>
     <string name="require_manual_sync_message">A fiók háttérben zajló szinkronizálása le van tiltva barangolás közben.</string>
@@ -821,6 +887,7 @@ Másolatot kap: %4$s
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
+    <string name="smtp_password_error">>A kimenő email szerver jelszava hibás</string>
     <string name="sort_attachment">Rendezés</string>
     <string name="special_text_5">írta:</string>
     <string name="special_text_sender_en">küldő</string>
@@ -850,6 +917,11 @@ Másolatot kap: %4$s
     <string name="tip_cannot_switchview_in_unread_folder">Nem lehet nézetet váltani az olvasatlan e-mail módban</string>
     <string name="to">Címzett</string>
     <string name="to_heading">"Címzett: "</string>
+    <string name="toast_bar_fail_synchronization">Nem sikerült kapcsolódni a hálózathoz</string>
+    <string name="toast_bar_insufficient_memory_space">Nincs elég szabad hely</string>
+    <string name="toast_bar_invalid_account">Bejelentkezés szükséges</string>
+    <string name="toast_bar_no_connection_network">Nincs internetkapcsolat</string>
+    <string name="toast_bar_open_gmail_synchronization">Érintse meg a proxy szerver alkalmazásához a Gmailhez</string>
     <string name="too_large_to_attach_additional">A fájl nem lett csatolva. Elérte a(z) %1$s korlátot.</string>
     <string name="too_large_to_attach_multiple">Egy vagy több fájl nem lett csatolva. A korlát %1$s.</string>
     <string name="too_large_to_attach_single">Nem lehet nagyobb fájlt csatolni, mint %1$s.</string>
@@ -862,15 +934,17 @@ Másolatot kap: %4$s
     <string name="unread_from_someone">Olvasatlan e-mail tőle: %s</string>
     <string name="unread_string">a beszélgetés nincs elolvasva</string>
     <string name="unsent_messages_in_outbox">%1$s nem elküldött levél van itt: %2$s</string>
+    <string name="unzip_file_failed">Nem lehet a fájlt kicsomagolni.</string>
     <string name="updated_at">Utolsó frissítés%1$s</string>
     <string name="updated_just_now">Éppen most frissítve</string>
     <string name="upload_log">Napló feltöltése</string>
     <string name="upload_log_failed">Napló feltöltése sikertelen</string>
+    <string name="upload_log_no">Mégsem</string>
     <string name="upload_log_success">Napló feltöltve</string>
     <string name="upload_log_title">Eltölti a diagnosztikai naplót?</string>
-    <string name="upload_log_url">http://fb14.iciba.com/api.php?action=post.upload</string>
-    <string name="uploading_logs">Napló feltöltése</string>
-    <string name="validation_failed_prompt">Érvényesítés nem sikerült, állítsa be a %s szervert</string>
+    <string name="upload_log_yes">Feltöltés</string>
+    <string name="uploading_logs">Egy pillanat…</string>
+    <string name="validation_failed_prompt">Nem ellenőrizhető le a fiók, állítsa be a %s szervert</string>
     <string name="veiled_address" />
     <string name="veiled_alternate_text" />
     <string name="veiled_alternate_text_unknown_person" />
@@ -895,26 +969,8 @@ Másolatot kap: %4$s
     <string name="yes">Igen</string>
     <string name="you_are_in_mobile_network">Jelenleg mobil adatkapcsolatot használ.</string>
     <string name="zip_viewer_no_file">Nincs fájl!</string>
-    <string name="account_setup_options_mail_check_frequency_15min">15 percenként</string>
-    <string name="account_setup_options_mail_check_frequency_30min">30 percenként</string>
-    <string name="account_setup_options_mail_check_frequency_5min">5 percenként</string>
-    <string name="recipient_error_dialog_title">Hiba a címzettnél</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
-    <string name="xiaomi_external_storage_unavailable">A tárhely nem elérhető, ellenőrizze az SD kártyát.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_update_dialog_message">"Jelenlegi verzió %1$s
-Méret: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Jelenlegi verzió %1$s
-A frissített verzió mérete: %2$s"</string>
-    <string name="xiaomi_update_dialog_title">%1$s frissítés!</string>
-    <string name="file_not_found_reDownload">A fájl nem található, próbálja újra!</string>
-    <string name="message_invite_label_attending">Részt vesz?</string>
-    <string name="gmail_acceleration">Proxy szerver használata a Gmail fiókhoz</string>
-    <string name="gmail_login_confirm_to_use_proxy">Használ proxy szervert a Gmail fiók hozzáféréséhez?</string>
-    <string name="gmail_login_verify">Gmail fiók hozzáadása</string>
-    <string name="gmail_web_login_go">OK</string>
-    <string name="gmail_web_login_required_message">Bejelentkezés a Gmail fiókba</string>
-    <string name="open_proxy_in_settings">A Gmail nem elérhető a jelenlegi helyén. Így is küldhet és fogadhat a Gmailből a levelezőrendszer proxy szerver használatával. Ez a funkció a beármikor ki és bekapcsolható a Beállításokban.</string>
-    <string name="upload_log_no">Mégsem</string>
+    <string name="add_calendar">Emlékeztet</string>
+    <string name="contextmenu_add">Névjegyzékhez adás</string>
+    <string name="contextmenu_create">Új névjegy létrehozása</string>
+    <string name="contextmenu_edit">Névjegy szerkesztése</string>
 </resources>

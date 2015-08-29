@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>สีขาว</item>
+        <item>สีเหลือง</item>
+        <item>สีเทา</item>
+        <item>สีน้ำตาล</item>
+        <item>สีเขียว</item>
+        <item>สีน้ำเงิน</item>
+    </string-array>
+    <string-array name="pref_content_plugins_choices">
+        <item>เปิดใช้เสมอ</item>
+        <item>ตามคำขอ</item>
+        <item>ปิด</item>
+    </string-array>
+    <string-array name="pref_text_size_choices">
+        <item>เล็กมาก</item>
+        <item>เล็ก</item>
+        <item>ปกติ</item>
+        <item>ใหญ่</item>
+        <item>ใหญ่มาก</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>เกาหลี (EUC-KR)</item>
+    </string-array>
+    <string-array name="pref_data_preload_choices">
+        <item>ไม่เลย</item>
+        <item>Wi-Fi เท่านั้น</item>
+        <item>ทุกครั้ง</item>
+    </string-array>
+    <string-array name="pref_link_prefetch_choices">
+        <item>ไม่มี</item>
+        <item>WiFi เท่านั้น</item>
+        <item>ทุกครั้ง</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>หน้าเริ่มต้น</item>
+        <item>ปรับแต่ง</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>แอนดรอยด์</item>
+        <item>เดสท็อป</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>หน้าที่แล้ว/หน้าถัดไป</item>
+        <item>แท็บที่แล้ว/แท็บถัดไป</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>เลื่อนไปข้างหน้า/ย้อนกลับ</item>
+        <item>สลับหน้าต่าง</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>เล็ก</item>
+        <item>กลาง</item>
+        <item>ใหญ่</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>ไม่เคย</item>
+        <item>Wi-Fi เท่านั้น</item>
+        <item>ใช้งานเสมอ</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>เล็กมาก</item>
+        <item>เล็ก</item>
+        <item>ปกติ</item>
+        <item>ใหญ่</item>
+        <item>ใหญ่มาก</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>ใหญ่ขึ้น</item>
+        <item>ใหญ่</item>
+        <item>ปกติ</item>
+        <item>เล็ก</item>
+    </string-array>
+</resources>

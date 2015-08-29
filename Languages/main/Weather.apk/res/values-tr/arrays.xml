@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Yeni Ay</item>
+        <item>Hilal</item>
+        <item>İlk Dördün</item>
+        <item>Şişkin Ay</item>
+        <item>Dolunay</item>
+        <item>Şişkin Ay</item>
+        <item>Son Dördün</item>
+        <item>Hilal</item>
+        <item>Yeni Ay</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Açık</item>
         <item>Bulutlu</item>
@@ -45,16 +56,5 @@
         <item>Rüzgar GB</item>
         <item>Rüzgar B</item>
         <item>Rüzgar KB</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Yeni Ay</item>
-        <item>Hilal</item>
-        <item>İlk Dördün</item>
-        <item>Şişkin Ay</item>
-        <item>Dolunay</item>
-        <item>Şişkin Ay</item>
-        <item>Son Dördün</item>
-        <item>Hilal</item>
-        <item>Yeni Ay</item>
     </string-array>
 </resources>

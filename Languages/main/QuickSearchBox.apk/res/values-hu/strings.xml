@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="search_in_web">Keresés az interneten</string>
+    <string name="search_in_web">Online keresés</string>
     <string name="search_in_app_store">Keresés a Play Áruházban</string>
-    <string name="send_secret_code">Titkos kód elküldése</string>
+    <string name="send_secret_code">Kód elküldése</string>
+    <string name="xiaomi_search_label">Találatok</string>
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="cta_declaration_title">Szolgáltatási feltételek</string>
-    <string name="cta_declaration">A keresés minden funkciójához internetkapcsolat, helymeghatározás, hívásnapló olvasása, névjegyzék olvasása stb szükséges. Elfogadja?</string>
+    <string name="cta_declaration">A szolgáltatáshoz internetkapcsolat, az eszköz helyzetének engedélyezése, a hívásnapló és a névjegyzék hozzáférése szükséges.</string>
     <string name="cta_declaration_ignore">Ne jelenjen meg újra</string>
-    <string name="cta_declaration_positive_text">OK és folytatás</string>
+    <string name="cta_declaration_positive_text">Engedélyez</string>
     <string name="cta_declaration_negative_text">Kilépés</string>
+    <string name="searchable_sources">Online</string>
+    <string name="searchable_lable_app">Alk.</string>
+    <string name="searchable_lable_music">Zene</string>
+    <string name="searchable_lable_video">Videó</string>
+    <string name="searchable_lable_browser">Böngésző</string>
+    <string name="searchable_lable_duokan">Duokan</string>
+    <string name="searchable_lable_o2o">o2o</string>
     <string name="apps_search_activity" />
     <string name="google_search_base">http://www.google.com/m?hl=%1$s</string>
     <string name="google_search_base_pattern">http://%1$s/m?hl=%2$s</string>

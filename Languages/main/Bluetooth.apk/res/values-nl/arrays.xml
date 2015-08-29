@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_profile_mi_band">
-        <item>Trillen tijdens bellen</item>
+        <item>Trillen bij bellen</item>
         <item>Trillen bij ontvangen bericht</item>
         <item>Trillen bij alarm</item>
     </string-array>
@@ -9,5 +9,15 @@
         <item>Foto nemen</item>
         <item>Telefoon zoeken</item>
         <item>Mi key zoeken</item>
+    </string-array>
+    <string-array name="ble_packages">
+        <item></item>
+        <item>com.xiaomi.hm.health</item>
+        <item></item>
+    </string-array>
+    <string-array name="ble_package_names">
+        <item></item>
+        <item>Mi Fit</item>
+        <item></item>
     </string-array>
 </resources>

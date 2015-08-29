@@ -172,6 +172,7 @@
     <string name="enter_calendar">Takvim</string>
     <string name="not_exist_topic_list">Takvim listesi alınamıyor!</string>
     <string name="text_year">Yıl</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Pasta ve çiçeği hazırlayın :)</string>
     <string name="button_day">G</string>
     <string name="button_week">H</string>
     <string name="button_month">A</string>
@@ -241,6 +242,7 @@ Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Atla</string>
     <string name="jump_date_full">Tarihe atla</string>
+    <string name="select_date">Tarihi seçin</string>
     <string name="miui_menu_create_event">Yeni</string>
     <string name="preferences_category_general_title">Genel Ayarlar</string>
     <string name="preferences_category_account_title">Hesap</string>
@@ -278,13 +280,25 @@ Takvimin kişiler listesinize erişmesine izin veriyor musunuz?"</string>
     <string name="repeat_end_times_unit">" kez"</string>
     <string name="sync_notice_title">Senkronize isteği</string>
     <string name="sync_notice_message">Takvimi Bulut alanı ile senkronize etmek ister misiniz?</string>
-    <string name="sync_notice_ok">İzin ver</string>
+    <string name="sync_notice_ok">TAMAM</string>
     <string name="sync_notice_ok_toast_message">Yerel Takvim Mi Bulut ile senkronize edilecek</string>
     <string name="sync_notice_cancel_toast_message">Yerel Takvim Mi Bulut ile senkronize edilmez</string>
     <string name="more_string">%1$s daha...</string>
     <string name="copy_email">E-posta adresini kopyala</string>
     <string name="copy_number">Telefon numarasını kopyala</string>
     <string name="done">Geri dön</string>
+    <string name="action_label">Geri</string>
     <string name="show_all_lunar">Ayı göster</string>
     <string name="show_almanac">Almanağı göster (Çin)</string>
+    <string name="timezone_label">Saat dilimi</string>
+    <string name="event_edit">Etkinliği düzenle</string>
+    <string name="event_delete">Etkinliği sil</string>
+    <string name="acct_not_synced">Bu hesap senkronize edilmiyor, bu nedenle takvimleriniz güncel olmayabilir.</string>
+    <string name="modify_event">Yalnızca bu etkinliği değiştir</string>
+    <string name="modify_all">Serideki tüm etkinlikleri değiştir</string>
+    <string name="modify_all_following">Bunu ve gelecekteki tüm etkinlikleri değiştir</string>
+    <string name="acessibility_cal_notification">Takvim Bildirimleri</string>
+    <string name="acessibility_snooze_notification">Erteleme Bildirimi</string>
+    <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
+    <string name="event_full_date_format">MM/dd/yyyy</string>
 </resources>

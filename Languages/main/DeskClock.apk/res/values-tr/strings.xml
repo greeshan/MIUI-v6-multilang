@@ -37,14 +37,15 @@
     <string name="vibrate_when_ringing">Zil sesi çalarken titret</string>
     <string name="start_up">Başla</string>
     <string name="cancel">İptal</string>
+    <string name="timer_item_picker_hour">Saat</string>
     <string name="timer_item_picker_minute">Dk</string>
     <string name="timer_item_picker_second">Sn</string>
     <string name="timer_item_duration_display">%1$d dk %2$d sn</string>
     <string name="timer_new_item">Özelleştir</string>
     <string name="timer_item_label_hint">Zamanlayıcı etiketi</string>
-    <string name="shutdown_alarm_title">Telefon kapalı iken alarm</string>
-    <string name="shutdown_alarm_enable_summary">Telefon kapalı olsa da alarm aktif</string>
-    <string name="shutdown_alarm_disable_summary">Telefon kapalıyken alarm da kapalı</string>
+    <string name="shutdown_alarm_title">Kapatma alarm</string>
+    <string name="shutdown_alarm_enable_summary">Kapatma alarmı aktif</string>
+    <string name="shutdown_alarm_disable_summary">Kapatma alarmı devre dışı</string>
     <string name="workday_alarm_clock">Çalışma Günleri</string>
     <string name="system_time_setting">Ayarlar</string>
     <string name="lap_num">Tur</string>
@@ -111,11 +112,14 @@
     <string name="loading_ringtone">Zilsesi yükleniyor…</string>
     <string name="control_set_alarm">Alarmı ayarla</string>
     <string name="control_set_alarm_with_existing">Alarm : %s</string>
+    <string name="menu_edit_systemtime">Sistem saati</string>
+    <string name="timer_message">%1$d dakika %2$d saniye</string>
+    <string name="timer_message_with_hour">%1$d saat ve %2$d dakika</string>
+    <string name="timer_message_with_seconds">%1$d saniye</string>
     <string name="timer_message_00">%1$d dakika %2$d saniye</string>
     <string name="timer_message_01">%1$d dakika %2$d saniye</string>
     <string name="timer_message_10">%1$d dakika %2$d saniye</string>
-    <string name="timer_message">%1$d dakika %2$d saniye</string>
-    <string name="menu_edit_systemtime">Sistem saati</string>
-    <string name="timer_message_with_hour">%1$d saat ve %2$d dakika</string>
-    <string name="timer_message_with_seconds">%1$d saniye</string>
+    <string name="menu_item_dock_settings">Yuva ayarları</string>
+    <string name="menu_edit_alarm">Alarmı düzenle</string>
+    <string name="alarm_in_silent_mode_summary">Telefon sessiz moddayken bile alarm çal</string>
 </resources>

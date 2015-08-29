@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Бэкап рабочего стола​</string>
+    <string name="settings_backup">Системные настройки</string>
+    <string name="deskclock_backup">Часы</string>
     <string name="button_cancel">Отмена</string>
     <string name="button_next">Далее</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -8,7 +10,7 @@
     <string name="retry">Повтор</string>
     <string name="cloud_app_current_device">Текущее устройство</string>
     <string name="cloud_app_other_devices">Другие устройства</string>
-    <string name="cloud_app_restore_app_and_data">Восстановить настройки рабочего стола и приложения</string>
+    <string name="cloud_app_restore_app_and_data">Восстановить настройки рабочего стола и приложений</string>
     <string name="cloud_app_restore_data">Восстановить ранее установленные приложения</string>
     <string name="cloud_app_dont_restore">Не восстанавливать</string>
     <string name="cloud_app_restore_wifi_prompt">Для восстановления приложений включите сеть Wi-Fi</string>
@@ -34,7 +36,7 @@
     <string name="menu_item_sort_name">По имени</string>
     <string name="menu_item_sort_size">По размеру</string>
     <string name="menu_item_managespace">Управление местом</string>
-    <string name="managespace_total_space">Всего доступно: %s</string>
+    <string name="managespace_total_space">Всего: %s</string>
     <string name="managespace_delete_backup">Удалить бэкап</string>
     <string name="error_unknown">Произошла ошибка</string>
     <string name="backup_size">Размер: %s</string>
@@ -50,9 +52,10 @@
     <string name="open_wifi_setting">Настройки Wi-Fi</string>
     <string name="name_model">%1$s %2$s</string>
     <string name="download_settings">Загрузка настроек рабочего стола: %s%%</string>
-    <string name="recover_settings">Восстановить настройки рабочего стола</string>
+    <string name="recover_home_settings">Восстановить настройки рабочего стола</string>
     <string name="cancel_recover_settings"><u>Отмена</u></string>
     <string name="recover_settings_description">Не выключайте устройство</string>
+    <string name="recover_miui_settings">Восстановить настройки системы</string>
     <string name="wait_icon_download">Загрузка иконок приложений</string>
     <string name="download_settings_fail">Ошибка загрузки настроек рабочего стола</string>
     <string name="backup_fail">Ошибка создания бэкапа приложений</string>
@@ -65,4 +68,7 @@
     <string name="remove_task_in_process">Удаление</string>
     <string name="remove_task_unfinished">Удаление не завершено</string>
     <string name="back_up_task_unfinished">Создание бэкапа не завершено</string>
+    <string name="about_to_recover">Информация</string>
+    <string name="recover_settings">Восстановить настройки рабочего стола</string>
+    <string name="device_xiaomi">Mi Phone</string>
 </resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d चयनित</item>
+        <item quantity="one">%1$d चयनित</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">अंतिम %d दिन</item>
+        <item quantity="one">बीता हुआ कल</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d का %2$d</item>
+        <item quantity="one">1 मेल</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d मेल</item>
+        <item quantity="one">%d मेल</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d आइटम ब्लॉक किए गए</item>
+        <item quantity="one">%d आइटम ब्लॉक किया गया</item>
+    </plurals>
+</resources>

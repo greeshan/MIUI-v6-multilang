@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Pozostało ci %1$d kroków od zostania programistą.</item>
-        <item quantity="one">Pozostał ci %1$d krok od zostania programistą.</item>
+        <item quantity="other">Od zostania programistą dzieli Cię już tylko tyle kroków: %1$d.</item>
+        <item quantity="one">Od zostania programistą dzieli Cię już tylko %1$d krok.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Hasło musi zawierać litery (co najmniej %d).</item>
@@ -51,5 +51,9 @@
     <plurals name="show_rep_countdown">
         <item quantity="other">Od dostępu do Raportów MIUI dzieli Cię już tylko kroków: %1$d.</item>
         <item quantity="one">Od dostępu do Raportów MIUI dzieli Cię już tylko %1$d krok.</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Warunki dostarcza kilka aplikacji (%d)</item>
+        <item quantity="one">Warunki dostarcza %d aplikacja</item>
     </plurals>
 </resources>

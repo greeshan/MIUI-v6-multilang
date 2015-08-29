@@ -210,7 +210,6 @@
     <string name="simple_mode_button_text_hand_night">Затвори рачно-снимање самрак</string>
     <string name="simple_mode_button_text_panorama">Затвори Панорама</string>
     <string name="simple_mode_button_text_color_effect">Затвори филтер</string>
-    <string name="simple_mode_button_text_audio_capture">Затвори аудио снимање</string>
     <string name="simple_mode_button_text_slow_video">Затвори брзо-движење на камерата</string>
     <string name="simple_mode_button_text_fast_video">Затвори бавно-движење на камерата</string>
     <string name="pref_video_captrue_ability_title">Способност на сликање</string>
@@ -236,7 +235,6 @@
     <string name="pref_camera_exposuretime_entry_125">1/125s</string>
     <string name="pref_camera_exposuretime_entry_250">1/250s</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000s</string>
-    <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
     <string name="face_analyze_info">Возраст: %2$s ( %1$s )</string>
     <string name="face_analyze_info_male">Машко</string>
     <string name="face_analyze_info_female">Женско</string>
@@ -262,7 +260,6 @@
     <string name="face_beauty_age_alias_female_60_m">Женско 60 +</string>
     <string name="simple_mode_button_text_face_beauty">Затвори подобрување тонови на кожата</string>
     <string name="pref_face_beauty_title">Тонови на кожа</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Не може да се прегледа слика или видео кога екранот е заклучен.</string>
     <string name="pref_priority_storage_title">Зачувај на SD картичка</string>
     <string name="setting_top_text">Опции</string>
     <string name="pref_video_speed_fast_title">Фрзо-движење</string>
@@ -274,8 +271,6 @@
     <string name="accessibility_setting_button">Копче за Подесување</string>
     <string name="pref_camera_auto_chroma_flash_title">Хроматски Флеш</string>
     <string name="pref_camera_auto_capture_when_stable_title">Авто-сликање кога е стабилно</string>
-    <string name="pref_camera_countdown_title">Одбројување</string>
-    <string name="simple_mode_button_text_countdown">Затвори одбројувач</string>
     <string name="edit">Уреди</string>
     <string name="details">Детали</string>
     <string name="path">Пат</string>
@@ -415,9 +410,11 @@
     <string name="pref_camera_auto_focus_title_entry_off">Исклучи</string>
     <string name="pref_camera_auto_focus_title_entry_on">На</string>
     <string name="pref_camera_coloreffect_entry_planet">Мал свет</string>
+    <string name="pref_camera_countdown_title">Одбројување</string>
     <string name="pref_camera_current_k_value">Моментална вредност</string>
     <string name="pref_camera_default_suffix">(Стандардно)</string>
     <string name="pref_camera_denoise_title">Wavelet режим на чистина</string>
+    <string name="pref_camera_exposuretime_entry_5000">1/5000s</string>
     <string name="pref_camera_exposuretime_title">Време на експозиција</string>
     <string name="pref_camera_focusmode_entry_continuous">CAF</string>
     <string name="pref_camera_focusmode_entry_lock">Заклучи</string>
@@ -485,6 +482,8 @@
     <string name="show_images_only">Само слики</string>
     <string name="show_on_map">Покажи на мапа</string>
     <string name="show_videos_only">Само видеа</string>
+    <string name="simple_mode_button_text_audio_capture">Затвори аудио снимање</string>
+    <string name="simple_mode_button_text_countdown">Затвори одбројувач</string>
     <string name="simple_mode_title">Едноставен начин</string>
     <string name="slideshow">Слајдшоу</string>
     <string name="snapshot_qcif_and_d1">Само видео слика големина е подржана за оваа резолуција.</string>
@@ -494,6 +493,7 @@
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Секвенцијално фотографирање не е поддржано кога подобрување тон на кожата е уклучено</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Секвенцијално снимање не е поддржан кога HDR е уклучен</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">"Вие треба да го поставите на ISO 'auto'"</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Не може да се прегледа слика или видео кога екранот е заклучен.</string>
     <string name="undo">Врати</string>
     <string name="unit_mm">mm</string>
     <string name="video_camera_label">Видео камера</string>

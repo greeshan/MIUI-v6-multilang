@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d ದಿನಗಳ ಹಿಂದೆ ಬಳೆಸಿದೆ</item>
+        <item quantity="one">ನಿನ್ನೆ ಬಳೆಸಿದೆ</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d ಆಪ್‌ ಹುಡುಕು ಹುಡುಕು</item>
+        <item quantity="one">%d ಆಪ್‌‌ ಹುಡುಕು</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">ರೋಮ್ ಮಾಡುವಾಗ %d ಆಪ್‌‌ಗಳು ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಸಬಹುದು</item>
+        <item quantity="one">ರೋಮ್ ಮಾಡುವಾಗ %d ಆಪ್‌‌ ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಸಬಹುದು</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">ರೋಮ್ ಮಾಡುವಾಗ %d ಆಪ್‌ಗಳು ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+        <item quantity="one">ರೋಮ್ ಮಾಡುವಾಗ %d ಆಪ್‌‌ ಮೊಬೈಲ್ ಡೇಟಾವನ್ನು ಬಳಸಲು ಸಾಧ್ಯವಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d ಆಪ್‌ಗಳು ಕಾಣಬಹುದು</item>
+        <item quantity="one">%d ಆಪ್‌ ಕಾಣಬಹುದು</item>
+    </plurals>
+</resources>

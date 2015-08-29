@@ -33,7 +33,7 @@
     <string name="move_up">Déplacer vers le haut</string>
     <string name="move_down">Déplacer vers le bas</string>
     <string name="remove_slide">Supprimer la diapositive</string>
-    <string name="add_slide">Ajouter une diapositive (après)</string>
+    <string name="add_slide">Ajouter une diapositive</string>
     <string name="add_slide_hint">Appuyer pour créer une diapositive.</string>
     <string name="discard_slideshow">Supprimer le diaporama</string>
     <string name="slide_show_part">Partie %1$s/%2$s</string>
@@ -126,7 +126,7 @@
     <string name="confirm_delete_locked_message">Supprimer ce message verrouillé ?</string>
     <string name="confirm_restore_all_title">Restaurer tous les messages de ce numéro ?</string>
     <string name="confirm_no_block_title">Ne pas bloquer le numéro et restaurer tous les messages envoyés depuis ce numéro ?</string>
-    <string name="confirm_no_block_positive">Ne pas bloquer et restaurer</string>
+    <string name="confirm_no_block_positive">Débloquer</string>
     <string name="confirm_restore_checkbox">Débloquer les messages reçus de ce numéro</string>
     <string name="confirm_restore_title">Restauration des messages</string>
     <string name="confirm_restore_message">Restaurer les messages sélectionnés ?</string>
@@ -179,9 +179,9 @@
     <string name="status_label">"État : "</string>
     <string name="attach_image">Image</string>
     <string name="attach_take_photo">Prendre une photo</string>
-    <string name="attach_video">Vidéos</string>
+    <string name="attach_video">Vidéo</string>
     <string name="attach_record_video">Prendre une vidéo</string>
-    <string name="attach_sound">Fichier audio</string>
+    <string name="attach_sound">Audio</string>
     <string name="attach_record_sound">Enregistrer un son</string>
     <string name="attach_slideshow">Diaporama</string>
     <string name="select_bottom_text">"Texte en bas de l'écran"</string>
@@ -312,8 +312,8 @@
     <string name="pref_summary_wake_up_screen">"Allumer l'écran lorsque vous recevez de nouveaux messages"</string>
     <string name="pref_title_delivery_reports">Accusé de réception</string>
     <string name="pref_summary_delivery_reports">Demander un accusé de réception pour les messages envoyés</string>
-    <string name="pref_title_send_delivery_reports">Send delivery report</string>
-    <string name="pref_summary_send_delivery_reports">Send delivery report for receive messages</string>
+    <string name="pref_title_send_delivery_reports">Répondre aux accusés de réception</string>
+    <string name="pref_summary_send_delivery_reports">"Répondre à l'accusé de réception de l'expéditeur après réception d'un MMS"</string>
     <string name="pref_title_ringtone_repeat">Nombre de rappels</string>
     <string name="pref_title_ringtone_repeat_summary">"Nombre de notifications lorsque le SMS est reçu alors que l'écran est éteint : "</string>
     <string name="pref_other_title">Autre</string>
@@ -333,7 +333,7 @@
     <string name="batch_delete_confirm_dialog_message">Supprimer les %1$s messages sélectionnés ?</string>
     <string name="batch_deleting_progress_message">Suppression de la sélection…</string>
     <string name="batch_deleting_message_progress_message">Suppression…</string>
-    <string name="attach_subject">Sujet</string>
+    <string name="attach_subject">Objet</string>
     <string name="prepare_send">"Préparation de l'envoi…"</string>
     <string name="activity_not_found">"Impossible d'ouvrir la pièce jointe"</string>
     <string name="activity_not_found_uri">Aucun programme approprié trouvé</string>
@@ -351,7 +351,7 @@
     <string name="pref_title_system_mms_priority">Priorité de réception des MMS</string>
     <string name="pref_summary_on_system_mms_priority">"L'application recevra les MMS en premier"</string>
     <string name="pref_summary_off_system_mms_priority">Utiliser des applications tierces pour envoyer et recevoir des MMS</string>
-    <string name="title_timed_message_dialog">"Définir l'heure d'envoi de ce message"</string>
+    <string name="title_timed_message_dialog">"Définir l'heure d'envoi"</string>
     <string name="error_timed_msg">Impossible de planifier un moment avant maintenant</string>
     <string name="to_send_wrapper">Sera envoyé à %s</string>
     <string name="group_message">Message groupé</string>
@@ -364,6 +364,7 @@
     <string name="title_date_type">Horodatage</string>
     <string name="mx_msg">Mi Message</string>
     <string name="mx_enable">Activer Mi Message</string>
+    <string name="mx_enable_ex">Mi Message &amp; Voix</string>
     <string name="mx_on_sim_1">Mi Message SIM 1</string>
     <string name="mx_on_sim_2">Mi Message SIM 2</string>
     <string name="mx_btn_enable">Activer</string>
@@ -373,9 +374,9 @@
     <string name="mx_current_status">En ligne</string>
     <string name="mx_count_dspt">Vous avez envoyé %1$d SMS et %2$d MMS</string>
     <string name="mx_auto_resend_sms">Envoyer en tant que SMS</string>
-    <string name="mx_auto_resend_sms_summary">"Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s'appliquer"</string>
-    <string name="mx_auto_resend_mms">Renvoyer le MMS</string>
-    <string name="mx_auto_resend_mms_summary">"Envoyer automatiquement comme MMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s'appliquer"</string>
+    <string name="mx_auto_resend_sms_summary">"Envoyer comme SMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s'appliquer."</string>
+    <string name="mx_auto_resend_mms">Envoyer en tant que MMS</string>
+    <string name="mx_auto_resend_mms_summary">"Envoyer comme MMS quand Mi Message est indisponible. Les tarifs de messagerie du fournisseur peuvent s'appliquer."</string>
     <string name="msg_type_hint_sms">Message texte</string>
     <string name="msg_type_hint_mms">Message multimédia</string>
     <string name="msg_type_hint_mx">Message Cloud</string>
@@ -392,7 +393,8 @@
     <string name="mx_activate_int_hint_server">"L'activation de Mi Message par le serveur a échoué, un SMS international est requis pour réactiver Mi Message. Désirez-vous l'activer maintenant ?"</string>
     <string name="need_download">En cours de synchronisation…</string>
     <string name="found_wild_messages_title">Récupération de messages</string>
-    <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre Mi Cloud : %s. Souhaitez-vous les restaurer ?</string>
+    <string name="found_wild_messages_guide_settings_desc">Synchronisez vos SMS à partir de Mi Clound dans les paramètres de messagerie.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Pour synchroniser les messages sur le Mi-Cloud, vous devez vous connecter à votre compte Mi et activer la synchronisation des SMS.</string>
     <string name="found_old_messages_title">Transférer les messages depuis vos autres cartes SIM ?</string>
     <string name="found_old_messages">Transférer les messages de %1$s vers %2$s ?</string>
     <string name="show_all_messages">Afficher tous les messages</string>
@@ -401,12 +403,15 @@
     <string name="mx_offline">Hors-ligne</string>
     <string name="mx_enable_popup_msg">"Mi Message vous permet d'envoyer gratuitement des messages entre utilisateurs de cette fonction."</string>
     <string name="mx_btn_enable_now">Activer</string>
-    <string name="loading_mms">Chargement MMS…</string>
+    <string name="loading_mms">Un instant…</string>
     <string name="add_number_to_sender">Ajouter le numéro à %s</string>
     <string name="unknown_num">Numéro inconnu</string>
     <string name="in_sms">Message</string>
     <string name="sms_content">Contenu du message</string>
     <string name="hint_search_sms">%d messages</string>
+    <string name="cloud_state_sync_finished">Synced with Mi Cloud</string>
+    <string name="cloud_state_syncing">Synchroniser avec Mi Cloud…</string>
+    <string name="cloud_state_disabled">La synchronisation avec Mi Cloud est désactivée</string>
     <string name="search_show_more_results">Afficher plus</string>
     <string name="add_private_contact">Ajouter un contact privé</string>
     <string name="private_settings">Paramètres de messagerie privée</string>
@@ -423,8 +428,8 @@
     <string name="number_add_hint">"Entrez un numéro pour l'ajouter aux Contacts Privés"</string>
     <string name="menu_new_manual">Saisir le numéro manuellement</string>
     <string name="menu_pick_from_contact">Sélectionner à partir des contacts</string>
-    <string name="select_local_audio">Sélectionner un enregistrement audio local</string>
-    <string name="select_local_video">Sélectionner une vidéo locale</string>
+    <string name="select_local_audio">Sélectionner un fichier audio</string>
+    <string name="select_local_video">Sélectionner une vidéo</string>
     <string name="mx_recommend_msg">Activer Mi Message pour envoyer des messages gratuits</string>
     <string name="sim_card1">SIM 1</string>
     <string name="sim_card2">SIM 2</string>
@@ -444,6 +449,7 @@
     <string name="context_menu_add_to_browser_favorite">Ajouter aux favoris du navigateur</string>
     <string name="restore_all_button_msg">Restaurer tous les messages de ce numéro</string>
     <string name="no_block_button_msg">Ne pas bloquer</string>
+    <string name="reply_button_msg">Répondre</string>
     <string name="restore_blocked_message">Restaurer les messages bloqués</string>
     <string name="overwrite_edited_content">Cela écrasera le contenu édité, voulez-vous continuer ?</string>
     <string name="back_to_message_list">retour à la liste des messages</string>
@@ -458,8 +464,10 @@
     <string name="title_collapse_sp_messages">Combiner les messages opérateur</string>
     <string name="pref_collapse_sp_messages_summary">"Combine les messages envoyés par l'opérateur sous la même entrée"</string>
     <string name="sp_conversation_title">Notifications</string>
-    <string name="title_show_sms_template">Consultez vos SMS pour les codes de vérification</string>
-    <string name="pref_show_sms_template_summary">Copier automatiquement et remplir les codes de vérification</string>
+    <string name="title_show_sms_template">Vérifiez les SMS pour les codes de vérification</string>
+    <string name="pref_show_sms_template_summary">Copier automatiquement et insérer les codes de vérification</string>
+    <string name="title_show_blocked_messages">Afficher les SMS bloqués</string>
+    <string name="pref_show_blocked_messages_summary">Afficher les SMS bloqués dans les conversations</string>
     <string name="sp_mark_as_read_title">Tout marquer comme lus</string>
     <string name="sp_mark_as_read">Marquer tous les messages comme lus ?</string>
     <string name="sp_mark_as_read_progress">En cours…</string>
@@ -504,6 +512,7 @@
     <string name="confirm_dlg__msg">"Remarque CMCC: Le service d'envoi gratuit CMCC ne sera pas fourni si vous annulez. Etes-vous sûr ?"</string>
     <string name="alert_dlg_ok_button">OK</string>
     <string name="alert_dlg_cancel_button">Annuler</string>
+    <string name="cloud_recommend_msg">Appuyez sur pour synchroniser les messages avec Mi Cloud.</string>
     <string name="send_message_notification_tickerText">"Demande d'autorisation pour la gestion de l'appareil"</string>
     <string name="send_message_notification_title">"Gestion de l'appareil"</string>
     <string name="send_message_notification_msg">"Demande d'autorisation pour l'envoi d'un message pour le service"</string>
@@ -526,8 +535,10 @@
     <string name="view_hms_attachment_fail">"Échec du téléchargement de l'image."</string>
     <string name="mx_type_guide">"Mi Message vous permet d'envoyer des messages aux autres utilisateurs de MIUI gratuitement"</string>
     <string name="mx_dspt_provision">"Mi Message vous permet d'envoyer des messages aux autres utilisateurs de MIUI gratuitement. Votre opérateur peut vous facturer le prix d'un SMS pour activer ce service."</string>
-    <string name="mx_activate_user_agreement_p1">"En utilisant ce service, vous acceptez les conditions de Mi Message "</string>
+    <string name="mx_dspt_provision_ex">"Envoyez des messages et appelez d'autres utilisateurs de MIUI gratuitement. VoIP est fourni par Weihui. Consultez la politique de confidentialité de Weihui."</string>
+    <string name="mx_dspt_provision_ex2">Politique de confidentialité</string>
     <string name="mx_activate_dlg_title">Activer Mi Message</string>
+    <string name="mx_activate_dlg_title_ex">Activer Mi Message &amp; Voix</string>
     <string name="resource_price_free">Gratuit</string>
     <string name="menu_send_as_common">Envoyé un SMS</string>
     <string name="message_sent">Envoyé</string>
@@ -551,14 +562,25 @@
     <string name="pref_title_mms_validity_period">Durée de validité des MMS</string>
     <string name="open_url_with_web">Ouvrir le lien dans le navigateur ?</string>
     <string name="block_messaging_entry_title">SMS bloqué</string>
-    <string name="message_contact">Contact:</string>
-    <string name="message_number">Téléphone:</string>
+    <string name="mipub_messaging_entry_title">Messages Mi</string>
+    <string name="message_contact">Contact :</string>
+    <string name="message_number">Téléphone :</string>
     <string name="storage_dialog_mms">MMS : %d</string>
     <string name="storage_dialog_mms_size">Taille MMS :</string>
     <string name="storage_dialog_attachments">Pièces jointes aux MMS :</string>
     <string name="storage_dialog_sms">SMS : %d</string>
     <string name="storage_dialog_database">Base de données :</string>
     <string name="storage_dialog_available_space">Espace disponible :</string>
+    <string name="storage_unavailable">Espace disponible insuffisant</string>
+    <string name="security_alert_desc">"&lt;font color=#7f000000>L'expéditeur ne fait pas partie de vos contacts.
+ &lt;/font>"</string>
+    <string name="security_alert_desc_highlight">Signaler ce numéro</string>
+    <string name="security_alert_dialog_title">Signalement</string>
+    <string name="security_alert_dialog_desc">"Signaler ce message et numéro (%s) en l'envoyant a Xiaomi pour analyse."</string>
+    <string name="sms_report_failed">"Impossible d'envoyer le signalement"</string>
+    <string name="sms_report_success">Signalement envoyé</string>
     <string name="add_bookmark">Favoris</string>
+    <string name="found_wild_messages">Des messages reçus sur les numéros suivants ont été stockés sur votre Mi Cloud : %s. Souhaitez-vous les restaurer ?</string>
     <string name="my_bookmark">Favoris</string>
+    <string name="mx_activate_user_agreement_p1">"En utilisant ce service, vous acceptez les conditions de Mi Message "</string>
 </resources>

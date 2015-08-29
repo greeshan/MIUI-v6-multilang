@@ -116,7 +116,7 @@
     <string name="delete_recurring_event_title">Διαγραφή %s;</string>
     <string name="change_response_title">Αλλαγή ανταπόκρισης</string>
     <string name="menu_general_preferences">Γενικές ρυθμίσεις</string>
-    <string name="menu_about_preferences">Περί του Ημερολογίου</string>
+    <string name="menu_about_preferences">Σχετικά με το Ημερολόγιο</string>
     <string name="preferences_title">Ρυθμίσεις</string>
     <string name="preferences_general_title">Ρυθμίσεις προβολής ημερολογίου</string>
     <string name="preferences_reminder_title">Ειδοποιήσεις &amp; υπενθυμίσεις</string>
@@ -138,7 +138,7 @@
     <string name="preferences_home_tz_title">Τοπική ζώνη ώρας</string>
     <string name="preferences_home_tz_default">Αμερική/Λος Άντζελες</string>
     <string name="preferences_show_week_num_title">Εμφάνιση αριθμού εβδομάδας</string>
-    <string name="preferences_about_title">Περί</string>
+    <string name="preferences_about_title">Σχετικά</string>
     <string name="preferences_build_version">Έκδοση δημιουργίας</string>
     <string name="prefDialogTitle_vibrateWhen">Δόνηση</string>
     <string name="gadget_title">Ημερολόγιο</string>
@@ -265,6 +265,7 @@
     <string name="birthday_event_description">Σήμερα είναι τα %4$s του/ης %1$s!</string>
     <string name="jump_date">Άλμα</string>
     <string name="jump_date_full">Άλμα σε ημερομηνία</string>
+    <string name="select_date">Επιλέξτε ημερομηνία</string>
     <string name="miui_menu_create_event">Νέο</string>
     <string name="preferences_category_general_title">Γενικά</string>
     <string name="preferences_category_account_title">Λογαριασμός</string>
@@ -309,4 +310,6 @@
     <string name="copy_email">Αντιγραφή email</string>
     <string name="copy_number">Αντιγραφή τηλεφώνου</string>
     <string name="done">Επόμενο</string>
+    <string name="event_info_reminders_label_1">Υπενθύμιση</string>
+    <string name="event_info_reminders_label_more">Υπενθύμιση %d</string>
 </resources>

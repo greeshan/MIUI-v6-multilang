@@ -31,7 +31,7 @@
     <string name="pref_advanced_devices">Mostrar dispositivos avanzados</string>
     <string name="pref_file_size">Mostrar tamaño de archivo</string>
     <string name="pref_device_size">Tamaño de dispositivo de la pantalla</string>
-    <string name="empty">No hay ítems</string>
+    <string name="empty">No hay elementos</string>
     <string name="toast_no_application">No se puede abrir el archivo</string>
     <string name="toast_failed_delete">No se pueden eliminar algunos documentos</string>
     <string name="share_via">Compartir a través de</string>

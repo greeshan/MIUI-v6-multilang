@@ -35,6 +35,8 @@
     <string name="cancel_download_buton_text">İptal</string>
     <string name="boot_recovery">Recovery modunda başlat</string>
     <string name="cancel_download">Güncelleme indirme işlemi durdurulsun mu?</string>
+    <string name="update_success_reboot_immediately">Cıhazınız güncellendi</string>
+    <string name="download_success_reboot_immediately">Güncellemeyi uygulamak için tekrar başlat</string>
     <string name="update_success">Güncelleme tamamlandı! :)</string>
     <string name="install_failed">Güncelleme başarısız!</string>
     <string name="download_current_rom">Güncellemeyi uygula</string>
@@ -46,6 +48,7 @@
     <string name="notification_reboot_summary_hm">Tekrar başlatmak için dokunun.</string>
     <string name="notification_reboot_btn">Tekrar başlat</string>
     <string name="notification_reboot_seccess_title">Cihaz güncellendi!</string>
+    <string name="notification_auto_reboot_seccess_title">Cihaz otomatik olarak güncellenir</string>
     <string name="notification_reboot_seccess_des">Güncelleme bilgisini paylaşmak için dokunun.</string>
     <string name="notification_share">Paylaş</string>
     <string name="notification_downloading">Güncelleme indiriliyor…</string>
@@ -178,6 +181,28 @@
     <string name="submit_success">Gönderme başarılı, Teşekkürler!</string>
     <string name="submit_fail">Gönderme başarısız</string>
     <string name="submit">Gönder</string>
+    <string name="updater_wait_for_unzip">Güncelleme paketi açılıyor…</string>
+    <string name="vote_beta">Beta Geri Bildirim Programı</string>
+    <string name="vote_submit">Gönder</string>
+    <string name="vote_recommend">Bu güncelleme tavsiye edilir</string>
+    <string name="vote_not_recommend">Tavsiye edilmez</string>
+    <string name="vote_error_nonetwork">Ağ bağlantısı yok!</string>
+    <string name="vote_error1">"Beta Geri Bildirim Programı üyesi 
+ değilsiniz gibi görünüyor"</string>
+    <string name="vote_error2">"Geri Bildirim gönderilemedi.
+ Cihazınızı güncelleyip tekrar deneyin."</string>
+    <string name="vote_hint">Oy kullanmak için MIUI forumdan 20 tecrübe puanı alın</string>
+    <string name="vote_join">Oy Kullanıldı</string>
+    <string name="vote_experience">Forum deneyimi</string>
+    <string name="vote_error3">"Oturum açılamıyor.
+ Mi Hesabınız ile oturum açıp tekrar deneyin."</string>
+    <string name="vote_error4">Geri Bildirim zaten gönderildi</string>
+    <string name="vote_error5">"Birşeyler ters gitti.
+ Geri Bildirim gönderilemedi."</string>
+    <string name="miui_BBS">" &lt;a href=http://bbs.miui.com>MIUI forum sitesine gidin.&lt;/a> "</string>
+    <string name="welcom_title">MIUI 6 dünyasına hoşgeldiniz</string>
+    <string name="welcom_message">Her şey tamam!</string>
+    <string name="welcom_button">TAMAM</string>
     <string name="now">Şimdi Güncelle</string>
     <string name="auto_check_clause_msg">"Telefonunuzu güncellemeden önce bizim güncellenen Gizlilik Politikasımızı kabul etmeniz gerekmektedir. "</string>
     <string name="check_update">Güncellemeleri kontrol et</string>
@@ -194,4 +219,17 @@
     <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>
     <string name="recommend_vote_title">MIUI Beta Takım Anketi</string>
     <string name="refuse_recommend_reason">Lütfen sebebinizi yazın...</string>
+    <string name="sina_share_pendding">Gönderiliyor…</string>
+    <string name="sina_share_success">Gönderildi</string>
+    <string name="sina_share_fail">Gönderme başarısız</string>
+    <string name="sina_token_expired_warning">Weibo hesabınızın süresi doldu: Lütfen yeniden bağlayın</string>
+    <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: Lütfen yeniden bağlayın</string>
+    <string name="sina_share_fail_content_repeat">Paylaşılamadı, İçerik zaten mevcut…</string>
+    <string name="get_current">Mevcut sürümü edin</string>
+    <string name="check_new_version">Kontrol et</string>
+    <string name="download_diff">Farklılıkları indir</string>
+    <string name="get_auto">Mobil ağ veya Wi-Fi kullan</string>
+    <string name="new_updates_found_notification_title">Güncelleme mevcut</string>
+    <string name="share_update_content_unsign">"MIUI'yi %1$s sürümüne güncelledim! Detaylı değişim günlüğü için, %2$s\" adresini ziyaret edin"</string>
+    <string name="share_update_content_sign">"MIUI'yi %1$s sürümüne güncelledim! Güncelleme kullanıcı sıralamam %2$s. Detaylı değişim günlüğü için, %3$s\" adresini ziyaret edin"</string>
 </resources>

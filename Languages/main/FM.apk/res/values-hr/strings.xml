@@ -26,7 +26,7 @@
     <string name="exit_fm">Izlaz</string>
     <string name="toast_sleep_mode">Radio će se ugasiti u %s</string>
     <string name="toast_sleep_mode_exit">Sleep timer otkazan</string>
-    <string name="record_file_location_format">Spremljeno u %s</string>
+    <string name="notification_rec_title">Dodirni za pregled snimke</string>
     <string name="record_completed">Snimanje završeno</string>
     <string name="turn_off_fm">Isključi FM Radio</string>
     <string name="view_stations_list">Prikaži popis postaja</string>

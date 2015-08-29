@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d ದೂರವಾಣಿ ಸಂಖ್ಯೆಯ ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">1 ದೂರವಾಣಿ ಸಂಖ್ಯೆಯ ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">1 ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d ಕಂಡಿದೆ</item>
+        <item quantity="one">1 ಕಂಡಿದೆ</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d ಕಂಡಿದೆ</item>
+        <item quantity="one">1 ಕಂಡಿದೆ</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">ಮೂಲಗಳಿಂದ%0$d ವಿಲೀನಗೊಂಡಿತು</item>
+        <item quantity="one">ವಿಲೀನ ಇಲ್ಲ</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d ಗುಂಪುಗಳು</item>
+        <item quantity="one">ಗುಂಪು</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d ಜನರಿಂದ %2$s</item>
+        <item quantity="one">%1$d ವ್ಯಕ್ತಿಯಿಂದ %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d ಜನರು</item>
+        <item quantity="one">%1$d ವ್ಯಕ್ತಿ</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d ಸಂಖ್ಯಗಳು</item>
+        <item quantity="one">%1$d ಸಂಖ್ಯೆ</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d ಧ್ವನಿಯಂಚೆಗಳು</item>
+        <item quantity="one">ಧ್ವನಿಯಂಚೆ</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d ಮೆಚ್ಚಿನವುಗಳು</item>
+        <item quantity="one">%1$d ಮೆಚ್ಚಿನ</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d ಇತ್ತೀಚಿನ ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">1 ಇತ್ತೀಚಿನ ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d ಸಂಖ್ಯೆಗಳು</item>
+        <item quantity="one">%1$d ಸಂಖ್ಯೆ</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d ಸಂಪರ್ಕ ಇಮೇಲ್ಗಳು</item>
+        <item quantity="one">1 ಸಂಪರ್ಕ ಇಮೇಲ್</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d ಮೆಚ್ಚಿನವುಗಳು</item>
+        <item quantity="one">%1$d ಮೆಚ್ಚಿನ</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d ಇತ್ತೀಚಿನ ಸಂಪರ್ಕಗಳು</item>
+        <item quantity="one">%1$d ಇತ್ತೀಚಿನ ಸಂಪರ್ಕ</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  ಸಂಪರ್ಕಗಳು ಸೇರಿಸಲಾಗಿದೆ"</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕ ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d ಜನರು</item>
+        <item quantity="one">1 ವ್ಯಕ್ತಿ</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d ಸಂಪರ್ಕಗಳನ್ನು ಆಮದು ಮಾಡಿಕೊಂಡಿದೆ</item>
+        <item quantity="one">%1$d ಸಂಪರ್ಕ ಆಮದು ಮಾಡಿಕೊಂಡಿದೆ</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+    </plurals>
+</resources>

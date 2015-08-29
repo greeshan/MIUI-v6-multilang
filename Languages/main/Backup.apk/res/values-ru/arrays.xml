@@ -1,56 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
-     <string-array name="font_size_scale">
-        <item>0.86</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.21</item>
-     </string-array>
-     <string-array name="backup_dialog_content_type">
-        <item>Данные WLAN</item>
+    <string-array name="backup_dialog_content_type">
+        <item>Параметры Wi-Fi</item>
         <item>Все приложения</item>
-     </string-array>
-     <string-array name="system_package_label">
+    </string-array>
+    <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Права доступа</item>
+        <item>Разрешения</item>
         <item>Камера</item>
-        <item>Использование данных</item>
-        <item>Данные погоды</item>
+        <item>Трафик</item>
+        <item>Сервер погоды</item>
         <item>Погода</item>
-     </string-array>
-     <string-array name="system_data_label">
+    </string-array>
+    <string-array name="system_data_label">
         <item>Контакты</item>
-        <item>Список звонков</item>
+        <item>Журнал вызовов</item>
         <item>Сообщения</item>
-        <item>Сообщения мультимедиа</item>
-        <item>Системные настройки</item>
-        <item>Настройки WLAN</item>
-        <item>Макет главного экрана</item>
-        <item>Настройки сигналов</item>
+        <item>Мультимедиа cообщения</item>
+        <item>Настройки системы</item>
+        <item>Параметры Wi-Fi</item>
+        <item>Рабочий стол</item>
+        <item>Будильник</item>
         <item>Заметки</item>
-        <item>Не беспокоить</item>
+        <item>Черный список</item>
         <item>Аккаунт</item>
-     </string-array>
-     <string-array name="app_type_desc">
+    </string-array>
+    <string-array name="app_type_desc">
         <item>Данные</item>
-        <item>Приложения</item>
-        <item>Приложения и данные</item>
-     </string-array>
-     <string-array name="cloud_data_label">
+        <item>Приложение</item>
+        <item>Приложение и данные</item>
+    </string-array>
+    <string-array name="cloud_data_label">
         <item>Контакты</item>
-        <item>Список звонков</item>
+        <item>Журнал вызовов</item>
         <item>Сообщения</item>
-        <item>Настройки WLAN</item>
+        <item>Параметры Wi-Fi</item>
         <item>Заметки</item>
-     </string-array>
-     <string-array name="cloud_account_data">
+    </string-array>
+    <string-array name="cloud_account_data">
         <item>Контакты</item>
-        <item>Настройки WLAN</item>
+        <item>Параметры Wi-Fi</item>
         <item>Заметки</item>
-     </string-array>
-     <string-array name="cloud_sim_data">
-        <item>Список звонков</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Журнал вызовов</item>
         <item>Сообщения</item>
-     </string-array>
+    </string-array>
 </resources>

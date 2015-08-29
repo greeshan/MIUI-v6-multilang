@@ -197,6 +197,7 @@
     <string name="action_text_online">Online</string>
     <string name="text_year">Rok</string>
     <string name="view_all_matches">Zobraziť všetko</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
     <string name="button_day">D</string>
     <string name="button_week">T</string>
     <string name="button_month">M</string>
@@ -209,6 +210,8 @@
     <string name="time_zone">Zóna</string>
     <string name="event_all_day_label">Celý deň</string>
     <string name="today_no_events">Žiadne udalosti</string>
+    <string name="event_info_reminders_label_1">Upozornenie</string>
+    <string name="event_info_reminders_label_more">Upozornenie %d</string>
     <string name="event_account">Účet</string>
     <string name="event_show_more">Viac</string>
     <string name="event_hide_more">Skryť</string>
@@ -267,6 +270,7 @@
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Skoč</string>
     <string name="jump_date_full">Skoč na dátum</string>
+    <string name="select_date">Vybrať dátum</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Nová</string>
@@ -305,7 +309,7 @@
     <string name="repeat_end_label">Opakovať</string>
     <string name="repeat_end_times_unit">x</string>
     <string name="sync_notice_title">Synchronizácia</string>
-    <string name="sync_notice_message">Nemáte synchronizovaný kalendár s MiCloud. Chcete povoliť synchr.?</string>
+    <string name="sync_notice_message">Synchr. váš kalendár s MiCloud?</string>
     <string name="sync_notice_ok">Povoliť</string>
     <string name="sync_notice_ok_toast_message">Lokálne uložené udalosti budú synchronizované s MiCloud</string>
     <string name="sync_notice_cancel_toast_message">Lokálne uložené udalosti nebudú synchronizované s MiCloud</string>
@@ -315,6 +319,7 @@
     <string name="done">Ďalej</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Voľno</string>
+    <string name="action_label">Ďalej</string>
     <string name="event_not_found">Udalosť sa nenašla.</string>
     <string name="show_all_lunar">Lunárny (Čína)</string>
     <string name="show_almanac">Almanach (Čína)</string>

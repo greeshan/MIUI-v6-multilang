@@ -107,7 +107,6 @@
     <string name="deleting">Видалення…</string>
     <string name="resource_title_select_ringtone">Виберіть мелодію</string>
     <string name="resource_tip_select_none">Не вибрано</string>
-    <string name="resource_select_ringtone_confirm">Вибрати цю мелодію?</string>
     <string name="loading_resource_detail_info">Завантаження…</string>
     <string name="loading_resource_detail_fail">Не вдалося завантажити ресурс</string>
     <string name="resource_expand_full_text">Розгорнути</string>
@@ -293,6 +292,8 @@
     <string name="theme_user_agreement_remind_never">Запамятати</string>
     <string name="theme_user_agreement_remind_again">Запитувати доступ до інтернету</string>
     <string name="theme_user_agreement_remind_summary">Запит доступу до інтернету при кожному запуску застосунку</string>
+    <string name="theme_is_external_priority_storage">Зберігати на SD карту</string>
+    <string name="theme_is_external_priority_storage_summary">Застосунок буде перезапущено для застосування налаштувань</string>
     <string name="theme_favorite_add_success">Тему додано у вибрані</string>
     <string name="theme_favorite_add_fail">Не вдається додати в обране</string>
     <string name="theme_favorite_delete_success">Тема видалена з обраних</string>
@@ -336,11 +337,13 @@
     <string name="gift_received_list_empty">Ви не отримували подарунки</string>
     <string name="gift_received_notification_title">%s подарував(ла) вам тему</string>
     <string name="basic_info">Основна інформація</string>
-    <string name="default_name">За замовчуванням</string>
-    <string name="maml_component_customization_title">Налаштування</string>
     <string name="resource_get_auth_missing">Теми завантажені зі сторонніх джерел не підтримуються</string>
     <string name="resource_tip_select_ringtone">Мелодія не обрана</string>
-    <string name="theme_batch_has_update_text">Доступно оновлень: %1$d</string>
     <string name="resource_unable_to_access">Вміст, який ви шукайте, недоступно у вашій країні</string>
+    <string name="theme_batch_has_update_text">Доступно оновлень: %1$d</string>
+    <string name="resource_select_ringtone_confirm">Вибрати цю мелодію?</string>
     <string name="resource_download_notification_content">Натисніть для перегляду</string>
+    <string name="resource_select_ringtone_confirm_picker">Встановити цю мелодію?</string>
+    <string name="default_name">За замовчуванням</string>
+    <string name="maml_component_customization_title">Налаштування</string>
 </resources>

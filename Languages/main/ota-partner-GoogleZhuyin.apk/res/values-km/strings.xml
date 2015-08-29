@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">កំណត់​ការ​បញ្ចូល​អក្សរ​​​សិញចិនរបស់​ Google</string>
+    <string name="ime_name">Google បញ្ចូលភាសា Zhuyin</string>
+    <string name="label_subtype_zhuyin">សិញ​ចិន</string>
+</resources>

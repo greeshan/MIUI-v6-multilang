@@ -10,13 +10,15 @@
     <string name="cancel_action">Odustani</string>
     <string name="bad_wallpaper_source_prompt">Ne mogu učitati pozadinu</string>
     <string name="apply_action">Primjeni</string>
+    <string name="download_action">Preuzmi</string>
     <string name="apply_as_lock_wallpaper_message">Primijeniti sliku pozadine i za zaklj. zaslon?</string>
     <string name="lock_screen_failed_message">Ne mogu podesiti pozadinu zaklj. zaslona</string>
     <string name="lock_screen_success_message">Podešeno za pozadinu zaklj. zaslona</string>
     <string name="wallpaper_failed_message">Ne mogu podesiti sliku pozadine</string>
     <string name="image_too_small_message">Izvorna slika nije dovoljno velika</string>
+    <string name="failed_to_load_image">Ne mogu učitati sliku</string>
     <string name="wallpaper_success_message">Slika pozadine podešena</string>
-    <string name="is_setting_wallpaper_toast">Podešavanje slike pozadine…</string>
+    <string name="is_setting_wallpaper_message">Podešavanje slike pozadine…</string>
     <string name="current_wallpaper">Trenutna</string>
     <string name="menu_item_add_item">Dodaj na Početni zaslon</string>
     <string name="group_shortcuts">Prečaci</string>
@@ -26,6 +28,7 @@
     <string name="title_select_shortcut">Odaberite prečac</string>
     <string name="title_select_live_folder">Odaberite mapu</string>
     <string name="app_being_backup_message">Izvodi se sig. kopija aplikacije</string>
+    <string name="app_being_restored_message">Izvodi se vraćanje aplikacije</string>
     <string name="menu_add">Dodaj</string>
     <string name="menu_wallpaper">Slika pozadine</string>
     <string name="menu_search">Pretraži</string>
@@ -49,9 +52,12 @@
     <string name="status_paused">pauzirano</string>
     <string name="status_downloaded">preuzeto</string>
     <string name="status_installing">instaliranje</string>
-    <string name="loading_desktop">Učitavanje pokretača…</string>
+    <string name="app_already_exist">Aplikacija već postoji</string>
+    <string name="loading_desktop">Samo tren…</string>
+    <string name="loading_wallpaper">Samo tren…</string>
     <string name="start_activity_failed">Ne mogu pokrenuti Pokretač</string>
     <string name="gadget_error_text">Ne mogu učitati widget</string>
+    <string name="mtzgadget_missing_text">Widget nije dostupan</string>
     <string name="menu_edit">Uredi Početni zaslon</string>
     <string name="menu_sort">Poredaj aplikacije</string>
     <string name="menu_launcher_setting">Postavke Pokretača</string>
@@ -91,12 +97,15 @@
     <string name="confirm_btn_label">U redu</string>
     <string name="cancel_btn_label">Odustani</string>
     <string name="default_folder_title_tools">Alati</string>
-    <string name="default_folder_title_recommend">Više Aplik.</string>
+    <string name="default_folder_title_recommend">Razno</string>
     <string name="default_folder_title_game">Igre</string>
     <string name="default_folder_title_security">Sustav</string>
     <string name="wallpaper_settings">Slika pozadine</string>
+    <string name="wallpaper_settings_for_pad">Slika pozadine</string>
     <string name="choose_wallpaper">Odaberi sliku pozadine</string>
     <string name="current_preview">Pregled</string>
+    <string name="choose_theme">Tema</string>
+    <string name="default_theme_name">Zadano</string>
     <string name="wallpaper">Slika pozadine</string>
     <string name="mi_wallpaper">MIUI Trgovina Tema</string>
     <string name="show_all">Prikaži sve</string>
@@ -130,6 +139,7 @@
     <string name="transformation_type_rotate">3D rotacija</string>
     <string name="pref_screen_transformation_type_title">Efekat prijelaza zaslona</string>
     <string name="pref_wallpaper_scroll_type_title">Poravnanje slike pozadine</string>
+    <string name="configure_wallpaper">Postavke</string>
     <string name="pref_cell_layout_size">Raspored ikona</string>
     <string name="pref_keep_layout_title">Zaključaj položaj ikona</string>
     <string name="pref_keep_layout_summary">Promjena izgleda početnog zaslona neće utjecati na međusobni položaj ikona</string>
@@ -141,6 +151,7 @@
     <string name="global_search_hint">Unesite traženi pojam</string>
     <string name="widget_global_search">Traženje</string>
     <string name="gadget_clear_button_label">Čistač</string>
+    <string name="gadget_power_clear_button_label">Super Čistač</string>
     <string name="gadget_clock_label">Sat</string>
     <string name="gadget_clock_12_label">Sat 2x1</string>
     <string name="gadget_clock_22_label">Sat 2x2</string>
@@ -206,9 +217,11 @@
     <string name="scroll_tip_format_when_announce_accessibility">na stranici %1$d, %2$d aplikacija</string>
     <string name="editing_mode_enter_tip_text">Uštipnite da uredite Početni zaslon</string>
     <string name="delete">Izbriši</string>
-    <string name="delete_wallpaper_message">Izbrisati sliku pozadine: %1$d?</string>
-    <string name="delete_wallpapers_message">Izbrisati slike pozadine: %1$d?</string>
+    <string name="delete_wallpaper_message">Izbrisati (%1$d) sliku pozadine ?</string>
+    <string name="delete_wallpapers_message">Izbrisati (%1$d) slike pozadine ?</string>
     <string name="is_system_wallpaper_message">Ne mogu izbrisati resurse sustava</string>
+    <string name="select_all">Odaberi sve</string>
+    <string name="deselect_all">Poništi odabir</string>
     <string name="cloud_app_restore_title">Na čekanju</string>
     <string name="app_category_finance">Financije</string>
     <string name="app_category_social">Društveno</string>
@@ -226,5 +239,10 @@
     <string name="app_category_sport">Sport</string>
     <string name="app_category_health">Zdravlje</string>
     <string name="app_category_productivity">Produktivnost</string>
+    <string name="recommend_apps_notice">Preporučene aplik.</string>
+    <string name="recommend_apps_switch_title">Preporučene aplik.</string>
+    <string name="recommend_apps_switch_summary">Prikaži preporučene aplikacije na dnu zaslona.</string>
+    <string name="recommend_apps_default_title">Prazno</string>
+    <string name="recommend_apps_tips">Ova značajka treba povezivanje na internet da radi normalno. Za isključivanje ove značajke, dodirnite naziv ove mape.</string>
     <string name="disable">Onemogući</string>
 </resources>

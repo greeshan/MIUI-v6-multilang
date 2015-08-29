@@ -1514,4 +1514,8 @@
   <string name="year">г.</string>
   <string name="years">г.</string>
   <string name="yes">ОК</string>
+    <string name="storage_phone">Память телефона</string>
+    <string name="storage_external_usb">Внешний USB-накопитель</string>
+    <string name="media_info_audio_not_supported">Не удалось воспроизвести аудио.</string>
+    <string name="media_info_video_not_supported">Данный формат видео не поддерживается.</string>
 </resources>

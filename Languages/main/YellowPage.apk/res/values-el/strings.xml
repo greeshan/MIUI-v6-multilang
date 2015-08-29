@@ -2,6 +2,7 @@
 <resources>
     <string name="app_label">Κατάλογος</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="info_divider">|</string>
     <string name="express_info_divider">" / "</string>
     <string name="colon">": "</string>
     <string name="call">Κλήση</string>
@@ -13,6 +14,7 @@
     <string name="check_network">Προβολή ρυθμίσεων δικτύου</string>
     <string name="try_again">Προσπαθήστε ξανά</string>
     <string name="network_unavaliable">Δίκτυο μη διαθέσιμο, παρακαλώ ελέγξτε τις ρυθμίσεις του δικτύου</string>
+    <string name="network_access_denied">Άρνηση πρόσβασης στο δίκτυο</string>
     <string name="service_unavailiable">Μη διαθέσιμη υπηρεσία</string>
     <string name="data_error">Δυστυχώς, αυτή η υπηρεσία δεν είναι διαθέσιμη, δοκιμάστε ξανά αργότερα</string>
     <string name="locating_fail">Δεν ήταν δυνατή η εύρεση της τοποθεσίας σας</string>
@@ -92,9 +94,16 @@
     <string name="confirm_to_remove_blacklist">Διαγραφή αυτού του αριθμού από την λίστα φραγών;</string>
     <string name="custom_mark_category">Προσαρμοσμένο</string>
     <string name="mark_number_dialog_maintitle">Επισημάνετε τον αριθμό και αποστολή</string>
-    <string name="mark_number_custom_dialog_maintitle">Επιβεβαιώστε ή διορθώστε την επισήμανση</string>
-    <string name="selected_category_format">Επισημάνθηκε από %2$d άτομα σαν %1$s.</string>
+    <string name="mark_number_dialog_subtitle">Επισημάνθηκε από %2$d ανθρώπους σαν %1$s.</string>
+    <string name="mark_number_marked_subtitle">Το επισήμανα ως %s</string>
+    <string name="mark_number_marked_maintitle">Τροποποίηση</string>
     <string name="mark_title_null_hint">Η επισήμανση δεν μπορεί να είναι κενή</string>
+    <string name="mark_number_custom_mark_deleted">Η επισήμανση αφαιρέθηκε.</string>
+    <string name="mark_number_feedback_success">Επιτυχής αποστολή σχολίων. Θα επαληθευτούν το ταχύτερο δυνατόν.</string>
+    <string name="mark_number_feedback">Αναφορά</string>
+    <string name="mark_number_feedback_hint">Συμπληρώστε τα σχόλιά σας</string>
+    <string name="mark_number_feedback_invalid_hint">Εισάγετε μια έγκυρη γνώμη</string>
+    <string name="mark_number_remove">Αφαίρεση επισήμανσης</string>
     <string name="smart_antispam">Εντοπισμός άγνωστων αριθμών</string>
     <string name="turn_on_smart_antispam_hint">Αναγνώριση κλήσης από άγνωστους αριθμούς με τη χρήση της βάσης δεδομένων της Mi</string>
     <string name="turn_on_smart_antispam_title">Εντοπισμός άγνωστων αριθμών</string>
@@ -112,7 +121,7 @@
     <string name="about_telephone_fraud">Προσέχετε για απάτες</string>
     <string name="turn_on_yellowpage_service_title">Χρήση της υπηρεσίας Χρυσού Οδηγού</string>
     <string name="notify_connect_title">Ειδοποίηση σύνδεσης στο Internet</string>
-    <string name="notify_connect_summary">Προτροπή για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
+    <string name="notify_connect_summary">Ερώτηση για είσοδο στο Χρυσό οδηγό όταν συνδέεστε στο Internet</string>
     <string name="do_not_remind_me">Να μην εμφανιστεί ξανά</string>
     <string name="fraud_number_online_identification">Αποκλεισμός τηλεπωλητών(απαιτείται σύνδεση στο Internet)</string>
     <string name="upload_and_verify_fraud_num_on">Μοιραστείτε τις πληροφορίες μπλοκαρισμένων τηλεπωλητών</string>
@@ -237,8 +246,6 @@
     <string name="express_order_succeeded">Επιτυχής</string>
     <string name="express_order_failed">Απέτυχε</string>
     <string name="express_field_empty">Κενό</string>
-    <string name="express_order_internal_id">Αριθμός παραγγελίας</string>
-    <string name="express_order_created_time">Ώρα παραγγελίας</string>
     <string name="express_cancel_order">Ακύρωση</string>
     <string name="express_delete_order">Διαγραφή</string>
     <string name="express_order_state_ordered">Παραγγέλθηκε</string>
@@ -272,14 +279,17 @@
     <string name="express_tracking_number">Αριθμός αποστολής</string>
     <string name="express_track_order">Εντοπισμός</string>
     <string name="express_no_order">Καμία παραγγελία</string>
-    <string name="express_order_info">Πληροφορίες παραγγελίας</string>
     <string name="express_urge_order">Υπενθύμιση</string>
+    <string name="express_copy_number">Αντιγραφή</string>
+    <string name="express_send_mms">Αποστολή</string>
+    <string name="express_send_mms_format">Σας έχει αποσταλεί ένα πακέτο από %1$s. Ο αριθμός αποστολής είναι %2$s.</string>
+    <string name="express_copied">Ο αριθμός αποστολής αντιγράφηκε</string>
     <string name="remind_user_suspect_number_title">Ύποπτος αριθμός</string>
     <string name="remind_user_suspect_number_message">Προσοχή: Θα πρέπει να επαληθεύετε πάντα την ταυτότητα της επαφής για πρώτη φορά από το τηλέφωνο ή το βίντεο πριν απαντήσετε σε μηνύματα που αφορούν τις προσωπικές σας πληροφορίες.</string>
     <string name="remind_another_time">Να μην εμφανιστεί ξανά</string>
     <string name="remind_user_confirm">OK</string>
     <string name="balance_inquiry_title">Ερώτηση υπολοίπου</string>
-    <string name="balance_inquiry_send_sms_hint">Ένα SMS θα σταλεί στο παροχό σας για να ελέγξετε υπόλοιπο σας.</string>
+    <string name="balance_inquiry_send_sms_hint">Ένα SMS θα σταλεί στο πάροχό σας για να ελέγξετε υπόλοιπο σας.</string>
     <string name="balance_inquiry_send_sms_summmary">Έλεγχος υπολοίπου</string>
     <string name="balance_inquiry_send_sms_fail_hint">Δεν ήταν δυνατή η αποστολή SMS</string>
     <string name="navigation_search_default_hint">Αναζήτηση τοποθεσίας</string>
@@ -289,12 +299,10 @@
     <string name="navigation_search_no_city_list">Δεν βρέθηκε τίποτα</string>
     <string name="navigation_search_hot_cities">Δημοφιλείς πόλεις</string>
     <string name="navigation_search_all_cities">Όλες οι πόλεις</string>
-    <string name="yuan">Yuan</string>
     <string name="order_type_recharge">Ανανέωση</string>
     <string name="order_empty_hint">Δεν υπάρχουν παραγγελίες</string>
     <string name="order_merchant_title">Οι παραγγελίες μου</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
-    <string name="order_status">%s</string>
     <string name="order_product_name_label">"Όνομα Προϊόντος: "</string>
     <string name="order_status_label">Κατάσταση παραγγελίας:</string>
     <string name="order_price_label">Συνολικό πληρωτέο ποσό:</string>
@@ -359,4 +367,9 @@
     <string name="sina_token_expired_warning">Ο λογαριασμός Weibo έχει λήξει: Παρακαλώ επανασυνδέστε τον</string>
     <string name="sina_token_invalid_warning">Ο λογαριασμός Weibo είναι άκυρος: Παρακαλώ επανασυνδέστε τον</string>
     <string name="sina_share_fail_content_repeat">Δεν είναι δυνατή η κοινή χρήση, το περιεχόμενο υπάρχει ήδη…</string>
+    <string name="express_order_created_time">Ώρα παραγγελίας</string>
+    <string name="express_order_info">Πληροφορίες παραγγελίας</string>
+    <string name="express_order_internal_id">Αριθμός παραγγελίας</string>
+    <string name="order_status">%s</string>
+    <string name="yuan">Yuan</string>
 </resources>

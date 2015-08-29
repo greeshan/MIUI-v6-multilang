@@ -55,6 +55,18 @@
         <item>SMS</item>
         <item>Mi Message</item>
     </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Não definido</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 dia</item>
+        <item>Máximo</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Máximo</item>
+        <item>2 dias</item>
+    </string-array>
     <string-array name="select_dialog_items">
         <item>1 segundo</item>
         <item>2 segundos</item>

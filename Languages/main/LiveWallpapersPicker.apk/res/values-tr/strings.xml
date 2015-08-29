@@ -9,4 +9,6 @@
     <string name="set_live_wallpaper">Uygula</string>
     <string name="wallpaper_title_and_author">%1$s yapımcı: %2$s</string>
     <string name="live_wallpaper_loading">Yükleniyor...</string>
+    <string name="live_wallpaper_picker_label">Animasyonlu Duvar Kağıtları</string>
+    <string name="wallpaper_cancel">İptal</string>
 </resources>

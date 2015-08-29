@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">ปิดใช้งานเชื่อมต่อข้อมูลเป็นเวลา %s นาที</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">มือถือเครื่องนี้เข้าสู่โหมดโทรกลับฉุกเฉินเป็นเวลา %s นาที ระหว่างนี้จะไม่สามารถใช้งานแอปที่เชื่อมต่อข้อมูลได้ คุณต้องการออกตอนนี้หรือไม่?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">คำสั่งของคุณไม่สามารถดำเนินการได้ระหว่างอยู่ในโหมดโทรกลับฉุกเฉิน มือถือเครื่องนี้จะอยู่ในโหมดนี้เป็นเวลา %s นาที คุณต้องการออกตอนนี้หรือไม่?</item>
+    </plurals>
+</resources>

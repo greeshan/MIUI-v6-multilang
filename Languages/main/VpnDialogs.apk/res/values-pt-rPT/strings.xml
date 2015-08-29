@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="prompt">%s tentativas para criar uma ligação VPN.</string>
-    <string name="warning">Ao aceitar, dá á aplicação permissão de interceptar todo o tráfego de rede.&lt;b>Recusar, a menos que confie na aplica&amp;#231;&amp;#227;o.&lt;/b> Caso contr&amp;#225;rio, corre o risco de ter os dados comprometidos por um software malicioso.</string>
+    <string name="warning">Ao aceitar, dá à aplicação permissão de interceptar todo o tráfego de rede.&lt;b>Recusar, a menos que confie na aplicação.&lt;/b> Caso contrário, corre o risco de ter os dados comprometidos por um software malicioso.</string>
     <string name="accept">Confiar nesta aplicação.</string>
     <string name="legacy_title">O VPN está ligado</string>
     <string name="configure">Configurar</string>

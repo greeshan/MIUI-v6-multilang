@@ -31,7 +31,7 @@ Provedeni pokušaj: %s."</string>
     <string name="insufficient_drm_rights">Otkrivena su nedostatna DRM prava.</string>
     <string name="copy_message_text">Kopiraj tekst</string>
     <string name="copy_message_text_success">Tekst uspješno kopiran!</string>
-    <string name="done">Done</string>
+    <string name="done">Gotovo</string>
     <string name="move_up">Povuci prema gore</string>
     <string name="move_down">Povuci prema dolje</string>
     <string name="remove_slide">Ukloni slajd</string>
@@ -81,7 +81,7 @@ Provedeni pokušaj: %s."</string>
     <string name="cannot_add_picture_and_video">Na jedan slajd nije moguće dodati videozapis i sliku.</string>
     <string name="message_saved_as_draft">Poruka je spremljena kao skica.</string>
     <string name="too_many_recipients">Poruka ima previše primatelja (%1$s). Granica broja primatelja iznosi: %2$s.</string>
-    <string name="too_many_attachments">Ograničenje broja privitaka je: %1$s. Dodano će biti samo ovoliko prvih privitaka: %2$s.</string>
+    <string name="too_many_attachments">Ne mogu premašiti %1$s privitaka. Samo prvih %2$s privitaka će biti dodano.</string>
     <string name="adding_attachments_title">Dodavanje privitaka</string>
     <string name="adding_attachments">Pričekajte završetak dodavanja stavki u dijaprojekciju.</string>
     <string name="recipients_over_size">Previše primatelja.</string>
@@ -99,7 +99,7 @@ Provedeni pokušaj: %s."</string>
     <string name="menu_view_contact">Prikaži kontakt</string>
     <string name="hidden_sender_address">Skrivena adresa pošiljatelja</string>
     <string name="yes">U redu</string>
-    <string name="no">Otkaži</string>
+    <string name="no">Odustani</string>
     <string name="set">Podesi</string>
     <string name="play">Reproduciraj</string>
     <string name="edit">Uredi</string>
@@ -122,15 +122,15 @@ Provedeni pokušaj: %s."</string>
     <string name="confirm_dialog_title">Izbrisati</string>
     <string name="confirm_dialog_locked_title">Izbrisati ovu zaključanu poruku?</string>
     <string name="confirm_delete_conversation">Cijela će nit biti izbrisana.</string>
-    <string name="confirm_delete_all_conversations">Sve niti bit će izbrisane.</string>
+    <string name="confirm_delete_all_conversations">Sve poruke bit će izbrisane.</string>
     <string name="confirm_delete_group_message">Sve grupne poruke će biti izbrisane.</string>
     <string name="confirm_delete_message">Ova poruka bit će izbrisana.</string>
     <string name="confirm_delete_locked_message">Izbrisati zaključanu poruku?</string>
     <string name="confirm_restore_all_title">Vratiti sve poruke s ovog broja?</string>
     <string name="confirm_no_block_title">Ne blokirati broj i vratiti sve poruke?</string>
-    <string name="confirm_no_block_positive">Nemojte blokirati i vratiti</string>
-    <string name="confirm_restore_checkbox">Deblokiraj Poruke poslane s tog broja</string>
-    <string name="confirm_restore_title">Vratćanje Poruka</string>
+    <string name="confirm_no_block_positive">Ne blokiraj i vrati</string>
+    <string name="confirm_restore_checkbox">Vrati odabrane Poruke</string>
+    <string name="confirm_restore_title">Vraćanje Poruka</string>
     <string name="confirm_restore_message">Vratiti odabrane Poruke?</string>
     <string name="confirm_restore_positive">Vrati</string>
     <string name="delete_unlocked">Izbriši zaključane poruke</string>
@@ -315,7 +315,7 @@ Provedeni pokušaj: %s."</string>
     <string name="pref_title_delivery_reports">Izvješća o isporuci</string>
     <string name="pref_summary_delivery_reports">Prikaži izvješće o isporuci za poslane poruke</string>
     <string name="pref_title_send_delivery_reports">Pošalji izvješće o isporuci</string>
-    <string name="pref_summary_send_delivery_reports">Pošalji izvješća o isporuci za primljene poruke</string>
+    <string name="pref_summary_send_delivery_reports">Pošalji pošiljatelju potvrdu izvješća o isporuci za primljen MMS</string>
     <string name="pref_title_ringtone_repeat">Broj ponavljanja tona obavijesti</string>
     <string name="pref_title_ringtone_repeat_summary">"Broj ponavljanja tona obavijesti kod primljenog SMS-a dok je zaslon isključen: "</string>
     <string name="pref_other_title">Dodatne postavke</string>
@@ -366,7 +366,8 @@ Provedeni pokušaj: %s."</string>
     <string name="processing">Obrađujem…</string>
     <string name="title_date_type">Oznaka vremena poruke</string>
     <string name="mx_msg">Mi Poruke</string>
-    <string name="mx_enable">Mi Poruke</string>
+    <string name="mx_enable">Mi Poruka</string>
+    <string name="mx_enable_ex">Mi Poruka &amp; Voice</string>
     <string name="mx_on_sim_1">Mi Poruka sa SIM utora 1</string>
     <string name="mx_on_sim_2">Mi Poruka sa SIM utora 2</string>
     <string name="mx_btn_enable">Aktiviraj</string>
@@ -387,15 +388,16 @@ Provedeni pokušaj: %s."</string>
     <string name="mx_activate_error_sim_change">SIM kartica je promjenjena. Morate ponovno aktivirati Mi Poruke.</string>
     <string name="mx_activate_error_malformed_info">Morate ponovno aktivirati Mi Poruke</string>
     <string name="mx_activate_error_server">Ne mogu aktivirati</string>
-    <string name="mx_activate_hint_sim_change">Vaš davatelj usluga vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
-    <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš davatelj usluga vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
-    <string name="mx_activate_hint_malformed_info">Vaš davatelj usluga vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
-    <string name="mx_activate_int_hint_malformed_info">Vaš davatelj usluga vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
-    <string name="mx_activate_hint_server">Vaš davatelj usluga vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
-    <string name="mx_activate_int_hint_server">Vaš davatelj usluga vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_hint_sim_change">Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_int_hint_sim_change">Izgleda da ste promijenili SIM kartice. Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_hint_malformed_info">Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_int_hint_malformed_info">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_hint_server">Vaš operater vam može naplatiti SMS korišten za ponovno aktiviranje Mi Poruka.</string>
+    <string name="mx_activate_int_hint_server">Vaš operater vam može naplatiti međunarodni SMS korišten za ponovno aktiviranje Mi Poruka.</string>
     <string name="need_download">Sinkroniziram…</string>
-    <string name="found_wild_messages_title">Preuzmi poruke</string>
-    <string name="found_wild_messages">Poruke s broja ispod su pohranjene u vaš Mi Cloud: %s. Preuzeti ih sada?</string>
+    <string name="found_wild_messages_title">Sinkronizacija SMS poruka s Mi Clouda</string>
+    <string name="found_wild_messages_guide_settings_desc">Sinkronizacija SMS poruka s Mi Clouda u postavkama Poruka.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Da sinkronizirate poruke s Mi Clouda, prijavite se na svoj Mi Račun i uključite sinkronizaciju SMS-a.</string>
     <string name="found_old_messages_title">Pošalji poruke</string>
     <string name="found_old_messages">Ukupno: %1$s pronađenih na starim telefonskim računima. Želite li ih učitati na svoj trenutni račun: %2$s?</string>
     <string name="show_all_messages">Prikaži sve poruke</string>
@@ -410,6 +412,9 @@ Provedeni pokušaj: %s."</string>
     <string name="in_sms">Poruka</string>
     <string name="sms_content">Sadržaj poruke</string>
     <string name="hint_search_sms">SMS-a: %d</string>
+    <string name="cloud_state_sync_finished">Sinkr. s Mi Cloudom</string>
+    <string name="cloud_state_syncing">Sinkr. s Mi Cloud…</string>
+    <string name="cloud_state_disabled">Sinkr. s Mi Cloud je isključena</string>
     <string name="search_show_more_results">Pikaži više</string>
     <string name="add_private_contact">Dodaj privatan kontakt</string>
     <string name="private_settings">Postavke privatnih poruka</string>
@@ -447,6 +452,7 @@ Provedeni pokušaj: %s."</string>
     <string name="context_menu_add_to_browser_favorite">Dodaj u favorite preglednika</string>
     <string name="restore_all_button_msg">Vrati sve poruke s ovog broja</string>
     <string name="no_block_button_msg">Ne blokiraj poruke s ovog broja</string>
+    <string name="reply_button_msg">Odgovori</string>
     <string name="restore_blocked_message">Vrati blokirane poruke</string>
     <string name="overwrite_edited_content">Uređeni sadržaj će biti prebrisan, nastaviti?</string>
     <string name="back_to_message_list">natrag na popis poruka</string>
@@ -463,6 +469,8 @@ Provedeni pokušaj: %s."</string>
     <string name="sp_conversation_title">Obavijesti</string>
     <string name="title_show_sms_template">Provjeri SMS za kodove provjere</string>
     <string name="pref_show_sms_template_summary">Automatski kopiraj i ispuni kodove za provjeru</string>
+    <string name="title_show_blocked_messages">Prikaži blokirane SMS poruke</string>
+    <string name="pref_show_blocked_messages_summary">Prikaži blokirane SMS poruke u listi razgovora</string>
     <string name="sp_mark_as_read_title">Sve poruke označene pročitanima</string>
     <string name="sp_mark_as_read">Označiti sve poruke pročitanima?</string>
     <string name="sp_mark_as_read_progress">Obrada…</string>
@@ -480,7 +488,7 @@ Provedeni pokušaj: %s."</string>
     <string name="feedback_submit">Pošalji</string>
     <string name="action_firewall_setting">Lista blokiranih</string>
     <string name="user_agreement1">Pročitajte važeće uvjete pažljivo prije nego li instalirate dodatan softver ili koristite ovaj proizvod.</string>
-    <string name="user_agreement2">Korisnički Sporazum</string>
+    <string name="user_agreement2">Uvjeti Pružanja Usluge</string>
     <string name="user_agreement3">" i "</string>
     <string name="user_agreement4">Pravila o Privatnosti</string>
     <string name="user_agreement5">Dodirivanjem U redu, slažete se s našim Uvjeti Pružanja Usluge i Pravila o Privatnosti.</string>
@@ -507,6 +515,7 @@ Provedeni pokušaj: %s."</string>
     <string name="confirm_dlg__msg">CMCC napomena: CMCC besplatna poš. usluga neće osigurana ako je otkažete. Sigurno želite odustati?</string>
     <string name="alert_dlg_ok_button">U redu</string>
     <string name="alert_dlg_cancel_button">Odustani</string>
+    <string name="cloud_recommend_msg">Dodirnite za sinkr. poruka s Mi Cloudom.</string>
     <string name="send_message_notification_tickerText">Uređaj traži dopuštenje</string>
     <string name="send_message_notification_title">Zahtjev dopuštenja</string>
     <string name="send_message_notification_msg">Dodirnite da biste vidjeli zahtjev pojedinosti</string>
@@ -528,9 +537,11 @@ Provedeni pokušaj: %s."</string>
     <string name="hms_add_image_progress_message">Obrada…</string>
     <string name="view_hms_attachment_fail">Ne mogu preuzeti sliku.</string>
     <string name="mx_type_guide">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova</string>
-    <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova. Vaš davatelj usluga vam može naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
-    <string name="mx_activate_user_agreement_p1">"Korištenjem ove usluge, slažete se s Mi Poruke "</string>
+    <string name="mx_dspt_provision">Mi Poruke omogućuju vam da šaljete poruke drugim MIUI korisnicima bez nastanka SMS troškova. Vaš operater vam može naplatiti SMS poruku korištenu za aktiviranje ove usluge.</string>
+    <string name="mx_dspt_provision_ex">Šaljite poruke i upućivajte pozive drugim MIUI korisnicima bez nastanka troškova. VoIP je podržan od strane Weihui. Prikaži Weihui Pravila o Privatnosti.</string>
+    <string name="mx_dspt_provision_ex2">Pravila o Privatnosti</string>
     <string name="mx_activate_dlg_title">Aktiviraj Mi Poruke</string>
+    <string name="mx_activate_dlg_title_ex">Aktiviraj Mi Poruke &amp; Voice</string>
     <string name="resource_price_free">Besplatno</string>
     <string name="menu_send_as_common">Pošalji kao SMS</string>
     <string name="message_sent">Pošalji</string>
@@ -550,10 +561,11 @@ Provedeni pokušaj: %s."</string>
     <string name="snippet_picture">[slika]</string>
     <string name="audio_download_failed">Ne mogu preuzeti zvuk</string>
     <string name="hms_uri_param_err">URL ne može biti prazan</string>
-    <string name="pref_title_sms_validity_period">Vrijeme valjanosti SMS-a</string>
-    <string name="pref_title_mms_validity_period">Vrijeme valjanosti MMS-a</string>
+    <string name="pref_title_sms_validity_period">Valjanost SMS-a</string>
+    <string name="pref_title_mms_validity_period">Valjanost MMS-a</string>
     <string name="open_url_with_web">Otvoriti ovu poveznicu u Pregledniku?</string>
     <string name="block_messaging_entry_title">Blokirani SMS-i</string>
+    <string name="mipub_messaging_entry_title">Mi Poruka</string>
     <string name="message_contact">Kontakt:</string>
     <string name="message_number">Tel. broj:</string>
     <string name="storage_dialog_mms">MMS: %d</string>
@@ -562,5 +574,14 @@ Provedeni pokušaj: %s."</string>
     <string name="storage_dialog_sms">SMS: %d</string>
     <string name="storage_dialog_database">Baza podataka:</string>
     <string name="storage_dialog_available_space">Dostupan prostor:</string>
+    <string name="storage_unavailable">Nema dostupnog prostora</string>
+    <string name="security_alert_desc">"&lt;font color=#7f000000>Pošiljatelj nije u vašim kontaktima.
+ &lt;/font>"</string>
+    <string name="security_alert_desc_highlight">Prijavi ovaj broj</string>
+    <string name="security_alert_dialog_title">Prijavi</string>
+    <string name="security_alert_dialog_desc">Pošalji ovaj broj (%s) i poruke Xiaomi-u na pregled.</string>
+    <string name="sms_report_failed">Ne mogu poslati prijavu</string>
+    <string name="sms_report_success">Prijava poslana</string>
     <string name="my_bookmark">Oznake</string>
+    <string name="mx_activate_user_agreement_p1">"Korištenjem ove usluge, slažete se s Mi Poruke "</string>
 </resources>

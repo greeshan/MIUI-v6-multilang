@@ -53,7 +53,7 @@
     <string name="invalid_confirm_pin_hint">PIN кодовете не съвпадат</string>
     <string name="unlock_string">Отключи</string>
     <string name="open_camera_hint_text">Плъзнете наляво, за да отворите Камера</string>
-    <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Mi Remote</string>
+    <string name="open_remote_center_hint_text">Плъзнете надясно, за да отворите Телефон</string>
     <string name="click_to_enter_text">Чукнете за преглед</string>
     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth устройството е твърде далече за отключване.</string>
     <string name="contact_carrier_message">Свържете се с мобилния си оператор ако имате допълнителни въпроси.</string>

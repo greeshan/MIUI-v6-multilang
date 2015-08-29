@@ -11,6 +11,14 @@
     <string name="cta_declaration_ignore">Να μην εμφανιστεί ξανά</string>
     <string name="cta_declaration_positive_text">OK και συνέχεια</string>
     <string name="cta_declaration_negative_text">Έξοδος</string>
+    <string name="searchable_sources">Online</string>
+    <string name="searchable_lable_app">εφαρμ.</string>
+    <string name="searchable_lable_music">μουσική</string>
+    <string name="searchable_lable_video">βίντεο</string>
+    <string name="searchable_lable_browser">πλοηγός</string>
+    <string name="searchable_lable_duokan">duokan</string>
+    <string name="searchable_lable_o2o">o2o</string>
+    <string name="apps_search_activity" />
     <string name="app_name">Αναζήτηση</string>
     <string name="search_widget">Αναζήτηση</string>
     <string name="remove_from_history">Διαγραφή από το ιστορικό αναζήτησης</string>

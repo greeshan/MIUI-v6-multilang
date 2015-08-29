@@ -1,199 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="select_all">Tout sélectionner</string>
-    <string name="deselect_all">Tout désélectionner</string>
-    <string name="resource_app_name">Navigateur de ressources</string>
-    <string name="resource_delete">Supprimer</string>
-    <string name="resource_price_free">Gratuit</string>
-    <string name="resource_price_unit">" MiCredits"</string>
-    <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_not_mounted_dialog_title">Carte SD non détectée</string>
-    <string name="sdcard_not_mounted_dialog_message">"Veuillez insérer une carte SD.
-"</string>
-    <string name="resource_mute">Aucune</string>
-    <string name="resource_default">Sonnerie par défaut</string>
-    <string name="resource_ringtone_default">Sonneries</string>
-    <string name="resource_notification_default">Notifications</string>
-    <string name="resource_alarm_default">Alarme</string>
-    <string name="description_designer">Concepteur</string>
-    <string name="description_author">Auteur</string>
-    <string name="description_size">Taille</string>
-    <string name="description_uploadtime">Mis à jour</string>
-    <string name="description_download">Télécharger</string>
-    <string name="description_version">Version</string>
-    <string name="description_summary">Résumé</string>
-    <string name="description_version_szie">Version : %1$s Taille : %2$s</string>
-    <string name="resource_local">%1$s locaux</string>
-    <string name="resource_online">%1$s en ligne</string>
-    <string name="resource_selected">Sélection</string>
-    <string name="resource_ranking">Populaires</string>
-    <string name="resource_ranking_free">Gratuits</string>
-    <string name="resource_ranking_purchase">Payants</string>
-    <string name="resource_category">Catégories</string>
-    <string name="resource_my">Local</string>
-    <string name="resource_pack_price_info">Original : %1$s</string>
-    <string name="resource_pack_discount_info">Économisé : %1$s</string>
-    <string name="resource_pack_confirm">"Vous avez déjà acheté %1$d articles, le prix actuel est plus intéressant que d'acheter les articles restants individuellement, souhaitez-vous continuer ?"</string>
-    <string name="resource_pack_warning">"Attention ! Vous avez déjà acheté %1$d articles, le prix actuel n'est plus valable pour les articles restants, veuillez les acheter individuellement."</string>
-    <string name="resource_title">Détail de la ressource</string>
-    <string name="resource_download">Télécharger</string>
-    <string name="resource_downloading">Téléchargement…</string>
-    <string name="resource_waiting_download">En attente…</string>
-    <string name="resource_import_successful">Téléchargement réussi.</string>
-    <string name="resource_import_failed">"Échec de l'importation"</string>
-    <string name="resource_delta_update_successful">Mise à jour réussie</string>
-    <string name="resource_delta_update_failed">Le patch de mise à jour a échoué ! La ressource complète va maintenant être téléchargée</string>
-    <string name="resource_delta_update_total">%1$d patch(s) de MàJ. Économisé : %2$s</string>
-    <string name="resource_apply">Appliquer</string>
-    <string name="resource_update">MàJ</string>
-    <string name="resource_select">Sélectionner</string>
-    <string name="resource_buy">Acheter</string>
-    <string name="resource_importing">Importation…</string>
-    <string name="resource_ringtone_playing_error">erreur de lecture</string>
-    <string name="online_no_network">Impossible de se connecter au réseau.</string>
-    <string name="online_search_hint">Recherche de ressources en ligne.</string>
-    <string name="loading">Chargement…</string>
-    <string name="download_failed">Échec du téléchargement !</string>
-    <string name="download_preview_failed">"Impossible de charger l'aperçu."</string>
-    <string name="resource_delete_confirm">Supprimer ces ressources ?</string>
-    <string name="all_resources">Tout</string>
-    <string name="resource_default_name">Ressources</string>
-    <string name="resource_detail">Détails</string>
-    <string name="resource_detail_window_title">%1$s</string>
-    <string name="resource_detail_update_log_title">Mises à jour</string>
-    <string name="resource_detail_comment_title">Commentaires</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Autres thèmes conçus par %1$s</string>
-    <string name="resource_detail_recommend_other_themes">Les utilisateurs ont également apprécié</string>
-    <string name="resource_detail_jump_to_online_title">Voir en ligne</string>
-    <string name="resource_detail_jump_to_same_author_title">Par le même auteur</string>
-    <string name="resource_detail_recommend_desiner_themes">%1$s thèmes</string>
-    <string name="resource_detail_vertical_divider">|</string>
-    <string name="resource_share_title">Partager</string>
-    <string name="resource_share_subject">Partage du thème : %1$s</string>
-    <string name="resource_share_text">Je pense que tu pourrais aimer ce thème : %1$s ! Lien : %2$s</string>
-    <string name="resource_delete_all">Supprimer les %1$d ressources sélectionnées ?</string>
-    <string name="resource_can_not_selected">%1$s ne peut pas être sélectionné !</string>
-    <string name="resource_system_title">Ressources système</string>
-    <string name="resource_downloaded_title">Ressources téléchargées</string>
-    <string name="resource_see_more">Voir plus</string>
-    <string name="resource_no_result">Aucun résultat.</string>
-    <string name="resource_failed_to_load_list">Impossible de charger la liste</string>
-    <string name="resource_search_list_empty">Aucun résultat</string>
-    <string name="resource_no_network_text">Impossible de se connecter au réseau.</string>
-    <string name="resource_list_title">Derniers sélectionnés</string>
-    <string name="resource_get_auth_checking">"Vérification de l'autorisation…"</string>
-    <string name="resource_get_auth_retrieving">"Récupération de l'autorisation…"</string>
-    <string name="resource_get_auth_not_official">Les thèmes de sources tierces ne sont pas supportés</string>
-    <string name="resource_get_auth_exceed_max_limit_title">La limite autorisée est dépassée</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Le thème ne peut être appliqué sur cet appareil car vous avez atteint la limite de 10 appareils sur ce compte, veuillez utiliser un autre compte Mi</string>
-    <string name="resource_server_out_of_service">Serveur indisponible, veuillez réessayer ultérieurement.</string>
-    <string name="resource_get_auth_has_been_undercarriaged">"Ce thème n'est plus disponible."</string>
-    <string name="resource_pack_get_auth_has_been_undercarriaged">"Ce thème n'est plus disponible."</string>
-    <string name="resource_server_alert_dialog_title">Le service est actuellement indisponible</string>
-    <string name="resource_purchase_getting_order">Récupération des informations de paiement…</string>
-    <string name="resource_purchase_waiting_payment">"En attente d'informations de paiement…"</string>
-    <string name="resource_purchase_verifying_payment">Vérification des informations de paiement…</string>
-    <string name="resource_download_trial">Essayer</string>
-    <string name="resource_apply_trial">"Essayer "</string>
-    <string name="resource_on_trial">Essai de \"%1$s\" en cours</string>
-    <string name="resource_trial_time">(%1$d minutes)</string>
-    <string name="resource_trial_fail_title">"Impossible de démarrer la session d'essai"</string>
-    <string name="resource_trial_fail_message">"Assurez vous que l'heure de votre appareil est correctement paramétrée."</string>
-    <string name="resource_trial_fail_cancel">OK</string>
-    <string name="resource_trial_fail_go_settings">Paramètres</string>
-    <string name="resource_trial_end_title">"Période d'essai terminée"</string>
-    <string name="resource_trial_end_message">"La période d'essai de \"%1$s\" est terminée. S'il vous a plu, vous pouvez l'acheter."</string>
-    <string name="resource_trial_end_restore">"Terminer l'essai"</string>
-    <string name="resource_trial_end_purchase">Acheter</string>
-    <string name="deleting">Suppression…</string>
-    <string name="resource_title_select_ringtone">Sélectionner la sonnerie</string>
-    <string name="resource_tip_select_none">Aucune sélection</string>
-    <string name="resource_select_ringtone_confirm">Choisir cette sonnerie ?</string>
-    <string name="loading_resource_detail_info">Chargement…</string>
-    <string name="loading_resource_detail_fail">Impossible de charger la ressource !</string>
-    <string name="resource_expand_full_text">Voir plus…</string>
-    <string name="resource_account_login">Connexion</string>
-    <string name="resource_account_switch">Changer de compte</string>
-    <string name="resource_account_login_title">Connexion</string>
-    <string name="resource_account_fail_to_add">"Impossible d'ajouter le compte !"</string>
-    <string name="resource_account_abnormal_state">Erreur liée au compte, veuillez réessayer plus tard.</string>
-    <string name="resource_account_login_before_action">Veuillez vous connecter à un votre compte Mi.</string>
-    <string name="resource_send">Envoyer</string>
-    <string name="resource_save_to_note">Sauvegarder vers Notes</string>
-    <string name="resource_present">Offrir</string>
-    <string name="resource_exchange">Activer un code</string>
-    <string name="resource_exchange_confirm">Confirmer</string>
-    <string name="resource_exchange_hint">Saisissez votre code</string>
-    <string name="resource_exchange_window_title">Activer un code</string>
-    <string name="resource_exchange_universal_goon">"Ce code peut être utilisé pour télécharger n'importe quel thème depuis le magasin de thèmes MIUI."</string>
-    <string name="resource_exchange_universal_finish">Utilisez ce code pour télécharger un thème depuis le magasin de thèmes MIUI.</string>
-    <string name="resource_exchange_empty_format">Veuillez saisir un code !</string>
-    <string name="resource_exchange_wrong_format_by_local">Code saisi non valide</string>
-    <string name="resource_exchange_wrong_format_by_server">"Le code n'a pas pu être validé. Veuillez vérifier votre code."</string>
-    <string name="resource_exchange_has_used">Ce code a déjà été utilisé.</string>
-    <string name="resource_exchange_has_expired">Ce code a expiré.</string>
-    <string name="resource_exchange_unavailable">"Le code saisi n'est pas valide pour ce thème"</string>
-    <string name="resource_exchange_has_bought">Vous avez déjà acheté ce thème.</string>
-    <string name="resource_exchange_success">Transaction réussie</string>
-    <string name="resource_exchange_share_code_dlg_title">Envoyer un code</string>
-    <string name="resource_exchange_share_code_dlg_content">Code cadeau, pour le thème \"%1$s\", acheté avec succès. Le code est : %2$s. Vous pouvez le partager avec un ami.</string>
-    <string name="resource_exchange_share_code_content">"Vous avez reçu un code cadeau pour le thème MIUI \"%1$s\". Votre code est : %2$s. Appuyer sur %3$s pour l'utiliser maintenant."</string>
-    <string name="resource_exchange_purchase_unkown_error">"Une erreur inconnue s'est produite. Veuillez vous connecter via http://zhuti.xiaomi.com pour voir l'état de votre paiement."</string>
-    <string name="resource_comment_all_comments">Tous</string>
-    <string name="resource_comment_good_comments">Positifs</string>
-    <string name="resource_comment_bad_comments">Négatifs</string>
-    <string name="resource_comment_average_score">Moyenne</string>
-    <string name="resource_comment_score_count">%1$s utilisateurs</string>
-    <string name="resource_comment_no_average_score">-.-</string>
-    <string name="resource_comment_5_star">5 étoiles</string>
-    <string name="resource_comment_4_star">4 étoiles</string>
-    <string name="resource_comment_3_star">3 étoiles</string>
-    <string name="resource_comment_2_star">2 étoiles</string>
-    <string name="resource_comment_1_star">1 Étoile</string>
-    <string name="resource_comment_footer">Les commentaires vides ne sont pas affichés.</string>
-    <string name="resource_comment_no_comment">Aucun commentaire</string>
-    <string name="resource_comment_current_version">Version actuelle</string>
-    <string name="resource_comment_date">%2$02d/%1$02d</string>
-    <string name="resource_comment_upload_hint">Les commentaires seront affichés après avoir été examinés.</string>
-    <string name="resource_comment_sending">Soumission du commentaire…</string>
-    <string name="resource_comment_upload_failed">"L'enregistrement du commentaire a échoué"</string>
-    <string name="resource_comment_upload_success">"Commentaire envoyé ! Il s'affichera une fois vérifié."</string>
-    <string name="resource_comment_upload_data_invalid">"Désolé, le commentaire soumis n'est pas valide"</string>
-    <string name="resource_comment_upload_not_logined">"Veuillez vous connecter d'abord"</string>
-    <string name="resource_comment_upload_not_bought">Vous devez appliquer le thème avant de commenter.</string>
-    <string name="resource_comment_invalid">Veuillez toucher les étoiles pour donner une note</string>
-    <string name="resource_comment_expand_full_text">Développer le texte▼</string>
-    <string name="resource_comment_title">Commentaires : %1$s</string>
-    <string name="resource_comment_edit_title">Éditer le comm. : %1$s</string>
-    <string name="resource_comment_edit_comment">Ajouter un commentaire</string>
-    <string name="resource_comment_edit_comment_waiting">Vérifie si vous avez déjà répondu</string>
-    <string name="resource_comment_edit_text_default">Écrire un commentaire</string>
-    <string name="resource_comment_publish">Envoyer</string>
-    <string name="resource_comment_name_default">Utilisateur %1$s</string>
-    <string name="resource_comment_loading_list">Chargement des commentaires…</string>
-    <string name="resource_comment_rate">Note :</string>
-    <string name="resource_comment_entry_tips">Commentaires (%1$s)</string>
-    <string name="resource_comment_rating_star_tips">Toucher les étoiles pour donner une note</string>
-    <string name="resource_clear_search_history">"Effacer l'historique de recherche"</string>
-    <string name="resource_clear_search_history_dialog">"Effacer tout l'historique des recherches ?"</string>
-    <string name="fail_to_add_account">"Impossible d'ajouter le compte !"</string>
-    <string name="account_unactivated">Compte non activé.</string>
-    <string name="to_activate_the_account">Veuillez activer votre compte Mi</string>
-    <string name="resource_menu_refresh">Actualiser</string>
-    <string name="resource_unknow_error">"Une erreur inconnue s'est produite."</string>
-    <string name="resource_user_know">OK</string>
-    <string name="resource_hint">Alerte</string>
-    <string name="resource_ringtone_volume_mute">Sonnerie mise en sourdine</string>
-    <string name="resource_has_been_downloaded">Vous avez déjà téléchargé ce thème.</string>
-    <string name="resource_no_match_app">Aucune application trouvée pour cette action.</string>
-    <string name="resource_title_rank">Les mieux classés</string>
-    <string name="resource_title_category">Catégories</string>
-    <string name="resource_title_subject">"À l'affiche"</string>
-    <string name="resource_title_local">Local</string>
-    <string name="resource_title_hot_subject">Populaire</string>
-    <string name="resource_download_notification_title_one">Thème téléchargé</string>
-    <string name="resource_download_notification_title_many">%1$s thèmes téléchargés</string>
-    <string name="resource_tab_to_view">Appuyer pour afficher</string>
     <string name="launcherDialer">Téléphone</string>
     <string name="people">Contacts</string>
     <string name="contactsList">Contacts</string>
@@ -263,7 +69,7 @@
     <string name="pickerNewContactHeader">Créer un contact</string>
     <string name="pickerNewContactText">Créer un contact</string>
     <string name="phoneLabelsGroup">Téléphone</string>
-    <string name="emailLabelsGroup">Mail</string>
+    <string name="emailLabelsGroup">E-mail</string>
     <string name="imLabelsGroup">Messagerie instantanée</string>
     <string name="postalLabelsGroup">Adresse</string>
     <string name="photoPickerNotFoundText">Aucune image disponible</string>
@@ -332,30 +138,30 @@ Pour ajouter des contacts, appuyez sur"</string>
 
 Pour ajouter des contacts, appuyez sur Menu, et sélectionnez :
  
-"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Options d'affichage pour modifier le paramètre de visibilité des contacts;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un contact;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Options d'affichage pour modifier le paramètre de visibilité des contacts;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un contact;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
+"</b></font></li>"
 "</string>
     <string name="noContactsNoSimHelpText">"Vous n'avez pas encore de contact à afficher. 
 
 Pour ajouter des contacts, appuyez sur"</string>
     <string name="noContactsNoSimHelpTextWithSync">"Vous n'avez aucun contact à afficher (si vous venez d'ajouter un compte, la synchronisation des contacts peut prendre quelques minutes).
 
-Pour ajouter des contacts, appuyez sur "<b><font fgcolor="#ffffffff">Menu</font></b>" et sélectionnez :
+Pour ajouter des contacts, appuyez sur "<font fgcolor="#ffffffff"><b>Menu</b></font>" et sélectionnez :
  
-"<b><font fgcolor="#ffffffff"><li>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Options d'affichage pour modifier le paramètre de visibilité des contacts;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Nouveau contact pour créer un contact;
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
-"</li></font></b>"
+"<li><font fgcolor="#ffffffff"><b>"Comptes pour ajouter ou configurer un compte dont vous pourrez synchroniser les contacts sur le téléphone;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Options d'affichage pour modifier le paramètre de visibilité des contacts;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Nouveau contact pour créer un contact;
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Importer/Exporter pour importer des contacts depuis votre carte SIM ou SD.
+"</b></font></li>"
 "</string>
     <string name="noFavoritesHelpText">"Vous ne disposez d'aucun favori.
 
@@ -726,7 +532,7 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="generic_no_account_prompt_title">Ajouter un compte</string>
     <string name="contact_editor_prompt_zero_accounts">Votre nouveau contact ne sera pas sauvegardé. Ajouter un compte permettant de sauvegarder les contacts en ligne ?</string>
     <string name="contact_editor_prompt_one_account">Votre nouveau contact sera synchronisé avec %1$s.</string>
-    <string name="contact_editor_prompt_multiple_accounts">"Vous pouvez synchroniser votre nouveau contact avec l'un des comptes suivants. Lequel voulez-vous utiliser ?"</string>
+    <string name="contact_editor_prompt_multiple_accounts">Sélectionnez le compte à utiliser</string>
     <string name="keep_local">Enregistrer localement</string>
     <string name="add_account">Ajouter un compte</string>
     <string name="add_new_account">Ajouter un compte</string>
@@ -770,9 +576,9 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="sim_account_name">SIM</string>
     <string name="summary_kind_title">Résumé</string>
     <string name="callrecordview_item_newcontact">nouveau contact</string>
-    <string name="callrecordview_item_op_time_minutes_seconds">%1$dmin %2$ds</string>
-    <string name="callrecordview_item_op_time_only_minutes">%dmin</string>
-    <string name="callrecordview_item_op_time_only_seconds">%ds</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d s</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d min</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d s</string>
     <string name="callrecordview_item_op_time_short_outgoing">"sortant : "</string>
     <string name="callrecordview_item_op_time_short_incoming">"entrant : "</string>
     <string name="callrecordview_item_op_time_missed">non connecté</string>
@@ -811,6 +617,8 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="date_time_set">Définir</string>
     <string name="service_provider">Pages jaunes</string>
     <string name="zero_items_selected">Aucun élément sélectionné</string>
+    <string name="select_all">Tout sélectionner</string>
+    <string name="deselect_all">Tout désélectionner</string>
     <string name="select_none">"Aucune sélection, l'opération est non valide"</string>
     <string name="toast_finish_delete_call_log">Le journal des appels a été effacé</string>
     <string name="toast_finish_delete_selected_call_log">Entrées supprimées</string>
@@ -835,6 +643,7 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="contactDetailCalllog">"Journal d'appels"</string>
     <string name="add_blacklist">Ajouter à la liste noire</string>
     <string name="remove_blacklist">Retirer le la liste noire</string>
+    <string name="blacklist">Bloquer</string>
     <string name="empty_divider_title">Vous pouvez :</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurer les données sauvegardées dans le compte Mi</string>
     <string name="recent_contacts_label">Récents</string>
@@ -844,11 +653,12 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="loading_recent">Chargement des contacts récents…</string>
     <string name="contactMultiPickerActivityTitle">Sélectionner contacts</string>
     <string name="picker_join_title">Choisissez un contact à fusionner avec %s</string>
-    <string name="picker_contact_title">Veuillez choisir un contact</string>
-    <string name="picker_number_title">Veuillez choisir un numéro</string>
-    <string name="group_add_fail_toast">"Impossible d'ajouter des contacts"</string>
-    <string name="picker_postal_title">Veuillez choisir un code postal</string>
-    <string name="picker_email_title">Veuillez choisir un email</string>
+    <string name="picker_contact_title">Sélectionnez un contact</string>
+    <string name="picker_number_title">Sélectionnez un numéro</string>
+    <string name="group_add_fail_toast">"Impossible d'ajouter des destinataires"</string>
+    <string name="group_sms_error_message">Les SMS ne peuvent contenir plus de %s destinataires</string>
+    <string name="picker_postal_title">Sélectionnez un code postal</string>
+    <string name="picker_email_title">Sélectionnez un e-mail</string>
     <string name="preference_import">Importation</string>
     <string name="preference_export">Exportation</string>
     <string name="preference_others">Autres</string>
@@ -867,7 +677,7 @@ Sélectionnez l'une des options suivantes :"</string>
     <string name="preference_import_export_title">Importer/Exporter des contacts</string>
     <string name="import_vcard_description">"Importer des contacts à partir d'un fichier"</string>
     <string name="export_vcard_description">Exporter les contacts au format vCard</string>
-    <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
+    <string name="export_sim_contact_finish_msg">%1$d transférés | %2$d ignorés | %3$d restants</string>
     <string name="pref_title_account_import">Importer depuis le compte</string>
     <string name="pref_title_import_from_account">Importer vers le compte Mi</string>
     <string name="pref_summary_import_from_account">Importer les contacts depuis les comptes Google et Exchange sur mon compte Mi</string>
@@ -912,7 +722,8 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="preference_dial_pad_touch_tone_human">Voix humaine</string>
     <string name="ic_menu_done">OK</string>
     <string name="cloud_antispam_title">Anti-Spam Cloud</string>
-    <string name="share_over_limit">Au-delà de la limite, ne peut être partagé</string>
+    <string name="preference_contacts_recovery_introduction">Restaurer les contacts</string>
+    <string name="share_over_limit">Au-delà de 1000 éléments, ils ne peuvent être partagés</string>
     <string name="account_default">Téléphone</string>
     <string name="lunarBirthdayLabelsGroup">Anniversaire lunaire</string>
     <string name="option_view_contact">Afficher</string>
@@ -934,7 +745,7 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="not_applied">Non pris en charge</string>
     <string name="toast_for_saving_nickname">Surnom enregistré</string>
     <string name="toast_for_failed_saving_nickname">"Impossible d'enregistrer le surnom !"</string>
-    <string name="nickname_editor_title">Modifier le Pseudo</string>
+    <string name="nickname_editor_title">Modifier le nom</string>
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
     <string name="restore_nickname">Restaurer</string>
@@ -989,12 +800,10 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="move_and_resize">Déplacer et redimensionner</string>
     <string name="btn_rotation">Rotation</string>
     <string name="contact_pick_photo">Sélectionner une photo dans la galerie</string>
-    <string name="select_photo_from_photo_package">"Sélectionner une autre image d'un pack de photo"</string>
-    <string name="select_new_photo_from_photo_package">"Sélectionner une image d'un pack de photo"</string>
-    <string name="photo_package_activity_title">Packs de photos</string>
     <string name="btn_split_contact">Séparer le contact</string>
     <string name="use_photo_as_primary2">Utiliser la photo de contact %1$s</string>
     <string name="label_custom_type">Perso</string>
+    <string name="loading_accounts">Chargement des infos SIM…</string>
     <string name="pkgLabel">Contacts et pavé numérique</string>
     <string name="preference_smart_group_title">Regroupement intelligent</string>
     <string name="preference_smart_group_company_title">Sociétés</string>
@@ -1054,13 +863,13 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="hint_more_contact">"utiliser la fusion de contact lorsqu'il y a des contacts en double"</string>
     <string name="device_import_account_dialog_title">Sélectionnez le compte à importer</string>
     <string name="device_import_account_dialog_title_suffix">"
- (%1$s contacts trouvés)"</string>
+(%1$s contacts trouvés)"</string>
     <string name="device_import_local_account">Compte local</string>
     <string name="import_name">nom</string>
     <string name="import_percent">0%</string>
     <string name="percent_sign">%</string>
     <string name="ret_sign">"
-  "</string>
+"</string>
     <string name="checkhint">"Vérifier l'autre téléphone"</string>
     <string name="prepare_import">"préparer l'import"</string>
     <string name="device_import_message">Importation en cours…</string>
@@ -1096,12 +905,14 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="import_all_sim_entries_miui">Importer tous les contacts</string>
     <string name="import_sim_entry_miui">Importer de la SIM</string>
     <string name="delete_sim_entry_miui">Supprimer</string>
+    <string name="importing_sim_contacts_miui_prepare">Préparation des contacts…</string>
+    <string name="deleting_sim_entry_miui_prepare">Préparation des contacts…</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Tout désélectionner</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Tout sélectionner</string>
     <string name="delete_selected_sim_entry_miui">Supprimer les contacts sélectionnés ?</string>
     <string name="import_selected_sim_entries_miui">Importer les contacts sélectionnés</string>
-    <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
-    <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
+    <string name="add_blacklist_dialog_title">Ajouter à la liste noire</string>
+    <string name="remove_blacklist_dialog_title">Retirer de la liste noire</string>
     <string name="close_dial_pad">fermer le pavé de numérotation</string>
     <string name="dial">Numéroter</string>
     <string name="delete_dial_input">supprimer</string>
@@ -1156,19 +967,21 @@ Pour commencer appuyez sur l'icône en bas de l'écran."</string>
     <string name="pull_to_refresh_pull_label">Tirer pour actualiser…</string>
     <string name="pull_to_refresh_release_label">Relâcher pour actualiser…</string>
     <string name="pull_to_refresh_refreshing_label">Chargement…</string>
-    <string name="phone_call_type_voip">VOIP</string>
+    <string name="phone_call_type_voip">VoIP</string>
+    <string name="cloud_recommend_msg">Tapez pour synchroniser les contacts avec Mi Cloud.</string>
+    <string name="unknow_phone_number_call_failed">Vous ne pouvez pas appeler de numéro inconnu</string>
+    <string name="unknow_phone_number_mms_failed">Vous ne pouvez pas envoyer un message à un numéro inconnu</string>
     <string name="batch_delete_msg">Supprimer les %d contacts sélectionnés ?</string>
     <string name="btn_delete_multi_contacts">Supprimer %d contacts</string>
     <string name="btn_delete_one_contact">Supprimer le contact</string>
     <string name="callNoAnswerTimeFormat">à sonné %s fois</string>
     <string name="confirm_delete_sim_entry_miui">Supprimer %d contacts de la carte SIM ?</string>
+    <string name="dlg_add_blacklist">Ajouter le numéro sélectionné à la liste noire ?</string>
+    <string name="dlg_remove_blacklist">Retirer le numéro sélectionné de la liste noire ?</string>
+    <string name="export_sim_contact_finish_failure">Transféré : %1$d Restant : %2$d</string>
     <string name="export_sim_contact_finish_success">%d contact(s) copié(s) de la carte SIM</string>
     <string name="export_sim_contacts_dialog_message">Votre carte SIM peut stocker %d contacts, êtes-vous sûr de vouloir continuer ?</string>
     <string name="none_found">Aucun périphérique trouvé</string>
-    <string name="resource_get_auth_missing">Les thèmes provenant de sources tierces ne sont pas supportés.</string>
-    <string name="resource_tip_select_ringtone">Aucune sélectionnée</string>
-    <string name="resource_unable_to_access">"Nous sommes désolés
-le contenu que vous recherchez n'est actuellement pas disponible dans votre région."</string>
     <string name="scanning">Recherche de périphériques…</string>
     <string name="select_device">Sélectionnez un périphérique à connecter avec</string>
     <string name="yellowpage_navigation_network_location_enable">Activer</string>

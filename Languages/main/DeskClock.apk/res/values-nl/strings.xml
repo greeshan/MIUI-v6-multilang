@@ -37,11 +37,12 @@
     <string name="vibrate_when_ringing">Trillen bij beltoon</string>
     <string name="start_up">Starten</string>
     <string name="cancel">Annuleren</string>
+    <string name="timer_item_picker_hour">Uur</string>
     <string name="timer_item_picker_minute">Min</string>
     <string name="timer_item_picker_second">Sec</string>
     <string name="timer_item_duration_display">%1$d Min %2$d Sec</string>
     <string name="timer_new_item">Timer toevoegen</string>
-    <string name="timer_item_label_hint">Timer label</string>
+    <string name="timer_item_label_hint">Timer naam</string>
     <string name="shutdown_alarm_title">>Uitschakel alarm</string>
     <string name="shutdown_alarm_enable_summary">Uitschakel alarm inschakelen</string>
     <string name="shutdown_alarm_disable_summary">Uitschakel alarm uitschakelen</string>
@@ -74,6 +75,7 @@
     <string name="default_label">Wekker</string>
     <string name="set_alarm">Alarm instellen</string>
     <string name="alarm_vibrate">Trillen</string>
+    <string name="alarm_repeat">Herhalen</string>
     <string name="alert">Beltoon voor wekker</string>
     <string name="alarm_alert_alert_silenced">Wekker uitgezet na %d minuten.</string>
     <string name="timer_alert_alert_silenced">Timer gestopt na %d minuten.</string>
@@ -100,7 +102,7 @@
     <string name="alarm_volume_title">Wekker volume</string>
     <string name="alarm_volume_summary">Wekker en timer volume instellen</string>
     <string name="silent_alarm_summary">Stil</string>
-    <string name="alarm_notify_text">Wekker later herhalen of uitschakelen.</string>
+    <string name="alarm_notify_text">Snooze of alarm uitschakelen.</string>
     <string name="alarm_notify_snooze_label">%s (snooze aan)</string>
     <string name="volume_button_setting_title">Volumeknoppen</string>
     <string name="volume_button_setting_summary">Stel volume knoppen functionaliteit tijdens alarm in</string>
@@ -110,8 +112,4 @@
     <string name="loading_ringtone">Beltoon laden…</string>
     <string name="control_set_alarm">Wekker instellen</string>
     <string name="control_set_alarm_with_existing">%s</string>
-    <string name="timer_message_00">%1$d minuut and %2$d seconde</string>
-    <string name="timer_message_01">%1$d minuut and %2$d seconden</string>
-    <string name="timer_message_10">%1$d minuten and %2$d seconde</string>
-    <string name="timer_message">%1$d minuten and %2$d seconden</string>
 </resources>

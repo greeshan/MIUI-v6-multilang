@@ -4,14 +4,13 @@
     <string name="xmsf_activate_info">XMSF activar información</string>
     <string name="error_device_id_title">No se puede obtener el número IMEI</string>
     <string name="error_device_id_message">Algunas cuentas y características de la nube no estarán disponibles</string>
-    <string name="accept">De acuerdo</string>
+    <string name="accept">Aceptar</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="sync_notification_title_format">Elemento de sincronización actual: %1$s</string>
     <string name="activate_phone_failed_notif_title">Error en la activación del servicio MiCloud</string>
     <string name="activate_phone_failed_notif_title_msim">No se puede iniciar MiCloud para la SIM %s</string>
     <string name="activate_status_title_activating">Activación de la cuenta</string>
     <string name="activate_status_title_activating_msim">Activación de la tarjeta SIM %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">Esperando para el servicio telefónico</string>
-    <string name="activate_status_desc_registration">Registro de tarjeta SIM</string>
-    <string name="activate_status_desc_registration_server_error">Se ha producido un error en el servidor al registrar la tarjeta SIM</string>
     <string name="activate_status_desc_query_activation_info">Consultar información de activación</string>
     <string name="activate_status_desc_query_activation_info_no_info">No hay información de activación en el servidor</string>
     <string name="activate_status_desc_query_activation_info_server_error">Error del servidor al activar su cuenta</string>
@@ -21,7 +20,6 @@
     <string name="activate_status_desc_wait_for_sms_fail">Error SMS de activación no recibido</string>
     <string name="activate_status_desc_request_activation_sms">Solicitando una activación SMS desde el servidor a su teléfono</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Se ha producido un error en el servidor al solicitar el SMS de activación</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">El número de teléfono ingresado no es válido</string>
     <string name="activate_status_desc_getting_gateway">Recibiendo pasarela SMS</string>
     <string name="activate_status_desc_failed_getting_gateway">No se pudo recuperar la pasarela SMS</string>
     <string name="activate_status_desc_prepare_sending_sms">Preparando para enviar activación SMS</string>
@@ -37,8 +35,6 @@
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Se ha producido un error en la verificación de su cuenta Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registro de la cuenta Mi en el servidor</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Se ha producido un error en el servidor al registrar su cuenta Mi</string>
-    <string name="activate_status_desc_getting_sim_info">Obtener información de la tarjeta SIM</string>
-    <string name="activate_status_desc_getting_sim_info_fail">No pudo conseguir información de tarjeta SIM</string>
     <string name="sim_unactivated_title">La tarjeta SIM está sin activar</string>
     <string name="activate">Activar</string>
     <string name="activate_popup_title_manual">Activación de tarjeta SIM</string>
@@ -47,14 +43,14 @@
     <string name="activate_popup_desc_mixed_sim_cards">Se enviará un SMS nacional y otro internacional para activar sus 2 tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_2_sim_cards">Se enviarán 2 SMS para activar sus tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_2_intl_sim_cards">Se enviarán 2 SMS internacionales para activar su tarjeta SIM sirve para activar funciones como %s (se aplican tarifas del operador)</string>
-    <string name="activate_popup_desc_sim_card_downlink">Introduzca el número de su tarjeta SIM, con el fin de habilitar funciones como %s</string>
+    <string name="activate_popup_desc_sim_card_downlink">Introduzca el número de su tarjeta SIM, con el fin de activar funciones como %s</string>
     <string name="activate_popup_title_new_sim_card">Nueva activación de tarjeta SIM</string>
     <string name="activate_popup_desc_new_sim_card">Han cambiado sus tarjetas SIM. Se enviarán 2 SMS para activar las 2 nuevas tarjetas SIM para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_new_intl_sim_card">Han cambiado sus tarjetas SIM. 2 mensajes SMS internacionales serán enviados para activar las 2 tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_new_mixed_sim_cards">Han cambiado sus tarjetas SIM. Se enviará un SMS y una internacional para activar las 2 nuevas tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_new_2_sim_cards">Han cambiado sus tarjetas SIM. Se enviarán 2 SMS para activar las 2 nuevas tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">Han cambiado sus tarjetas SIM. 2 mensajes SMS internacionales serán enviados para activar las 2 tarjetas SIM sirve para activar funciones como %s (se aplican tarifas del portador)</string>
-    <string name="activate_popup_desc_new_sim_card_downlink">Se cambia la tarjeta SIM. Introduzca el número de su tarjeta SIM, con el fin de habilitar funciones como %s</string>
+    <string name="activate_popup_desc_new_sim_card_downlink">Se cambia la tarjeta SIM. Introduzca el número de su tarjeta SIM, con el fin de activar funciones como %s</string>
     <string name="activate_popup_title_register_account">Registrar una cuenta</string>
     <string name="activate_popup_desc_register_account">Se enviará un SMS para registrar su cuenta Mi</string>
     <string name="activate_popup_desc_register_account_intl">Se enviará un SMS Internacional para registrar su cuenta Mi</string>
@@ -78,4 +74,15 @@
     <string name="activate_feature_mms_sync">Sincronizar mensajes</string>
     <string name="activate_feature_call_log_sync">Sincronizar registro de llamadas</string>
     <string name="activate_feature_find_device">Encontrar dispositivo</string>
+    <string name="activate_status_desc_getting_sim_info">Obtener información de la tarjeta SIM</string>
+    <string name="activate_status_desc_getting_sim_info_fail">No pudo conseguir información de tarjeta SIM</string>
+    <string name="activate_status_desc_registration">Registro de tarjeta SIM</string>
+    <string name="activate_status_desc_registration_server_error">Se ha producido un error en el servidor al registrar la tarjeta SIM</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">El número de teléfono ingresado no es válido</string>
+    <string name="activate_status_desc_wait_for_phone_service">Esperando para el servicio telefónico</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Informar</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">¿Informar de este problema a Mi? (ID del informe : %s)</string>
+    <string name="activate_popup_link_diagnosis_detail">¿Qué información se va a incluir?</string>
+    <string name="activate_popup_title_diagnosis_detail">Información de diagnosis</string>
+    <string name="activate_popup_title_upload_diagnosis_info">No se puede activar tarjeta SIM</string>
 </resources>

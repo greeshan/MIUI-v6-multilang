@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>Ć</item>
+        <item>Č</item>
+        <item>D</item>
+        <item>Đ</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>Ž</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Odgovor</item>
         <item>Odgovori svima</item>
@@ -27,7 +63,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Novije poruke</item>
         <item>Starije poruke</item>
-        <item>Popis razgovora</item>
+        <item>Dolazna pošta</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Prikaži samo arhiviranje</item>
@@ -37,7 +73,7 @@
     <string-array name="prefSummaries_autoAdvance">
         <item>Prikaz novijeg razgovora nakon brisanja</item>
         <item>Prikaz starijeg razgovora nakon brisanja</item>
-        <item>Prikaz popisa razgovora nakon brisanja</item>
+        <item>Prikaz dolazne pošte nakon brisanja</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>Prikaži samo arhiviranje</item>

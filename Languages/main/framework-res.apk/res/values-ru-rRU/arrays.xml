@@ -1,12 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <integer-array name="maps_starting_lat_lng">
-        <item>55750449</item>
-        <item>37621136</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>2</item>
-    </integer-array>
     <string-array name="emailAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
@@ -44,13 +37,20 @@
         <item>Прочий</item>
         <item>Выбрать</item>
     </string-array>
+    <integer-array name="maps_starting_lat_lng">
+        <item>55750449</item>
+        <item>37621136</item>
+    </integer-array>
+    <integer-array name="maps_starting_zoom">
+        <item>2</item>
+    </integer-array>
     <string-array name="imAddressTypes">
         <item>Домашний</item>
         <item>Рабочий</item>
         <item>Прочий</item>
         <item>Выбрать</item>
     </string-array>
-	<string-array name="app_ops_labels">
+    <string-array name="app_ops_labels">
         <item>Попытка получения доступа к местоположению</item>
         <item>Попытка получения доступа к местоположению</item>
         <item>Попытка получения доступа к местоположению</item>
@@ -75,7 +75,7 @@
         <item>Попытка чтения сообщений</item>
         <item>Попытка чтения и изменения сообщений</item>
         <item>Попытка изменения настроек</item>
-        <item>Попытка всплывающего уведомления</item>
+        <item>Попытка подъема</item>
         <item>Попытка получения доступа к уведомлениям</item>
         <item>Попытка получения доступа к камере</item>
         <item>Попытка записи звука</item>

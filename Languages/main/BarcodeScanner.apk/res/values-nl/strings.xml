@@ -15,8 +15,8 @@
     <string name="add_to_contacts">Contacten toevoegen</string>
     <string name="recognize">Lezen</string>
     <string name="recognize_fail">Kon het niet lezen</string>
-    <string name="place_barcode_into_rectangle">Lijn de code op in onderstaand venster</string>
-    <string name="barcode_into_rectangle">Lijn de code op in onderstaand venster</string>
+    <string name="place_barcode_into_rectangle">Plaats de code in onderstaand venster</string>
+    <string name="barcode_into_rectangle">Plaats de code in onderstaand venster</string>
     <string name="open_flash_error">Kan de zaklamp niet inschakelen</string>
     <string name="close_flash_error">Kan de zaklamp niet uitschakelen</string>
     <string name="scan_fail">Kon het niet scannen</string>
@@ -71,7 +71,7 @@
     <string name="wifi_connect_not_found">Geen Wi-Fi netwerken gedetecteerd</string>
     <string name="wifi_connect_current_connetion">Verbonden met Wi-Fi</string>
     <string name="back">Terug</string>
-    <string name="allow_check_website_security">Maak er u van bewust dat de website dat u wilt openen veilig is.</string>
+    <string name="allow_check_website_security">Controleer veiligheid van website.</string>
     <string name="accept">OK</string>
     <string name="cancel">Annuleren</string>
     <string name="tips_message">U moet verbinding maken met het internet om te controleren of de website die u gaat bezoeken veilig is.</string>

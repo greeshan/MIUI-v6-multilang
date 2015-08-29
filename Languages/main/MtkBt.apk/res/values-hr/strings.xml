@@ -5,9 +5,9 @@
     <string name="bt_bipi_unsupported_format">"Prijemnik ne podržava kodiranje.
 Nastaviti sa slanjem?"</string>
     <string name="bt_bipi_push_confirmation_ok">U redu</string>
-    <string name="bt_bipi_push_confirmation_cancel">Otkaži</string>
+    <string name="bt_bipi_push_confirmation_cancel">Odustani</string>
     <string name="bt_bip_transmitting_dialog_hide">Sakrij</string>
-    <string name="bt_bip_transmitting_dialog_cancel">Otkaži</string>
+    <string name="bt_bip_transmitting_dialog_cancel">Odustani</string>
     <string name="bt_bip_transmitting_dialog_ok">U redu</string>
     <string name="bt_bip_transmitting_dialog_yes">Da</string>
     <string name="bt_bip_transmitting_dialog_no">Ne</string>
@@ -33,7 +33,7 @@ Nastaviti sa slanjem?"</string>
     <string name="bt_bip_auth_password">Lozinka:</string>
     <string name="bt_bip_auth_userid">ID:</string>
     <string name="bt_bip_auth_ok">U redu</string>
-    <string name="bt_bip_auth_cancel">Otkaži</string>
+    <string name="bt_bip_auth_cancel">Odustani</string>
     <string name="permission_label_bluetoothPrint">Pristup Bluetootha ispisu</string>
     <string name="permission_desp_bluetoothPrint">Dozvola za pristup funkciji bluetooth ispisa.</string>
     <string name="app_name">Bluetooth ispis</string>
@@ -58,7 +58,7 @@ Nastaviti sa slanjem?"</string>
     <string name="printing_successful">Datoteka %1$s se ispisuje</string>
     <string name="printing_fail">Datoteka %1$s nije ispisana</string>
     <string name="dialog_printing_hide">Sakrij</string>
-    <string name="dialog_printing_cancel">Otkaži</string>
+    <string name="dialog_printing_cancel">Odustani</string>
     <string name="dialog_printing_ok">U redu</string>
     <string name="reason_attention_required">Potreban je pozor</string>
     <string name="reason_media_jam">Zaglavljenost medija</string>
@@ -74,10 +74,10 @@ Nastaviti sa slanjem?"</string>
     <string name="reason_nondefine">neodređeno</string>
     <string name="auth_passcode">Pristupna šifra</string>
     <string name="auth_ok">U redu</string>
-    <string name="auth_cancel">Otkaži</string>
+    <string name="auth_cancel">Odustani</string>
     <string name="bt_bpp_copies_title">Broj kopija</string>
     <string name="bt_bpp_copies_set">Postavi</string>
-    <string name="bt_bpp_copies_cancel">Otkaži</string>
+    <string name="bt_bpp_copies_cancel">Odustani</string>
     <string name="bt_bpp_reentry_error">Pričekajte da se dovrši trenutni zadatak ispisa.</string>
     <string name="bluetooth_dun_authorize_title">Autorizira se Bluetooth telefonsko povezivanje</string>
     <string name="bluetooth_dun_authorize_message">Odobriti zahtjev za telefonsko povezivanje od %1$s?</string>

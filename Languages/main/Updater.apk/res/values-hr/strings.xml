@@ -24,8 +24,8 @@
     <string name="miui_summary_no_new_version">Nema dostupnih ažuriranja</string>
     <string name="button_text_check">Provjeri za ažuriranja</string>
     <string name="button_text_update">Ažuriraj</string>
-    <string name="button_text_reboot">Ponovno pokrenite uređaj</string>
-    <string name="button_text_reboot_hm">Ponovno pokrenite uređaj</string>
+    <string name="button_text_reboot">Ponovno pokreni</string>
+    <string name="button_text_reboot_hm">Ponovno pokreni</string>
     <string name="button_text_later_reboot">Kasnije</string>
     <string name="download_title_first">Dobivanje informacija…</string>
     <string name="download_title_full_download">Dobivanje informacija…</string>
@@ -39,12 +39,14 @@
     <string name="menu_title_current_version_log">Što ima novo</string>
     <string name="check_update_policy">Postavke</string>
     <string name="check_update_when_wifi_available">Provjeri koristeći samo WLAN</string>
-    <string name="update_monthly_build_only">Samo ažuriraj za mjesečne verzije</string>
+    <string name="update_monthly_build_only">Samo ažuriraj mjesečne verzije</string>
     <string name="apply_update_dialog_update_button">Ažuriraj</string>
     <string name="apply_update_dialog_cancel_button">Odustani</string>
     <string name="cancel_download_buton_text">Odustani</string>
     <string name="boot_recovery">Ponovno pokrenuti u Recovery mode?</string>
     <string name="cancel_download">Zaustaviti preuzimanje ažuriranja?</string>
+    <string name="update_success_reboot_immediately">Uređaj je ažuriran</string>
+    <string name="download_success_reboot_immediately">Ponovno pokreni za primjenu ažuriranja</string>
     <string name="update_success">Uređaj je ažuriran</string>
     <string name="install_failed">Ažuriranje nije uspjelo</string>
     <string name="download_current_rom">Ponovno pokreni za primjenu ažuriranja</string>
@@ -56,14 +58,15 @@
     <string name="notification_reboot_summary_hm">Dodirnite da ponovo pokrenete vaš uređaj.</string>
     <string name="notification_reboot_btn">Ponovno pokreni</string>
     <string name="notification_reboot_seccess_title">Uređaj je ažuriran</string>
+    <string name="notification_auto_reboot_seccess_title">Uređaj je automatski ažuriran</string>
     <string name="notification_reboot_seccess_des">Dodirnite za dijeljenje detalja ažuriranja.</string>
     <string name="notification_share">Podijeli</string>
     <string name="notification_downloading">Preuzimanje ažuriranja…</string>
     <string name="notification_updating">Ažuriranje…</string>
     <string name="set_network_title">Poveži se na WLAN mrežu</string>
-    <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se s WLAN mrežom</string>
+    <string name="set_network_msg">Za preuzimanje ovog ažuriranja, poveži se na WLAN mrežu</string>
     <string name="set_installfail_title">Pokušati ponovno preuzeti ažuriranja?</string>
-    <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka. Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove</string>
+    <string name="set_installfail_msg">Niste povezani na WLAN mrežu. Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka. Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove</string>
     <string name="set_installfail_title_full">Ne mogu ažurirati</string>
     <string name="set_installfail_full_msg">Ne mogu ažurirati u ovom trenutku. Dodirnite U redu kako bi prijavili ovu pogrešku.</string>
     <string name="unkown_error_title">Ne mogu preuzeti</string>
@@ -74,7 +77,7 @@
     <string name="clean_up_button">Očisti</string>
     <string name="no_wifi_title">Upozorenje uporabe podataka</string>
     <string name="no_wifi_msg">"Korištenje vaše mobilne podatkovne veze za preuzimanje ažuriranja će povećati vašu uporabu podataka.
-  Ako premašite svoje ograničenje podataka, vaš davatelj usluga vam može naplatiti dodatne troškove."</string>
+  Ako premašite svoje ograničenje podataka, vaš operater vam može naplatiti dodatne troškove."</string>
     <string name="go_on_download">Preuzmi</string>
     <string name="pause">Pauza</string>
     <string name="repeat">Pokušaj ponovo</string>
@@ -139,25 +142,25 @@ http://zhushou.xiaomi.com"</string>
     <string name="log_share">Podijeli</string>
     <string name="autosetmode">Postavke</string>
     <string name="on_checking">Provjeravam…</string>
-    <string name="auto_update">Preuzimanje ažuriranja automatski</string>
+    <string name="auto_update">Preuzmi ažuriranja automatski</string>
     <string name="update_downfull_no_info_title">Ne mogu preuzeti ažuriranje</string>
     <string name="update_downfull_no_info_sum">Pričekajte minutu ili dvije i pokušajte ponovno.</string>
-    <string name="set_auto_update_title">Preuzimanje ažuriranja automatski</string>
+    <string name="set_auto_update_title">Preuzmi ažuriranja automatski</string>
     <string name="set_auto_msg">Automatski preuzmi ažuriranja kada je povezano na WLAN.</string>
     <string name="open_now">Uključi</string>
     <string name="not_open">Ne sada</string>
     <string name="title_toast_auto">Ažuriranja će se preuzeti automatski</string>
-    <string name="update_feedback">Beta Program Pov. informacija</string>
-    <string name="update_feedback_end">Propustili ste anketu ovog tjedna.</string>
-    <string name="update_feedback_end_sum">Možete se pridružiti svakog utorka.</string>
+    <string name="update_feedback">Ocijenite ovo ažuriranje</string>
+    <string name="update_feedback_end">Propustili ste glasovanje za ovaj tjedan.</string>
+    <string name="update_feedback_end_sum">Možete se pridružiti svakog ponedjeljka.</string>
     <string name="update_feedback_need_update">Morate prvo ažurirati svoj ​​sustav na najnoviju razvojnu verziju.</string>
-    <string name="update_feedback_expired">"Propustili ste ovu priliku da kažete svoje mišljenje.
-Ali možete sudjelovati sljedeći utorak."</string>
+    <string name="update_feedback_expired">"Propustili ste glasovanje za ovaj tjedan.
+Ali možete sudjelovati sljedeći ponedjeljak."</string>
     <string name="update_feedback_need_account">Morate se prvo prijaviti u svoj Mi Račun</string>
     <string name="update_feedback_need_network">Prvo se povežite na mrežu</string>
-    <string name="update_happy">Super!</string>
-    <string name="update_general">Tako-tako</string>
-    <string name="update_sad">Hmm (nije dobro)</string>
+    <string name="update_happy">Zadovoljan!</string>
+    <string name="update_general">Ravnodušan</string>
+    <string name="update_sad">Razočaran</string>
     <string name="update_feel">Što vi mislite?</string>
     <string name="best_update">Najbolje ažuriranje do sada</string>
     <string name="worst_update">Najgore ažuriranje do sad</string>
@@ -192,5 +195,31 @@ Ali možete sudjelovati sljedeći utorak."</string>
     <string name="submit_success">Poslano</string>
     <string name="submit_fail">Ne mogu poslati</string>
     <string name="submit">Pošalji</string>
+    <string name="updater_wait_for_unzip">Raspakiravanje ažuriranja…</string>
+    <string name="vote_beta">Beta Program Povr. informacija</string>
+    <string name="vote_submit">Pošalji</string>
+    <string name="vote_recommend">Preporučujem ovo ažuriranje</string>
+    <string name="vote_not_recommend">Ne preporučujem</string>
+    <string name="vote_error_nonetwork">Ne mogu se povezati na mrežu</string>
+    <string name="vote_error1">"Izgleda da vi niste član
+Beta Programa Povr. informacija"</string>
+    <string name="vote_error2">"Ne mogu poslati Povr. informacije.
+Ažurirajte svoj uređaj i pokušajte ponovo"</string>
+    <string name="vote_hint">Dobijte 20 bodova iskustva na MIUI forumu nakon glasovanja</string>
+    <string name="vote_join">Glasano</string>
+    <string name="vote_experience">Forumsko iskustvo</string>
+    <string name="vote_error3">"Ne mogu se prijaviti.
+Pokušajte se prijaviti na vaš Mi Račun ponovno."</string>
+    <string name="vote_error4">Već ste poslali Povratnu informaciju</string>
+    <string name="vote_error5">"Nešto nije u redu
+Ne mogu poslati Povratnu informaciju"</string>
+    <string name="miui_BBS">" &lt;a href=http://bbs.miui.com>Idi na MIUI forum&lt;/a> "</string>
+    <string name="welcom_title">Dobrodošli u MIUI 6</string>
+    <string name="welcom_message">Spremni ste da rasturite</string>
+    <string name="welcom_button">U redu</string>
+    <string name="sogou_uninstall_title">Kompatibilnost tipkovnice</string>
+    <string name="sogou_uninstall_msg">Sogou tipkovnica (Mi Edition) više nije kompatibilna sa MIUI 6. Promjenite tipkovnicu ili ažurirajte na noviju Sogou verziju.</string>
+    <string name="sogou_uninstall_positive_button">Promjeni tipkovnicu</string>
+    <string name="sogou_uninstall_negative_button">Ažuriraj Sogou</string>
     <string name="install_file_explorer">Morate instalirati aplikaciju Datoteke</string>
 </resources>

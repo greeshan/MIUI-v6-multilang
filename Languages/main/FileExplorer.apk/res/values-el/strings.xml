@@ -50,7 +50,6 @@
     <string name="category_other">Διάφορα</string>
     <string name="category_favorite">Αγαπημένα</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Ημερολόγιο</string>
     <string name="operation_rename_message">Εισαγωγή νέου ονόματος</string>
     <string name="operation_create_folder_message">Εισαγωγή ονόματος φακέλου</string>
     <string name="operation_delete_confirm_message">Επιβεβαίωση Διαγραφής</string>
@@ -249,7 +248,6 @@
     <string name="operation_moving_detail">Μετακίνηση (%1$d/%2$d)</string>
     <string name="operation_copying">Αντιγράφει…</string>
     <string name="operation_copying_detail">Αντιγράφει (%1$d/%2$d)</string>
-    <string name="name_illegal">Δώστε ένα όνομα</string>
     <string name="open_changed_file_title">Οι αλλαγές εφαρμόστηκαν</string>
     <string name="open_changed_file_message">"Το αρχείο που προσπαθείτε να ανοίξετε έχει αλλάξει. Για να διορθώσετε αυτό το πρόβλημα:
 1. Κατεβάστε το αρχείο πάλι για να βεβαιωθείτε ότι έχετε την πιο πρόσφατη έκδοση.
@@ -341,4 +339,6 @@
     <string name="operation_agree">Αποδοχή &amp; Συνέχεια</string>
     <string name="never_notify_network_connect">Να μην εμφανιστεί ξανά</string>
     <string name="connect_network_setting_des">Υπενθύμιση κατά την πρόσβαση δικτύου</string>
+    <string name="name_illegal">Δώστε ένα όνομα</string>
+    <string name="category_log">Ημερολόγιο</string>
 </resources>

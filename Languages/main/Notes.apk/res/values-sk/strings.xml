@@ -49,6 +49,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
     <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, dotknite sa tu pre aktualizovanie aplikácie</string>
     <string name="error_contact_not_exist">Kontakt neexistuje</string>
+    <string name="sync_tips">Dotykom synchr. poznámky s MiCloud.</string>
     <string name="pref_title_font_size">Veľkosť písma</string>
     <string name="call_record_folder_name">Zoznam volaní</string>
     <string name="hint_foler_name">Vstupné meno</string>
@@ -96,6 +97,7 @@
     <string name="sns_hint_title">Predmet (Voliteľné)</string>
     <string name="sns_hint_content">Na čo myslíte?</string>
     <string name="sns_footer_text">Vytvorené s MIUI V6</string>
+    <string name="dlg_info_creating_message">Vytváranie správy...</string>
     <string name="sns_message_disconnect">Nie je možné sa pripojiť k sieti. Skontrolujte vaše nastavenia.</string>
     <string name="sns_content_default">Zdieľať obrázok</string>
     <string name="sns_toast_empty">Nie je možné odoslať prázdnu správu</string>

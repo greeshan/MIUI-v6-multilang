@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Celziji</item>
+        <item>Fahrenheiti</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Nikada ne ažuriraj automatski</item>
+        <item>Svakih 1 sat</item>
+        <item>Svaka 2 sata</item>
+        <item>Svakih 6 sati</item>
+        <item>Svakih 12 sati</item>
+        <item>Svakih 1 dan</item>
+    </string-array>
+</resources>

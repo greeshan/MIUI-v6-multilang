@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">%1$dটি স্টেশন স্ক্যান হয়েছে</item>
+        <item quantity="one">১টি স্টেশন স্ক্যান হয়েছে</item>
+    </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">%d টি FM রেকর্ডিং</item>
+        <item quantity="one">%d টি FM রেকর্ডিং</item>
+    </plurals>
+</resources>

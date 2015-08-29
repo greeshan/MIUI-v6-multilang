@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d kiválasztva</item>
+        <item quantity="zero">%1$d kiválasztva</item>
+        <item quantity="one">%1$d kiválasztva</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">Megtörténik %1$s város törlése</item>
+        <item quantity="one">Megtörténik egy város törlése</item>
+    </plurals>
+</resources>

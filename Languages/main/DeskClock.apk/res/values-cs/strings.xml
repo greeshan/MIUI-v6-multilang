@@ -43,9 +43,9 @@
     <string name="timer_item_duration_display">%1$dmin %2$ds</string>
     <string name="timer_new_item">Upravit</string>
     <string name="timer_item_label_hint">Název časovače</string>
-    <string name="shutdown_alarm_title">Upozornit při vypínání</string>
-    <string name="shutdown_alarm_enable_summary">Upozornění je povoleno</string>
-    <string name="shutdown_alarm_disable_summary">Upozornění není povoleno</string>
+    <string name="shutdown_alarm_title">Zapnout zařízení před buzením</string>
+    <string name="shutdown_alarm_enable_summary">Budík je povolen</string>
+    <string name="shutdown_alarm_disable_summary">Budík je zakázán</string>
     <string name="workday_alarm_clock">Pracovní den</string>
     <string name="system_time_setting">Nastavení</string>
     <string name="lap_num">Kolo</string>
@@ -67,7 +67,7 @@
     <string name="elapsed_time_format">(+%s)</string>
     <string name="app_label">Hodiny</string>
     <string name="alarm_list_title">Budíky</string>
-    <string name="add_alarm">Přidat budík</string>
+    <string name="add_alarm">Přidat</string>
     <string name="menu_desk_clock">Stolní hodiny</string>
     <string name="delete_alarm">Smazat</string>
     <string name="delete_alarm_confirm">Opravdu smazat označené?</string>
@@ -113,12 +113,12 @@
     <string name="loading_ringtone">Načítání zvonění...</string>
     <string name="control_set_alarm">Nastavit budík</string>
     <string name="control_set_alarm_with_existing">Nastavení budíku: %s</string>
+    <string name="menu_edit_systemtime">Systémový čas</string>
+    <string name="snooze_message">Ztišit na %d min</string>
+    <string name="timer_message">%1$d min a %2$d s</string>
+    <string name="timer_message_with_hour">%1$d hod a %2$d min</string>
+    <string name="timer_message_with_seconds">%1$d s</string>
     <string name="timer_message_00">%1$d min a %2$d s</string>
     <string name="timer_message_01">%1$d min a %2$d s</string>
     <string name="timer_message_10">%1$d min a %2$d s</string>
-    <string name="timer_message">%1$d min a %2$d s</string>
-    <string name="menu_edit_systemtime">Systémový čas</string>
-    <string name="snooze_message">Ztišit na %d min</string>
-    <string name="timer_message_with_hour">%1$d hod a %2$d min</string>
-    <string name="timer_message_with_seconds">%1$d s</string>
 </resources>

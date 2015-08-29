@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Ultimele %d zile</item>
+        <item quantity="one">Ieri</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d din %2$d</item>
+        <item quantity="one">1 potrivire</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d potriviri</item>
+        <item quantity="one">%d potrivire</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d elemente blocate</item>
+        <item quantity="one">%d element blocat</item>
+    </plurals>
+</resources>

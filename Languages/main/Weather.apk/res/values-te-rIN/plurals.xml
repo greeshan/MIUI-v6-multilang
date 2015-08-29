@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d నిమి క్రితం</item>
+        <item quantity="one">%d నిమి క్రితం</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d గంటల క్రితం</item>
+        <item quantity="one">%d గంట క్రితం</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d రోజుల క్రితం</item>
+        <item quantity="one">%d రోజు క్రితం</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">నిర్మలంగా ఉంది</item>
+        <item quantity="one">ఎండగా ఉంది</item>
+    </plurals>
+</resources>

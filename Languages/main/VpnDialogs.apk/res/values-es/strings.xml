@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="prompt">%s intentos de crear una conexión VPN.</string>
-    <string name="warning">Procediendo, estás dando permiso a la aplicación para interceptar todo el tráfico de red. &lt; b > NO aceptes a menos que confíes en la aplicación. &lt; /b >\" de lo contrario, se corre el riesgo de tener tus datos comprometidos por un software malicioso. \"</string>
+    <string name="prompt">%s está intentando crear una conexión VPN.</string>
+    <string name="warning">"Si aceptas, estás dando permiso a la aplicación para interceptar todo el tráfico de red. &lt;b>NO aceptes a menos que confíes en la aplicación.&lt;/b> De lo contrario, se corre el riesgo de tener tus datos comprometidos por un software malicioso. "</string>
     <string name="accept">Confío en esta aplicación.</string>
-    <string name="legacy_title">VPN está conectada</string>
+    <string name="legacy_title">VPN conectada</string>
     <string name="configure">Configurar</string>
     <string name="disconnect">Desconectar</string>
     <string name="session">Sesión:</string>

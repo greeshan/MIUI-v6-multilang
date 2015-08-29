@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">%d రోజుల క్రితం ఉపయోగించారు</item>
+        <item quantity="one">నిన్న ఉపయోగించారు</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">%d అప్లికేషన్‌లను శోధించు</item>
+        <item quantity="one">%d అప్లికేషన్‌ని శోధించు</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">రోమింగ్‌లో ఉన్నప్పుడు %d అప్లికేషన్‌లు మొబైల్ డేటాని ఉపయోగించగలవు</item>
+        <item quantity="one">రోమింగ్‌లో ఉన్నప్పుడు %d అప్లికేషన్ మొబైల్ డేటాని ఉపయోగించగలదు</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">రోమింగ్‌లో ఉన్నప్పుడు %d అప్లికేషన్‌లు మొబైల్ డేటాని ఉపయోగించలేవు</item>
+        <item quantity="one">రోమింగ్‌లో ఉన్నప్పుడు %d అప్లికేషన్ మొబైల్ డేటాని ఉపయోగించలేదు</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">%d అప్లికేషన్‌లు గుర్తించబడ్డాయి</item>
+        <item quantity="one">%d అప్లికేషన్ గుర్తించబడింది</item>
+    </plurals>
+</resources>

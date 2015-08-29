@@ -40,36 +40,36 @@
         <item quantity="many">%d kiválasztva</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> archiválva.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> archiválva.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> archiválva.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> archiválva.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> törölve.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> törölve.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> törölve.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> törölve.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">A mappák módosultak.</item>
         <item quantity="one">A mappa módosult.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> lezárva.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> lezárva.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> lezárva.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> lezárva.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> beszélgetés nem fontosnak jelölve.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> beszélgetés nem fontosnak jelölve.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> beszélgetés nem fontosnak jelölve.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> beszélgetés nem fontosnak jelölve.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve nem spamként.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve nem spamként.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve nem spamként.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve nem spamként.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve adathalászatként.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve adathalászatként.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve adathalászatként.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve adathalászatként.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve spamként.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> jelentve spamként.</item>
+        <item quantity="other">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve spamként.</item>
+        <item quantity="one">&amp;amp;amp;lt;b>%1$d&amp;amp;amp;lt;/b> jelentve spamként.</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">%1$d beszélgetés csillagozásának megszüntetése.</item>

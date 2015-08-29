@@ -12,18 +12,19 @@
     <string name="widget_under_privacy_mode">No se pueden ver notas en modo Invitado</string>
     <string name="widget_content_loading">Cargando…</string>
     <string name="notelist_string_info">…</string>
-    <string name="notelist_menu_new">Agregar Nota</string>
+    <string name="notelist_menu_new">Agregar nota</string>
     <string name="note_alert_expired">Caducado</string>
     <string name="notealert_ok">Ignorar</string>
     <string name="notealert_enter">Echar un vistazo</string>
     <string name="note_link_tel">Llamada</string>
-    <string name="note_link_email">Enviar correo electrónico</string>
+    <string name="note_link_email">Enviar email</string>
     <string name="note_link_web">Navegar por la web</string>
     <string name="note_link_other">Abrir mapa</string>
     <string name="note_link_select">Seleccionar texto</string>
     <string name="menu_create_folder">Nueva carpeta</string>
     <string name="menu_delete">Eliminar</string>
-    <string name="menu_stick">PIN</string>
+    <string name="menu_folders">Carpetas</string>
+    <string name="menu_stick">Anclar</string>
     <string name="menu_unstick">Liberar</string>
     <string name="folder_exist">Ya existe una carpeta con el mismo nombre</string>
     <string name="menu_send_to_desktop">Poner en la pantalla de inicio</string>
@@ -38,7 +39,8 @@
     <string name="alert_message_delete_folders">¿Eliminar %1$s carpetas?</string>
     <string name="alert_message_delete_folders_notes">¿Borrar %1$s carpetas y %2$s notas?</string>
     <string name="alert_message_delete_note">¿Desea eliminar esta nota?</string>
-    <string name="format_move_notes_to_folder">Movidase %1$s notas a %2$s</string>
+    <string name="format_move_notes_to_folder">Movidas %1$s a %2$s</string>
+    <string name="format_move_notes_out_folder">%1$s movidas fuera</string>
     <string name="alert_title_edit_anyway">Esta nota contiene contenido no soportado</string>
     <string name="alert_message_edit_anyway">Si se edita esta nota puede perderse parte de su contenido.</string>
     <string name="alert_action_edit_anyway">Seguir editando</string>
@@ -65,6 +67,7 @@
     <string name="notify_alarm_title">Recordatorio de nota</string>
     <string name="alarm_bar_title">Recordatorio</string>
     <string name="toast_message_add_image_fail">No se puede añadir la imagen</string>
+    <string name="toast_message_add_text_warn">Este tipo de fichero no está soportado</string>
     <string name="toast_folder_privacy_mode">No se puede editar la carpeta en modo Invitado</string>
     <string name="toast_note_privacy_mode">No se puede crear una nota en modo Invitado</string>
     <string name="toast_reach_text_limit_truncate">Esta nota es demasiado larga. Se ha recortado texto del final para que quepa.</string>
@@ -77,16 +80,17 @@
     <string name="not_now">Ahora no</string>
     <string name="enable_sync">Sincronización</string>
     <string name="login_sync">Entrar y sincronizar</string>
-    <string name="pref_title_note_style">Estilo de Nota</string>
+    <string name="pref_title_note_style">Estilo de nota</string>
     <string name="pref_title_common">Ajustes adicionales</string>
     <string name="pref_title_alarm_when_silent">Alarmas en modo silencio</string>
     <string name="pref_desc_alarm_when_silent">Las alarmas activas sonarán aunque el timbre esté silenciado</string>
     <string name="dlg_title_confirm_alarm_silent">Silenciar alarmas</string>
     <string name="dlg_desc_confirm_alarm_silent">Las alarmas activas no sonarán cuando el timbre está silenciado.</string>
-    <string name="permlab_accessNote">Access notes</string>
+    <string name="permlab_accessNote">Notas de acceso</string>
     <string name="permdesc_accessNote">Las aplicaciones maliciosas pueden usar esto para acceder a su información personal.</string>
     <string name="undo">Deshacer</string>
     <string name="redo">Rehacer</string>
+    <string name="loading_text">Cargando…</string>
     <string name="sns_title_edit">Editar título</string>
     <string name="sns_title_send">Enviar mensaje</string>
     <string name="sns_action_send">Enviar</string>
@@ -102,5 +106,12 @@
     <string name="sns_choose_quality_title">Elija calidad de imagen</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Baja</string>
-    <string name="menu_move">Mover</string>
+    <string name="welcome_note_for_cm">"¡Y más características!
+  - Sincronizar con Mi Cloud
+  - Salvar al salir
+  - Establecer recordatorios
+
+Para obtener más información, visite
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>

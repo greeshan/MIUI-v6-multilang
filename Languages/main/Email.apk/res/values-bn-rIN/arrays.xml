@@ -66,12 +66,4 @@
         <item>দাবি পরিত্যাগী</item>
         <item>ইমেলের দাবি পরিত্যাগী</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>সিঙ্ক সফল হয়েছে।</item>
-        <item>নেটওয়ার্ক সংযোগে ত্রুটি।</item>
-        <item>সাইন ইন করতে ব্যর্থ।</item>
-        <item>সুরক্ষিত সংযোগে ত্রুটি।</item>
-        <item>সিঙ্ক করতে ব্যর্থ।</item>
-        <item>সার্ভার ত্রুটি।</item>
-    </string-array>
 </resources>

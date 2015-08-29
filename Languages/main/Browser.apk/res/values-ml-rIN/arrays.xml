@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>വെള്ള</item>
+        <item>മഞ്ഞ</item>
+        <item>ചാരനിറം</item>
+        <item>ബ്രൗൺ</item>
+        <item>പച്ച</item>
+        <item>നീല</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>ഡിഫോൾട്ട് തുടക്കപേജ്</item>
+        <item>കസ്റ്റം</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>ഡെസ്ക്ടോപ്പ്</item>
+        <item>iഫോൺ</item>
+        <item>iപാഡ്</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>മുൻ പേജ്/അടുത്ത പേജ്</item>
+        <item>മുൻ ടാബ്/അടുത്ത ടാബ്</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>പേജ് മുന്നിലേക്ക്/പിന്നിലേക്ക്</item>
+        <item>വിൻഡോ മാറുക</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ചെറുത്</item>
+        <item>ഇടത്തരം</item>
+        <item>വലുത്</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>ഒരിക്കലുമില്ല</item>
+        <item>Wi-Fi ൽ മാത്രം</item>
+        <item>എപ്പോഴും</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>തീരെ ചെറുത്</item>
+        <item>ചെറുത്</item>
+        <item>സമാന്യമായ</item>
+        <item>വലുത്</item>
+        <item>വളരെ വലിയ</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>ഇതിലും വലുത്</item>
+        <item>വലുത്</item>
+        <item>സമാന്യമായ</item>
+        <item>ചെറുത്</item>
+    </string-array>
+</resources>

@@ -19,28 +19,28 @@
         <item quantity="other">%d เลือกไว้</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> จัดเก็บเข้าที่จัดเก็บแล้ว.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> จัดเก็บเข้าที่จัดเก็บแล้ว.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ลบแล้ว</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ลบแล้ว</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">ย้ายไปแล้ว</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ปิดเสียงแล้ว</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ปิดเสียงแล้ว</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ข้อความถูกลบออกจากกล่องข้อความ'สำคัญ'แล้ว"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> ข้อความถูกลบออกจากกล่องข้อความ'สำคัญ'แล้ว"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ย้ายออกจากกล่องสแปมแล้ว</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ย้ายออกจากกล่องสแปมแล้ว</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> รายงานข้อความว่าเป็นสแปมแล้ว</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> รายงานข้อความว่าเป็นสแปมแล้ว</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> ทำเครื่องหมายสแปมแล้ว</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> ทำเครื่องหมายสแปมแล้ว</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">%1$d อีเมลต่อเนื่องที่ไม่ได้ทำเครื่องหมาย</item>

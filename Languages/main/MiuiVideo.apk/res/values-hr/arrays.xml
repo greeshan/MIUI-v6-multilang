@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="version_list_entries">
+        <item>Stabilna</item>
+        <item>Developer</item>
+        <item>Alpha</item>
+    </string-array>
     <string-array name="channel_tabs">
         <item>Popularno</item>
         <item>Poredak</item>

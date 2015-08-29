@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">%d öğe seçtiniz</item>
+        <item quantity="one">%d öğe seçtiniz</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
@@ -51,9 +55,5 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d Dakika içinde</item>
         <item quantity="one">1 Dakika içinde</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d Öğe seçildi</item>
-        <item quantity="one">%d Öğe seçildi</item>
     </plurals>
 </resources>

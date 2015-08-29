@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">തിരഞ്ഞെടുത്ത സംഭാഷണം%1$s മായ്ക്കട്ടെ?</item>
+        <item quantity="one">ഈ സംഭാഷണം മായ്ക്കട്ടെ?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s സെക്കന്റുകൾ</item>
+        <item quantity="one">%s സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">%s സെക്കന്റുകൾ</item>
+        <item quantity="one">%s സെക്കന്റ്</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s ഇവയ്ക്കുള്ള ഫലങ്ങൾ %2$s\"</item>
+        <item quantity="one">%1$s ഇവയ്ക്കുള്ള ഫലം%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s ആളുകൾ</item>
+        <item quantity="one">%1$s ആളുകൾ</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s സന്ദേശങ്ങൾ</item>
+        <item quantity="one">%1$s സന്ദേശം</item>
+    </plurals>
+</resources>

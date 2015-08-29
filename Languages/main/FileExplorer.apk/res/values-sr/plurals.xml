@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Избрисати %1$d датотеке</item>
+        <item quantity="zero">Избрисати %1$d датотеке</item>
+        <item quantity="one">Избрисати %1$d датотеке</item>
+        <item quantity="two">Избрисати %1$d датотеке</item>
+        <item quantity="few">Избрисати %1$d датотеке</item>
+        <item quantity="many">Избрисати %1$d датотеке</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" и %1$d мапе?"</item>
+        <item quantity="zero">" и %1$d мапу?"</item>
+        <item quantity="one">" и %1$d мапу?"</item>
+        <item quantity="two">" и %1$d мапе?"</item>
+        <item quantity="few">" и %1$d мапа?"</item>
+        <item quantity="many">" и %1$d мапа?"</item>
+    </plurals>
+    <plurals name="directory_item_count">
+        <item quantity="other">Ставка: %d</item>
+        <item quantity="zero">Ставка: %d</item>
+        <item quantity="one">Ставка: %d</item>
+        <item quantity="two">Ставка: %d</item>
+        <item quantity="few">Ставка: %d</item>
+        <item quantity="many">Ставка: %d</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">%1$d датотека преостало за преузимање</item>
+        <item quantity="zero">%1$d датотека преостало за преузимање</item>
+        <item quantity="one">%1$d датотека преостала за преузимање</item>
+        <item quantity="two">%1$d датотеке преостале за преузимање</item>
+        <item quantity="few">%1$d датотека преостало за преузимање</item>
+        <item quantity="many">%1$d датотека преостало за преузимање</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">%1$d датотека преостало за учитавање</item>
+        <item quantity="zero">%1$d датотека преостало за учитавање</item>
+        <item quantity="one">%1$d датотека преостала за учитавање</item>
+        <item quantity="two">%1$d датотеке преостале за учитавање</item>
+        <item quantity="few">%1$d датотека преостало за учитавање</item>
+        <item quantity="many">%1$d датотека преостало за учитавање</item>
+    </plurals>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Одабрано: %1$d</item>
+        <item quantity="zero">Одабрано: %1$d</item>
+        <item quantity="one">Одабрано: %1$d</item>
+        <item quantity="two">Одабрано: %1$d</item>
+        <item quantity="few">Одабрано: %1$d</item>
+        <item quantity="many">Одабрано: %1$d</item>
+    </plurals>
+    <plurals name="items_file">
+        <item quantity="other">(%1$d датотека)</item>
+        <item quantity="zero">(%1$d датотека)</item>
+        <item quantity="one">(%1$d датотека)</item>
+        <item quantity="two">(%1$d датотека)</item>
+        <item quantity="few">(%1$d датотека)</item>
+        <item quantity="many">(%1$d датотека)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other">(%1$d слика)</item>
+        <item quantity="zero">(%1$d слика)</item>
+        <item quantity="one">(%1$d слика)</item>
+        <item quantity="two">(%1$d слика)</item>
+        <item quantity="few">(%1$d слика)</item>
+        <item quantity="many">(%1$d слика)</item>
+    </plurals>
+</resources>

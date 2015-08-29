@@ -40,36 +40,36 @@
         <item quantity="many">Выбрано: %d</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Архивировано: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Архивировано: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Архивировано: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Архивировано: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Удалено: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Удалено: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Удалено: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Удалено: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Папки изменены</item>
         <item quantity="one">Папка изменена</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Диалогов с отключенными уведомлениями: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Диалогов с отключенными уведомлениями: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Диалогов с отключенными уведомлениями: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Диалогов с отключенными уведомлениями: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Помечено как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Помечено как неважные: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Помечено как неважные: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Помечено как неважные: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Убрано из спама: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Убрано из спама: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Убрано из спама: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Убрано из спама: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Помечено как мошенничество: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Помечено как мошенничество: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Помечено как мошенничество: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Помечено как мошенничество: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Помечено как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Помечено как спам: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Помечено как спам: &lt;b>%1$d&lt;/b></item>
+        <item quantity="one">Помечено как спам: &lt;b>%1$d&lt;/b></item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">Убрать диалоги из избранных? (%1$d)</item>

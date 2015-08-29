@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">ค้นพบ %d เพลง</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">เหลืออีก %d วัน</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">กำลังดาวน์โหลด %d เพลง</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d เพลงใหม่</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">มีเพลงที่คล้ายกันอีก %d เพลง</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">เพิ่ม %d เพลงไปยังรายชื่อเพลงแล้ว</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">นำเพลง %d เพลงออกจากรายชื่อเพลงแล้ว\"</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">กำลังเตรียมส่งเพลง %d เพลง</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d เพลง</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">เพิ่ม %d เพลงแล้ว</item>
+    </plurals>
+</resources>

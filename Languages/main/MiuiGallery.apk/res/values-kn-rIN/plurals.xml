@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">%1$s ಆಲ್ಬಮ್ಗಳು ಆಳಿಸುವುದೇ (%2$s ಒಟ್ಟು)?</item>
+        <item quantity="one">%1$s ಆಲ್ಬಮ್ ಆಳಿಸುವುದೇ (%2$s ಒಟ್ಟು)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ಫೋಟೋಗಳನ್ನು ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+        <item quantity="one">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ಫೋಟೋ ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s ಫೋಟೋಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ಫೋಟೋ ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+        <item quantity="one">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ವೀಡಿಯೊ ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸುವುದೇ?</item>
+        <item quantity="one">%s ವೀಡಿಯೊ ಅಳಿಸುವುದೇ?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ಫೋಟೋಗಳನ್ನು ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+        <item quantity="one">            &lt;Data>                 Mi ಕ್ಲೌಡ್‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ಫೋಟೋ ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">            &lt;Data>                 ಈ ಫೋನ್‌ನಿಂದ ಮತ್ತು Mi ಕ್ಲೌಡ್‌ನಿಂದ&lt;xliff:g id=ITEM>%s&lt;/xliff:g> ವೀಡಿಯೊಗಳನ್ನು ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+        <item quantity="one">            &lt;Data>                 ಈ ಫೋನ್‌ನಿಂದ ಮತ್ತು Mi ಕ್ಲೌಡ್‌ನಿಂದ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ವೀಡಿಯೊ ಅಳಿಸುವುದೇ?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> Delete &lt;xliff:g id=ITEM>%1$d videos&lt;/xliff:g> from %2$d albums?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> Delete &lt;xliff:g id=ITEM>%1$d video&lt;/xliff:g> from %2$d albums?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d ಫೋಟೋ</item>
+        <item quantity="one">%d ಫೋಟೋ</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d ವೀಡಿಯೋ</item>
+        <item quantity="one">%d ವೀಡಿಯೊ</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d ಫೋಲ್ಡರ್‌ಗಳು</item>
+        <item quantity="one">%d ಫೋಲ್ಡರ್</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">ನಿಮಗೆ ಈ %d ಫೈಲ್‌‌ಗಳನ್ನು ಅಳಿಸುವ ಅನುಮತಿ ಇಲ್ಲ.</item>
+        <item quantity="one">ನಿಮಗೆ ಈ %d ಫೈಲ್‌‌ಗಳನ್ನು ಅಳಿಸುವ ಅನುಮತಿ ಇಲ್ಲ.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">ನೀವು %d ಐಟಂ ಆಯ್ಕೆ ಮಾಡಬಹುದು</item>
+        <item quantity="one">ನೀವು %d ಐಟಂ ಆಯ್ಕೆ ಮಾಡಬಹುದು</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d ಚಿತ್ರಗಳು</item>
+        <item quantity="one">%1$d ಚಿತ್ರ</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d ಐಟಂಗಳು</item>
+        <item quantity="one">%1$d ಐಟಂ</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s photos of %2$s</item>
+        <item quantity="one">%1$s photo of %2$s</item>
+    </plurals>
+</resources>

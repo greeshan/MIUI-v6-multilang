@@ -45,6 +45,8 @@
     <string name="cancel_download_buton_text">Ακύρωση</string>
     <string name="boot_recovery">Επανεκκίνηση σε λειτουργία Recovery</string>
     <string name="cancel_download">Διακοπή της λήψης αυτής της ενημέρωσης;</string>
+    <string name="update_success_reboot_immediately">Η συσκευή ενημερώθηκε</string>
+    <string name="download_success_reboot_immediately">Επανεκκίνηση για εφαρμογή της ενημέρωσης</string>
     <string name="update_success">Η ενημέρωση ολοκληρώθηκε</string>
     <string name="install_failed">Η ενημέρωση απέτυχε</string>
     <string name="download_current_rom">Flash αναβάθμισης</string>
@@ -56,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Πατήστε για να κάνετε επανεκκίνηση της συσκευής σας.</string>
     <string name="notification_reboot_btn">Επανεκκίνηση</string>
     <string name="notification_reboot_seccess_title">Η συσκευή ενημερώθηκε!</string>
+    <string name="notification_auto_reboot_seccess_title">Η συσκευή ενημερώθηκε αυτόματα</string>
     <string name="notification_reboot_seccess_des">Πατήστε για να μοιραστείτε τις πληροφορίες ενημέρωσης.</string>
     <string name="notification_share">Μοιράσου το</string>
     <string name="notification_downloading">Λήψη ενημέρωσης…</string>
@@ -65,7 +68,7 @@
     <string name="set_installfail_title">Θα προσπαθήσετε να κάνετε ξανά λήψη της ενημερωμένης έκδοσης;</string>
     <string name="set_installfail_msg">Η λήψη αυτής της ενημερωμένης έκδοσης σε σύνδεση δεδομένων κινητής τηλεφωνίας σας θα αυξήσει τη χρήση των δεδομένων σας.</string>
     <string name="set_installfail_title_full">Η ενημέρωση απέτυχε</string>
-    <string name="set_installfail_full_msg">Δεν είναι δυνατή η ενημέρωση αυτή τη στιγμή. Πατήστε \\OK\\ για να αναφέρετε αυτό το σφάλμα στους μηχανικούς μας.</string>
+    <string name="set_installfail_full_msg">Δεν είναι δυνατή η ενημέρωση αυτή τη στιγμή. Πατήστε \"OK\" για να αναφέρετε αυτό το σφάλμα στους μηχανικούς μας.</string>
     <string name="unkown_error_title">Κάτι πήγε στραβά…</string>
     <string name="download_error">Σφάλμα λήψης. Περιμένετε ένα λεπτό ή δύο και δοκιμάστε ξανά.</string>
     <string name="download_again">Κατεβάστε ξανά</string>
@@ -146,7 +149,7 @@ http://zhushou.xiaomi.com"</string>
     <string name="open_now">Ενεργοποίηση τώρα</string>
     <string name="not_open">Μην ενεργοποιείς</string>
     <string name="title_toast_auto">Έξυπνη λήψη ενημερώσεων ενεργή</string>
-    <string name="update_feedback">Σχόλια αναβάθμισης</string>
+    <string name="update_feedback">Βαθμολογήστε αυτή την ενημέρωση</string>
     <string name="update_feedback_end">Χάσατε την προθεσμία αυτής της εβδομάδας</string>
     <string name="update_feedback_end_sum">Μπορείτε να συμμετάσχετε κάθε Τρίτη</string>
     <string name="update_feedback_need_update">Θα πρέπει πρώτα να ενημερώσετε το σύστημά σας με την πιο πρόσφατη έκδοση.</string>
@@ -191,4 +194,30 @@ http://zhushou.xiaomi.com"</string>
     <string name="submit_success">Δημοσιεύτηκε σωστά</string>
     <string name="submit_fail">Η αποστολή απέτυχε</string>
     <string name="submit">Υποβολή</string>
+    <string name="updater_wait_for_unzip">Αποσυμπίεση ενημέρωσης…</string>
+    <string name="vote_beta">Πρόγραμμα σχολίων Beta</string>
+    <string name="vote_submit">Υποβολή</string>
+    <string name="vote_recommend">Συνιστώ αυτή την αναβάθμιση</string>
+    <string name="vote_not_recommend">Δεν τη συνιστώ</string>
+    <string name="vote_error_nonetwork">Δεν είναι δυνατή η σύνδεση με το δίκτυο</string>
+    <string name="vote_error1">"Φαίνεται πως δεν είστε μέλος
+του προγράμματος σχολίων Beta"</string>
+    <string name="vote_error2">"Δεν ήταν δυνατή η υποβολή σχολίων.
+Ενημερώστε τη συσκευή σας και προσπαθήστε ξανά"</string>
+    <string name="vote_hint">Κερδίζετε 20 πόντους για το MIUI forum όταν ψηφίζετε</string>
+    <string name="vote_join">Ψηφίσατε</string>
+    <string name="vote_experience">Forum experience</string>
+    <string name="vote_error3">"Δεν ήταν δυνατή η σύνδεση.
+Προσπαθήστε να συνδεθείτε στο Mi λογαριασμό σας ξανά."</string>
+    <string name="vote_error4">Έχετε ήδη υποβάλει σχόλια</string>
+    <string name="vote_error5">"Κάτι πήγε στραβά
+Δεν ήταν δυνατή η υποβολή σχολίων"</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Μετάβαση στο MIUI forum</a>" "</string>
+    <string name="welcom_title">Καλώς ήλθατε στο MIUI 6</string>
+    <string name="welcom_message">Ολοκληρώθηκε!</string>
+    <string name="welcom_button">OK</string>
+    <string name="sogou_uninstall_title">Συμβατότητα πληκτρολογίου</string>
+    <string name="sogou_uninstall_msg">Το πληκτρολόγιο Sogou (Mi Edition) δεν είναι πλέον συμβατό με το MIUI 6. Αλλάξτε πληκτρολόγιο ή αναβαθμίστε σε νεώτερη έκδοση του Sogou.</string>
+    <string name="sogou_uninstall_positive_button">Εναλλαγή πληκτρολογίων</string>
+    <string name="sogou_uninstall_negative_button">Ενημέρωση Sogou</string>
 </resources>

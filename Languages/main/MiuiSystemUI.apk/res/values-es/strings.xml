@@ -4,7 +4,7 @@
     <string name="app_label">Interfaz de sistema</string>
     <string name="status_bar_no_recent_apps">No hay aplicaciones recientes</string>
     <string name="battery_low_title">Conecte el cargador</string>
-    <string name="battery_low_percent_format">%d%% pendiente</string>
+    <string name="battery_low_percent_format">%d%% restante</string>
     <string name="invalid_charger">"Carga mediante USB no soportada.
 Use únicamente el cargador suministrado."</string>
     <string name="status_bar_settings_airplane">Avión</string>
@@ -50,11 +50,11 @@ Use únicamente el cargador suministrado."</string>
     <string name="accessibility_data_three_bars">Datos 3 barras.</string>
     <string name="accessibility_data_four_bars">Datos 4 barras.</string>
     <string name="accessibility_data_signal_full">Máx. señal de datos.</string>
-    <string name="accessibility_no_wifi">Sin WiFi.</string>
-    <string name="accessibility_wifi_one_bar">WiFi una barra.</string>
-    <string name="accessibility_wifi_two_bars">WiFi dos barras.</string>
-    <string name="accessibility_wifi_three_bars">WiFi tres barras.</string>
-    <string name="accessibility_wifi_signal_full">Máx. señal WiFi.</string>
+    <string name="accessibility_no_wifi">Sin Wi-Fi.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi una barra.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi dos barras.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi tres barras.</string>
+    <string name="accessibility_wifi_signal_full">Máx. señal Wi-Fi.</string>
     <string name="accessibility_no_wimax">Sin WiMAX.</string>
     <string name="accessibility_wimax_one_bar">WiMAX 1 barra.</string>
     <string name="accessibility_wimax_two_bars">WiMAX 2 barras.</string>
@@ -82,7 +82,7 @@ Use únicamente el cargador suministrado."</string>
 Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
     <string name="data_usage_disabled_dialog_enable">Reactivar datos</string>
     <string name="status_bar_settings_signal_meter_disconnected">No hay conexión a internet</string>
-    <string name="status_bar_settings_signal_meter_wifi_nossid">WiFi conectada</string>
+    <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi conectada</string>
     <string name="gps_notification_searching_text">Buscando GPS</string>
     <string name="gps_notification_found_text">Localización establecida por GPS</string>
     <string name="accessibility_clear_all">Borrar todas las notificaciones.</string>
@@ -101,7 +101,7 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
     <string name="usb_mode_notification">Almacenamiento USB</string>
     <string name="usb_mode_dont_ask">No volver a preguntar</string>
     <string name="usb_mode_mount_storage_title">¿Abrir almacenamiento USB?</string>
-    <string name="mount_storage">Si</string>
+    <string name="mount_storage">Sí</string>
     <string name="dismount_storage">No</string>
     <string name="usb_notification">USB conectado</string>
     <string name="usb_notification_mtp_info">Accediendo a los archivos almacenados en este dispositivo</string>
@@ -154,24 +154,29 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
     <string name="dlg_confirm_kill_storage_users_text">Si activa el almacenamiento USB, algunas aplicaciones que está usando se detendrán y pueden no estar disponibles hasta que desactive el almacenamiento USB.</string>
     <string name="dlg_error_title">La operación USB ha fallado</string>
     <string name="dlg_ok">Aceptar</string>
-    <string name="ext_media_checking_notification_title">Preparando dispositivo USB</string>
+    <string name="ext_media_checking_notification_title">Preparando tarjeta SD</string>
     <string name="ext_media_checking_notification_message">Comprobando errores.</string>
-    <string name="ext_media_nofs_notification_title">USB sin formato</string>
-    <string name="ext_media_nofs_notification_message">USB sin formato o con sistema de archivos no soportado.</string>
-    <string name="ext_media_unmountable_notification_title">Dispositivo USB dañado</string>
-    <string name="ext_media_unmountable_notification_message">Dispositivo USB dañado. Puede que tenga que reformatearlo.</string>
-    <string name="ext_media_badremoval_notification_title">Dispositivo USB extraído inesperadamente</string>
-    <string name="ext_media_badremoval_notification_message">Desmonte el dispositivo USB antes de extraerlo para evitar la pérdida de datos.</string>
-    <string name="ext_media_safe_unmount_notification_title">Es seguro extraer el dispositivo USB</string>
-    <string name="ext_media_safe_unmount_notification_message">Puede extraer el dispositivo USB de forma segura.</string>
-    <string name="ext_media_nomedia_notification_title">Dispositivo USB extraído</string>
-    <string name="ext_media_nomedia_notification_message">USB extraído. Inserte nuevos dispositivos.</string>
+    <string name="ext_media_nofs_notification_title">Tarjeta SD sin formato</string>
+    <string name="ext_media_nofs_notification_message">Tarjeta SD sin formato o con sistema de archivos no soportado.</string>
+    <string name="ext_media_unmountable_notification_title">Tarjeta SD dañada</string>
+    <string name="ext_media_unmountable_notification_message">Tarjeta SD dañada. Puede que tenga que reformatearla.</string>
+    <string name="ext_media_badremoval_notification_title">Tarjeta SD extraída inesperadamente</string>
+    <string name="ext_media_badremoval_notification_message">Desmonte la tarjeta SD antes de extraerla para evitar la pérdida de datos.</string>
+    <string name="ext_media_safe_unmount_notification_title">Es seguro extraer la tarjeta SD</string>
+    <string name="ext_media_safe_unmount_notification_message">Ahora puede extraer la tarjeta SD de forma segura.</string>
+    <string name="ext_media_nomedia_notification_title">tarjeta SD extraída</string>
+    <string name="ext_media_nomedia_notification_message">Tarjeta SD extraído. Inserte una nueva.</string>
     <string name="ext_media_mountable_notification_title">Dispositivo USB conectado</string>
     <string name="ext_media_mountable_notification_message">"Presione 'Ir al Explorador'"</string>
     <string name="ext_media_safe_remove">Extraer de forma segura</string>
-    <string name="status_bar_network_flow_today">Today: %1$s</string>
+    <string name="status_bar_network_flow_today">Hoy: %1$s</string>
+    <string name="status_bar_network_flow_content">"Hoy: %1$s   Restante: %2$s"</string>
+    <string name="status_bar_network_flow_exceed_content">Hoy: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Excedido del plan: &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_purchase">"   Adquirir >"</string>
+    <string name="status_bar_network_flow_limit">"   Límite mensual: %1$s"</string>
     <string name="drive_mode_tip">Está en modo coche</string>
     <string name="no_notification_tips">Sin notificaciones</string>
+    <string name="expanded_notification_manager">Administrar notificaciones</string>
     <string name="notification_otg_mouse_in">Ratón conectado</string>
     <string name="notification_otg_keyboard_in">Teclado conectado</string>
     <string name="notification_otg_gamestick_in">Joystick/Pad conectado</string>
@@ -200,15 +205,17 @@ Si reactiva los datos, puede generar gastos extra con su proveedor."</string>
     <string name="headset_settings">Auriculares conectados</string>
     <string name="headset_info">Presione para configurar ajustes</string>
     <string name="headset_custom">Configurar</string>
-    <string name="usb_share_net_info">Usar la conexión a Internet del ordenador</string>
+    <string name="usb_share_net_info">Usar la conexión a internet del ordenador</string>
     <string name="hint_for_long_press_app_switch_key">Pulsación larga para menú</string>
-    <string name="battery_profiles">Perfiles de Uso de batería</string>
+    <string name="battery_profiles">Perfiles de uso de batería</string>
     <string name="audio_effect_settings">Establecer el tipo de auriculares</string>
     <string name="audio_effect_info">Optimizar audio</string>
     <string name="audio_effect_custom">Configurar</string>
-    <string name="battery_low_subtitle">La batería se está agotando.</string>
-    <string name="battery_low_why">Uso de batería</string>
-    <string name="status_bar_recent_inspect_item_title">Información de la aplicación</string>
-    <string name="status_bar_network_flow">"Hoy: %1$s    Restante: %2$s    Límite mensual: %3$s"</string>
-    <string name="status_bar_network_flow_exceed">Today: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Exceeded:&lt;font color=%2$s>%3$s&lt;/font>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Monthly limit: %4$s</string>
+    <string name="media_projection_dialog_text">%s empezará a capturar todo lo que se visualice en su pantalla.</string>
+    <string name="media_projection_remember_text">No mostrar de nuevo</string>
+    <string name="media_projection_action_text">Empezar</string>
+    <string name="vpn_title">VPN activado</string>
+    <string name="vpn_title_long">Conectando a VPN usando %s</string>
+    <string name="vpn_text">Toque para ver ajustes.</string>
+    <string name="vpn_text_long">Conectado a %s. Pulse para ver detalles.</string>
 </resources>

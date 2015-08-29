@@ -23,4 +23,5 @@ Amennyiben nem ön kezdeményezte, ne engedélyezze. A művelet felülír minden
     <string name="toast_restore_started">Visszaállítás indul...</string>
     <string name="toast_restore_ended">Visszaállítás kész</string>
     <string name="toast_timeout">Műveleti időtúllépés</string>
+    <string name="backup_enc_password_required">Mivel az eszköz titkosítva van, a biztonsági mentést is titkosítani kell. Kérjük, alább adjon meg egy jelszót:</string>
 </resources>

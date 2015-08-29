@@ -8,13 +8,15 @@
     <string name="cancel_action">Annuler</string>
     <string name="bad_wallpaper_source_prompt">"Impossible de charger le fond d'écran"</string>
     <string name="apply_action">Appliquer</string>
-    <string name="apply_as_lock_wallpaper_message">"Appliquer également sur l'écran de verrouillage ?"</string>
+    <string name="download_action">Télécharger</string>
+    <string name="apply_as_lock_wallpaper_message">"Appliquer aussi sur l'écran de verrouillage ?"</string>
     <string name="lock_screen_failed_message">Échec, non appliqué</string>
     <string name="lock_screen_success_message">Appliqué</string>
     <string name="wallpaper_failed_message">"Impossible d'appliquer le fond d'écran"</string>
     <string name="image_too_small_message">"L'image est trop petite"</string>
+    <string name="failed_to_load_image">"Impossible de charger l'image"</string>
     <string name="wallpaper_success_message">"Fond d'écran appliqué"</string>
-    <string name="is_setting_wallpaper_toast">"Application du fond d'écran…"</string>
+    <string name="is_setting_wallpaper_message">"Application du fond d'écran…"</string>
     <string name="current_wallpaper">Actuel</string>
     <string name="menu_item_add_item">"Ajouter à l'écran d'accueil"</string>
     <string name="group_shortcuts">Raccourcis</string>
@@ -24,6 +26,7 @@
     <string name="title_select_shortcut">Sélectionner un raccourci</string>
     <string name="title_select_live_folder">Choix du dossier</string>
     <string name="app_being_backup_message">Application en cours de sauvegarde.</string>
+    <string name="app_being_restored_message">Application en cours de restauration</string>
     <string name="menu_add">Ajouter</string>
     <string name="menu_wallpaper">"Fond d'écran"</string>
     <string name="menu_search">Rechercher</string>
@@ -48,8 +51,10 @@
     <string name="status_downloaded">téléchargé</string>
     <string name="status_installing">installation</string>
     <string name="loading_desktop">Chargement du lanceur…</string>
+    <string name="loading_wallpaper">Chargement…</string>
     <string name="start_activity_failed">Impossible de démarrer le lanceur</string>
     <string name="gadget_error_text">Problème de chargement du widget</string>
+    <string name="mtzgadget_missing_text">Widget non disponible</string>
     <string name="menu_edit">Éditer</string>
     <string name="menu_sort">"Trier les icônes de l'écran d'accueil"</string>
     <string name="menu_launcher_setting">Paramètres du lanceur</string>
@@ -93,8 +98,11 @@
     <string name="default_folder_title_game">Jeux</string>
     <string name="default_folder_title_security">Système</string>
     <string name="wallpaper_settings">"Fond d'écran"</string>
+    <string name="wallpaper_settings_for_pad">"Fond d'écran"</string>
     <string name="choose_wallpaper">"Sélectionner un fond d'écran"</string>
     <string name="current_preview">Aperçu</string>
+    <string name="choose_theme">Thème</string>
+    <string name="default_theme_name">Défaut</string>
     <string name="wallpaper">"Fond d'écran"</string>
     <string name="mi_wallpaper">Boutique de thèmes MIUI</string>
     <string name="show_all">Afficher tous</string>
@@ -129,6 +137,7 @@
     <string name="transformation_type_rotate">Rotation</string>
     <string name="pref_screen_transformation_type_title">Effets de transition</string>
     <string name="pref_wallpaper_scroll_type_title">Type de défilement du papier peint</string>
+    <string name="configure_wallpaper">Paramètres</string>
     <string name="pref_cell_layout_size">Format de la grille</string>
     <string name="pref_keep_layout_title">Garder la disposition actuelle</string>
     <string name="pref_keep_layout_summary">Le changement de la disposition des icônes peut perturber la disposition de votre bureau.</string>
@@ -165,7 +174,7 @@
     <string name="photo_confirm">Confirmer</string>
     <string name="photo_load_failed">Impossible de charger la photo !</string>
     <string name="frame_load_failed">Impossible de charger le widget cadre photo !</string>
-    <string name="gadget_weather_loading">Aucunes données</string>
+    <string name="gadget_weather_loading">Aucune donnée</string>
     <string name="gadget_weather_title">Météo</string>
     <string name="gadget_weather_title_24">Météo</string>
     <string name="gadget_weather_title_14">Météo 4x1</string>
@@ -211,6 +220,8 @@
     <string name="delete_wallpaper_message">"Supprimer %1$d fond d'écran ?"</string>
     <string name="delete_wallpapers_message">"Supprimer %1$d fonds d'écran ?"</string>
     <string name="is_system_wallpaper_message">Impossible de supprimer des ressources système</string>
+    <string name="select_all">Tout sélectionner</string>
+    <string name="deselect_all">Tout déselectionner</string>
     <string name="cloud_app_restore_title">En attente</string>
     <string name="app_category_finance">Finance</string>
     <string name="app_category_social">Social</string>
@@ -232,4 +243,5 @@
     <string name="disable">Désactiver</string>
     <string name="disable_auto_start_format">Désactiver le démarrage auto de %s ?</string>
     <string name="disable_auto_start_message">Désactive le démarrage automatique au boot.</string>
+    <string name="gadget_power_clear_button_label">Nettoyage avancé</string>
 </resources>

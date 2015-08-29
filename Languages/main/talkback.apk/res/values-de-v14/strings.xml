@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog_message_suspend_talkback">"Möchten Sie TalkBack wirklich sperren?
+
+Während TalkBack gesperrt ist, gibt Ihr Gerät kein Feedback und \"Tippen &amp; Entdecken\" ist deaktiviert."</string>
+</resources>

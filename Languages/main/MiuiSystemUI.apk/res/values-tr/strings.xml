@@ -105,6 +105,9 @@ Herzaman orjinal aksesuar kullanın."</string>
     <string name="user_guide_for_notification">Bildirimler çubuğunu indirmek için bir parmağınızla dokunup aşağı kaydırın</string>
     <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
     <string name="user_guide_for_toggle_list">Geçişleri yönet</string>
+    <string name="activate_usb_title">USB etkinleştirme</string>
+    <string name="activate_usb_message">USB özelliğini etkinleştirmek için bir SIM kart yerleştirin</string>
+    <string name="usb_function_charging_text">Şarj modunda bağlandı</string>
     <string name="return_to_incall_screen">Çağrıya dön</string>
     <string name="call_status_dialing">Aranıyor</string>
     <string name="call_status_ringing">Çalıyor</string>
@@ -167,6 +170,9 @@ Herzaman orjinal aksesuar kullanın."</string>
     <string name="status_bar_network_flow_limit">| Aylık Limit: %1$s</string>
     <string name="drive_mode_tip">Sürüş modundasınız</string>
     <string name="no_notification_tips">Yeni bildiriminiz yok</string>
+    <string name="expanded_notification_manager">Bildirimleri yönet</string>
+    <string name="disable_notification_title">Bildirimleri engelle</string>
+    <string name="disable_notification_summary">Bu uygulamanın bildirimlerini asla gösterme</string>
     <string name="notification_otg_mouse_in">Fare bağlandı</string>
     <string name="notification_otg_keyboard_in">Klavye bağlandı</string>
     <string name="notification_otg_gamestick_in">Oyun kumandası bağlandı</string>
@@ -198,12 +204,17 @@ Herzaman orjinal aksesuar kullanın."</string>
     <string name="usb_share_net_info">Bilgisayarın internet bağlantısını kullan</string>
     <string name="hint_for_long_press_app_switch_key">Menüyü görmek için uzun basın</string>
     <string name="battery_profiles">Pil profillerini kullan</string>
+    <string name="notification_template_text">" bildirimi var. Görüntülemek için dokunun"</string>
     <string name="audio_effect_settings">Kulaklık tipi</string>
     <string name="audio_effect_info">Sesi düzenle</string>
     <string name="audio_effect_custom">Ayarla</string>
     <string name="media_projection_dialog_text">%s ekranda görüntülenen her şeyi yakalama başlayacak.</string>
     <string name="media_projection_remember_text">Tekrar gösterme</string>
     <string name="media_projection_action_text">Başlat</string>
+    <string name="vpn_title">VPN etkinleştirildi</string>
+    <string name="vpn_title_long">VPN ile bağlanıldı: %s</string>
+    <string name="vpn_text">Ayarlar için dokunun</string>
+    <string name="vpn_text_long">Bağlanıldı: %s. detaylar için dokunun.</string>
     <string name="battery_low_subtitle">Pil seviyesi azaldı.</string>
     <string name="battery_low_why">Pil kullanımı</string>
     <string name="status_bar_recent_inspect_item_title">Uygulama bilgisi</string>
@@ -215,4 +226,10 @@ Herzaman orjinal aksesuar kullanın."</string>
     <string name="accessibility_rotation_lock_off">Ekranı otomatik döndür</string>
     <string name="accessibility_settings_button">Sistem ayarları.</string>
     <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
+    <string name="usb_accessory_permission_prompt">%1$s uygulamasının USB aksesuarına erişmesine izin verilsin mi?</string>
+    <string name="usb_accessory_confirm_prompt">Bu USB aksesuarı bağlandığında %1$s açılsın mı?</string>
+    <string name="usb_accessory_uri_prompt">Bu USB aksesuarıyla çalışan yüklü uygulama yok. Bu aksesuar hakkında bilgi içn: %1$s</string>
+    <string name="status_bar_notification_inspect_item_title">Uygulama bilgileri</string>
+    <string name="oldman_airplane_mode_text">uçak</string>
+    <string name="oldman_incall_text">gelen arama</string>
 </resources>

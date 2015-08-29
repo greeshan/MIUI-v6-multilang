@@ -16,6 +16,15 @@
     <string name="notif_title_multiple_downloading">%1$d</string>
     <string name="notif_title_file_size">Celkovo: %1$d</string>
     <string name="paused_waiting_for_network">Čakanie na sieť</string>
+    <string name="warning_tip_title">Využívanie mobilných dát</string>
+    <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta.</string>
+    <string name="warning_tip_cancel">Stiahnúť</string>
+    <string name="warning_tip_ok">Zastaviť</string>
+    <string name="dialog_not_show_again">Viac sa nepýtať</string>
+    <string name="notification_download_complete">Preberanie dokončené.</string>
+    <string name="notification_download_failed">Preberanie bolo neúspešné.</string>
+    <string name="notification_download_success_more">Stiahnuté: %1$d</string>
+    <string name="notification_download_failed_more">Sťahovanie %1$d zlyhalo</string>
     <string name="app_label">Správca preberania</string>
     <string name="permlab_downloadManager">Získať prístup k správcovi preberania.</string>
     <string name="permdesc_downloadManager">Umožňuje aplikácii pristupovať k správcovi preberania a použiť ho na preberanie súborov. Škodlivé aplikácie to môžu využiť a narušiť preberanie alebo získať prístup k súkromným informáciám.</string>
@@ -32,8 +41,6 @@
     <string name="permlab_accessAllDownloads">Prístup ku všetkým systémovým prevzatiam</string>
     <string name="permdesc_accessAllDownloads">Umožňuje aplikácii zobraziť a upravovať všetky preberania spustené ľubovoľnou aplikáciou v systéme.</string>
     <string name="download_unknown_title">Bez názvu</string>
-    <string name="notification_download_complete">Preberanie dokončené.</string>
-    <string name="notification_download_failed">Preberanie bolo neúspešné.</string>
     <string name="notification_need_wifi_for_size">Vzhľadom na veľkosť preberaného súboru sa vyžaduje pripojenie Wi-Fi</string>
     <string name="notification_paused_in_background">Pozastavené na pozadí.</string>
     <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>

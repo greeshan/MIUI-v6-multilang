@@ -8,9 +8,10 @@
     <string name="bluetooth_search_for_devices">Търсене на устройства</string>
     <string name="mi_key_alert_dialog_title">Mi key Alert</string>
     <string name="mi_key_alert_dialog_message">Докоснете ОК, за да заглушите будилника.</string>
+    <string name="ble_device_profile">Свързано BLE устройство</string>
     <string name="ble_device_address">MAC адрес на BLE устройство</string>
     <string name="disconnect">Изключи</string>
-    <string name="ble_device_unbind">Изчисти настройките</string>
+    <string name="ble_device_rename">Преименуване</string>
     <string name="ble_device_profile_header_title">Профили</string>
     <string name="ble_device_profile_title">Свързано BLE устройство</string>
     <string name="mi_band_vibrate_incall">Вибриране при звънене</string>
@@ -20,9 +21,21 @@
     <string name="mi_band_vibrate_sms_in_contacts">Вибриране при получаване на SMS съобщение от ваши контакти</string>
     <string name="mi_band_vibrate_sms_no_contacts">Вибриране при получаване на SMS съобщение от неизвестен номер</string>
     <string name="mi_band_vibrate_alarm">Вибриране при будилник</string>
+    <string name="mi_key_open_camera">Отвори Камера</string>
     <string name="mi_key_take_photo">Снимане на снимка</string>
     <string name="mi_key_find_phone">Търсене на телефон</string>
     <string name="mi_key_find_mikey">Търсене на MiKey</string>
+    <string name="mi_key_summary_open_camera">Двойно натискане на Mi-Key за отваряне на камерата</string>
+    <string name="mi_key_summary_take_photo">Натискане на Mi-Key за снимане</string>
+    <string name="mi_key_summary_find_phone">Натискане и задържане на Mi-Key за прозвъняване</string>
+    <string name="bluetooth_connected">Сдвоено</string>
+    <string name="bluetooth_disconnected">Несдвоено</string>
+    <string name="bluetooth_disconnecting">Връзката се прекратява…</string>
+    <string name="bluetooth_connecting">Сдвоява се…</string>
+    <string name="goto_package">Отвори %1$s</string>
+    <string name="install_package">Инсталиране на %1$s за повече функции</string>
+    <string name="some_app_taking">(%1$s вече използва тази функция…)</string>
+    <string name="reset_function_msg">Ново отваряне на функцията ще предизвика грешка в %1$s</string>
     <string name="miui_transfer_history_title">Bluetooth трансфери</string>
     <string name="miui_transfer_inbound_title">Получени</string>
     <string name="miui_transfer_outbound_title">Изпратени</string>
@@ -155,5 +168,9 @@
     <string name="delete_record">Изтрий запис</string>
     <string name="start_server">Стартирай TCP сървър</string>
     <string name="notify_server">Уведоми TCP-базиран сървър</string>
+    <string name="ble_device_unbind">Изчисти настройките</string>
     <string name="format_progress_text">%1$d%%</string>
+    <string name="incoming_line1">От</string>
+    <string name="incoming_line2">Име на файл</string>
+    <string name="incoming_line3">Размер</string>
 </resources>

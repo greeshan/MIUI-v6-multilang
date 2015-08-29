@@ -46,10 +46,14 @@
     <string name="sync_sub_dspt">Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="sync_sub_int_dspt">Ο φορέας σας μπορεί να χρεώσει για ένα διεθνές μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση αυτής της υπηρεσίας.</string>
     <string name="access_denied">Δεν επιτρέπεται η πρόσβαση</string>
+    <string name="internet_access_dspt">Αυτή η εφαρμογή χρειάζεται να συνδεθεί στο internet για να λειτουργήσει κανονικά.</string>
     <string name="sync_on">Ενεργό</string>
     <string name="sync_off">Ανενεργό</string>
     <string name="mx_dspt">Mi Message</string>
     <string name="mx_sub_dspt_provision">Mi Message</string>
+    <string name="mx_sub_dspt_provision_with_voip">Κλήσεις μέσω διαδικτύου</string>
+    <string name="voip_choose_sim">Επιλέξτε τον αριθμό τηλεφώνου για να ενεργοποιήσετε το Mi Voice</string>
+    <string name="activate_number_change_dialog_message">Επιλέξτε τον αριθμό τηλεφώνου για την ενεργοποίηση. Όταν γίνεται κλήση VoIP, αυτός ο αριθμός θα εμφανίζεται στον καλούμενο</string>
     <string name="phone_number_may_required_dspt_provision">"Αυτή η υπηρεσία μπορεί να σας ζητήσει τον αριθμό του τηλεφώνου σας. "</string>
     <string name="phone_number_required_dspt_provision">"Αυτή η υπηρεσία απαιτεί τον αριθμό τηλεφώνου σας. "</string>
     <string name="sync_resend_sms_dspt_provision">. Αν αλλάξετε κάρτα SIM, ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την επανενεργοποίηση της υπηρεσίας.</string>
@@ -61,9 +65,15 @@
 
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
 "</string>
-    <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές και μηνύματα ή να εντοπίστε τη συσκευή σας.</string>
+    <string name="sync_dspt_entrance_provision">Συγχρονίσετε φωτογραφίες, επαφές, ιστορικό κλήσεων και μηνύματα, μεταξύ όλων των συσκευών σας. Δείτε τα πράγματα που έχετε συγχρονίσει, από οποιοδήποτε πρόγραμμα περιήγησης στο %s</string>
     <string name="sync_dspt_entrance_provision_2">Μάθετε περισσότερα</string>
-    <string name="find_device_dspt_provision">"Εάν χάσετε την συσκευή σας, μπορείτε να πάτε στο "</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">Μην χρησιμοποιείτε</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Χρήση του Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Να μη γίνει χρήση του Mi Cloud;</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Οι ενσωματωμένες εφαρμογές MIUI, χρησιμοποιούν το Mi Cloud για να κρατάνε αντίγραφα ασφαλείας φωτογραφιών, επαφών, σημειώσεων, καθώς και πολλά άλλα. Το Mi Cloud είναι δωρεάν και έτοιμο για χρήση άμεσα.</string>
+    <string name="sync_dspt_entrance_provision_skip"><u>Παραλείψτε αυτό το βήμα</u></string>
+    <string name="find_device_dspt_provision">"Εάν χάσετε τη συσκευή σας, μπορείτε να πάτε στο %s για εντοπισμό, κλείδωμα ή επαναφορά της. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.
+"</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" για εντοπισμό, κλείδωμα ή επαναφορά της.
@@ -75,6 +85,7 @@
     <string name="mx_dspt_provision">"Το Mi Message σας επιτρέπει να στείλετε μηνύματα σε άλλους χρήστες MIUI χωρίς επιβάρυνση SMS.
 
 Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις."</string>
+    <string name="mx_dspt_provision_with_voip">Καλέστε άλλους χρήστες MIUI δωρεάν, με χρήση της σύνδεσής σας στο Internet. Μπορείτε να ενεργοποιείτε / απενεργοποιείτε αυτή την δυνατότητα οποιαδήποτε στιγμή στις Ρυθμίσεις.</string>
     <string name="mx_dspt_provision_privacy">"Αυτή η υπηρεσία μπορεί να ζητήσει τον αριθμό του τηλεφώνου σας. Ο φορέας σας μπορεί να χρεώσει για ένα μήνυμα SMS που χρησιμοποιείται για την ενεργοποίηση της υπηρεσίας.
 Αυτή η λειτουργία κρυπτογραφεί και ανεβάζει το ID της συσκευής σας στους διακομιστές ΜΙ."</string>
     <string name="user_agreement_p6">"Η χρήση αυτής της δυνατότητας υπόκειται στους "</string>
@@ -127,9 +138,14 @@
     <string name="click_to_enabled">Πατήστε για συγχρονισμό.</string>
     <string name="calendar_sync">Ημερολόγιο</string>
     <string name="antispam_sync">Ρυθμίσεις Μην Ενοχλείτε</string>
+    <string name="deskclock_backup">Αντίγραφο ασφαλείας Ρολογιών</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Διαχειριστείτε το περιεχόμενο Duokan με την χρήση της εφαρμογής Duokan.</string>
+    <string name="micloud_space_applist_title">Διαχείριση εφαρμογών</string>
+    <string name="micloud_space_applist_detail">Διαχείριση των εφαρμογών στην Αρχική οθόνη σας</string>
+    <string name="micloud_space_soundrecorder_title">Ηχογραφήσεις</string>
+    <string name="micloud_space_soundrecorder_detail">Διαχείριση των ηχογραφήσεων που είναι αποθηκευμένες στη συσκευή σας</string>
     <string name="micloud_space_full_influence">&lt;u>Τι συμβαίνει όταν έχω ξεμείνει από χώρο;&lt;/u></string>
     <string name="micloud_storage_usage" formatted="false">Σε χρήση %s / Συνολικός χώρος %s</string>
     <string name="micloud_title_dspt" formatted="false">"%s συνολικά
@@ -198,6 +214,9 @@
     <string name="micloud_main_sync_now">Συγχρονισμός τώρα</string>
     <string name="micloud_main_network_error">Δεν είναι δυνατή η σύνδεση με το δίκτυο. Ελέγξτε τις ρυθμίσεις του δικτύου σας και δοκιμάστε ξανά.</string>
     <string name="micloud_main_sync_on_wifi">Χρήση Wi-Fi</string>
+    <string name="micloud_main_sync_setting">Ρυθμίσεις συγχρονισμού</string>
+    <string name="micloud_main_suggest_setting">"Αναμονή για σύνδεση WI-Fi για συγχρονισμό
+Πατήστε το κουμπί Ρυθμίσεις για να δείτε περισσότερες επιλογές"</string>
     <string name="micloud_main_data_unsynced">%d δεν συγχρονίζονται</string>
     <string name="micloud_main_detail">δείτε λεπτομέρειες</string>
     <string name="micloud_main_network_abnormal">Αδυναμία σύνδεσης στο δίκτυο</string>
@@ -207,7 +226,7 @@
     <string name="micloud_main_synced_data_count">%d συγχρονισμένα</string>
     <string name="micloud_main_wlan_sync_data_count">%d περιμένουν συγχρονισμό μέσω Wi-Fi</string>
     <string name="micloud_main_space_full">Δεν υπάρχει αρκετός χώρος αποθήκευσης.</string>
-    <string name="micloud_main_space_risk">%d συγχρονισμένα.</string>
+    <string name="micloud_main_space_low">Σχεδόν χωρίς διαθέσιμο χώρο…</string>
     <string name="micloud_main_update_space">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
     <string name="micloud_detail_syncing">συγχρονίζει</string>
     <string name="micloud_detail_pending">σε αναμονή</string>
@@ -230,6 +249,7 @@
     <string name="micloud_setting_browser_summary">Σελιδοδείκτες, ιστορικό και ετικέτες</string>
     <string name="micloud_setting_music_summary">Λίστες αναπαραγωγής και αγαπημένα</string>
     <string name="micloud_setting_wifi_summary">Ρυθμίσεις Wi-Fi</string>
+    <string name="micloud_setting_deskclock_summary">Ρυθμίσεις Ρολογιών</string>
     <string name="micloud_setting_antispam_summary">Εξαιρέσεις για Μην Ενοχλείτε και μπλοκαρισμένους αριθμούς τηλεφώνου.</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
@@ -272,6 +292,19 @@
 Χρειάζεστε μια Κινέζικη τραπεζική κάρτα για να αγοράσετε επιπλέον χώρο αποθήκευσης."</string>
     <string name="buy_more_space_c_class">"Αυτή η λειτουργία απαιτεί μια Κινέζικη τραπεζική κάρτα.
 Για να πάρετε περισσότερο αποθηκευτικό χώρο, πηγαίνετε στο mi.com/micloud."</string>
+    <string name="micloud_member_buy_title">Επιβεβαίωση παραγγελίας</string>
+    <string name="micloud_member_buy_content" formatted="false">"Ισχύει για %s-%s-%s
+
+%s Mi Credits ετησίως"</string>
+    <string name="micloud_member_net_error_alert_title">Αδυναμία σύνδεσης στο δίκτυο</string>
+    <string name="micloud_member_net_error_alert_message">Δεν έχετε σύνδεση στο internet.</string>
+    <string name="micloud_member_pay_fail_toast">Αδυναμία ολοκλήρωσης πληρωμής</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Σφάλμα διακομιστή</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Αδυναμία φόρτωσης σελίδας</string>
+    <string name="micloud_member_webload_fail_error_message">Σφάλμα δικτύου</string>
+    <string name="micloud_member_pay_order_error_toast">Σφάλμα δεδομένων</string>
+    <string name="micloud_member_pay_miid_error_toast">Σφάλμα λογαριασμού</string>
+    <string name="micloud_member_refresh_button">Ανανέωση</string>
     <string name="share_miliao_not_installed">Το MiTalk δεν έχει εγκατασταθεί.</string>
     <string name="share_weibo_not_installed">Το Weibo δεν έχει εγκατασταθεί.</string>
     <string name="share_weixin_not_installed">Το Wechat δεν έχει εγκατασταθεί.</string>
@@ -279,6 +312,7 @@
     <string name="share_cancel">ακύρωση κοινής χρήσης</string>
     <string name="share_failed">αποτυχία κοινής χρήσης</string>
     <string name="cloud_back_up_title">Αντίγραφο Αρχικής Οθόνης</string>
+    <string name="settings_backup_title">Δημιουργία αντιγράφου ασφαλείας των ρυθμίσεων του συστήματος</string>
     <string name="cloud_back_up_open_info_no_backuptime">Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi</string>
     <string name="cloud_back_up_open_info">"Λήψη αντιγράφου ασφαλείας διάταξης Αρχικής Οθόνης και εφαρμογών κάθε %1$s όταν υπάρχει σύνδεση Wi-Fi
 Τελευταίο αντίγραφο: %2$s"</string>
@@ -290,4 +324,17 @@
     <string name="cloud_back_up_button_ok">Αναγκαστική διακοπή</string>
     <string name="cloud_back_up_network_unavailable">Δεν ήταν δυνατή η αφαίρεση. Συνδεθείτε στο Wi-Fi και δοκιμάστε ξανά.</string>
     <string name="cloud_back_up_remove_success">Το αντίγραφο διαγράφηκε</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="micloud_storage">Χώρος αποθήκευσης</string>
+    <string name="micloud_member">Συνδρομή Mi Cloud</string>
+    <string name="micloud_buy_member">Αναβάθμιση συνδρομής</string>
+    <string name="micloud_member_advantage">Αποκτήστε περισσότερο χώρο αποθήκευσης.</string>
+    <string name="micloud_main_title_sync_fail">Αδυναμία συγχρονισμού</string>
+    <string name="micloud_main_title_sync_on_wifi">Χρήση Wi-Fi</string>
+    <string name="micloud_main_title_sync_off">Ανενεργός συγχρονισμός</string>
+    <string name="micloud_sync_alert_dialog_title">Χρήση του Mi Cloud</string>
+    <string name="micloud_sync_alert_dialog_message">Συγχρονίστε φωτογραφίες, επαφές, σημειώσεις, και άλλα πολλά μεταξύ των συσκευών σας.</string>
+    <string name="micloud_sync_alert_dialog_negative">Ακύρωση</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
+    <string name="voip_dspt">Mi Voice</string>
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="loading">ಹೇರಲಾಗುತ್ತಿದೆ…</string>
+    <string name="mibi_license">Mi ಕ್ರೆಡಿಟ್ ಬಳಕೆದಾರ ಒಪ್ಪಂದ</string>
+    <string name="license_host_unreachable">ಜಾಲಬಂಧ ಸಂಪರ್ಕ ಸಾಧ್ಯವಿಲ್ಲ. ಈಗ ಈ ಮಾಹಿತಿಯನ್ನು ವೀಕ್ಷಿಸಲು, ಹೋಗಲು %s.</string>
+</resources>

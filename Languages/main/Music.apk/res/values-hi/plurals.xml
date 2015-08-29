@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d गाने मिले</item>
+        <item quantity="one">%d गाना मिला</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d दिन शेष</item>
+        <item quantity="one">%d दिन शेष</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d गीत डाउनलोड किए जाएंगे</item>
+        <item quantity="one">1 गाना डाउनलोड किया जाएगा</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d नया</item>
+        <item quantity="one">%d नया</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d गाने</item>
+        <item quantity="one">%d गाना</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d समान गाने</item>
+        <item quantity="one">%d समान गाने</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d प्लेलिस्ट में गाने जोड़े गए</item>
+        <item quantity="one">प्लेलिस्ट में गाना जोड़ा गया</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d प्लेलिस्ट से गाने हटाए गए</item>
+        <item quantity="one">प्लेलिस्ट से गाना हटाया गया</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d गाने</item>
+        <item quantity="one">1 गाना</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d गाने भेजे जाएंगे</item>
+        <item quantity="one">1 गाना भेजा जाएगा</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d गाने</item>
+        <item quantity="one">1 गाना</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d गाने जोड़े गए</item>
+        <item quantity="one">%d गाना जोड़ा गया</item>
+    </plurals>
+</resources>

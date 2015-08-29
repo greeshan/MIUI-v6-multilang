@@ -31,7 +31,6 @@
     <string name="requesting_unlock">Richiesta sblocco SIM network…</string>
     <string name="unlock_failed">SIM Network, richiesta di sblocco fallita.</string>
     <string name="unlock_success">SIM Network sbloccata con successo.</string>
-    <string name="bad_pin2">Il vecchio PIN2 che hai digitato non è corretto. Riprova.</string>
     <string name="labelGSMMore">Impostazioni chiamate GSM</string>
     <string name="labelCDMAMore">Impostazioni chiamate CDMA</string>
     <string name="apn_settings">Nomi punti di accesso</string>
@@ -117,7 +116,7 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="preferred_network_type_pref_entries_global">Globale</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_auto">Automatico</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred">LTE preferito</string>
+    <string name="preferred_network_type_pref_entries_4g_preferred">4G/LTE preferito</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">3G preferito</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Preferisci 3G (CDMA)</string>
     <string name="preferred_network_type_pref_entries_only_2g">Solo reti 2G (risparmia batteria)</string>
@@ -255,13 +254,6 @@ Desideri passare comunque al nuovo servizio?"</string>
     <string name="pin_failed">Il PIN che hai digitato non era corretto.</string>
     <string name="pin_changed">PIN della SIM modificato correttamente.</string>
     <string name="puk_requested">Password non corretta, PIN bloccato! Ora è richiesto il PUK.</string>
-    <string name="enter_pin2_text">PIN2</string>
-    <string name="pin2_changed">PIN2 modifica correttamente.</string>
-    <string name="label_puk2_code">Digita il codice PUK2</string>
-    <string name="fdn_enable_puk2_requested">Password non corretta, PIN2 bloccato. Prego cambiare PIN2 e riprovare!</string>
-    <string name="pin2_lock_warning">"
-Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tentativo"</string>
-    <string name="puk2_label">Inserisci il codice PUK2</string>
     <string name="pin_progress_set_icc_lock">Impostazione stato del blocco ICC…</string>
     <string name="pin_progress_set_fdn_lock">Impostazione stato del blocco NSF…</string>
     <string name="pin_progress_change_pin">Modifica PIN…</string>
@@ -301,7 +293,7 @@ Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tenta
     <string name="dtmf_tones_summary">Imposta la lunghezza dei toni DTMF</string>
     <string name="network_message">Messaggio di rete</string>
     <string name="ota_title_activate">Attiva il tuo telefono</string>
-    <string name="ota_touch_activate">"E' necessario effettuare una speciale chiamata per attivare il tuo servizio telefonico. 
+    <string name="ota_touch_activate">"È necessario effettuare una speciale chiamata per attivare il tuo servizio telefonico. 
 
 Dopo aver premuto “Attiva”, ascolta le istruzioni fornite per attivare il tuo telefono."</string>
     <string name="ota_hfa_activation_title">Attivazione…</string>
@@ -332,7 +324,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="phone_in_ecm_call_notification_text">Connessione dati disattivata</string>
     <string name="alert_dialog_in_ecm_call">"L'azione selezionata non è disponibile durante una chiamata di emergenza."</string>
     <string name="progress_dialog_exiting_ecm">Uscita dalla modalità di richiamata di emergenza</string>
-    <string name="alert_dialog_yes">Si</string>
+    <string name="alert_dialog_yes">Sì</string>
     <string name="alert_dialog_no">No</string>
     <string name="alert_dialog_dismiss">Dismiss</string>
     <string name="other_settings">Altre impostazioni di chiamata</string>
@@ -405,16 +397,16 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="no_internet_available_title">Nessuna connessione ad internet</string>
     <string name="no_wifi_available_title">Nessuna connessione Wi-Fi</string>
     <string name="no_internet_available">Per eseguire una chiamata via internet, verifica prima la tua connessione internet.</string>
-    <string name="no_wifi_available">"E' necessario che tu sia connesso ad una rete Wi-Fi per eseguire chiamate via internet (usa le Impostazioni Wi-Fi e rete)."</string>
+    <string name="no_wifi_available">È necessario che tu sia connesso ad una rete Wi-Fi per eseguire chiamate via internet (usa le Impostazioni Wi-Fi e rete).</string>
     <string name="no_voip">Chiamate via internet non supportate</string>
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Chiedi sempre</string>
-    <string name="proxy_address">Indirizzo proxy</string>
     <string name="not_voice_capable">Chiamate vocali non supportate</string>
     <string name="respond_via_sms_canned_response_1">Ora non posso parlare. Puoi richiamare più tardi?</string>
     <string name="respond_via_sms_canned_response_2">Richiamo io al più presto</string>
     <string name="respond_via_sms_canned_response_3">Richiamo io più tardi.</string>
     <string name="respond_via_sms_canned_response_4">Ora non posso parlare. Che succede?</string>
+    <string name="respond_via_sms_cannot_empty">Il messaggio di rifiuto non può essere vuoto</string>
     <string name="respond_via_sms_setting_title">Risposte rapide</string>
     <string name="respond_via_sms_setting_summary">Modifica SMS di risposta precompilati</string>
     <string name="respond_via_sms_edittext_dialog_title">Risposta rapida</string>
@@ -515,6 +507,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="telocation_confim_delete_title">Cancellare questo messaggio?</string>
     <string name="telocation_error_message_number">%s supporta solo numeri</string>
     <string name="telocation_jituan_error_message_number">%s supporta solo numeri e caratteri jolly</string>
+    <string name="voip_setting">Impostazioni VoIP</string>
     <string name="call_description_recording">Registrazione chiamata…</string>
     <string name="call_record_auto_whitelist_no_item">Aggiungi un numero toccando il pulsante +</string>
     <string name="call_record_auto_whitelist">Lista utente</string>
@@ -559,7 +552,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="autoip_areacode_required_for_emergency_number">"Il prefisso dell'area locale è necessario per eseguire chiamate di emergenza"</string>
     <string name="emergency_call_area_code_edit_dialog_button">Chiama</string>
     <string name="dial_related_setting_catory">Componi</string>
-    <string name="t9_indexing_method_title">T9 search input</string>
+    <string name="t9_indexing_method_title">Ricerca tastiera T9</string>
     <string name="t9_indexing_method_pinyin">Pinyin</string>
     <string name="t9_indexing_method_zhuyin">Zhuyin</string>
     <string name="t9_indexing_rebuilding_message">Ricostruzione indici T9…</string>
@@ -589,6 +582,8 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="turnover_mute_summary">Quando il telefono è in posizione orizzontale, capovolgilo per silenziare la suoneria</string>
     <string name="handon_ringer_summary">Il telefono non vibrerà quando hai una chiamata in arrivo</string>
     <string name="handon_ringer_title">Non vibrare</string>
+    <string name="flash_when_ring_summary">Notifica lampeggiante per le chiamate in arrivo</string>
+    <string name="flash_when_ring_title">Lampeggia su chiamata</string>
     <string name="enable_proximity_summary">Spegni schermo durante le chiamate</string>
     <string name="enable_proximity_title">Sensore di prossimità</string>
     <string name="pocket_mode_summary">Il telefono si blocca automaticamente quando viene riposto in tasca</string>
@@ -675,7 +670,7 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="other_settings_category">Altro</string>
     <string name="caller_id_title">ID chiamante</string>
     <string name="caller_id_summary">Nascondi il mio numero quando chiamo (verifica che il tuo operatore supporti questa funzionalità)</string>
-    <string name="get_smsc_address_error">Impossibile connettersi alla rete. Verifica la tua connessione dati e riprova.</string>
+    <string name="get_smsc_address_error">Impossibile connettersi alla rete. Verifica la connessione dati e riprova.</string>
     <string name="get_smsc_address_timeout">Connessione scaduta</string>
     <string name="set_smsc_address_error">Impossibile impostare il numero</string>
     <string name="set_smsc_address_timeout">Connessione scaduta</string>
@@ -735,12 +730,37 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="msim_switch_data_conn_toast">Assicura il regolare accesso ad Internet, il tipo di rete predefinita è stata cambiata in Reti 4G (reti 3G preferite), puoi modificare questa impostazione nelle informazioni SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Lo slot SIM 2 supporta solo reti GSM. LA rete preferita per questo slot è stata modificata in solo 2G.</string>
     <string name="international_roaming_setting">Roaming internazionale</string>
+    <string name="old_pin_label">Vecchio PIN</string>
+    <string name="new_pin_label">Nuovo PIN</string>
+    <string name="confirm_pin_label">Conferma il nuovo PIN</string>
+    <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova</string>
+    <string name="mismatch_pin">I PIN che hai digitato non corrispondno. Riprova</string>
+    <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
+    <string name="bad_puk">Il PUK che hai digitato non è corretto. Riprova.</string>
+    <string name="invalid_puk">Digita un PUK che sia composto da 4 a 8 cifre.</string>
+    <string name="enter_pin2_text">PIN2</string>
+    <string name="old_pin2_label">Vecchio PIN2</string>
+    <string name="new_pin2_label">Nuovo PIN2</string>
+    <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
+    <string name="bad_puk2">Il PUK2 che hai digitato non è corretto. Riprova.</string>
+    <string name="bad_pin2">Il vecchio PIN2 che hai digitato non è corretto. Riprova.</string>
+    <string name="mismatch_pin2">I PIN2 che hai digitato non corrispondono. Riprova.</string>
+    <string name="invalid_pin2">Digita un PIN2 che sia composto da 4 a 8 cifre.</string>
+    <string name="invalid_puk2">Digita un PUK2 di 8 cifre.</string>
+    <string name="pin2_changed">PIN2 modifica correttamente.</string>
+    <string name="label_puk2_code">Digita il codice PUK2</string>
+    <string name="fdn_enable_puk2_requested">Password non corretta, PIN2 bloccato. Prego cambiare PIN2 e riprovare!</string>
+    <string name="pin2_lock_warning">"
+Le funzionalità relative al PIN2 saranno bloccate se si fallisce un altro tentativo"</string>
+    <string name="puk2_label">Inserisci il codice PUK2</string>
+    <string name="pin_attempts">"
+Hai ancora %d tentativi a disposizione."</string>
     <string name="managed_roaming_title">Roaming gestito</string>
     <string name="managed_roaming_title_sub1">Roaming gestito (Sottoscr.1)</string>
     <string name="managed_roaming_title_sub2">Roaming gestito (Sottoscr.2)</string>
     <string name="managed_roaming_title_sub3">Roaming gestito (Sottoscr.3)</string>
     <string name="managed_roaming_dialog_content">Rilevata rete con servizio limitato. Desideri eseguire una ricerca reti?</string>
-    <string name="managed_roaming_dialog_ok_button">Si</string>
+    <string name="managed_roaming_dialog_ok_button">Sì</string>
     <string name="managed_roaming_dialog_cancel_button">No</string>
     <string name="label_nsdp">SIM network subset, sblocco PIN</string>
     <string name="label_cdp">SIM corporate, sblocco PIN</string>
@@ -793,23 +813,6 @@ Riprova o chiama il servizio clienti per altre opzioni."</string>
     <string name="preferred_network_restrict_network_changed_incall">Impossibile cambiare rete durante una chiamata</string>
     <string name="fdn_contacts_empty">Nessun contatto nella lista NSF.</string>
     <string name="exportContacts">Esportazione contatti nella carta SIM…</string>
-    <string name="old_pin_label">Vecchio PIN</string>
-    <string name="new_pin_label">Nuovo PIN</string>
-    <string name="confirm_pin_label">Conferma il nuovo PIN</string>
-    <string name="bad_pin">Il vecchio PIN che hai digitato non è corretto. Riprova</string>
-    <string name="mismatch_pin">I PIN che hai digitato non corrispondno. Riprova</string>
-    <string name="invalid_pin">Digita un PIN che sia composto da 4 a 8 cifre.</string>
-    <string name="bad_puk">Il PUK che hai digitato non è corretto. Riprova.</string>
-    <string name="invalid_puk">Digita un PUK che sia composto da 4 a 8 cifre.</string>
-    <string name="old_pin2_label">Vecchio PIN2</string>
-    <string name="new_pin2_label">Nuovo PIN2</string>
-    <string name="confirm_pin2_label">Conferma il nuovo PIN2</string>
-    <string name="bad_puk2">Il PUK2 che hai digitato non è corretto. Riprova.</string>
-    <string name="mismatch_pin2">I PIN2 che hai digitato non corrispondono. Riprova.</string>
-    <string name="invalid_pin2">Digita un PIN2 che sia composto da 4 a 8 cifre.</string>
-    <string name="invalid_puk2">Digita un PUK2 di 8 cifre.</string>
-    <string name="pin_attempts">"
-Hai ancora %d tentativi a disposizione."</string>
     <string name="card_title_unconditionalCF">Inoltro incondizionato chiamate attivato</string>
     <string name="card_title_conditionalCF">Inoltro condizionale chiamate attivato</string>
     <string name="card_title_MOcall_forwarding">Chiamata in uscita inoltrata</string>
@@ -833,12 +836,33 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="incall_error_no_active_sim">La SIM non è stata attivata</string>
     <string name="no_volte">Impossibile eseguire una chiamata IMS</string>
     <string name="no_vt_allowed">Per eseguire una videochiamata, disattivare la modalità TTY</string>
-    <string name="respond_via_sms_cannot_empty">Il messaggio di rifiuto non può essere vuoto</string>
+    <string name="ivr_parameter_settings">Impostazioni IVR</string>
+    <string name="ivr_mo_area_code_settings">Codice della regione attuale</string>
+    <string name="ivr_mo_area_code_settings_hint">Inserire il codice della regione attuale</string>
+    <string name="ivr_type_settings">Impostazioni piano dati</string>
+    <string name="ivr_type_settings_hint">Inserisci il codice del tuo piano dati</string>
+    <string name="ivr_type_cm_1">M-Zone</string>
+    <string name="ivr_type_cm_2">GoTone</string>
+    <string name="ivr_type_cm_3">Easy own</string>
+    <string name="ivr_type_cu_1">China Unicom 3G</string>
+    <string name="ivr_type_cu_2">China Unicom 4G</string>
+    <string name="ivr_type_cu_3">China Unicom 2G</string>
+    <string name="ivr_type_ct_1">China Telecom VIP</string>
+    <string name="ivr_type_ct_2">China Telecom customer</string>
     <string name="msim_has_been_disabled">(Disattivato)</string>
+    <string name="msim_disable_sim_card_title">Non utilizzare più la SIM</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Potresti non essere più in grado di effettuare chiamate o utilizzare la connessione dati. Non utilizzare più la SIM %s?</string>
+    <string name="msim_disable_sim_card_summary_default_card">"Questa SIM è attualmente impostata com e predefinita. Se decidi di non utilizzarla più, non sarai più in grado di effettuare chiamate o utilizzare la connessione dati. Puoi smettere di utilizzare questa SIM dopo averne impostata un'altra come predefinita."</string>
+    <string name="msim_disable_sim_card_btn_text">OK</string>
+    <string name="cdma_alert_title">UIM deve essere predefinita</string>
+    <string name="cdma_alert_message">"Se utilizzi un'altra scheda come predefinita per la connessione dati, non potrai utilizzare la tua Scheda UIM di China Telecom."</string>
+    <string name="config_default_data_sim">Impostazioni</string>
+    <string name="got_it">OK</string>
+    <string name="can_not_use_for_not_data_sim">(Impossibile utilizzare: deve essere impostata come SIM predefinita per i dati)</string>
     <string name="call_type">CallType</string>
     <string name="callind_multi_sim">Impostazione sottoscr.</string>
-    <string name="ims_accounts_title">Account IMS</string>
-    <string name="ims_edit_title">Dettagli account IMS</string>
+    <string name="ims_accounts_title">IMS account</string>
+    <string name="ims_edit_title">IMS account details</string>
     <string name="ims_menu_discard">Ignora</string>
     <string name="ims_menu_save">Salva</string>
     <string name="ims_service_capability">Attiva/Disattiva funzionalità servizio</string>
@@ -857,6 +881,7 @@ Hai ancora %d tentativi a disposizione."</string>
     <string name="xdivert_setting">Impostazione X-Divert</string>
     <string name="xdivert_summary">Impostazioni CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="incall_error_sim_deactive">SIM non attiva</string>
     <string name="default_call_type">CSVoice</string>
     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
 </resources>

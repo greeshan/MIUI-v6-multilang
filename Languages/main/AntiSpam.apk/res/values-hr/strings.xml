@@ -210,7 +210,7 @@
     <string name="sms_delete_hint">Izbrisati sve blokirane poruke s ovog broja?</string>
     <string name="call_delete_hint">Ukloniti sve blokirane pozive s ovog broja?</string>
     <string name="backsound_set_hint">Postaviti svoju poruku \"Odsutan sam\" za %s?</string>
-    <string name="report">Prjavi</string>
+    <string name="report">Prijavi</string>
     <string name="report_sms">Prijava poruke</string>
     <string name="report_only">Odaberite poruku za prijaviti</string>
     <string name="report_success">Poruka prijavljena</string>
@@ -222,6 +222,7 @@
     <string name="st_sub_title_customize_mode_name">Naziv načina rada</string>
     <string name="read_all_sms">Označi kao pročitano</string>
     <string name="loding">Učitavanje podataka</string>
+    <string name="action_source_sms_title">Blokirani SMS</string>
     <string name="st_title_open_antispam">Lista blokiranih</string>
     <string name="st_title_antispam_mode">Pravilo</string>
     <string name="st_sub_title_whiteblack_list_group">Lista blokiranih</string>
@@ -280,16 +281,12 @@
     <string name="block_phone_number">Poziva: %d</string>
     <string name="mark_fraud">Prevarant</string>
     <string name="mark_agent">Posrednik</string>
-    <string name="mark_sell">Telemarketer</string>
-    <string name="mark_meal">Dostava hrane</string>
-    <string name="mark_express">Dostavljač</string>
-    <string name="mark_banking_insurance">Prodaja osiguranja</string>
+    <string name="mark_sell">Trgovac</string>
+    <string name="mark_harass">Uznemiravatelj</string>
     <string name="mark_fraud_block">Prijavljen kao prevarant</string>
     <string name="mark_agent_block">Prijavljen kao posrednik</string>
     <string name="mark_sell_block">Prijavljen kao trgovac</string>
-    <string name="mark_meal_block">Prijavljen kao dostava hrane</string>
-    <string name="mark_express_block">Prijavljen kao dostavljač</string>
-    <string name="mark_banking_insurance_block">Ulaganja &amp; osiguranje</string>
+    <string name="mark_harass_block">Prijavljen kao uznemiravatelj</string>
     <string name="mark_number_info">"
 Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potrazi za stanom). Blokirajte samo one brojeve iz kojih nikada ne želite primati pozive."</string>
     <string name="dlg_title_not_open_stranger_identify">Prepoznaj nepoznate brojeve</string>
@@ -302,6 +299,14 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
     <string name="call_transfer_block">Blokiraj proslijeđene pozive</string>
     <string name="call_transfer_block_type">Blokiraj proslijeđene pozive</string>
     <string name="call_transfer_info">Blokiraj proslijeđene pozive od nepoznatih brojeva</string>
+    <string name="repeated_marked_number_title">Nemoj blokirati ponovljene pozive s prijavljenih brojeva</string>
+    <string name="repeated_marked_number_summary">Nemoj blokirati drugi poziv od istog prijavljenog broja u roku od 3 minute.</string>
+    <string name="mark_fraud_time_setting">Blokiraj brojeve prevaranta koji su prijavljeni određeni broj puta</string>
+    <string name="mark_agent_time_setting">Blokiraj brojeve posrednika koji su prijavljeni određeni broj puta</string>
+    <string name="mark_sell_time_setting">Blokiraj brojeve trgovca koji su prijavljeni određeni broj puta</string>
+    <string name="mark_harass_time_setting">Blokiraj brojeve uznemiravatelja koji su prijavljeni određeni broj puta</string>
+    <string name="mark_time_text">%d</string>
+    <string name="mark_time_setting_dialog_title">Postavke prijavljenih brojeva</string>
     <string name="sms_smart_engine_update">Automatski ažuriraj filter SMS-a</string>
     <string name="mark_number_setting_guide_title">Blokiraj prijavljene brojeve</string>
     <string name="mark_number_setting_guide_content1">Blokirati pozive iz prijavljenih brojeva?</string>
@@ -311,9 +316,15 @@ Imajte na umu da su ponekad ovih pozivi možda i korisni (npr. kada ste u potraz
     <string name="mark_number_fraud">Prevarant</string>
     <string name="mark_number_agent">Agent</string>
     <string name="mark_number_sell">Telemarketer</string>
-    <string name="mark_number_banking">Proadaja osiguranja</string>
+    <string name="mark_number_harass">Uznemiravatelj</string>
     <string name="antispam_notification_setting_title">Obavijesti liste zabranjenih</string>
-    <string name="antispam_notificaiton_type_show_all">Pokaži kada je bilo koji poziv blokiran</string>
-    <string name="antispam_notificaiton_type_show_except_blacklist">Pokaži kada je poziv van liste zabranjenih blokiran</string>
-    <string name="antispam_notificaiton_type_show_none">Ne prikazuj obavijesti</string>
+    <string name="antispam_notificaiton_type_show_all">Svi brojevi</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">Neblokirani brojevi</string>
+    <string name="antispam_notificaiton_type_show_none">Nikad</string>
+    <string name="quiet_off_mode">Dospusti sva ometanja</string>
+    <string name="quiet_important_interruptions_mode">Dospusti samo iznimkama</string>
+    <string name="quiet_mode">Utišaj sva ometanja</string>
+    <string name="quiet">Tišina</string>
+    <string name="quiet_group">Tihi način rada</string>
+    <string name="sim_not_ready_toast">SIM kartica nije spremna, postavljanje nije uspjelo</string>
 </resources>

@@ -23,6 +23,7 @@
     <string name="note_link_select">Selecionar texto</string>
     <string name="menu_create_folder">Nova pasta</string>
     <string name="menu_delete">Excluir</string>
+    <string name="menu_folders">Pastas</string>
     <string name="menu_stick">Fixar</string>
     <string name="menu_unstick">Desafixar</string>
     <string name="folder_exist">Uma pasta com o mesmo nome já existe</string>
@@ -105,5 +106,12 @@
     <string name="sns_choose_quality_title">Selecionar qualidade da imagem</string>
     <string name="sns_choose_quality_high">Alta (%1$s)</string>
     <string name="sns_choose_quality_low">Baixa</string>
-    <string name="menu_move">Mover</string>
+    <string name="welcome_note_for_cm">"E outros ótimos recursos!
+  - Sincronize com a Mi Cloud
+  - Salve ao sair
+  - Defina lembretes
+
+Para saber mais, acesse
+http://www.miui.com/forum.php?lang=1
+"</string>
 </resources>

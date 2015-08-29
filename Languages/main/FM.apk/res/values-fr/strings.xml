@@ -10,7 +10,7 @@
     <string name="menu_new_station">Ajouter une station</string>
     <string name="menu_save_station_list">Ajouter à la liste</string>
     <string name="menu_save_station_presets">Ajouter aux pré-sélections de stations</string>
-    <string name="menu_speaker">Basculser sur le HP</string>
+    <string name="menu_speaker">Basculer sur le HP</string>
     <string name="menu_headset">Basculer sur le casque</string>
     <string name="menu_exit">Quitter</string>
     <string name="dialog_sleep_title">"Sélectionnez heure d'arrêt automatique"</string>
@@ -26,7 +26,7 @@
     <string name="exit_fm">Quitter</string>
     <string name="toast_sleep_mode">Arrêter la radio dans %s</string>
     <string name="toast_sleep_mode_exit">Mode veille annulé.</string>
-    <string name="record_file_location_format">Enregistrer vers %s</string>
+    <string name="notification_rec_title">"Appuyer pour afficher l'enregistrement"</string>
     <string name="record_completed">Enregistrement terminé</string>
     <string name="turn_off_fm">Éteindre la radio</string>
     <string name="view_stations_list">Afficher la liste des stations</string>
@@ -60,6 +60,7 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Préréglages</string>
     <string name="group_other">Autres</string>
+    <string name="record_file_location_format">Enregistrer vers %s</string>
     <string name="default_station">FM</string>
     <string name="increase_af">Augmenter la fréquence</string>
     <string name="radio_text_string">Ceci est un message radio dont le texte demande un défilement</string>
@@ -68,5 +69,5 @@
     <string name="toast_delete_station">%s MHz a été supprimée.</string>
     <string name="toast_fm_stoping">Arrêt de la radio…</string>
     <string name="transmit_msg_string">Transmission à :</string>
-    <string name="turn_on_speaker_phone">Activer le haut parleur</string>
+    <string name="turn_on_speaker_phone">Activer le haut-parleur</string>
 </resources>

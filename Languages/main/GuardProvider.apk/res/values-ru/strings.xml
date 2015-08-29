@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart2a -->
 <resources>
     <string name="app_name">Антивирус Tencent</string>
     <string name="hello_world">Привет мир!</string>
-     <string name="menu_settings">Настройки</string>
-     <string name="title_activity_main">MainActivity</string>
+    <string name="menu_settings">Настройки</string>
 </resources>

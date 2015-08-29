@@ -46,7 +46,7 @@
     <string name="creating_event_with_guest">Convites vão ser enviados</string>
     <string name="saving_event_with_guest">Actualizações vão ser enviadas</string>
     <string name="alert_title">Notificações da agenda</string>
-    <string name="event_info_title">Visualizar evento</string>
+    <string name="event_info_title">Detalhes do evento</string>
     <string name="event_info_title_invite">Convite para reunião</string>
     <string name="edit_event_to_label">Para</string>
     <string name="edit_event_from_label">De</string>
@@ -57,7 +57,7 @@
     <string name="presence_label">Estado</string>
     <string name="privacy_label">Privacidade</string>
     <string name="reminders_label">Lembretes</string>
-    <string name="no_syncable_calendars">Sem agendas</string>
+    <string name="no_syncable_calendars">Sem calendários</string>
     <string name="no_calendars_found">Depois pode adicionar um evento, Deve adicionar pelo menos uma conta de calendário para o seu dispositivo e fazer um calendário visível. Pressione em adicionar conta para adicionar uma conta (se acabou de adicionar uma conta, espere que termine a sincronização e tente novamente). Ou pressione em Cancelário e certifique-se pelo menos um calendário está visível.</string>
     <string name="create_an_account_desc">"O Calendário funciona melhor com uma conta Mi.
 
@@ -70,7 +70,7 @@
     <string name="response_yes">Sim</string>
     <string name="response_maybe">Talvez</string>
     <string name="response_no">Não</string>
-    <string name="email_guests_label">Email convidado</string>
+    <string name="email_guests_label">Email convidados</string>
     <string name="email_picker_label">Email com</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="quick_response_settings">Respostas rápidas</string>
@@ -98,7 +98,7 @@
     <string name="dismiss_all_label">Dispensar tudo</string>
     <string name="snooze_label">Dispensar</string>
     <string name="does_not_repeat">Evento único</string>
-    <string name="daily">Diáriamente</string>
+    <string name="daily">Diariamente</string>
     <string name="every_weekday">Semanalmente (Seg-Sex)</string>
     <string name="weekly">Semanalmente (cada %s)</string>
     <string name="monthly_on_day_count">Mensalmente (%1$s %2$s)</string>
@@ -106,7 +106,7 @@
     <string name="yearly_plain">Anualmente</string>
     <string name="monthly_on_day">Mensalmente (mesmo dia)</string>
     <string name="yearly">Anualmente (cada %s)</string>
-    <string name="custom">Personalizar (não é permitido personalizar no telefone)</string>
+    <string name="custom">Personalizar (não é permitido personalizar no telemóvel)</string>
     <string name="modify_event">Alterar apenas este evento</string>
     <string name="modify_all">Alterar todos os eventos da série</string>
     <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
@@ -131,8 +131,8 @@
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_ringtone_title">Toque</string>
     <string name="preferences_alerts_popup_title">Notificação pop-up</string>
-    <string name="preferences_default_reminder_title">Hora predifinida do lembrete</string>
-    <string name="preferences_default_reminder_dialog">Hora predifinida do lembrete</string>
+    <string name="preferences_default_reminder_title">Hora predefinida do lembrete</string>
+    <string name="preferences_default_reminder_dialog">Hora predefinida do lembrete</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Utilizar o fuso horário local</string>
     <string name="preferences_use_home_tz_descrip">Quando viajar, exibir os calendários e horários dos eventos no seu fuso horário</string>
@@ -164,11 +164,11 @@
     <string name="accessibility_reminder_showmeas">Mostre-me como</string>
     <string name="accessibility_reminder_privacy">Privacidade</string>
     <string name="acessibility_cal_notification">Notificação do calendário</string>
-    <string name="acessibility_snooze_notification">Adiar Notificação</string>
+    <string name="acessibility_snooze_notification">Adiar notificação</string>
     <string name="day_view_new_event_hint">Novo evento</string>
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="acessibility_selected_marker_description">Seleccionar evento</string>
-    <string name="do_not_check">Não Verificado -></string>
+    <string name="do_not_check">Não Verificar -></string>
     <string name="chinese_leap">Executar</string>
     <string name="event_lunar_month">Mês</string>
     <string name="huangli_good_type">Devia</string>
@@ -190,6 +190,7 @@
     <string name="deleting_calendar">Cancelar inscrição</string>
     <string name="delete_topic_dialog_title">Confirma que deseja cancelar a inscrição\"%s\"？</string>
     <string name="add_topic_success">Assinatura \"%s\" sucesso</string>
+    <string name="add_topic_unsuccess">Assinatura %s falhada</string>
     <string name="delete_topic_success">Subscrição \"%s\" sucesso</string>
     <string name="calendar_server_error">Erro do Servidor</string>
     <string name="calendar_network_error">Erro de rede</string>
@@ -210,7 +211,7 @@
     <string name="data_notice_online_large_image">Inscrever-se para a página do calendário, para ajudá-lo a guardar o tráfego, foi definido como Apenas sincroniza o calendário através da rede Wi-Fi.</string>
     <string name="data_notice_change_settings">Alterar definições</string>
     <string name="data_notice_continue_confirm">Continuar a utilizar</string>
-    <string name="not_exist_topic_list">Não é possivel obter a lista do calendário</string>
+    <string name="not_exist_topic_list">Não é possível obter a lista do calendário</string>
     <string name="online_reminder_header_text">Lembrar</string>
     <string name="online_reminder_slider_text">Activar alerta</string>
     <string name="online_reminder_minutes_text">Tempo de lembrete</string>
@@ -218,6 +219,7 @@
     <string name="action_text_online">Subscrever</string>
     <string name="text_year">Ano</string>
     <string name="view_all_matches">Ver todos os jogos</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Agora pode reservar-lhe um bolo y umas flores.</string>
     <string name="button_day">D</string>
     <string name="button_week">S</string>
     <string name="button_month">M</string>
@@ -230,14 +232,16 @@
     <string name="time_zone">Fuso horário</string>
     <string name="event_all_day_label">Todo o dia</string>
     <string name="today_no_events">Nada agendado para hoje</string>
+    <string name="event_info_reminders_label_1">Lembretes</string>
+    <string name="event_info_reminders_label_more">Lembretes %d</string>
     <string name="event_account">Conta do Calendário</string>
     <string name="event_show_more">Mostrar</string>
     <string name="event_hide_more">Ocultar</string>
-    <string name="event_info_when">When\u0009\u0009</string>
-    <string name="event_info_repeat">Repeat\u0009</string>
-    <string name="event_info_where">Where\u0009</string>
+    <string name="event_info_when">Quando\u0009\u0009</string>
+    <string name="event_info_repeat">Repetir\u0009</string>
+    <string name="event_info_where">Onde\u0009</string>
     <string name="event_info_descrip">Desc\u0009\u0009\u0009</string>
-    <string name="event_info_end">End\u0009\u0009\u0009</string>
+    <string name="event_info_end">Fim\u0009\u0009\u0009</string>
     <string name="event_action_delete">Eliminar</string>
     <string name="event_action_edit">Editar</string>
     <string name="lunar_date">Data Lunar</string>
@@ -258,7 +262,7 @@
     <string name="month_medium_december">Dez.</string>
     <string name="pref_title_no_remind">Sem lembretes</string>
     <string name="pref_title_notification_remind">Notificações com lembretes</string>
-    <string name="pref_title_alert_remind">Lembrete Pop-up</string>
+    <string name="pref_title_alert_remind">Lembrete pop-up</string>
     <string name="pref_title_alarm_remind">Lembrete de alarme</string>
     <string name="pref_error_no_ringtone_select">Nada seleccionado</string>
     <string name="alarm_label">Rejeitar</string>
@@ -270,7 +274,7 @@
     <string name="cta_notice_ok">Permito</string>
     <string name="cta_notify_settings">Perguntar primeiro</string>
     <string name="local_calendar_display_name">Calendário local</string>
-    <string name="birthday_calendar_display_name">Lembrete de Aniversário</string>
+    <string name="birthday_calendar_display_name">Lembrete de aniversário</string>
     <string name="xiaomi_calendar_display_name">Calendário</string>
     <string name="local_owner_account_name">Conta local</string>
     <string name="birthday_term">aniversário</string>
@@ -280,7 +284,7 @@
     <string name="birthday_notification_title_today">%3$s de %1$s</string>
     <string name="birthday_notification_text_today">Não se esqueça de dizer feliz aniversário.</string>
     <string name="birthday_notification_title_three_days_later">O %2$s de %1$s está a chegar</string>
-    <string name="birthday_notification_text_three_days_later">3 dias até ao %3$s (%4$s)</string>
+    <string name="birthday_notification_text_three_days_later">Três dias até ao %3$s (%4$s)</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
     <string name="birthday_event_description">Hoje é o %4$s de %1$s!</string>
@@ -288,6 +292,7 @@
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Saltar</string>
     <string name="jump_date_full">Ir para a data</string>
+    <string name="select_date">Escolher data</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Novo</string>
@@ -325,8 +330,14 @@
     <string name="repeat_label_choose_month">Definir o mês</string>
     <string name="repeat_end_label">Fim da repetição</string>
     <string name="repeat_end_times_unit">" vezes"</string>
+    <string name="sync_notice_title">Pedido de sincronização</string>
+    <string name="sync_notice_message">Ainda não sincronizou o calendário Mi. Activar agora?</string>
+    <string name="sync_notice_ok">Permitir</string>
+    <string name="sync_notice_ok_toast_message">Calendário local será sincronizado com a Nuvem Mi</string>
+    <string name="sync_notice_cancel_toast_message">Calendário local não será sincronizado com a Nuvem Mi</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Copiar o endereço de email</string>
     <string name="copy_number">Copiar o número de telefone</string>
     <string name="done">Voltar</string>
+    <string name="action_label">Voltar</string>
 </resources>

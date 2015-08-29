@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FWUpgrade</string>
+    <string name="check_now">Verificar atualização</string>
+    <string name="option_settings">Configurações</string>
+    <string name="current_version_text">Atual:</string>
+    <string name="new_version_text">Nova versão</string>
+    <string name="download_progress">Progresso:</string>
+    <string name="update_now">Atualizar agora</string>
+    <string name="update_later">Atualizar depois</string>
+    <string name="battery_low">A carga da bateria está abaixo de 30%, carregar completamente antes de atualizar!</string>
+    <string name="battery_remove_title">Aviso</string>
+    <string name="battery_remove">Remova o carregador antes de atualizar!</string>
+    <string name="notification_content_title">Atualização do sistema</string>
+    <string name="notification_content_text_completed">Carregado com sucesso</string>
+    <string name="notification_content_newversion">Atualização do sistema: Nova versão</string>
+    <string name="new_version_query">Verificando atualização...</string>
+    <string name="no_new_version">Seu sistema está atualizado.</string>
+    <string name="network_error">A conexão de rede falhou</string>
+    <string name="insufficient_space_content">Esta instalação precisa de pelo menos %s bytes de memória livre. Disponibilize mais espaço antes de continuar.</string>
+    <string name="unmount_sdcard">Montagem do cartão SD de erro, por favor, verifique o cartão.</string>
+    <string name="sdcard_crash_or_unmount">O cartão de memória não foi detectado, verifique sua colocação</string>
+    <string name="btn_retry">Tente novamente</string>
+    <string name="btn_pause">Pausar</string>
+    <string name="btn_resume">Retomar</string>
+    <string name="btn_download">Baixar</string>
+    <string name="btn_ok">Aceitar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_cancel_check">Desistir</string>
+    <string name="ver_notes_title">Atualizações</string>
+    <string name="cancel_download_title">Cancelar</string>
+    <string name="cancel_download_content">Esta operação irá apagar o arquivo carregado.</string>
+    <string name="cancel_download_positive_btn">Sim</string>
+    <string name="cancel_download_negative_btn">Não</string>
+    <string name="update_prompt">Dica: durante o processo de atualização todas as operações serão canceladas. O processo levará alguns minutos, verifique se há bateria suficiente para esta execução.</string>
+    <string name="not_support_fota_title">Aviso</string>
+    <string name="not_support_version">Seu telefone não suporta o recurso de atualização de sistema</string>
+    <string name="ratio">0%</string>
+    <string name="package_error_title">Falha na instalação</string>
+    <string name="package_error_message_invalid">Erro no arquivo. Verifique as atualizações e baixe novamente.</string>
+    <string name="updateSuccessTitle">Instalado com sucesso</string>
+    <string name="updateFailTitle">Falha na instalação</string>
+    <string name="updateSuccess">Versão já instalada.</string>
+    <string name="updateFailed">Falha na instalação.</string>
+    <string name="package_unzip">Descompactando...</string>
+    <string name="package_unzip_error">Erro na descompactação</string>
+    <string name="downloadSuccess">Completo</string>
+    <string name="tips">Dicas</string>
+    <string name="tips_content"><Data> &lt;div style=font-size:14sp;color:#000000>&lt;p>1. A atualização de sistema ajuda a tornar o dispositivo mais eficiente.&lt;/p> &lt;p>2. É recomendado que se utilize uma conexão WiFi para baixar o pacote de atualiação.&lt;/p> &lt;p>3. Antes da atualização, verifique se o nível de bateria está acima de 30% de carga e que o carregador não esteja conectado.&lt;/p> &lt;p>4. O sistema pode reiniciar várias vezes durante a atualização, não desligue ou remova a bateria até que o final do processo.&lt;/p>&lt;/div> </Data>" "</string>
+    <string name="new_version">Nova_versão</string>
+    <string name="upgrade_newversion">Nova versão disponível:</string>
+    <string name="upgrade_hint">Atualize dicas</string>
+    <string name="upgrade_now">Atualizar</string>
+    <string name="upgrade_later">Cancelar</string>
+</resources>

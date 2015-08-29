@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d കോണ്ടാക്റ്റുകൾ</item>
+        <item quantity="one">%d കോണ്ടാക്റ്റ്</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d മെസേജുകൾ</item>
+        <item quantity="one">%d മെസേജ്</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d കുറിപ്പുകൾ</item>
+        <item quantity="one">%d കുറിപ്പ്</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%d ഫോട്ടോകൾ</item>
+        <item quantity="one">%d ഫോട്ടോ</item>
+    </plurals>
+</resources>

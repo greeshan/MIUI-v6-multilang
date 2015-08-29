@@ -5,12 +5,14 @@
         <item quantity="one">Excluir esta conversa?</item>
     </plurals>
     <plurals name="slide_duration">
-        <item quantity="other">%s seg.</item>
-        <item quantity="one">%s seg.</item>
+        <item quantity="other">%s seg</item>
+        <item quantity="one">%s seg</item>
+        <item quantity="few">%s seg</item>
     </plurals>
     <plurals name="slide_audio_duration">
-        <item quantity="other">%s seg.</item>
-        <item quantity="one">%s seg.</item>
+        <item quantity="other">%s seg</item>
+        <item quantity="one">%s seg</item>
+        <item quantity="few">%s seg</item>
     </plurals>
     <plurals name="search_results_title">
         <item quantity="other">%1$s resultados para %2$s\"</item>

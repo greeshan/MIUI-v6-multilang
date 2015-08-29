@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Google ঝুইন ইনপুট সেটিংস</string>
+    <string name="ime_name">Google ঝুইন ইনপুট</string>
+    <string name="label_subtype_zhuyin">চিনা ঝুইন</string>
+</resources>

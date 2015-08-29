@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="clir_display_values">
+        <item>Hálózati alapértelmezés</item>
+        <item>Szám elrejtése</item>
+        <item>Szám megjelenítése</item>
+    </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>TD-SCDMA/LTE/GSM/WCDMA/CDMA/EVDO</item>
         <item>TD-SCDMA/GSM/WCDMA/CDMA/EVDO</item>

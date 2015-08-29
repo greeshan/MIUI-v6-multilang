@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಯಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d ನ %2$d</item>
+        <item quantity="one">1 ಸಮರೂಪಿ</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">ಕೊನೆಯ %d ದಿನಗಳು</item>
+        <item quantity="one">ಕೊನೆಯ %d ದಿನ</item>
+    </plurals>
+</resources>

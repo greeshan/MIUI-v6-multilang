@@ -26,7 +26,6 @@
     <string name="exit_fm">Salir</string>
     <string name="toast_sleep_mode">La radio parará de reproducir en %s</string>
     <string name="toast_sleep_mode_exit">Temporizador cancelado</string>
-    <string name="record_file_location_format">Guardado en %s</string>
     <string name="record_completed">Grabación completada</string>
     <string name="turn_off_fm">Apagar FM</string>
     <string name="view_stations_list">Ver lista de emisoras</string>
@@ -60,4 +59,5 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Presintonías</string>
     <string name="group_other">Otros</string>
+    <string name="record_file_location_format">Guardado en %s</string>
 </resources>

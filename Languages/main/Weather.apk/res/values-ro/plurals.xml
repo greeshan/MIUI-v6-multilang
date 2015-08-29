@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minute în urmă</item>
+        <item quantity="one">%d minut în urmă</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d ore în urmă</item>
+        <item quantity="one">%d oră în urmă</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d zile în urmă</item>
+        <item quantity="one">%d zi în urmă</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Senin</item>
+        <item quantity="one">Însorit</item>
+    </plurals>
+</resources>

@@ -37,7 +37,6 @@
     <string name="requesting_unlock">Αίτηση ξεκλειδώματος δικτύου…</string>
     <string name="unlock_failed">Αίτηση ξεκλειδώματος δικτύου ανεπιτυχής.</string>
     <string name="unlock_success">Επιτυχές ξεκλείδωμα δικτύου.</string>
-    <string name="bad_pin2">Ο παλιός αριθμός PIN2 που εισάγατε είναι λανθασμένος. Δοκιμάστε ξανά.</string>
     <string name="labelGSMMore">Ρυθμίσεις κλήσης GSM</string>
     <string name="labelCDMAMore">Ρυθμίσεις κλήσης CDMA</string>
     <string name="apn_settings">Ονόματα σημείου πρόσβασης</string>
@@ -266,13 +265,6 @@
     <string name="pin_failed">Ο αριθμός PIN που πληκτρολογήσατε είναι λανθασμένος.</string>
     <string name="pin_changed">Το PIN της κάρτας SIM άλλαξε με επιτυχία.</string>
     <string name="puk_requested">Λανθασμένος κωδικός, το PIN έχει μπλοκάρει! Τώρα απαιτείται PUK.</string>
-    <string name="enter_pin2_text">PIN2</string>
-    <string name="pin2_changed">Το PIN2 άλλαξε με επιτυχία.</string>
-    <string name="label_puk2_code">Πληκτρολογήστε τον κωδικό PUK2</string>
-    <string name="fdn_enable_puk2_requested">Λανθασμένος κωδικός, το PIN2 έχει μπλοκάρει. Παρακαλώ αλλάξτε το PIN2 και δοκιμάστε ξανά!</string>
-    <string name="pin2_lock_warning">"
-Λειτουργίες που σχετίζονται με το PIN2 θα κλειδώσουν μετά από άλλη μια αποτυχημένη προσπάθεια"</string>
-    <string name="puk2_label">Πληκτρολογήστε τον κωδικό PUK2</string>
     <string name="pin_progress_set_icc_lock">Ρύθμιση icc κατάστασης κλειδώματος…</string>
     <string name="pin_progress_set_fdn_lock">Ρύθμιση FDN κατάστασης κλειδώματος…</string>
     <string name="pin_progress_change_pin">Αλλαγή PIN…</string>
@@ -427,6 +419,7 @@
     <string name="respond_via_sms_canned_response_2">Θα σας καλέσω σε λίγο.</string>
     <string name="respond_via_sms_canned_response_3">Θα σας τηλεφωνήσω αργότερα.</string>
     <string name="respond_via_sms_canned_response_4">Δεν μπορώ να μιλήσω τώρα. Τι συμβαίνει;</string>
+    <string name="respond_via_sms_cannot_empty">Τα μηνύματα απόρριψης δεν μπορεί να είναι άδεια</string>
     <string name="respond_via_sms_setting_title">Γρήγορες απαντήσεις</string>
     <string name="respond_via_sms_setting_summary">Επεξεργασία προεπιλεγμένων απαντήσεων κειμένου</string>
     <string name="respond_via_sms_edittext_dialog_title">Γρήγορη απάντηση</string>
@@ -527,6 +520,7 @@
     <string name="telocation_confim_delete_title">Διαγραφή μηνύματος;</string>
     <string name="telocation_error_message_number">%s υποστηρίζει μόνο αριθμούς</string>
     <string name="telocation_jituan_error_message_number">%s υποστηρίζει μόνο αριθμούς και χαρακτήρες μπαλαντέρ</string>
+    <string name="voip_setting">Ρυθμίσεις VoIP</string>
     <string name="call_description_recording">Εγγραφή…</string>
     <string name="call_record_auto_whitelist_no_item">Προσθέστε έναν αριθμό πατώντας το κουμπί Add (+)</string>
     <string name="call_record_auto_whitelist">Λίστα χρηστών</string>
@@ -601,6 +595,8 @@
     <string name="turnover_mute_summary">Όταν το τηλέφωνο βρίσκεται σε οριζόντια θέση, αναποδογυρίστε το για σίγαση</string>
     <string name="handon_ringer_summary">Το τηλέφωνο δεν θα δονείται όταν έχετε μια εισερχόμενη κλήση</string>
     <string name="handon_ringer_title">Να μην δονείται</string>
+    <string name="flash_when_ring_summary">Να αναβοσβήνει το LED για τις εισερχόμενες κλήσεις</string>
+    <string name="flash_when_ring_title">Να αναβοσβήνει όταν κουδουνίζει</string>
     <string name="enable_proximity_summary">Απενεργοποιήστε την οθόνη κατά τη διάρκεια κλήσεων</string>
     <string name="enable_proximity_title">Αισθητήρας εγγύτητας</string>
     <string name="pocket_mode_summary">Το τηλέφωνο θα κλειδώνει αυτόματα όταν τοποθετηθεί σε μια τσέπη ή μαλακή θήκη</string>
@@ -747,6 +743,31 @@
     <string name="msim_switch_data_conn_toast">Βεβαιωθείτε για την κανονική είσοδο στο Internet, επιλέξατε ως προτιμώμενο δίκτυο το 4G (προτίμηση 3G ), μπορείτε να το αλλάξετε στις πληροφ. SIM.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">Η υποδοχή κάρτας SIM 2 υποστηρίζει μόνο δίκτυα GSM. Προτιμώμενος τύπος δικτύου για αυτή την υποδοχή έχει αλλάξει σε \"μόνο 2G\".</string>
     <string name="international_roaming_setting">Διεθνής περιαγωγή</string>
+    <string name="old_pin_label">Παλιό PIN</string>
+    <string name="new_pin_label">Νέο PIN</string>
+    <string name="confirm_pin_label">Επιβεβαίωση νέου PIN</string>
+    <string name="bad_pin">Ο παλιός αριθμός PIN που εισάγατε είναι λανθασμένος. Δοκιμάστε ξανά.</string>
+    <string name="mismatch_pin">Τα PIN δεν ταιριάζουν. Δοκιμάστε ξανά</string>
+    <string name="invalid_pin">Πληκτρολογήστε έναν κωδικό PIN από 4 έως 8 αριθμούς.</string>
+    <string name="bad_puk">Το PUK που πληκτρολογήσατε δεν είναι σωστό. Δοκιμάστε ξανά.</string>
+    <string name="invalid_puk">Εισάγετε έναν κωδικό PUK από 4 έως 8 αριθμούς.</string>
+    <string name="enter_pin2_text">PIN2</string>
+    <string name="old_pin2_label">Παλιό PIN2</string>
+    <string name="new_pin2_label">Νέο PIN2</string>
+    <string name="confirm_pin2_label">Επιβεβαίωση νέου PIN2</string>
+    <string name="bad_puk2">Το PUK2 που πληκτρολογήσατε δεν είναι σωστό. Δοκιμάστε ξανά.</string>
+    <string name="bad_pin2">Ο παλιός αριθμός PIN2 που εισάγατε είναι λανθασμένος. Δοκιμάστε ξανά.</string>
+    <string name="mismatch_pin2">Τα PIN2 δεν ταιριάζουν. Δοκιμάστε ξανά.</string>
+    <string name="invalid_pin2">Πληκτρολογήστε έναν κωδικό PIN2 από 4 έως 8 αριθμούς.</string>
+    <string name="invalid_puk2">Εισάγετε έναν κωδικό PUK2 που αποτελείται από 8 αριθμούς.</string>
+    <string name="pin2_changed">Το PIN2 άλλαξε με επιτυχία.</string>
+    <string name="label_puk2_code">Πληκτρολογήστε τον κωδικό PUK2</string>
+    <string name="fdn_enable_puk2_requested">Λανθασμένος κωδικός, το PIN2 έχει μπλοκάρει. Παρακαλώ αλλάξτε το PIN2 και δοκιμάστε ξανά!</string>
+    <string name="pin2_lock_warning">"
+Λειτουργίες που σχετίζονται με το PIN2 θα κλειδώσουν μετά από άλλη μια αποτυχημένη προσπάθεια"</string>
+    <string name="puk2_label">Πληκτρολογήστε τον κωδικό PUK2</string>
+    <string name="pin_attempts">"
+Απομένουν %d ακόμα προσπάθειες."</string>
     <string name="managed_roaming_title">Διαχείριση περιαγωγής</string>
     <string name="managed_roaming_title_sub1">Διαχείριση περιαγωγής (SUB1)</string>
     <string name="managed_roaming_title_sub2">Διαχείριση περιαγωγής (SUB2)</string>
@@ -805,23 +826,6 @@
     <string name="preferred_network_restrict_network_changed_incall">Δεν είναι δυνατή η αλλαγή του δικτύου κινητής τηλεφωνίας κατά τη διάρκεια μιας κλήσης</string>
     <string name="fdn_contacts_empty">Χωρίς επαφές στη λίστα FDN.</string>
     <string name="exportContacts">Εξαγωγή…</string>
-    <string name="old_pin_label">Παλιό PIN</string>
-    <string name="new_pin_label">Νέο PIN</string>
-    <string name="confirm_pin_label">Επιβεβαίωση νέου PIN</string>
-    <string name="bad_pin">Ο παλιός αριθμός PIN που εισάγατε είναι λανθασμένος. Δοκιμάστε ξανά.</string>
-    <string name="mismatch_pin">Τα PIN δεν ταιριάζουν. Δοκιμάστε ξανά</string>
-    <string name="invalid_pin">Πληκτρολογήστε έναν κωδικό PIN από 4 έως 8 αριθμούς.</string>
-    <string name="bad_puk">Το PUK που πληκτρολογήσατε δεν είναι σωστό. Δοκιμάστε ξανά.</string>
-    <string name="invalid_puk">Εισάγετε έναν κωδικό PUK από 4 έως 8 αριθμούς.</string>
-    <string name="old_pin2_label">Παλιό PIN2</string>
-    <string name="new_pin2_label">Νέο PIN2</string>
-    <string name="confirm_pin2_label">Επιβεβαίωση νέου PIN2</string>
-    <string name="bad_puk2">Το PUK2 που πληκτρολογήσατε δεν είναι σωστό. Δοκιμάστε ξανά.</string>
-    <string name="mismatch_pin2">Τα PIN2 δεν ταιριάζουν. Δοκιμάστε ξανά.</string>
-    <string name="invalid_pin2">Πληκτρολογήστε έναν κωδικό PIN2 από 4 έως 8 αριθμούς.</string>
-    <string name="invalid_puk2">Εισάγετε έναν κωδικό PUK2 που αποτελείται από 8 αριθμούς.</string>
-    <string name="pin_attempts">"
-Απομένουν %d ακόμα προσπάθειες."</string>
     <string name="card_title_unconditionalCF">Η προώθηση κλήσεων άνευ όρων είναι ενεργοποιημένη</string>
     <string name="card_title_conditionalCF">Η προώθηση κλήσεων υπό προϋποθέσεις είναι ενεργοποιημένη</string>
     <string name="card_title_MOcall_forwarding">Εξερχόμενη προωθημένη κλήση</string>
@@ -845,9 +849,21 @@
     <string name="incall_error_no_active_sim">Δεν υπάρχει ενεργή κάρτα SIM.</string>
     <string name="no_volte">Αδύνατη η πραγματοποίηση κλήσης IMS</string>
     <string name="no_vt_allowed">Για να κάνετε βίντεο-κλήση, κλείστε την λειτουργία TTY</string>
-    <string name="respond_via_sms_cannot_empty">Τα μηνύματα απόρριψης δεν μπορεί να είναι άδεια</string>
-    <string name="voip_setting">Ρυθμίσεις VOIP</string>
+    <string name="ivr_parameter_settings">Ρυθμίσεις παραμέτρων IVR</string>
+    <string name="ivr_mo_area_code_settings">Τρέχων κωδικός περιοχής</string>
+    <string name="ivr_mo_area_code_settings_hint">Παρακαλώ εισάγετε τον τρέχων κωδικό περιοχής</string>
+    <string name="ivr_type_settings">Ρυθμίσεις προγράμματος Δεδομένων</string>
+    <string name="ivr_type_settings_hint">Εισάγετε τον κωδικό του προγράμματος δεδομένων</string>
     <string name="msim_has_been_disabled">(Disabled)</string>
+    <string name="msim_disable_sim_card_title">Απενεργοποίηση κάρτας SIM</string>
+    <string name="msim_disable_sim_card_summary_non_default_card">Δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Απενεργοποίηση της %s κάρτας SIM;</string>
+    <string name="msim_disable_sim_card_summary_default_card">Αυτή η κάρτα έχει οριστεί ως η προεπιλεγμένη σας SIM. Εάν σταματήσετε να την χρησιμοποιείτε, δεν θα μπορείτε να πραγματοποιήσετε κλήσεις ή να χρησιμοποιήσετε τη σύνδεση δεδομένων κινητής τηλεφωνίας. Μπορείτε να σταματήσετε αυτήν την κάρτα SIM αφού πρώτα ορίσετε άλλη κάρτα SIM ως προεπιλογή.</string>
+    <string name="msim_disable_sim_card_btn_text">OK</string>
+    <string name="cdma_alert_title">Η κάρτα UIM πρέπει να είναι η προεπιλεγμένη</string>
+    <string name="cdma_alert_message">Εάν επιλέξετε μια άλλη κάρτα ως προεπιλογή για τα δεδομένα κινητής, δεν θα είστε σε θέση να χρησιμοποιήσετε την κάρτα σας China Telecom UIM.</string>
+    <string name="config_default_data_sim">Ρυθμίσεις</string>
+    <string name="got_it">OK</string>
+    <string name="can_not_use_for_not_data_sim">(Αδύνατη η χρήση: Πρέπει να ρυθμιστεί ως προεπιλεγμένη SIM δεδομένων)</string>
     <string name="call_type">CallType</string>
     <string name="callind_multi_sim">Ρυθμίσεις SUBS</string>
     <string name="ims_accounts_title">Λογαριασμός IMS</string>
@@ -870,6 +886,7 @@
     <string name="xdivert_setting">Ρυθμίσεις x-Divert</string>
     <string name="xdivert_summary">Ρυθμίσεις CFNRc</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="incall_error_sim_deactive">Ανενεργή κάρτα SIM</string>
     <string name="default_call_type">CSVoice</string>
     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
 </resources>

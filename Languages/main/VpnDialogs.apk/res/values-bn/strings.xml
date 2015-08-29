@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s ভিপিএন সংযোগ তৈরি করতে চেষ্টা।</string>
+    <string name="warning">এগিয়ে গেলে আপনার সকল নেটওয়ার্ক ট্রাফিকে প্রতিবন্ধকতা সৃষ্টি করতে অ্যাপ্লিকেশনকে অনুমতি দিচ্ছেন। &lt;b> অ্যাপ্লিকেশনকে বিশ্বাস না করলে গ্রহণ করবেন না।&lt;/b> তা না হলে আপনি ক্ষতিকর সফটওয়্যারের মাধ্যমে আপনার ডাটা ক্ষতিগ্রস্ত হওয়ার ঝুঁকিতে থাকবেন।</string>
+    <string name="accept">আমি এই অ্যাপ্লিকেশনকে বিশ্বাস করি।</string>
+    <string name="legacy_title">ভিপিএন সংযুক্ত</string>
+    <string name="configure">কনফিগার করুন</string>
+    <string name="disconnect">বিচ্ছিন্ন করুন</string>
+    <string name="session">সেশন:</string>
+    <string name="duration">ব্যপ্তি:</string>
+    <string name="data_transmitted">প্রেরিত:</string>
+    <string name="data_received">প্রাপ্ত:</string>
+    <string name="data_value_format">%1$s বাইটস / %2$s প্যাকেট</string>
+</resources>

@@ -25,10 +25,10 @@
     <string name="invalid_cert">O certificado é inválido.</string>
     <string name="cert_is_added">A %s está instalada</string>
     <string name="cert_too_large_error">Não foi possível concluir a instalação, pois o tamanho do certificado é muito grande.</string>
-    <string name="cert_missing_error">A instalação não pode ser concluída, pois não foi possível localizar o arquivo do certificado.</string>
-    <string name="cert_read_error">A instalação não pode ser concluída, pois não foi possível ler o arquivo do certificado.</string>
-    <string name="no_cert_file_found">Nenhum arquivo de certificado foi encontrado no armazenamento USB.</string>
+    <string name="cert_missing_error">A instalação não pode ser concluída, pois não foi possível localizar o ficheiro do certificado.</string>
+    <string name="cert_read_error">A instalação não pode ser concluída, pois não foi possível ler o ficheiro do certificado.</string>
+    <string name="no_cert_file_found">Nenhum ficheiro de certificado foi encontrado no armazenamento USB.</string>
     <string name="sdcard_not_present">Armazenam. USB não disponível.</string>
-    <string name="only_primary_user_allowed">Somente o proprietario do dispositivo pode instalar certificados.</string>
+    <string name="only_primary_user_allowed">Somente o proprietário do dispositivo pode instalar certificados.</string>
     <string name="credential_usage_label">Uso da credencial:</string>
 </resources>

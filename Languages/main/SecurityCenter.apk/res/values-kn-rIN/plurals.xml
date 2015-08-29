@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ದಿನಗಳು "</item>
+        <item quantity="one">"%d ದಿನ "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ಗಂಟೆಗಳು "</item>
+        <item quantity="one">"%d ಗಂ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d ನಿಮಿಷಗಳು "</item>
+        <item quantity="one">"%d ನಿಮಿ "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ಆಪ್‌ಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರಾರಂಭವಾಗಬಹುದು</item>
+        <item quantity="one">%d ಆಪ್ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರಾರಂಭವಾಗಬಹುದು</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%dಆಪ್‌ಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರಾರಂಭಿಸಲು ಅನುಮತಿಸಲಾಗಿಲ್ಲ</item>
+        <item quantity="one">%d ಆಪ್‌ಗೆ ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಪ್ರಾರಂಭಿಸಲು ಅನುಮತಿಸಲಾಗಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d ಅನುಮತಿಗಳು</item>
+        <item quantity="one">%d ಪರವಾನಗಿ</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ಅಪ್ಸ್</item>
+        <item quantity="one">%d ಆಪ್</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ಆಪ್‌ಗಳು ವಿಶೇಷ ಪ್ರವೇಶ ಹೊಂದಿವೆ</item>
+        <item quantity="one">%d ಆಪ್ ವಿಶೇಷ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿದೆ</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ಆಪ್ ವಿಶೇಷ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ</item>
+        <item quantity="one">%d ಆಪ್ ವಿಶೇಷ ಪ್ರವೇಶವನ್ನು ಹೊಂದಿಲ್ಲ</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ಅಪ್ಸ್ ಅಪ್‌ಡೇಟ್‌ ಲಭ್ಯವಿದೆ.</item>
+        <item quantity="one">%d ಆಪ್‌ಗೆ ಅಪ್‌ಡೇಟ್‌ ಲಭ್ಯವಿದೆ.</item>
+    </plurals>
+</resources>

@@ -164,7 +164,7 @@
         <item>Žiadné</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP nebo CHAP</item>
+        <item>PAP alebo CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -634,6 +634,34 @@ Postupujte podľa pokynov"</item>
         <item>Domáca sieť</item>
         <item>Všetky siete</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Opýtať sa na povolenie</item>
+        <item>Povolené</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Opýtať sa</item>
+        <item>Povolené</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>okamžite</item>
+        <item>1 minúte</item>
+        <item>2 minútach</item>
+        <item>5 minútach</item>
+        <item>15 minútach</item>
+        <item>30 minútach</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Vypnúť animácie systému</item>
+        <item>Povoliť animácie systému</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Pre zrýchlenie vášho zariadenia vypnite animácie systému</item>
+        <item>Zobrazenie animácií systému môže spomaliť vaše zariadenie</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reštartovať vaše zariadenie pre aplikovanie týchto zmien?</item>
+        <item>Reštartovať vaše zariadenie pre aplikovanie týchto zmien?</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Krátke oneskorenie</item>
         <item>Štandard</item>
@@ -666,5 +694,9 @@ Postupujte podľa pokynov"</item>
         <item>Subscription 1</item>
         <item>Subscription 2</item>
         <item>Prompt User</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>Ultra jemné (2K)</item>
+        <item>Normálne (720P)</item>
     </string-array>
 </resources>

@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Още</string>
+    <string name="miuishare_title_share">Споделяне</string>
+    <string name="miuishare_account_login_ok">Впиши ме</string>
+    <string name="miuishare_account_activate_ok">Активирай</string>
+    <string name="miuishare_account_login_cancel">Отказ</string>
+    <string name="miuishare_account_login_confirmation">Изисква се вписване</string>
+    <string name="miuishare_account_activate_confirmation">Изисква се активиране</string>
+    <string name="miuishare_account_need_login">Функцията Weibo share изисква обвързването на вашия Weibo профил с Xiaomi профила ви, в който понастоящем не сте вписан. Вписване за споделяне сега?</string>
+    <string name="miuishare_account_need_activate">Функцията Weibo share изисква обвързването на вашия Weibo профил с Xiaomi профила ви, което понастоящем не е налице. Активиране сега?</string>
+    <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+    <string name="miuishare_weibo_title">Weibo</string>
+    <string name="miuishare_publish">Изпрати</string>
+    <string name="miuishare_share_done">Изпратихте споделеното съдържание.</string>
+    <string name="miuishare_share_editor_title">Споделяне</string>
+    <string name="miuishare_no_network">Няма мрежа за споделяне</string>
     <string name="miui_search_notification_title">Търсене</string>
     <string name="miui_search_notification_message">Докоснете, за да отворите търсенето</string>
     <string name="miui_quicksearch_enable_pref_title">Търсене от лентата с известия</string>
@@ -635,6 +651,7 @@
     <string name="no_matches">Няма съответствия</string>
     <string name="webview_find_on_page">Търси в страницата</string>
     <string name="miui_content_open_url">Отвори URL</string>
+    <string name="miuichromium_error_page_diagnostic">Диагностика на мрежата</string>
     <string name="dump_counters">Нулиране на V8 броячи</string>
     <string name="dump_dom_tree">Изчисти DOM tree към файла</string>
     <string name="dump_render_tree">Изчисти render tree към файла</string>
@@ -667,6 +684,10 @@
     <string name="find_on_page_prev">Назад</string>
     <string name="find_on_page_next">Напред</string>
     <string name="find_on_page_cancel">Отказ</string>
+    <string name="sub_sync_item_browser_title_video">Синхр. видео историята</string>
+    <string name="sub_sync_item_browser_title_video_summary">Синхронизиране на списъка с последно гледаните видеоклипове на вашите устройства</string>
+    <string name="sub_sync_item_browser_title_useful">Синхр. нач. страница</string>
+    <string name="sub_sync_item_browser_title_useful_summary">Синхронизиране на сайтовете, които сте добавили към началната страница</string>
     <string name="pref_volume_key_action">Скролиране чрез бутоните за звука</string>
     <string name="pref_other_title">Други</string>
     <string name="pref_clear_data_title">Изчисти данните</string>
@@ -769,6 +790,7 @@
     <string name="media_error_nomemory">Паметта на телефона е пълна</string>
     <string name="media_error_action_refresh">Опресняване</string>
     <string name="media_error_action_replace_video_source">Промяна на източника на видео</string>
+    <string name="video_buffering_percent_string">Буфериране</string>
     <string name="webapp_app_name">Light Web Apps Store</string>
     <string name="webapp_dialog_title">Добавяне на приложение към началният ви екран</string>
     <string name="webapp_add_to_desktop">Добавяне на началния екран</string>
@@ -790,6 +812,11 @@
     <string name="pref_webapp_settings_hidebottombar">Скриване на долният панел</string>
     <string name="webapp_bottom_bar_addtodesk">Добави на десктопа</string>
     <string name="webapp_splashview_loading">Зарежда се...</string>
+    <string name="pref_min_font_size">Минимален размер на шрифт</string>
+    <string name="pref_text_zoom">Мащаб на текста</string>
+    <string name="pref_inverted_summary">Черното става бяло и обратно</string>
+    <string name="bookmark_page">Запиши в отметки последната страница</string>
+    <string name="pref_development_title">Отстраняване на грешки</string>
     <string name="miuichromium_save_password_message">Искате ли браузърът да запомни тази парола?</string>
     <string name="miuichromium_save_password_never">Никога</string>
     <string name="miuichromium_save_password_notnow">Не сега</string>
@@ -812,10 +839,5 @@
     <string name="webview_yesterday">Вчера</string>
     <string name="adblock_rules_number_text">Блокирани: %d елементи</string>
     <string name="clear_history_by_group_alert">Да се изчисти ли историята от %s?</string>
-    <string name="pref_min_font_size">Минимален размер на шрифт</string>
-    <string name="pref_text_zoom">Мащаб на текста</string>
-    <string name="pref_inverted_summary">Черното става бяло и обратно</string>
-    <string name="bookmark_page">Запиши в отметки последната страница</string>
-    <string name="pref_development_title">Отстраняване на грешки</string>
     <string name="find_on_page_matches">%d съвпадения</string>
 </resources>

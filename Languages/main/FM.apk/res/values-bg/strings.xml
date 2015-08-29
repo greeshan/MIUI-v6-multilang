@@ -26,7 +26,7 @@
     <string name="exit_fm">Изход</string>
     <string name="toast_sleep_mode">Радиото ще се изключи след %s</string>
     <string name="toast_sleep_mode_exit">Таймерът за заспиване е отменен</string>
-    <string name="record_file_location_format">Съхранено в %s</string>
+    <string name="notification_rec_title">Чукнете за преглед на записа</string>
     <string name="record_completed">Записът завърши</string>
     <string name="turn_off_fm">Изключи радиото</string>
     <string name="view_stations_list">Преглед на станциите</string>
@@ -60,4 +60,5 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Любими</string>
     <string name="group_other">Други</string>
+    <string name="record_file_location_format">Съхранено в %s</string>
 </resources>

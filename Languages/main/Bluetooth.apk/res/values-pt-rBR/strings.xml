@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="device_picker">Seletor de disp. Bluetooth</string>
+    <string name="bluetooth_preference_scan_title">Scan for devices</string>
+    <string name="bluetooth_preference_connected_devices">Connected devices</string>
+    <string name="bluetooth_preference_found_devices">Available devices</string>
+    <string name="progress_scanning">Pesquisando</string>
+    <string name="bluetooth_search_for_devices">Search for devices</string>
+    <string name="mi_key_alert_dialog_title">Alerta Mi-Key</string>
+    <string name="mi_key_alert_dialog_message">Toque em OK para silenciar o alarme.</string>
+    <string name="ble_device_address">MAC do disp. BLE</string>
+    <string name="disconnect">Desconectar</string>
+    <string name="ble_device_profile_header_title">Perfis</string>
+    <string name="ble_device_profile_title">Disp. BLE conectado</string>
+    <string name="mi_band_vibrate_incall">Vibrar quando tocando</string>
+    <string name="mi_band_vibrate_incall_in_contacts">Vibrar quando tocando para chamadas de seus contatos</string>
+    <string name="mi_band_vibrate_incall_no_contacts">Vibrar quando tocando para chamadas de números desconhecidos</string>
+    <string name="mi_band_vibrate_sms">Vibrar quando receber uma mensagem SMS</string>
+    <string name="mi_band_vibrate_sms_in_contacts">Vibrar quando receber uma mensagem SMS de seus contatos</string>
+    <string name="mi_band_vibrate_sms_no_contacts">Vibrar quando receber uma mensagem de SMS de números desconhecidos</string>
+    <string name="mi_band_vibrate_alarm">Vibrar quando o alarme tocar</string>
+    <string name="mi_key_take_photo">Tirar foto</string>
+    <string name="mi_key_find_phone">Encontrar telefone</string>
+    <string name="mi_key_find_mikey">Encontrar Mi-Key</string>
     <string name="miui_transfer_history_title">Transferências Bluetooth</string>
     <string name="miui_transfer_inbound_title">Arquivos recebidos</string>
     <string name="miui_transfer_outbound_title">Arquivos enviados</string>
@@ -35,6 +57,7 @@
     <string name="notification_received_fail">Compart. Bluetooth: o arquivo %1$s não foi recebido</string>
     <string name="notification_sending">Compart. Bluetooth: enviando %1$s</string>
     <string name="notification_sent">Compart. Bluetooth: %1$s enviado</string>
+    <string name="empty_file_notification_sent">Compart. Bluetooth: O destinatário rejeitou o arquivo de tamanho zero %1$s</string>
     <string name="notification_sent_complete">100% concluído</string>
     <string name="notification_sent_fail">Compart. Bluetooth: o arquivo %1$s não foi enviado</string>
     <string name="download_title">Transferência de arquivo</string>
@@ -124,15 +147,19 @@
     <string name="delete_record">Excluir registro</string>
     <string name="start_server">Iniciar servidor TCP</string>
     <string name="notify_server">Notificar servidor TCP</string>
-    <string name="map_session_key_dialog_title">Digite a chave de sessão para %1$s</string>
-    <string name="map_session_key_dialog_header">É necessário fornecer a chave de sessão Bluetooth</string>
-    <string name="map_acceptance_timeout_message">Tempo limite esgotado para aceitar a conexão com %1$s</string>
-    <string name="map_authentication_timeout_message">Tempo limite esgotado para inserir a chave de sessão com %1$s</string>
-    <string name="map_auth_notif_ticker">Solicitação de autenticação Obex</string>
-    <string name="map_auth_notif_title">Chave de sessão</string>
-    <string name="map_auth_notif_message">Digite a chave de sessão para %1$s</string>
-    <string name="map_defaultname">Kit para carro</string>
-    <string name="map_unknownName">Nome desconhecido</string>
-    <string name="map_localPhoneName">Meu nome</string>
-    <string name="map_defaultnumber">000000</string>
+    <string name="ble_device_unbind">Limpar configurações</string>
+    <string name="ble_device_profile">Perfil do dispositivo Bluetooth</string>
+    <string name="ble_device_rename">Renomear</string>
+    <string name="mi_key_open_camera">Abrir câmera</string>
+    <string name="mi_key_summary_open_camera">Clique duplo na Mi-Key para abrir a Câmera</string>
+    <string name="mi_key_summary_take_photo">Aperte a Mi-Key para tirar uma foto</string>
+    <string name="mi_key_summary_find_phone">Pressione e segure a Mi-Key para ativar o toque</string>
+    <string name="bluetooth_connected">Pareado</string>
+    <string name="bluetooth_disconnected">Desemparelhado</string>
+    <string name="bluetooth_disconnecting">Desemparelhando…</string>
+    <string name="bluetooth_connecting">Pareando…</string>
+    <string name="goto_package">Abrir %1$s</string>
+    <string name="install_package">Instalar %1$s para mais funções</string>
+    <string name="some_app_taking">(%1$s já está utilizando este recurso)</string>
+    <string name="reset_function_msg">Redefinir esta função poderá prevenir o funcionamento normal de %1$s.</string>
 </resources>

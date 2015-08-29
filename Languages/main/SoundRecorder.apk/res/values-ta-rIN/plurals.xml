@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">%d பதிவுகள் பதிவிறக்கப்பட்டன</item>
+        <item quantity="one">%d பதிவு பதிவிறக்கப்பட்டது</item>
+    </plurals>
+</resources>

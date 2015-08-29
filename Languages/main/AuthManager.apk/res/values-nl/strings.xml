@@ -66,9 +66,9 @@
     <string name="HIPS_Perm_Settings">Systeem instellingen wijzigen</string>
     <string name="HIPS_Perm_Settings_Desc">Kan systeem instellingen wijzigen</string>
     <string name="HIPS_Perm_Settings_Hint">%1$s apps kunnen systeem instellingen wijzigen</string>
-    <string name="HIPS_Perm_DisableKeyguard">Uitschakelen scherm vergrendeling</string>
+    <string name="HIPS_Perm_DisableKeyguard">Uitschakelen schermvergrendeling</string>
     <string name="HIPS_Perm_DisableKeyguard_Desc">Kunnen uw scherm vergrendeling uitschakelen</string>
-    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps die de scherm vergrendeling kunnen uitschakelen</string>
+    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps die de schermvergrendeling kunnen uitschakelen</string>
     <string name="HIPS_Perm_VideoRecorder">Camera toegang</string>
     <string name="HIPS_Perm_VideoRecorder_Desc">Toegang camera voor foto of video opnames</string>
     <string name="HIPS_Perm_VideoRecorder_Hint">%1$s apps hebben toegang camera voor foto of video opnames</string>
@@ -246,7 +246,7 @@
     <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
     <string name="SysOpt_Boost_AutoStart">Autostart toestemming</string>
     <string name="Su_Enable_Dialog">%1$s vraagt root toegang.</string>
-    <string name="Su_Unavailable">Root toegang is niet beschikbaar in deze versie van MIUI. U moet de ontwikkelaar build van MIUI flashen root toegang toe te staan.</string>
+    <string name="Su_Unavailable">Root toegang is niet beschikbaar in deze versie van MIUI. U moet de ontwikkelaar build van MIUI flashen om root toegang toe te staan.</string>
     <string name="Su_Package_Forbidden">%1$s heeft geen root toegang.</string>
     <string name="permisson_reject_notice_toast_text">\"%1$s\" heeft geen toestemming tot %2$s. U kunt app toestemmingen elk moment in Beveiliging wijzigen > Permissions.</string>
     <string name="HIPS_SecurityPrompt_Accept_Once">Eenmaal toestaan (%d)</string>

@@ -30,6 +30,8 @@
     <string name="deleting_message">Excluindo…</string>
     <string name="rename_dialog_title">Renomear gravação</string>
     <string name="rename_duplicate">Uma gravação com o mesmo nome já existe.</string>
+    <string name="rename_no_more_tip">Não exibir novamente</string>
+    <string name="record_picker_title">Selecionar uma gravação</string>
     <string name="dialog_title_storage_full">Espaço insuficiente</string>
     <string name="dialog_content_storage_full">A gravação foi interrompida devido à falta de espaço no armazenamento interno de seu dispositivo.</string>
     <string name="status_bar_recording">Gravando…</string>
@@ -39,6 +41,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Configurações</string>
     <string name="preference_led_indicator">Notificações na tela de bloqueio</string>
+    <string name="preference_tip_rename">Nomear gravações manualmente</string>
     <string name="preference_led_indicator_prompt">Durante a gravação, mostrar na barra de status e piscar LED de notificação na tela de bloqueio</string>
     <string name="preference_record_type_title">Tipo de gravação</string>
     <string name="preference_scenes">Tipo de gravação</string>
@@ -87,4 +90,5 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">Insira o cartão SD agora</string>
     <string name="record_back_pressed_hint">Para interromper a gravação, pressione Voltar novamente</string>
+    <string name="record_mark_point">Marcar como %s</string>
 </resources>

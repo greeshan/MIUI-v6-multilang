@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="jeejen_answer_call_text">Odgovori na poziv</string>
-    <string name="jeejen_reject_call_text">Odbij poziv</string>
+    <string name="jeejen_answer_call_text">Primanje poziva</string>
+    <string name="jeejen_reject_call_text">Odbij</string>
     <string name="jeejen_end_call_text">Završi poziv</string>
     <string name="jeejen_toggle_dialpad_text">Tipkovnica</string>
     <string name="jeejen_card_title_in_call" />
     <string name="jeejen_card_title_on_hold" />
-    <string name="jeejen_card_title_dialing">Pozivanje</string>
+    <string name="jeejen_card_title_dialing">Biranje</string>
     <string name="jeejen_card_title_incoming_call">Dolazni poziv</string>
     <string name="jeejen_card_title_call_cancel">Otkaži poziv</string>
-    <string name="jeejen_card_title_call_ended">Poziv je završen</string>
+    <string name="jeejen_card_title_call_ended">Poziv završen</string>
+    <string name="cancel">Cancel</string>
     <string name="phoneAppLabel">Telefon</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="onscreen_add_call_text">Dodaj poziv</string>
@@ -123,14 +124,14 @@
     <string name="sum_loading_settings">Učitavanje postavki…</string>
     <string name="sum_hide_caller_id">Broj skriven za odlazne pozive</string>
     <string name="sum_show_caller_id">Broj prikazan za odlazne pozive</string>
-    <string name="sum_default_caller_id">Koristi standardne postavkedavatelja usluga za prikaz broja odlaznih poziva</string>
+    <string name="sum_default_caller_id">Koristi standardne postavke operatera za prikaz broja odlaznih poziva</string>
     <string name="labelCW">Poziv na čekanju</string>
     <string name="sum_cw_enabled">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
     <string name="sum_cw_disabled">Tijekom razgovora, obavijesti me o dolaznim pozivima</string>
     <string name="call_forwarding_settings">Postavke poziva za prosljeđivanje</string>
     <string name="labelCF">Prosljeđivanje poziva</string>
     <string name="labelCFU">Uvijek proslijedi</string>
-    <string name="messageCFU">Uvijek koristiti ovaj broj</string>
+    <string name="messageCFU">Uvijek koristi ovaj broj</string>
     <string name="sum_cfu_enabled_indicator">Prosljedi sve pozive</string>
     <string name="sum_cfu_enabled">Prosljeđivanje svih poziva na {0}</string>
     <string name="sum_cfu_enabled_no_number">Broj je nedostupan</string>
@@ -167,9 +168,9 @@
     <string name="vm_change_failed">"Nije bilo moguće promijeniti broj govorne pošte. 
 Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="fw_change_failed">"Dohvaćanje i spremanje trenutnih postavki prosljeđivanja broja neuspješno.
-Želite li se ipak prebaciti na drugog davatelja usluga?"</string>
+Želite li se ipak prebaciti na drugog operatera?"</string>
     <string name="fw_get_in_vm_failed">"Dohvaćanje i spremanje trenutnih postavki prosljeđivanja broja neuspješno.
-Želite li se ipak prebaciti na drugog davatelja usluga?"</string>
+Želite li se ipak prebaciti na drugog operatera?"</string>
     <string name="no_change">Nema promjena.</string>
     <string name="sum_voicemail_choose_provider">Odaberite uslugu govorne pošte</string>
     <string name="voicemail_default">Moj operater</string>
@@ -183,7 +184,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="not_allowed">Vaša SIM kartica ne dopušta povezivanje s ovom mrežom.</string>
     <string name="connect_later">Nemoguće se povezati na ovu mrežu trenutno. Pokušajte ponovno.</string>
     <string name="registration_done">Prijavljeno na mrežu.</string>
-    <string name="sum_carrier_select">Odaberite davatelja usluge</string>
+    <string name="sum_carrier_select">Odaberite operatera</string>
     <string name="sum_search_networks">Pretraži sve dostupne mreže</string>
     <string name="select_automatically">Odaberi automatski</string>
     <string name="sum_select_automatically">Automatski odaberi željenu mrežu</string>
@@ -209,7 +210,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="data_enable_summary">Omogućiti pristup podacima putem mobilne mreže</string>
     <string name="roaming">Uporaba podataka u roamingu</string>
     <string name="roaming_enable">Koristi podatkovne usluge u roamingu</string>
-    <string name="roaming_disable">Nemoj koristiti podatkovne usluge u roamingu</string>
+    <string name="roaming_disable">Povezivanje na podatkovne usluge u roamingu</string>
     <string name="roaming_reenable_message">Podatkovna veza izgubljena jer je roaming podataka isključen.</string>
     <string name="roaming_warning">Dopustiti Uporabu podataka u roamingu? Mogući visoki troškovi!.</string>
     <string name="gsm_umts_options">GSM/UMTS Opcije</string>
@@ -224,7 +225,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="throttle_data_rate_reduced_subtext">%1$s ograničenje premašeno. Brzina prijenosa podataka smanjena je na %2$d Kb/s</string>
     <string name="throttle_time_frame_subtext">Proteklo je %1$d٪ ciklusa. Sljedeće razdoblje započinje u %2$d dana (%3$s)</string>
     <string name="throttle_rate_subtext">Brzina prijenosa podataka smanjiti će se na %1$d Kb/s ako je potrošnja podataka premašila ograničenje</string>
-    <string name="throttle_help_subtext">Više informacija o vašem davatelju usluga mobilne mreže</string>
+    <string name="throttle_help_subtext">Više informacija o vašem operateru mobilne mreže</string>
     <string name="cell_broadcast_sms">Cell Broadcast SMS</string>
     <string name="enable_disable_cell_bc_sms">Emitiranje mreže SMS</string>
     <string name="cell_bc_sms_enable">Cell Broadcast SMS omogućen</string>
@@ -354,7 +355,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="confirmPinLabel">Potvrdi novi PIN</string>
     <string name="badPin">Stari PIN koji ste unijeli nije točan. Pokušajte ponovno.</string>
     <string name="mismatchPin">PIN koje ste unijeli se ne podudara. Pokušajte ponovno.</string>
-    <string name="invalidPin">Upišite PIN koji ima od 4 do 8 znamenaka.</string>
+    <string name="invalidPin">Unesite PIN od 4 do 8 brojeva.</string>
     <string name="disable_sim_pin">Onemogući SIM PIN</string>
     <string name="enable_sim_pin">Omogući SIM PIN</string>
     <string name="enable_in_progress">Pričekajte…</string>
@@ -370,8 +371,8 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="badPuk2">PUK 2 koji ste unijeli nije točan. Pokušajteokušajte ponovno.</string>
     <string name="badPin2">Stari PIN2 koji ste unijeli nije točan. Pokušajteokušajte ponovno.</string>
     <string name="mismatchPin2">PIN2 koje ste unijeli se ne podudara. Pokušajte ponovno.</string>
-    <string name="invalidPin2">Upišite PIN2 koji ima od 4 do 8 znamenaka.</string>
-    <string name="invalidPuk2">Upišite PUK2 koji ima od 4 do 8 znamenaka.</string>
+    <string name="invalidPin2">Unesite PIN2 od 4 do 8 brojeva.</string>
+    <string name="invalidPuk2">Upišite PUK2 od 8 brojeva.</string>
     <string name="pin2_changed">PIN2 uspješno promijenjen</string>
     <string name="label_puk2_code">Unesite PUK2</string>
     <string name="fdn_enable_puk2_requested">Zaporka netočna, PIN2 blokiran. Molimo promjenite PIN2 i pokušajte ponovo!</string>
@@ -390,29 +391,29 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="card_title_in_call">U pozivu</string>
     <string name="card_title_in_call_short">Poziv</string>
     <string name="card_title_my_phone_number">Moj broj je %s</string>
-    <string name="notification_dialing">Pozivanje</string>
+    <string name="notification_dialing">Biranje broja</string>
     <string name="notification_missedCallTitle">Propušteni poziv</string>
     <string name="notification_missedCallsTitle">Propušteni pozivi</string>
-    <string name="notification_missedCallsMsg">%s propuštenih poziva</string>
+    <string name="notification_missedCallsMsg">Propuštenih poziva: %d</string>
     <string name="notification_missedCallTicker">Propušteni poziv od %s</string>
     <string name="notification_ongoing_call">Poziv u tijeku</string>
     <string name="notification_on_hold">Na čekanju</string>
     <string name="notification_incoming_call">Dolazni poziv</string>
     <string name="notification_voicemail_title">Nova govorna pošta</string>
     <string name="notification_voicemail_title_count">Nova govorna pošta (%d)</string>
-    <string name="notification_voicemail_text_format">Biram %s</string>
-    <string name="notification_voicemail_no_vm_number">Broj govorne pošte nepoznat</string>
+    <string name="notification_voicemail_text_format">Biraj %s</string>
+    <string name="notification_voicemail_no_vm_number">Nepoznat je broj govorne pošte</string>
     <string name="notification_network_selection_title">Nema usluge</string>
     <string name="notification_network_selection_text">Odabrana mreža (%s) nedostupna</string>
-    <string name="notification_action_end_call">Prekini poziv</string>
-    <string name="notification_missedCall_call_back">Uzvrati poziv</string>
+    <string name="notification_action_end_call">Prekini vezu</string>
+    <string name="notification_missedCall_call_back">Povratni poziv</string>
     <string name="notification_missedCall_message">poruka</string>
     <string name="incall_error_power_off">Za uspostavu poziva ugasite Zrakoplovni način.</string>
     <string name="incall_error_emergency_only">Nije registrirano na mreži.</string>
     <string name="incall_error_out_of_service">Mobilna mreža nije dostupna.</string>
     <string name="incall_error_no_phone_number_supplied">Poziv nije uspostavljen, broj neispravan.</string>
     <string name="incall_error_call_failed">Poziv nije poslan.</string>
-    <string name="incall_status_dialed_mmi">Započinjem MMI slijed…</string>
+    <string name="incall_status_dialed_mmi">Pokretanje MMI sekvence…</string>
     <string name="incall_error_supp_service_unknown">Nepodržana usluga.</string>
     <string name="incall_error_supp_service_switch">Nije moguće promijeniti pozive.</string>
     <string name="incall_error_supp_service_separate">Nije moguće odvojiti pozive.</string>
@@ -424,8 +425,8 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="emergency_enable_radio_dialog_title">Hitan poziv</string>
     <string name="emergency_enable_radio_dialog_message">Uključivanje GSM radija…</string>
     <string name="emergency_enable_radio_dialog_retry">Izvan područja usluge, pokušavam ponovo…</string>
-    <string name="dial_emergency_error">Poziv nije uspostavljen, %s nije hitan broj!</string>
-    <string name="dial_emergency_empty_error">Poziv nije uspostavljen, nazovite hitni broj!</string>
+    <string name="dial_emergency_error">Poziv nije uspostavljen, %s nije broj hitne službe!</string>
+    <string name="dial_emergency_empty_error">Pozivanje nije moguće. Nazovite broj hitne službe!</string>
     <string name="dialerKeyboardHintText">Koristite tipkovnicu za unos broja</string>
     <string name="onscreenHoldText">Zadrži</string>
     <string name="onscreenEndCallText">Kraj</string>
@@ -436,7 +437,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="onscreenMergeCallsText">Spoji pozive</string>
     <string name="onscreenSwapCallsText">Zamijeni</string>
     <string name="onscreenManageCallsText">Upravljaj pozivima</string>
-    <string name="onscreenManageConferenceText">Upravljanje konferencijom</string>
+    <string name="onscreenManageConferenceText">Upravljaj konferencijom</string>
     <string name="onscreenAudioText">Zvuk</string>
     <string name="onscreenVideoCallText">Video poziv</string>
     <string name="onscreenAddParticipant">Dodaj sudionika</string>
@@ -450,7 +451,9 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="dtmf_tones_summary">Podesite dužinu DTMF zvukova</string>
     <string name="network_message">Mrežna poruka</string>
     <string name="ota_title_activate">Aktivirajte svoj telefon</string>
-    <string name="ota_touch_activate">Potreban je poseban poziv kako bi uključili usluge telefona. Nakon klika na “Aktiviraj”, slušajte upute za aktiviranje telefona.</string>
+    <string name="ota_touch_activate">"Poseban poziv upućen je za aktiviranje telefonske usluge. 
+
+Nakon što pritisnete “Aktiviraj”, poslušajte upute za aktiviranje vašeg uređaja."</string>
     <string name="ota_skip_activation_dialog_title">Preskočiti aktivaciju?</string>
     <string name="ota_skip_activation_dialog_message">Ako preskočite aktivaciju, ne možete upućivati ​​pozive ili spajati se na mobilne podatkovne mreže (možete se spojiti na WLAN mrežu). Dok ne aktivirate svoj ​​telefon, od vas se traži da ga aktivirate svaki put kad ga uključite.</string>
     <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
@@ -462,7 +465,10 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="ota_progress">Molimo pričekajte dok se vaš telefon ne programira.</string>
     <string name="ota_failure">Programiranje neuspješno</string>
     <string name="ota_successful">Vaš telefon je sada aktiviran. Može potrajati i do 15 minuta do uspostave mreže.</string>
-    <string name="ota_unsuccessful">Vaš telefon nije aktiviran. Potražite mjesto sa boljom pokrivenosti signalom (blizu prozora, ili vani). Pokušajte ponovo ili zovite službu za korisnike za više opcija.</string>
+    <string name="ota_unsuccessful">"Vaš telefon nije aktiviran.
+  
+Potražite mjesto sa boljom pokrivenosti signalom (blizu prozora, ili vani). 
+Pokušajte ponovo ili se obratite službi za korisnike za više opcija."</string>
     <string name="ota_spc_failure">VIŠAK SPC KVAROVA</string>
     <string name="ota_call_end">Natrag</string>
     <string name="ota_try_again">Pokušajte ponovo</string>
@@ -483,7 +489,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="calling_via_template">Pozivanje putem %s</string>
     <string name="contactPhoto">Slika kontakta</string>
     <string name="goPrivate">Privatno</string>
-    <string name="selectContact">odaberi kontakt</string>
+    <string name="selectContact">Odaberi kontakt</string>
     <string name="sip_settings">Postavke Internetskog poziva</string>
     <string name="sip_accounts">Računi za internet pozivanje (SIP)</string>
     <string name="sip_accounts_title">Računi</string>
@@ -525,7 +531,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="username_title">Korisničko ime</string>
     <string name="password_title">Zaporka</string>
     <string name="display_name_title">Prikaži ime</string>
-    <string name="proxy_address_title">Adresa proxy</string>
+    <string name="proxy_address_title">Proxy Adresa</string>
     <string name="port_title">Broj porta</string>
     <string name="transport_title">Vrsta prijenosa</string>
     <string name="send_keepalive_title">Pošalji keep-alive</string>
@@ -548,7 +554,6 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="no_internet_available">Za upućivanje internetskog poziva, provjerite internetsku vezu</string>
     <string name="no_wifi_available">Morate biti spojeni na WLAN mrežu za internetske pozive (koristite Bežične i Mrežne postavke)</string>
     <string name="no_voip">Internet pozivi nisu podržani</string>
-    <string name="domain_address">SipDomena</string>
     <string name="username">Korisničko ime</string>
     <string name="password">Zaporka</string>
     <string name="display_name">DisplayName</string>
@@ -610,7 +615,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="call_recording_error_unknown">Nepoznata greška</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="phone_info_divider">"  |  "</string>
-    <string name="antispam_marked_count">%1$d oodbijeno</string>
+    <string name="antispam_marked_count">%1$d odbijeno</string>
     <string name="antispam_provider">Identificiran od %s</string>
     <string name="incoming_call_forwarded_title">Preusmjeri proslijeđeni poziv</string>
     <string name="suspect_info">Nepouzdan poziv</string>
@@ -619,7 +624,7 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="ivr_menu_dialing_msg_no_mute">Idite na odabranu uslugu…[Automatsko ispravljanje pogrešaka je omogućeno]</string>
     <string name="ivr_menu_list_sub_menu_count_format">Pritisnite %s</string>
     <string name="non_ivr_menu_view_menu">Pokaži izbornik</string>
-    <string name="non_ivr_menu_collapse_menu">Zatvoriti izbornik</string>
+    <string name="non_ivr_menu_collapse_menu">Zatvori izbornik</string>
     <string name="fraud_call_answer">Odgovori</string>
     <string name="fraud_call_decline">Odbij</string>
     <string name="fraud_call_waring">Budite oprezni: uvijek biste trebali provjeriti identitet prije nego što bilo kavkom kontaktu odgovorite na pitanja o vašim osobnim podacima.</string>
@@ -628,6 +633,87 @@ Kontaktirajte svog Mobilnog operatera ako se taj problem ne riješi."</string>
     <string name="online_check_warning_info_by_cmb">Uvijek provjerite identitet osobe s kojom razgovarate putem telefona ili videopoziva prije odgovora na bilo kakva pitanja koja uključuju vaše osobne financije.</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
     <string name="livetalk_provider_info">Pruža vam %s</string>
-    <string name="livetalk_waiting">Na čekanju…</string>
-    <string name="label_nsdp">SIM Podskup mreže PIN otključavanja</string>
+    <string name="livetalk_waiting">Čekanje...</string>
+    <string name="livetalk_left_minute">%s min. preostalo</string>
+    <string name="description_direction_down_left">Dolje Lijevo</string>
+    <string name="description_direction_down_right">Dolje Desno</string>
+    <string name="description_direction_left">Kliznite lijevo za %s.</string>
+    <string name="description_direction_right">Kliznite desno za %s.</string>
+    <string name="description_direction_up">Kliznite prema gore za %s.</string>
+    <string name="description_direction_up_left">Gore Lijevo</string>
+    <string name="description_direction_up_right">Gore Desno</string>
+    <string name="description_target_answer">Odgovori</string>
+    <string name="description_target_answer_rx_video">Prihvati kao RX Video</string>
+    <string name="description_target_answer_tx_video">Prihvati kao TX Video</string>
+    <string name="description_target_answer_video">Prihvati kao videopoziv</string>
+    <string name="description_target_decline">Odbij</string>
+    <string name="description_target_send_sms">Pošalji SMS</string>
+    <string name="fake_phone_activity_infoText_text">Dolazni broj telefona</string>
+    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
+    <string name="fake_phone_activity_placeCall_text">Lažan Dolazni Poziv</string>
+    <string name="internet_phone">Internetski poziv</string>
+    <string name="no_sip_account_found">Na ovom telefonu nema računa za internetske pozive. Želite li sada dodati jedan?</string>
+    <string name="no_sip_account_found_title">Nema računa za internetske pozive</string>
+    <string name="pick_outgoing_call_phone_type">Uputi poziv</string>
+    <string name="pick_outgoing_sip_phone">Koristi račun internetskih poziva:</string>
+    <string name="pstn_phone">Poziv s mobitela</string>
+    <string name="remember_my_choice">Uvijek upotrijebi za internetske pozive</string>
+    <string name="reset_my_choice_hint">Možete promijeniti svoj zadani račun za internetske pozive u Postavke > Postavke poziva > Postavke internet poziva > Računi.</string>
+    <string name="sip_always_send_keepalive">Uvijek pošalji</string>
+    <string name="sip_system_decide">Automatic</string>
+    <string name="stk_cc_ss_to_dial_error">SS zahtjev promijenjen za DIAL zahtjev.</string>
+    <string name="stk_cc_ss_to_ss_error">SS zahtjev promijenjen za novi SS zahtjev.</string>
+    <string name="stk_cc_ss_to_ussd_error">SS zahtjev promijenjen za USSD zahtjev.</string>
+    <string name="accessibility_bluetooth_headset_selected">Bluetooth slušalica odbrana</string>
+    <string name="accessibility_call_put_on_hold">Poziv stavljen na čekanje.</string>
+    <string name="accessibility_call_removed_from_hold">Poziv vraćen s čekanja.</string>
+    <string name="accessibility_call_unmuted">Poziv ponovno uključen.</string>
+    <string name="accessibility_earpiece_selected">Slušalice odabrane.</string>
+    <string name="accessibility_speakerphone_selected">Zvučnik odabran</string>
+    <string name="accessibility_wired_headset_selected">Bežične slušalice odabrane</string>
+    <string name="antispam_notification_title">Nepoznat broj</string>
+    <string name="call_description_recording">Snimanje…</string>
+    <string name="call_recording_notification_message">Dodirnite za slušanje.</string>
+    <string name="call_recording_notification_message_low_storage">SD kartica je puna.</string>
+    <string name="call_recording_notification_message_sd_unmounted">SD kartica je uklonjena..</string>
+    <string name="call_recording_notification_title">Poziv snimljen</string>
+    <string name="call_recording_notification_title_error">Ne mogu snimiti poziv.</string>
+    <string name="card_title_callback_number">Vaš broj za povratni poziv %1$s</string>
+    <string name="card_title_callback_number_emergency">"Vaš broj za povratni poziv za hitne službe
+ %1$s"</string>
+    <string name="card_title_video_call">Videopoziv</string>
+    <string name="card_title_video_call_connecting">Povezivanje videopoziva</string>
+    <string name="card_title_video_call_error">Videopoziv nije uspostavljen</string>
+    <string name="card_title_video_call_requesting">Zahtijevanje videopiziva</string>
+    <string name="description_direction_down">Kliznite prema dolje za %s.</string>
+    <string name="description_target_accept_upgrade_to_video_request">Prihvati zahtjev za videozapis</string>
+    <string name="description_target_answer_audio_call">Prihvati kao audiopoziv</string>
+    <string name="description_target_answer_video_call">Prihvati kao videopoziv</string>
+    <string name="description_target_decline_upgrade_to_video_request">Odbij zahtjev za videozapis</string>
+    <string name="incall_error_missing_voicemail_number">Nepoznat broj Govorne pošte.</string>
+    <string name="incoming_via_template">Dolazni pozivi putem operatera %s</string>
+    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="notification_action_accept">Prihvaćam</string>
+    <string name="notification_action_answer_video">Videozapis</string>
+    <string name="notification_action_dismiss">Odbaci</string>
+    <string name="notification_incoming_video_call">Dolazni videopoziv</string>
+    <string name="notification_requesting_video_call">Dolazni zahtjev za videopoziv</string>
+    <string name="onscreenChangeToVoiceText">Prijeđi na glasovni poziv</string>
+    <string name="onscreenOverflowText">Više opcija</string>
+    <string name="onscreenPauseVideoText">Pauziraj video</string>
+    <string name="onscreenSwitchCameraText">Prebaci se na drugi fotoaparat</string>
+    <string name="overflowAddMenuItemText">Dodaj poziv</string>
+    <string name="overflowHoldMenuItemText">Na čekanju</string>
+    <string name="overflowMergeMenuItemText">Spoji pozive</string>
+    <string name="overflowResumeMenuItemText">Nastavi poziv</string>
+    <string name="overflowSwapMenuItemText">Prebaci na drugi poziv</string>
+    <string name="select_account_dialog_title">Odaberi Račun</string>
+    <string name="select_voice_call_sim">Odaberi SIM karticu</string>
+    <string name="waiting_close_airplane_mode">Čekanje na zatvaranje Zrakoplovnog načina…</string>
+    <string name="call_extension_conference_mode">Konferencija</string>
+    <string name="call_title_redialing_with_times_miui">%d puta ponovno pozvano</string>
+    <string name="onscreen_audio_mode_conference">Konferencija</string>
+    <string name="respond_via_sms_canned_response_1_miui">Žao mi je, ne mogu javiti na telefon. Nazovem te kasnije.</string>
+    <string name="separate_from_conference_miui">Odvoji poziv</string>
+    <string name="notification_actGlasovnoion_answer_voice">Glasovno</string>
 </resources>

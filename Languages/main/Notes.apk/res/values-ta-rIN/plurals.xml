@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="note_count_in_folder">
+        <item quantity="other">%1$s குறிப்புகள்</item>
+        <item quantity="one">1 குறிப்பு</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s பின்வருவதற்கான முடிவுகள் %2$s\"</item>
+        <item quantity="one">%1$sபின்வருவதற்கான முடிவு%2$s\"</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s குறிப்புகள்</item>
+        <item quantity="one">%1$s குறிப்பு</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s கோப்புறைகள்</item>
+        <item quantity="one">%1$s கோப்புறை</item>
+    </plurals>
+</resources>

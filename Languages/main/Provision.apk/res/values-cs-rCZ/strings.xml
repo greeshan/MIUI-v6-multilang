@@ -10,6 +10,7 @@
     <string name="page_layout_title">Rozložení systému</string>
     <string name="page_layout_label">Nastavit velikost textu a rozložení plochy, přepínačů, číselníku a dalších.</string>
     <string name="sim_card_detection">SIM karta nebyla nalezena</string>
+    <string name="sim_card_detecting_title">Zkontrolovat SIM kartu</string>
     <string name="sim_card_detection_info">Pro vytvoření Xiaomi účtu je vyžadována SIM karta.</string>
     <string name="sim_card_detecting">Vyhledávání SIM karty...</string>
     <string name="other_settings">Další nastavení</string>
@@ -19,6 +20,7 @@
     <string name="other_settings_user_experience_summary">Pomožte Xiaomi zlepšovat produkty a služby odesíláním anonymních diagnostik a statistik</string>
     <string name="other_settings_user_experience_summary1">Ochrany soukromí</string>
     <string name="next">Další</string>
+    <string name="skip_underline">Přeskočit</string>
     <string name="sim_dectection_next">Pokračovat</string>
     <string name="shut_down">Vypnout</string>
     <string name="sim_redetection">Zkontr. SIM</string>
@@ -45,10 +47,10 @@
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Restart</string>
     <string name="install_preinstall_app">Načítání aplikací...</string>
-    <string name="locale_picker_desc">Pokud budete chtít později změnit vaši zemi, bude nutné resetovat zařízení do továrního nastavení</string>
-    <string name="locale_picker_confirm_dialog_title">Nastavení polohy</string>
-    <string name="locale_picker_confirm_dialog_desc">Vybrat %s jako váš region?</string>
     <string name="logo_congratulation">Hotovo!</string>
+    <string name="locale_picker_desc">Pokud budete chtít později změnit vaši zemi, bude nutné resetovat zařízení do továrního nastavení</string>
     <string name="terms_of_service">Podmínky používání</string>
+    <string name="locale_picker_confirm_dialog_desc">Vybrat %s jako váš region?</string>
+    <string name="locale_picker_confirm_dialog_title">Nastavení polohy</string>
     <string name="congratulation_next">Spustit MIUI</string>
 </resources>

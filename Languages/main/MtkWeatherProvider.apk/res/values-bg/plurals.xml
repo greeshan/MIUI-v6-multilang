@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Избрахте %1$d</item>
+        <item quantity="zero">Избрахте %1$d</item>
+        <item quantity="one">Избрахте %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">%1$s града ще бъдат изтрити</item>
+        <item quantity="one">Изтриване на един град</item>
+    </plurals>
+</resources>

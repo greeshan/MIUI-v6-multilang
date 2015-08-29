@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="version_list_entries">
+        <item>Stabil</item>
+        <item>Geliştirici</item>
+        <item>Alfa</item>
+    </string-array>
+    <string-array name="channel_tabs">
+        <item>Sıcak</item>
+        <item>Sıralama</item>
+        <item>En yeniler</item>
+    </string-array>
     <string-array name="movie_channel_tabs">
         <item>Tavsiye edilen</item>
         <item>Sıralama</item>
@@ -9,10 +19,5 @@
     <string-array name="variety_channel_tabs">
         <item>Tavsiye edilen</item>
         <item>Sıcak</item>
-    </string-array>
-    <string-array name="channel_tabs">
-        <item>Sıcak</item>
-        <item>Sıralama</item>
-        <item>En yeniler</item>
     </string-array>
 </resources>

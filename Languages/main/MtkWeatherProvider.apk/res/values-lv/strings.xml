@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laikapstākļu pakalpojums</string>
+    <string name="choose_city">Izvēlēties pilsētu</string>
+    <string name="searching">Meklē; lūdzu, uzgaidiet...</string>
+    <string name="no_found">Nav atrasta pilsētas sakritība ar %s. Pārbaudiet ievadītos vārdus.</string>
+    <string name="net_error">Tīkls nav pieejams. Pārbaudiet to.</string>
+    <string name="no_city_error">Nevar iegūt pilsētas informāciju. Iestatiet sistēmas laiku un laika joslu pareizi.</string>
+    <string name="searching_fail">Pilsētas meklēšana neizdevās.</string>
+    <string name="no_weather_error">Nevar iegūt laikapstākļu informāciju. Iestatiet sistēmas laiku un laika joslu pareizi.</string>
+    <string name="no_weather">Šobrīd laika ziņas par %s nav pieejamas.</string>
+    <string name="setting_title">Iestatīšana</string>
+    <string name="temperature">Temperatūras vienības</string>
+    <string name="tem_celsius">Celsijs</string>
+    <string name="cities_title">Pilsētas</string>
+    <string name="update_fre">Atjaunināšanas biežums</string>
+    <string name="every12">Ik pēc 12 stundām</string>
+    <string name="weatherserver">Laikapstākļu serveris</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Atcelt</string>
+    <string name="menu_add_city">Pievienot pilsētu</string>
+    <string name="add_city">Nospiediet ikonu, lai pievienotu jaunu pilsētu</string>
+    <string name="remove">Noņemt</string>
+    <string name="warn">Var pievienot līdz 8 pilsētām.</string>
+    <string name="has_chosen">ir izvēlēts.</string>
+    <string name="no_city">Nav pilsētu</string>
+    <string name="powered_by">Darbina:</string>
+    <string name="menu_about">Par</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Dzēšanas taustiņš</string>
+    <string name="no">Atcelt</string>
+    <string name="select_all">Atlasīt visu</string>
+    <string name="deselect_all">Atcelt visu izvēli</string>
+    <string name="delete">Dzēšanas taustiņš</string>
+</resources>

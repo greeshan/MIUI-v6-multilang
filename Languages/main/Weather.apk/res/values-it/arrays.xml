@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Luna nuova</item>
+        <item>Luna crescente</item>
+        <item>Primo quarto</item>
+        <item>Gibbosa crescente</item>
+        <item>Luna piena</item>
+        <item>Gibbosa calante</item>
+        <item>Ultimo quarto</item>
+        <item>Luna calante</item>
+        <item>Luna scura</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Sereno</item>
         <item>Parzialmente nuvoloso</item>
@@ -45,16 +56,5 @@
         <item>Vento SO</item>
         <item>Vento O</item>
         <item>Vento NO</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Luna nuova</item>
-        <item>Luna crescente</item>
-        <item>Primo quarto</item>
-        <item>Gibbosa crescente</item>
-        <item>Luna piena</item>
-        <item>Gibbosa calante</item>
-        <item>Ultimo quarto</item>
-        <item>Luna calante</item>
-        <item>Luna scura</item>
     </string-array>
 </resources>

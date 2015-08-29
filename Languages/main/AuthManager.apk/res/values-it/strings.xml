@@ -248,4 +248,7 @@
     <string name="Su_Enable_Dialog">%1$s sta richiedendo i permessi di ROOT che sono stati disabilitati di default per la sicurezza del sistema. Se vuoi abilitarli vai nelle impostazioni di Gestione Autorizzazioni.</string>
     <string name="Su_Unavailable">I permessi di ROOT sono disabilitati nella versione stable di MIUI (JBL). Installa la versione MIUI developer (www.miui.it) per avere i permessi di ROOT attivi.</string>
     <string name="Su_Package_Forbidden">%1$s non ha permessi di ROOT.</string>
+    <string name="permisson_reject_notice_toast_text">\"%1$s\" non ha il permesso per %2$s. È possibile modificare le autorizzazioni delle app in qualsiasi momento in Sicurezza > Permessi.</string>
+    <string name="HIPS_SecurityPrompt_Accept_Once">Consenti questa volta (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject_Once">Nega questa volta (%d)</string>
 </resources>

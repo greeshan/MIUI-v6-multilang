@@ -211,6 +211,18 @@
         <item>Átlátszó</item>
         <item>Fehér háttér</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Nincs emlékeztető</item>
+        <item>0 perc</item>
+        <item>5 perc</item>
+        <item>10 perc</item>
+        <item>15 perc</item>
+        <item>30 perc</item>
+        <item>1 óra</item>
+        <item>1 nap</item>
+        <item>2 nap</item>
+        <item>1 hét</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>nap</item>
         <item>hét</item>
@@ -287,7 +299,7 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Nincs</item>
-        <item>Time</item>
-        <item>Count</item>
+        <item>Időszakos</item>
+        <item>Ismétlődő</item>
     </string-array>
 </resources>

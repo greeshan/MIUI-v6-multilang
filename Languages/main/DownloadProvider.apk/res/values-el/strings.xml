@@ -21,6 +21,10 @@
     <string name="warning_tip_cancel">Συνεχίστε την λήψη</string>
     <string name="warning_tip_ok">Παύση</string>
     <string name="dialog_not_show_again">Να μην εμφανιστεί ξανά</string>
+    <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
+    <string name="notification_download_failed">Αποτυχία λήψης.</string>
+    <string name="notification_download_success_more">%1$d ληφθέντα</string>
+    <string name="notification_download_failed_more">Αποτυχία λήψης %1$d στοιχείων</string>
     <string name="app_label">Διαχειριστής λήψεων</string>
     <string name="permlab_downloadManager">Πρόσβαση στον διαχειριστή λήψεων.</string>
     <string name="permdesc_downloadManager">Επιτρέπει στην εφαρμογή την πρόσβαση στον διαχειριστή λήψεων και να τον χρησιμοποιήσουν για την λήψη αρχείων. Κακόβουλες εφαρμογές μπορούν να το εκμεταλλευτούν για να διακόψουν τις λήψεις και να αποκτήσουν πρόσβαση σε ιδιωτικές πληροφορίες.</string>
@@ -37,8 +41,6 @@
     <string name="permlab_accessAllDownloads">Πρόσβαση σε όλες τις λήψεις του συστήματος</string>
     <string name="permdesc_accessAllDownloads">Επιτρέπει στην εφαρμογή να δει και να τροποποιήσει όλες τις λήψεις που ξεκίνησαν από οποιαδήποτε εφαρμογή στο σύστημα.</string>
     <string name="download_unknown_title">&lt;Ανώνυμο></string>
-    <string name="notification_download_complete">Η λήψη ολοκληρώθηκε.</string>
-    <string name="notification_download_failed">Αποτυχία λήψης.</string>
     <string name="notification_need_wifi_for_size">Το μέγεθος λήψης απαιτεί Wi-Fi.</string>
     <string name="notification_paused_in_background">Σε παύση στο παρασκήνιο.</string>
     <string name="wifi_required_title">Η λήψη είναι πολύ μεγάλη για το δίκτυο του παρόχου</string>

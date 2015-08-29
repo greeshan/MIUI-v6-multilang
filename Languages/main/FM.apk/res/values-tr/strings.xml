@@ -22,11 +22,11 @@
     <string name="station_freq_format">%sMHz</string>
     <string name="alert_message_delete_station">Seçili kanal silinecek?</string>
     <string name="msg_noantenna_message">Kulaklık yok, bazı özellikler kullanılamaz.</string>
-    <string name="msg_do_not_support_fm">FM Radio bu cihazda desteklenmiyor</string>
+    <string name="msg_do_not_support_fm">FM Radyo bu cihazda desteklenmiyor</string>
     <string name="exit_fm">Çıkış</string>
     <string name="toast_sleep_mode">Radyo %s içinde durdurulacak</string>
     <string name="toast_sleep_mode_exit">Uyku modu iptal edildi</string>
-    <string name="record_file_location_format">Kaydedildi \"%s\"</string>
+    <string name="notification_rec_title">Kayıda gözatmak için dokunun</string>
     <string name="record_completed">Kayıt tamamlandı</string>
     <string name="turn_off_fm">Radyoyu Kapat</string>
     <string name="view_stations_list">İstasyon listesini görüntüle</string>
@@ -60,6 +60,7 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Ön Ayarlar</string>
     <string name="group_other">Diğer</string>
+    <string name="record_file_location_format">Kaydedildi \"%s\"</string>
     <string name="FMRecording_reach_storage_threshold">Kayıt durduruldu: SD kartınızın alanı dolmak üzere</string>
     <string name="access_sd_fail">SD karta ulaşılamıyor.</string>
     <string name="alert_dialog_cancel">İptal</string>
@@ -155,6 +156,6 @@
     <string name="toast_save_station">%sMHz kaydedildi</string>
     <string name="transmit_msg_string">Yayın şuradan alınıyor:</string>
     <string name="turn_off_speaker_phone">Hoparlörü Aç</string>
-    <string name="turn_on_fm">"FM'i aç"</string>
+    <string name="turn_on_fm">FM Radyoyu aç</string>
     <string name="turn_on_speaker_phone">Hoparlörü Aç</string>
 </resources>

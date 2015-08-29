@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">เลือกไว้ %1$d</item>
+        <item quantity="zero">เลือกไว้ %1$d</item>
+        <item quantity="one">เลือกไว้ %1$d</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">เมือง %1$s เมืองจะถูกลบ</item>
+        <item quantity="one">จะมีการลบเมืองหนึ่งเมือง</item>
+    </plurals>
+</resources>

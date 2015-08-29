@@ -10,6 +10,7 @@
     <string name="jeejen_card_title_incoming_call">Prichádzajúci hovor</string>
     <string name="jeejen_card_title_call_cancel">Zrušiť hovor</string>
     <string name="jeejen_card_title_call_ended">Hovor ukončený</string>
+    <string name="cancel">Zrušiť</string>
     <string name="phoneAppLabel">Telefón</string>
     <string name="inCallLabel">InCallUI</string>
     <string name="onscreen_add_call_text">Pridať hovor</string>
@@ -37,8 +38,10 @@
     <string name="contacts_icon_label">Kontakty</string>
     <string name="conference_call_number">Ľudí: %s</string>
     <string name="conference_call_description" formatted="false">%s,%s atď. celkovo %s</string>
+    <string name="separate_from_conference">Odpojiť hovor</string>
+    <string name="call_title_redialing_with_times">Opakované %d krát</string>
     <string name="onHold">Podržaný hovor</string>
-    <string name="unknown">Neznámé</string>
+    <string name="unknown">Neznáme</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="payphone">Verejný telefón</string>
     <string name="callFailed_userBusy">Linka je obsadená.</string>
@@ -204,8 +207,8 @@ Ak sa problém opakuje, obráťte sa na svojho operátora."</string>
     <string name="data_enabled">Dátové prenosy</string>
     <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
     <string name="roaming">Dáta v roamingu</string>
-    <string name="roaming_enable">Dátové prenosy v roamingu sú povolené</string>
-    <string name="roaming_disable">Dátové prenosy v roamingu sú zakázané</string>
+    <string name="roaming_enable">Dátové prenosy v roamingu</string>
+    <string name="roaming_disable">Dátové prenosy v roamingu</string>
     <string name="roaming_reenable_message">Pripojenie dátových služieb bolo prerušené, pretože ste opustili domovskú sieť a datové služby pri roamingu máte vypnuté.</string>
     <string name="roaming_warning">Naozaj chcete povoliť dátové služby v roamingu? Vystavujete sa nebezpečiu vysokých poplatkov.</string>
     <string name="gsm_umts_options">GSM/UMTS Možnosti</string>
@@ -553,6 +556,7 @@ Ak sa problém opakuje, obráťte sa na svojho operátora."</string>
     <string name="advanced_settings_container">rozšírené nastavenia</string>
     <string name="auth_username">AuthUserName</string>
     <string name="not_voice_capable">Hlasové hovory nie sú podporované</string>
+    <string name="respond_via_sms_canned_response_1">Teraz nemôžem hovoriť, čo sa deje?</string>
     <string name="respond_via_sms_canned_response_2">Zavolám späť.</string>
     <string name="respond_via_sms_canned_response_3">Zavolám neskôr.</string>
     <string name="respond_via_sms_canned_response_4">Nemôžem telefonovať, zavolajte neskôr.</string>
@@ -619,7 +623,9 @@ Ak sa problém opakuje, obráťte sa na svojho operátora."</string>
     <string name="online_check_provider_name_by_cmb">China Merchants Bank</string>
     <string name="online_check_warning_info_by_cmb">"Always verify the identity of the person you're speaking with by phone or video before responding to any messages involving your personal finances."</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
+    <string name="livetalk_provider_info">Poskytované %s</string>
     <string name="livetalk_waiting">Čakanie...</string>
+    <string name="livetalk_left_minute">Ostáva %smin</string>
     <string name="description_direction_down_left">Vľavo dole</string>
     <string name="description_direction_down_right">Vpravo dole</string>
     <string name="description_direction_left">Vľavo pre %s.</string>
@@ -649,7 +655,57 @@ Ak sa problém opakuje, obráťte sa na svojho operátora."</string>
     <string name="stk_cc_ss_to_dial_error">SS request modified to DIAL request.</string>
     <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
     <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
+    <string name="accessibility_bluetooth_headset_selected">Vybrané bluetooth slúchadlo</string>
+    <string name="accessibility_call_put_on_hold">Hovor podržaný.</string>
+    <string name="accessibility_call_removed_from_hold">Hovor odobraný z podržaných.</string>
+    <string name="accessibility_call_unmuted">Hovor stíšený.</string>
+    <string name="accessibility_earpiece_selected">Vybrané slúchadlo</string>
+    <string name="accessibility_speakerphone_selected">Vybraný reproduktor</string>
+    <string name="accessibility_wired_headset_selected">Vybrané Hands-free</string>
+    <string name="antispam_notification_title">Neznáme číslo</string>
+    <string name="call_description_recording">Nahrávanie...</string>
+    <string name="call_recording_notification_message">Prehrať.</string>
+    <string name="call_recording_notification_message_low_storage">SD karta je plná.</string>
+    <string name="call_recording_notification_message_sd_unmounted">SD karta odobraná.</string>
+    <string name="call_recording_notification_title">Hovor je nahraný</string>
+    <string name="call_recording_notification_title_error">Nebolo možné nahrať hovor</string>
+    <string name="card_title_callback_number">"Vaše číslo na spätné volanie
+ %1$s"</string>
+    <string name="card_title_callback_number_emergency">"Vaše číslo na spätné tiesňové volanie
+ %1$s"</string>
+    <string name="card_title_video_call">Video hovor</string>
+    <string name="card_title_video_call_connecting">Pripájanie videa</string>
+    <string name="card_title_video_call_error">Nie je možné pripojiť video hovor</string>
+    <string name="card_title_video_call_requesting">Žiada sa video</string>
+    <string name="description_direction_down">Prejdite prstom nadol: %s.</string>
+    <string name="description_target_accept_upgrade_to_video_request">Prijať žiadosť o videohovor</string>
+    <string name="description_target_answer_audio_call">Prijať ako hlasový hovor</string>
+    <string name="description_target_answer_video_call">Prijať ako videohovor</string>
+    <string name="description_target_decline_upgrade_to_video_request">Odmietnuť video</string>
+    <string name="incall_error_missing_voicemail_number">Neznáme číslo hlasovej schránky.</string>
+    <string name="incoming_via_template">Prichádzajúce cez %s</string>
+    <string name="msim_select_default_time_left">(%d s)</string>
+    <string name="notification_action_accept">Prijať</string>
+    <string name="notification_action_answer_video">Video</string>
+    <string name="notification_action_answer_voice">Hlas</string>
+    <string name="notification_action_dismiss">Odmietnuť</string>
+    <string name="notification_incoming_video_call">Prichádzajúci videohovor</string>
+    <string name="notification_requesting_video_call">Prichádzajúca žiadosť o video</string>
+    <string name="onscreenChangeToVoiceText">Zmeniť na hlasový hovor</string>
+    <string name="onscreenOverflowText">Ďalšie možnosti</string>
+    <string name="onscreenPauseVideoText">Pozastaviť video</string>
+    <string name="onscreenSwitchCameraText">Prepnúť kameru</string>
+    <string name="overflowAddMenuItemText">Pridať hovor</string>
+    <string name="overflowHoldMenuItemText">Podržať hovor</string>
+    <string name="overflowMergeMenuItemText">Zlúčiť hovory</string>
+    <string name="overflowResumeMenuItemText">Obnoviť hovor</string>
+    <string name="overflowSwapMenuItemText">Zameniť hovory</string>
+    <string name="select_account_dialog_title">Vyberte účet</string>
+    <string name="select_voice_call_sim">Vyberte SIM kartu</string>
+    <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
+    <string name="call_extension_conference_mode">Konferencia</string>
     <string name="call_title_redialing_with_times_miui">Volané %d krát</string>
+    <string name="onscreen_audio_mode_conference">Konferencia</string>
     <string name="respond_via_sms_canned_response_1_miui">"Ospravedlňujem  sa, momentálne nemôžem prijať hovor. Zavolám vám neskôr."</string>
     <string name="separate_from_conference_miui">Individuálne hovory</string>
 </resources>

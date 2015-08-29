@@ -11,6 +11,7 @@ Visualizar no teclado selecionado a"</string>
     <string name="page_layout_title">Layout do sistema</string>
     <string name="page_layout_label">Ajuste o tamanho do texto e layout de sua Tela inicial, aba de notificações, teclado de discagem e mais.</string>
     <string name="sim_card_detection">Insira um cartão SIM</string>
+    <string name="sim_card_detecting_title">Verificar cartão SIM</string>
     <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
     <string name="sim_card_detecting">Verificando o cartão SIM…</string>
     <string name="other_settings">Configurações adicionais</string>
@@ -20,14 +21,17 @@ Visualizar no teclado selecionado a"</string>
     <string name="other_settings_user_experience_summary">Ajude a melhorar a MIUI enviando dados de uso anônimos (%s)</string>
     <string name="other_settings_user_experience_summary1">ver Política de Privacidade</string>
     <string name="next">Avançar</string>
+    <string name="skip_underline">&lt;u>Pular etapa&lt;/u></string>
     <string name="sim_dectection_next">Continuar</string>
     <string name="shut_down">Desligar</string>
     <string name="sim_redetection">Verificar cartão SIM novamente</string>
     <string name="title_congratulation">Você está pronto para começar!</string>
+    <string name="congratulation_label" />
     <string name="pref_title_voice_slot">Cartão SIM preferencial para voz</string>
     <string name="pref_title_data_slot">Cartão SIM preferencial para dados</string>
     <string name="summary_not_set">Não definido</string>
     <string name="summary_sim_card">Cartão %1$d%2$s</string>
+    <string name="summary_sim_card_with_operator">Cartão %1$d: %2$s</string>
     <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
     <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s</string>
     <string name="terms_of_use">Termos e Condições</string>
@@ -45,7 +49,5 @@ Você precisa aceitar os termos abaixo o antes de começar a usar a MIUI."</stri
     <string name="locale_picker_title">Selecione sua localização</string>
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Reiniciar</string>
-    <string name="locale_picker_desc">Caso deseje alterar sua localização mais tarde, será necessário redefinir o dispositivo para os padrões de fábrica.</string>
-    <string name="locale_picker_confirm_dialog_title">Selecione sua localização</string>
-    <string name="locale_picker_confirm_dialog_desc">"Definir %s como sua localização? "</string>
+    <string name="install_preinstall_app">Carregando apps…</string>
 </resources>

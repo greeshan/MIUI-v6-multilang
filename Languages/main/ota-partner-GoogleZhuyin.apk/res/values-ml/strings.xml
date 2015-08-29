@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Google സുയിൻ എഴുത്ത് ഉപകരണ ക്രമീകരണങ്ങൾ</string>
+    <string name="ime_name">Google സുയിൻ എഴുത്ത് ഉപകരണങ്ങൾ</string>
+    <string name="label_subtype_zhuyin">ചൈനീസ് സുയിൻ</string>
+</resources>

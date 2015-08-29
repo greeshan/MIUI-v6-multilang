@@ -282,6 +282,7 @@
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Отиди</string>
     <string name="jump_date_full">Отиди на дата</string>
+    <string name="select_date">Избор на дата</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Ново събитие</string>
@@ -331,4 +332,5 @@
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Празник</string>
     <string name="setting_online_calendar">Абонамент за календара</string>
+    <string name="action_label">Enter</string>
 </resources>

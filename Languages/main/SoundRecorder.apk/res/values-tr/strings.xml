@@ -29,6 +29,7 @@
     <string name="deleting_message">Siliniyor...</string>
     <string name="rename_dialog_title">Bu kaydı adlandır</string>
     <string name="rename_duplicate">Kayıt adı zaten var.</string>
+    <string name="rename_no_more_tip">Tekrar Gösterme</string>
     <string name="record_picker_title">Kaydı seçin</string>
     <string name="dialog_title_storage_full">Depolama alanı dolu</string>
     <string name="dialog_content_storage_full">Depolama alanı az olduğu için kayıt durduruldu, dosya gezgini ile yer açmak istiyor musunuz?</string>
@@ -89,6 +90,7 @@
     <string name="data_connection_button_text">Tamam</string>
     <string name="error_sdcard_unmounted">SD kart çıkartılmış, lütfen tekrar SD kartınızı yerleştirin</string>
     <string name="record_back_pressed_hint">Durdurmak için tekrar dokunun</string>
+    <string name="record_mark_point">İşaretle %s</string>
     <string name="access_error">Ziyaretçi modunda kayıt yapılamaz</string>
     <string name="button_ok">Tamam</string>
     <string name="hour">%d saat </string>
@@ -107,4 +109,6 @@
     <string name="start_recording">Kaydı Başlat</string>
     <string name="stop_recording">Kaydı Durdur</string>
     <string name="view_list_of_recordings">Kayıtlara gözat</string>
+    <string name="timer_format" formatted="false">%02d:%02d</string>
+    <string name="wifi_recommended_body" formatted="false">Bu dosyayı (%s) indirmek için mobil veri bağlantınızı kullanmanız, veri kullanımınızı arttıracaktır. Tarifenizin veri kullanım limitini aşarsanız, operatörünüz tarafından ek ücretlendirmelere maruz kalabilirsiniz. İndirme işlemini bir Wi-Fi ağına bağlanılana kadar bekletmek için %s dokunun.</string>
 </resources>

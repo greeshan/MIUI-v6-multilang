@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wetterservice</string>
+    <string name="choose_city">Stadt wählen</string>
+    <string name="searching">Suche läuft; Moment bitte…</string>
+    <string name="no_found">Keine zu %s passende Stadt gefunden. Bitte prüfen Sie Ihre Eingabe.</string>
+    <string name="net_error">Netzwerk nicht verfügbar. Bitte überprüfen.</string>
+    <string name="no_city_error">Keine näheren Angaben zur Stadt gefunden, bitte stellen Sie Uhrzeit und Zeitzone richtig ein.</string>
+    <string name="searching_fail">Stadtsuche fehlgeschlagen.</string>
+    <string name="no_weather_error">Keine näheren Wetterdaten gefunden, bitte stellen Sie Uhrzeit und Zeitzone richtig ein.</string>
+    <string name="no_weather">Derzeit gibt es für %s keine Wetterdaten.</string>
+    <string name="setting_title">Einstellungen</string>
+    <string name="temperature">Temperatureinheiten</string>
+    <string name="tem_celsius">Celsius</string>
+    <string name="cities_title">Städte</string>
+    <string name="update_fre">Aktualisierungsintervall</string>
+    <string name="every12">Alle 12 Stunden</string>
+    <string name="weatherserver">Wetter-Server</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="menu_add_city">Stadt hinzufügen</string>
+    <string name="add_city">Zum Zufügen einer neuen Stadt auf das Symbol tippen</string>
+    <string name="remove">Entfernen</string>
+    <string name="warn">Bis zu 8 Städte können zugefügt werden.</string>
+    <string name="has_chosen">wurde ausgewählt.</string>
+    <string name="no_city">Keine Städte</string>
+    <string name="powered_by">Präsentiert von:</string>
+    <string name="menu_about">Info</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Löschen</string>
+    <string name="no">Abbrechen</string>
+    <string name="select_all">Alles markieren</string>
+    <string name="deselect_all">Alle abwählen</string>
+    <string name="delete">Löschen</string>
+</resources>

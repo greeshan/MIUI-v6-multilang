@@ -611,13 +611,13 @@ Postupujte dle pokynů"</item>
         <item>Email</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>Síť je pomalá z důvodu jejího přetížení</item>
+        <item>Síť je pomalá z důvodu přetížení</item>
         <item>Síť je pomalá z důvodu slabého signálu</item>
         <item>Přesouvání...</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Interní úložiště</item>
-        <item>Externí úložiště</item>
+        <item>Interné úložiště</item>
+        <item>Externé úložiště</item>
     </string-array>
     <string-array name="whetstone_level_entries">
         <item>Vypnuta</item>
@@ -634,8 +634,36 @@ Postupujte dle pokynů"</item>
         <item>Domácí síť</item>
         <item>Všechny síť</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Zeptat se na povolení</item>
+        <item>Povoleno</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Zeptat se</item>
+        <item>Povoleno</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>Okamžitě</item>
+        <item>1 min.</item>
+        <item>2 min.</item>
+        <item>5 min.</item>
+        <item>15 min.</item>
+        <item>30 min.</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Vypnout animace systému</item>
+        <item>Povolit animace systému</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Pro zrychlení zařízení vypněte animace systému</item>
+        <item>Zobrazení animací systému může zpomalit vaše zařízení</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Restartovat zařízení pro aplikování těchto změn?</item>
+        <item>Restartovat zařízení pro aplikování těchto změn?</item>
+    </string-array>
     <string-array name="miracast_policies">
-        <item>Krátká prodleva</item>
+        <item>Krátké zpoždění</item>
         <item>Standard</item>
         <item>Lepší kvalita</item>
     </string-array>

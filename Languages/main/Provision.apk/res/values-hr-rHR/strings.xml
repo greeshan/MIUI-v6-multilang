@@ -11,6 +11,7 @@ Prikaži odabrane tipkovnice "</string>
     <string name="page_layout_title">Raspored sustava</string>
     <string name="page_layout_label">Prilagodite veličinu teksta i raspored vašeg Početnog zaslona, panela obavijesti, tipkovnice, i još mnogo toga.</string>
     <string name="sim_card_detection">Umetnite SIM karticu</string>
+    <string name="sim_card_detecting_title">Provjera SIM kartice</string>
     <string name="sim_card_detection_info">Za umetanje SIM kartice, pročitajte upute koje ste dobili s uređajem</string>
     <string name="sim_card_detecting">Provjeravam SIM karticu…</string>
     <string name="other_settings">Dodatne postavke</string>
@@ -20,6 +21,7 @@ Prikaži odabrane tipkovnice "</string>
     <string name="other_settings_user_experience_summary">Pomozite nam poboljšati MIUI slanjem anonimnih podataka korištenja (%s)</string>
     <string name="other_settings_user_experience_summary1">prikaži Pravila o Privatnosti</string>
     <string name="next">Dalje</string>
+    <string name="skip_underline">&lt;u>Preskoči ovaj korak&lt;/u></string>
     <string name="sim_dectection_next">Nastavi</string>
     <string name="shut_down">Isključivanje</string>
     <string name="sim_redetection">Provjeri ponovo</string>

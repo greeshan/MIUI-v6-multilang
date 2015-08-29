@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">ಆಯ್ಕೆಮಾಡಿದ ಐಟಂಗಳ ಆಳಿಸುವುದೇ?</item>
+        <item quantity="one">ಆಯ್ಕೆಮಾಡಿದ ಐಟಂ ಆಳಿಸುವುದೇ?</item>
+    </plurals>
+</resources>

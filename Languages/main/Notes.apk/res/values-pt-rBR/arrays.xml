@@ -20,11 +20,11 @@
         <item>Enorme</item>
     </string-array>
     <string-array name="welcome_notes_content">
-        <item>"Agora você pode anotar ideias e lembretes com facilidade usando
+        <item>"Toque para criar uma anotação
 "</item>
-        <item>"Anexe fotos ou contatos
+        <item>"Para adicionar uma imagem ou mostrar caixas de seleção, toque no botão abaixo
 "</item>
-        <item>"Risque tarefas concluídas com o dedo
+        <item>"Pressione e segure uma anotação para fixá-la, movê-la ou excluí-la
 "</item>
         <item>"E outros ótimos recursos!
   - Sincronize com a Mi Cloud

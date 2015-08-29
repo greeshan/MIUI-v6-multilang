@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Novi mjesec</item>
+        <item>Povećanje srpa</item>
+        <item>Prva četvrtina</item>
+        <item>Mlađak</item>
+        <item>Puni mjesec</item>
+        <item>Mlađak</item>
+        <item>Zadnja četvrtina</item>
+        <item>Smanjenje srpa</item>
+        <item>Tamni mjesec</item>
+    </string-array>
     <string-array name="weather_type">
-        <item>Vedro</item>
+        <item>Sunčano</item>
         <item>Oblačno</item>
         <item>Naoblaka</item>
         <item>Maglovito</item>
@@ -30,11 +41,11 @@
         <item>Nema podataka</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Najslabije</item>
-        <item>Slabije</item>
-        <item>Srednje</item>
-        <item>Jako</item>
-        <item>Najjače</item>
+        <item>Najslabiji</item>
+        <item>Slab</item>
+        <item>Srednji</item>
+        <item>Jak</item>
+        <item>Najjači</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vjetar S</item>
@@ -45,16 +56,5 @@
         <item>Vjetar JZ</item>
         <item>Vjetar Z</item>
         <item>Vjetar SZ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Novi mjesec</item>
-        <item>Povećanje srpa</item>
-        <item>Prva četvrtina</item>
-        <item>Mlađak</item>
-        <item>Puni mjesec</item>
-        <item>Mlađak</item>
-        <item>Zadnja četvrtina</item>
-        <item>Smanjenje srpa</item>
-        <item>Tamni mjesec</item>
     </string-array>
 </resources>

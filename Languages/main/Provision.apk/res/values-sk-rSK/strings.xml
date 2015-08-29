@@ -10,6 +10,7 @@
     <string name="page_layout_title">Rozloženie systému</string>
     <string name="page_layout_label">Nastaviť veľkosť textu a rozloženie plochy, prepínačov, číselníka a ďalších.</string>
     <string name="sim_card_detection">SIM karta sa nenašla</string>
+    <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
     <string name="sim_card_detection_info">Pre vytvorenie Xiaomi účtu sa vyžaduje SIM karta.</string>
     <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
     <string name="other_settings">Ďalšie nastavenia</string>
@@ -19,10 +20,12 @@
     <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s</string>
     <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
     <string name="next">Ďalej</string>
+    <string name="skip_underline">Preskočiť</string>
     <string name="sim_dectection_next">Pokračovať</string>
     <string name="shut_down">Vypnúť</string>
     <string name="sim_redetection">Skontr. SIM</string>
-    <string name="title_congratulation">Hotovo! Prihláste sa na www.miuios.cz :)</string>
+    <string name="title_congratulation">"Hotovo!
+Prihláste sa na www.miuios.cz :)"</string>
     <string name="congratulation_label" />
     <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
     <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
@@ -45,10 +48,10 @@
     <string name="provision_finish">OK</string>
     <string name="provision_finish_restart">Reštart</string>
     <string name="install_preinstall_app">Načítavanie aplikácií...</string>
-    <string name="locale_picker_desc">Ak chcete zmeniť vašu krajinu neskôr, bude nutné urobiť Factory reset zariadenia</string>
-    <string name="locale_picker_confirm_dialog_title">Nastavenie polohy</string>
-    <string name="locale_picker_confirm_dialog_desc">Vybrať %s ako váš región?</string>
     <string name="logo_congratulation">Hotovo!</string>
+    <string name="locale_picker_desc">Ak chcete zmeniť vašu krajinu neskôr, bude nutné urobiť Factory reset zariadenia</string>
     <string name="terms_of_service">Podmienky používania</string>
+    <string name="locale_picker_confirm_dialog_desc">Vybrať %s ako váš región?</string>
+    <string name="locale_picker_confirm_dialog_title">Nastavenie polohy</string>
     <string name="congratulation_next">Spustiť MIUI</string>
 </resources>

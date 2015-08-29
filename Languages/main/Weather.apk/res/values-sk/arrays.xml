@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Nov</item>
+        <item>Dorastajúci kosáčik</item>
+        <item>Prvá štvrť</item>
+        <item>Dorastajúci Mesiac</item>
+        <item>Spln</item>
+        <item>Cúvajúci mesiac</item>
+        <item>Posledná štvrť</item>
+        <item>Ubúdajúci kosáčik</item>
+        <item>Zatmenie</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
@@ -45,16 +56,5 @@
         <item>Vietor JZ</item>
         <item>Vietor Z</item>
         <item>Vietor SZ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Nov</item>
-        <item>Dorastajúci kosáčik</item>
-        <item>Prvá štvrť</item>
-        <item>Dorastajúci Mesiac</item>
-        <item>Spln</item>
-        <item>Cúvajúci mesiac</item>
-        <item>Posledná štvrť</item>
-        <item>Ubúdajúci kosáčik</item>
-        <item>Zatmenie</item>
     </string-array>
 </resources>

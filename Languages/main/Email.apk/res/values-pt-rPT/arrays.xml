@@ -1,19 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="account_providers">
+        <item>content://com.android.email.provider/uiaccts</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values">
+        <item>-1</item>
+        <item>10</item>
+        <item>60</item>
+        <item>240</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="account_settings_check_frequency_values_push">
+        <item>-2</item>
+        <item>-1</item>
+        <item>10</item>
+        <item>60</item>
+        <item>240</item>
+        <item>720</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_mail_window_values_with_default">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="account_settings_types_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="alphabet_chars">
+        <item>☆</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>\#</item>
+        <item>∅</item>
+    </string-array>
     <string-array name="compose_modes">
         <item>Responder</item>
         <item>Responder a todos</item>
-        <item>Encaminhar</item>
+        <item>Reencaminhar</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_size">
+        <item>0.8</item>
+        <item>0.9</item>
+        <item>1.0</item>
+        <item>1.2</item>
+        <item>1.5</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Texto minúsculo</item>
-        <item>Texto pequeno</item>
-        <item>Texto normal</item>
-        <item>Texto grande</item>
-        <item>Texto enorme</item>
+        <item>Minúsculo</item>
+        <item>Pequeno</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
     </string-array>
+    <string-array name="general_preference_text_zoom_values">
+        <item>tiny</item>
+        <item>small</item>
+        <item>normal</item>
+        <item>large</item>
+        <item>huge</item>
+    </string-array>
+    <array name="letter_tile_colors">
+        <item>#fff16364</item>
+        <item>#fff58559</item>
+        <item>#fff9a43e</item>
+        <item>#ffe4c62e</item>
+        <item>#ff67bf74</item>
+        <item>#ff59a2be</item>
+        <item>#ff2093cd</item>
+        <item>#ffad62a7</item>
+    </array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>Recentes</item>
+        <item>Vistos recentemente</item>
         <item>Formato</item>
         <item>Nome</item>
         <item>Remetente</item>
@@ -21,89 +116,88 @@
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>Sistema</item>
-        <item>De uso frequente</item>
+        <item>Utilizado frequentemente</item>
         <item>Todas as pastas</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Mais recente</item>
         <item>Mais antiga</item>
-        <item>Lista de conversas</item>
+        <item>Caixa de entrada</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
-        <item>Mostrar somente arquivar</item>
-        <item>Mostrar somente excluir</item>
-        <item>Mostrar arquivar e excluir</item>
+        <item>Mostrar só o ficheiro</item>
+        <item>Mostrar só eliminar</item>
+        <item>Mostrar o ficheiro e eliminar</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
-        <item>Exibir conversa mais recente depois de excluir</item>
-        <item>Exibir conversa mais antiga depois de excluir</item>
-        <item>Exibir a lista de conversas depois de excluir</item>
+        <item>Mostrar conversa mais recente depois de eliminar</item>
+        <item>Mostrar conversa mais antiga depois de eliminar</item>
+        <item>Mostrar caixa de entrada depois de eliminar</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
-        <item>Mostrar somente arquivar</item>
-        <item>Mostrar somente excluir</item>
-        <item>Mostrar arquivar e excluir</item>
+        <item>Mostrar só o ficheiro</item>
+        <item>Mostrar só eliminar</item>
+        <item>Mostrar o ficheiro e eliminar</item>
     </string-array>
-    <string-array name="search_tabs_name_array">
-        <item>@string/search_tabs_name_recipient</item>
-        <item>@string/search_tabs_name_sender</item>
-        <item>@string/search_tabs_name_subject</item>
-        <item>@string/search_tabs_name_all</item>
-    </string-array>
+    <integer-array name="senders_lengths">
+        <item>27</item>
+        <item>27</item>
+    </integer-array>
+    <integer-array name="senders_with_attachment_lengths">
+        <item>25</item>
+        <item>25</item>
+    </integer-array>
     <string-array name="signature_normal_string_array">
         <item>Blog:</item>
         <item>Site:</item>
         <item>Email:</item>
-        <item>mobile:</item>
-        <item>Phone:</item>
+        <item>Telemóvel:</item>
+        <item>Telefone:</item>
         <item>T:</item>
         <item>www.</item>
         <item>F:</item>
         <item>E:</item>
-        <item>E-mail:</item>
+        <item>Email:</item>
         <item>Tel:</item>
         <item>Fax:</item>
-        <item>Mail:</item>
+        <item>Email:</item>
         <item>QQ:</item>
         <item>MSN:</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
-        <item>Address:</item>
+        <item>Endereço:</item>
         <item>Tel:</item>
-        <item>Name:</item>
+        <item>Nome:</item>
         <item>Email:</item>
-        <item>Mobile:</item>
+        <item>Telemóvel:</item>
         <item>WeChat:</item>
         <item>Fax:</item>
-        <item>Postal Code:</item>
+        <item>Código Postal:</item>
     </string-array>
     <string-array name="signature_special_string_array">
-        <item>Disclaimer:</item>
-        <item>Email Disclaimer</item>
-        <item>Sent via WPSMail</item>
-        <item>Sent from</item>
-        <item>Sent with</item>
-        <item>Thanks,</item>
-        <item>Best Regards</item>
+        <item>Aviso de Legalidade:</item>
+        <item>Email de Aviso de Legalidade</item>
+        <item>Enviado por WPSMail</item>
+        <item>Enviado do</item>
+        <item>Enviado com</item>
+        <item>Obrigado,</item>
+        <item>Com os melhores cumprimentos</item>
     </string-array>
     <string-array name="signature_special_string_array_next">
-        <item>Thanks,</item>
-        <item>Best Regards</item>
-        <item>Sent from my</item>
-        <item>Original email</item>
-        <item>Sent from my</item>
-        <item>Sent from</item>
-        <item>From</item>
-        <item>This email</item>
-        <item>Disclaimer</item>
-        <item>Email Disclaimer</item>
+        <item>Obrigado,</item>
+        <item>Com os melhores cumprimentos</item>
+        <item>Enviado do meu</item>
+        <item>Email original</item>
+        <item>Enviado do meu</item>
+        <item>Enviado do</item>
+        <item>Do</item>
+        <item>Este email</item>
+        <item>Aviso de Legalidade</item>
+        <item>Email de Aviso de Legalidade</item>
     </string-array>
-    <string-array name="sync_status">
-        <item>Êxito</item>
-        <item>Sem ligação.</item>
-        <item>Falha ao iniciar sessão.</item>
-        <item>Erro de segurança.</item>
-        <item>Não foi possível sincronizar.</item>
-        <item>Erro interno</item>
+    <string-array name="smtp_host_prefixes">
+        <item>pop3</item>
+        <item>pop</item>
+        <item>imap</item>
     </string-array>
 </resources>

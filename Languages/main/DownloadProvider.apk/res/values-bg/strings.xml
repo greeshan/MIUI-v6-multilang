@@ -16,6 +16,15 @@
     <string name="notif_title_multiple_downloading">Изтегляне: %1$d</string>
     <string name="notif_title_file_size">Общо: %1$d</string>
     <string name="paused_waiting_for_network">В очакване на мрежа</string>
+    <string name="warning_tip_title">Предупреждение за данни</string>
+    <string name="warning_tip_content">Вече не сте свързани с Wi-Fi. Използването на мобилни данни за това изтегляне ще консумира от пакетът ви от данни. Ако превишите лимита си, е възможно начисляването на допълнителни такси.</string>
+    <string name="warning_tip_cancel">Изтегляне</string>
+    <string name="warning_tip_ok">Пауза</string>
+    <string name="dialog_not_show_again">Не показвай отново</string>
+    <string name="notification_download_complete">Изтеглянето завърши.</string>
+    <string name="notification_download_failed">Изтеглянето не е успешно.</string>
+    <string name="notification_download_success_more">Изтеглени: %1$d</string>
+    <string name="notification_download_failed_more">%1$d елементи не могат да се изтеглят</string>
     <string name="app_label">Мениджър изтегляния</string>
     <string name="permlab_downloadManager">Достъп до диспечера за изтегляне.</string>
     <string name="permdesc_downloadManager">Дава на приложението достъп до диспечера за изтегляне и му позволява да го използва за изтегляне на файлове. Злонамерен софтуер може да използва това за прекъсване на изтеглянията и за достъп до лична информация.</string>
@@ -32,8 +41,6 @@
     <string name="permlab_accessAllDownloads">Достъп до всички изтегляния в системата</string>
     <string name="permdesc_accessAllDownloads">Разрешава на приложението да преглежда и променя всички изтегляния, започнати от всяко приложение в системата.</string>
     <string name="download_unknown_title">&lt;Без заглавие></string>
-    <string name="notification_download_complete">Изтеглянето завърши.</string>
-    <string name="notification_download_failed">Изтеглянето не е успешно.</string>
     <string name="notification_need_wifi_for_size">Изисква се Wi-Fi.</string>
     <string name="notification_paused_in_background">На пауза на заден план.</string>
     <string name="wifi_required_title">Изтеглянето е твърде голямо за мобилната мрежа</string>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ble_profile_mi_band">
+        <item>Vibrar quando tocando</item>
+        <item>Vibrar ao receber mensagem</item>
+        <item>Vibrar com alarme</item>
+    </string-array>
+    <string-array name="ble_profile_mi_key">
+        <item>Tirar foto</item>
+        <item>Encontrar telefone</item>
+        <item>Encontrar Mi-key</item>
+    </string-array>
+</resources>

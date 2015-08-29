@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">நீக்கு %1$s செருகேடுகள் (%2$s மொத்தம்)?</item>
+        <item quantity="one">நீக்கு %1$s செருகேடு (%2$s மொத்தம்)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> படங்களை Mi கிளவுட்டிலிருந்து நீக்கவா?&lt;/Data></item>
+        <item quantity="one">"         "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> படத்தை Mi கிளவுட் இலிருந்து நீக்கவா?&lt;/Data>     </item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">%s படங்களை நீக்க வேண்டுமா?</item>
+        <item quantity="one">%s படத்தை நீக்கவா?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"         "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> வீடியோக்களை Mi கிளவுட் இலிருந்து நீக்கவா?&lt;/Data>"      "</item>
+        <item quantity="one">"         "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> வீடியோவை Mi கிளவுட் இலிருந்து நீக்கவா?&lt;/Data>"      "</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">%s வீடியோக்களை நீக்கவா?</item>
+        <item quantity="one">%s வீடியோவை நீக்கவா?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">" "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> படங்களை Mi கிளவுட்டிலிருந்து நீக்கவா?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> படத்தை Mi கிளவுட்டிலிருந்து நீக்கவா?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">"         "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> வீடியோவை இந்தச் சாதனம் மற்றும் Mi கிளவுடிலிருந்து நீக்கவா?&lt;/Data>"      "</item>
+        <item quantity="one">"         "&lt;Data>             &lt;xliff:g id=ITEM>%s&lt;/xliff:g> வீடியோவை இந்தச் சாதனம் மற்றும் Mi Cloud இலிருந்து நீக்கவா?&lt;/Data>"      "</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> நீக்கு &lt;xliff:g id=ITEM>%1$d வீடியோக்கள்&lt;/xliff:g> இருந்து %2$d செருகேடுகள்?&lt;/Data>" "</item>
+        <item quantity="one">" "&lt;Data> நீக்கு &lt;xliff:g id=ITEM>%1$d வீடியோ&lt;/xliff:g> இருந்து %2$d செருகேடுகள்?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$dதேர்ந்தெடுக்கப்பட்டன</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d படங்கள்</item>
+        <item quantity="one">%d படம்</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d வீடியோக்கள்</item>
+        <item quantity="one">%d வீடியோ</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d கோப்புறைகள்</item>
+        <item quantity="one">%d கோப்புறை</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">நீங்கள் இந்த %d கோப்புகளை நீக்க அனுமதி இல்லை.</item>
+        <item quantity="one">நீங்கள் இந்த %d கோப்பை நீக்க அனுமதி இல்லை.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">நீங்கள் %d உருப்படிகளை தேர்ந்தெடுக்க முடியும்</item>
+        <item quantity="one">நீங்கள் %d உருப்படியை தேர்ந்தெடுக்க முடியும்</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d படங்கள்</item>
+        <item quantity="one">%1$d படம்</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d உருப்படிகள்</item>
+        <item quantity="one">%1$d உருப்படி</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%2$s இல் %1$s படம்</item>
+        <item quantity="one">%2$s இல் %1$s படம்</item>
+    </plurals>
+</resources>

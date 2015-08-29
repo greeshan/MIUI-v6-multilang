@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Lua Nova</item>
+        <item>Quarto crescente</item>
+        <item>Primeiro trimestre</item>
+        <item>Quarto crescente</item>
+        <item>Lua Cheia</item>
+        <item>Lua minguante</item>
+        <item>Minguante crescente</item>
+        <item>Quarto minguante</item>
+        <item>Lua Escura</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Sol</item>
         <item>Nublado</item>
@@ -27,7 +38,7 @@
         <item>Pó</item>
         <item>Neblina</item>
         <item>Chuva gelada</item>
-        <item>Sem dados disponiveis</item>
+        <item>Sem dados disponíveis</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Muito fraco</item>
@@ -45,16 +56,5 @@
         <item>Vento SW</item>
         <item>Vento W</item>
         <item>Vento NW</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Lua Nova</item>
-        <item>Quarto crescente</item>
-        <item>Primeiro trimestre</item>
-        <item>Quarto crescente</item>
-        <item>Lua Cheia</item>
-        <item>Lua minguante</item>
-        <item>Minguante crescente</item>
-        <item>Quarto minguante</item>
-        <item>Lua Escura</item>
     </string-array>
 </resources>

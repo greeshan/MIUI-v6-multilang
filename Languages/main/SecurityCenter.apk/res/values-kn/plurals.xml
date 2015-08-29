@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ದಿನಗಳು "</item>
+        <item quantity="one">"%d ದಿನ "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d ಗಂಟೆಗಳು "</item>
+        <item quantity="one">"%d ಗಂ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d ನಿಮಿಷಗಳು "</item>
+        <item quantity="one">"%d ನಿಮಿಷ "</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ಅಪ್ಲಿಕೇಶನ್ ಗಳ ನವೀಕರಣಗಳು ಲಭ್ಯವಿದೆ.</item>
+        <item quantity="one">%d ಅಪ್ಲಿಕೇಶನ್ ನವೀಕರಣಗಳು ಲಭ್ಯವಿದೆ.</item>
+    </plurals>
+</resources>

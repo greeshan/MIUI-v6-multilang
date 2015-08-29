@@ -23,7 +23,7 @@
     <string name="all_address_choose_hint">Wszystkie lokalizacje</string>
     <string name="address_choose_hint">%1$s, %2$s, i %3$d</string>
     <string name="two_address_choose_hint">%1$s, %2$s</string>
-    <string name="one_address_choose_hint">%s 1</string>
+    <string name="one_address_choose_hint">%s1</string>
     <string name="marked_by_user">oznaczony jako</string>
     <string name="marked_by_others">%d oznaczonych jako</string>
     <string name="dlg_black_antispam_message">Dodać wiadomość do blokowanych?</string>
@@ -215,6 +215,7 @@
     <string name="st_sub_title_customize_mode_name">Nazwa trybu</string>
     <string name="read_all_sms">Przeczytane</string>
     <string name="loding">Wczytywanie</string>
+    <string name="action_source_sms_title">Blokowany SMS</string>
     <string name="st_title_open_antispam">Włącz Firewall</string>
     <string name="st_title_antispam_mode">Tryby blokowania</string>
     <string name="st_sub_title_whiteblack_list_group">Blokowanie z listy</string>
@@ -286,5 +287,11 @@
     <string name="antispam_notificaiton_type_show_all">Wszystkie</string>
     <string name="antispam_notificaiton_type_show_except_blacklist">Spoza czarnej listy</string>
     <string name="antispam_notificaiton_type_show_none">Bez powiadomień</string>
+    <string name="quiet_off_mode">Zawsze przerywaj</string>
+    <string name="quiet_important_interruptions_mode">Tryb cichy</string>
+    <string name="quiet_mode">Zezwalaj na wyjątki</string>
+    <string name="quiet">Godziny ciszy</string>
+    <string name="quiet_group">Gdy ktoś dzwoni i przychodzą powiadomienia</string>
     <string name="APKTOOL_DUMMY_0130">false</string>
+    <string name="sim_not_ready_toast">Karta SIM nie jest gotowa. Proszę czekać...</string>
 </resources>

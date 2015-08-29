@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orų prognozių tarnyba</string>
+    <string name="choose_city">Pasirinkite miestą</string>
+    <string name="searching">Ieškoma, prašome palaukti...</string>
+    <string name="no_found">Nerasta miesto, kuris atitiktų %s. Patikrinkite įvestus žodžius.</string>
+    <string name="net_error">Tinklas neveikia. Patikrinkite jį.</string>
+    <string name="no_city_error">Neavyko gauti informacijos apie miestą. Tinkamai nustatykite sistemos laiką ir laiko juostą.</string>
+    <string name="searching_fail">Miesto rasti nepavyko.</string>
+    <string name="no_weather_error">Neavyko gauti informacijos apie orus. Tinkamai nustatykite sistemos laiką ir laiko juostą.</string>
+    <string name="no_weather">Šiuo metu nėra orų prognozės %s.</string>
+    <string name="setting_title">Sąranka</string>
+    <string name="temperature">Temperatūros matavimo vienetai</string>
+    <string name="tem_celsius">Laipsniai Celsijaus</string>
+    <string name="cities_title">Miestai</string>
+    <string name="update_fre">Naujinimo dažnumas</string>
+    <string name="every12">Kas 12 val.</string>
+    <string name="weatherserver">Orų prognozių serveris</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="menu_add_city">Pridėti miestą</string>
+    <string name="add_city">Paspauskite piktogramą, kad pridėtumėte naują miestą</string>
+    <string name="remove">Pašalinti</string>
+    <string name="warn">Daugiausia galima prisėti 8 miestus.</string>
+    <string name="has_chosen">pasirinkta.</string>
+    <string name="no_city">Miestų nėra</string>
+    <string name="powered_by">Autorius:</string>
+    <string name="menu_about">Apie</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Ištrinti</string>
+    <string name="no">Atšaukti</string>
+    <string name="select_all">Pasirinkti visus</string>
+    <string name="deselect_all">Atžymėti viską</string>
+    <string name="delete">Ištrinti</string>
+</resources>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="wallpaper_scrolling">всички</string>
     <string name="sharedUserId" />
     <string name="process" />
     <string name="application_name">MIUI Launcher</string>
@@ -10,13 +11,15 @@
     <string name="cancel_action">Отмяна</string>
     <string name="bad_wallpaper_source_prompt">Тапетът не може да се зареди</string>
     <string name="apply_action">Приложи</string>
+    <string name="download_action">Изтегляне</string>
     <string name="apply_as_lock_wallpaper_message">Тапетът да се приложи ли също и на закл. екран?</string>
     <string name="lock_screen_failed_message">Неуспешно прилагане</string>
     <string name="lock_screen_success_message">Приложен</string>
     <string name="wallpaper_failed_message">Тапетът не може да се приложи</string>
     <string name="image_too_small_message">Оригиналното изображение не е достатъчно голямо</string>
+    <string name="failed_to_load_image">Изображението не може да се зареди</string>
     <string name="wallpaper_success_message">Тапетът е приложен успешно</string>
-    <string name="is_setting_wallpaper_toast">Тапетът се задава…</string>
+    <string name="is_setting_wallpaper_message">Тапетът се настройва…</string>
     <string name="current_wallpaper">Текущ</string>
     <string name="menu_item_add_item">Добави към началния екран</string>
     <string name="group_shortcuts">Преки пътища</string>
@@ -26,6 +29,7 @@
     <string name="title_select_shortcut">Избери пряк път</string>
     <string name="title_select_live_folder">Избери папка</string>
     <string name="app_being_backup_message">Приложението е архивирано.</string>
+    <string name="app_being_restored_message">Приложението бе възстановено</string>
     <string name="menu_add">Добави</string>
     <string name="menu_wallpaper">Тапет</string>
     <string name="menu_search">Търсене</string>
@@ -49,9 +53,12 @@
     <string name="status_paused">на пауза</string>
     <string name="status_downloaded">изтеглено</string>
     <string name="status_installing">инсталира се</string>
-    <string name="loading_desktop">Зареждане начален екран...</string>
+    <string name="app_already_exist">Приложението вече съществува</string>
+    <string name="loading_desktop">Един момент…</string>
+    <string name="loading_wallpaper">Един момент…</string>
     <string name="start_activity_failed">Приложението не успя да стартира.</string>
     <string name="gadget_error_text">Проблем при зареждането на джаджа</string>
+    <string name="mtzgadget_missing_text">Вече не се поддържа, добавете отново</string>
     <string name="menu_edit">Редактирай джаджи</string>
     <string name="menu_sort">Сортиране на икони</string>
     <string name="menu_launcher_setting">Настройка на MIUI Launcher</string>
@@ -130,6 +137,7 @@
     <string name="transformation_type_rotate">3D ротация</string>
     <string name="pref_screen_transformation_type_title">Ефекти за преход между екраните</string>
     <string name="pref_wallpaper_scroll_type_title">Тип на превъртане на тапетa</string>
+    <string name="configure_wallpaper">Настройки</string>
     <string name="pref_cell_layout_size">Разпределение на иконите</string>
     <string name="pref_keep_layout_title">Запази текущата подредба</string>
     <string name="pref_keep_layout_summary">Промяната на оформлението на вашия начален екран няма да засегне поредността на иконите.</string>
@@ -141,6 +149,7 @@
     <string name="global_search_hint">Въведете дума за търсене</string>
     <string name="widget_global_search">Търсене</string>
     <string name="gadget_clear_button_label">RAM Мениджър</string>
+    <string name="gadget_power_clear_button_label">Super Cleaner</string>
     <string name="gadget_clock_label">Часовник</string>
     <string name="gadget_clock_12_label">Часовник 2x1</string>
     <string name="gadget_clock_22_label">Часовник 2x2</string>
@@ -212,6 +221,9 @@
     <string name="delete_wallpaper_message">Да се изтрие ли избраният %1$d тапет?</string>
     <string name="delete_wallpapers_message">Да се изтрият ли избраните %1$d тапета?</string>
     <string name="is_system_wallpaper_message">Не могат да се изтриват системни ресурси</string>
+    <string name="select_all">Избери всички</string>
+    <string name="deselect_all">Размаркирай всички</string>
+    <string name="cloud_app_restore_title">Изчаква</string>
     <string name="app_category_finance">Финанси</string>
     <string name="app_category_social">Социални</string>
     <string name="app_category_travel">Пътуване</string>
@@ -228,7 +240,13 @@
     <string name="app_category_sport">Спорт</string>
     <string name="app_category_health">Здраве</string>
     <string name="app_category_productivity">Производителност</string>
+    <string name="recommend_apps_notice">Препоръчани приложения</string>
+    <string name="recommend_apps_switch_title">Препоръчани приложения</string>
+    <string name="recommend_apps_switch_summary">Показване на препоръчани приложения в долната част на екрана.</string>
+    <string name="recommend_apps_default_title">Празно</string>
+    <string name="recommend_apps_tips">Тази функция се нуждае от връзка към интернет, за да работи нормално. Ако искате да я изключите, докоснете името на тази папка.</string>
     <string name="apply_as_lock_wallpaper">Прилагане</string>
+    <string name="is_setting_wallpaper_toast">Тапетът се задава…</string>
     <string name="default_name">По подразбиране</string>
     <string name="disable">Забрани</string>
     <string name="disable_auto_start_format">Забрани автостарт на %s</string>

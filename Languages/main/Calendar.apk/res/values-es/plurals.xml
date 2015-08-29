@@ -14,22 +14,21 @@
     </plurals>
     <plurals name="Ndays">
         <item quantity="other">%d días</item>
-        <item quantity="one">1 dia</item>
+        <item quantity="one">1 día</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Semanas %d</item>
-        <item quantity="one">Semana %d</item>
+        <item quantity="other">SEMANA %d</item>
     </plurals>
     <plurals name="month_more_events">
-        <item quantity="other">+ %d</item>
-        <item quantity="one">+ 1</item>
+        <item quantity="other">+%d</item>
+        <item quantity="one">1.0</item>
     </plurals>
     <plurals name="Nevents">
         <item quantity="other">%d eventos</item>
         <item quantity="one">1 evento</item>
     </plurals>
     <plurals name="N_remaining_events">
-        <item quantity="other">%d eventos</item>
-        <item quantity="one">+ 1 evento</item>
+        <item quantity="other">+%d eventos</item>
+        <item quantity="one">+1 evento</item>
     </plurals>
 </resources>

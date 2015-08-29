@@ -20,4 +20,5 @@
     <string name="debug_tool_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
     <string name="debug_tool_email_subject">Takvim veritabanı eklendi</string>
     <string name="debug_tool_email_body">Tüm randevular ve kişisel bilgiler ile takvim veritabanı eklendi. Lütfen dikkatli taşıyın.</string>
+    <string name="holiday_update_title">Güncelleme mevcut</string>
 </resources>

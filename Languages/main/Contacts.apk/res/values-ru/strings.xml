@@ -1,198 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="select_all">" Выбрать все "</string>
-    <string name="deselect_all">Снять выбор</string>
-    <string name="resource_app_name">Диспетчер ресурсов</string>
-    <string name="resource_delete">Удалить</string>
-    <string name="resource_price_free">Бесплатно</string>
-    <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
-    <string name="sdcard_not_mounted_dialog_message">"Вставьте SD карту 
-"</string>
-    <string name="resource_mute">Без звука</string>
-    <string name="resource_default">Мелодия по умолчанию</string>
-    <string name="resource_ringtone_default">Мелодии</string>
-    <string name="resource_notification_default">Уведомления</string>
-    <string name="resource_alarm_default">Будильник</string>
-    <string name="description_designer">Дизайнер:</string>
-    <string name="description_author">Автор:</string>
-    <string name="description_size">Размер:</string>
-    <string name="description_uploadtime">Обновлено:</string>
-    <string name="description_download">Загрузок:</string>
-    <string name="description_version">Версия:</string>
-    <string name="description_summary">Инфо:</string>
-    <string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
-    <string name="resource_local">Локально %1$s</string>
-    <string name="resource_online">Онлайн %1$s</string>
-    <string name="resource_selected">Новые</string>
-    <string name="resource_ranking">Топ</string>
-    <string name="resource_ranking_free">Бесплатные</string>
-    <string name="resource_ranking_purchase">Платные</string>
-    <string name="resource_category">Категории</string>
-    <string name="resource_my">Локальные</string>
-    <string name="resource_pack_price_info">"Цена: 
-%1$s"</string>
-    <string name="resource_pack_discount_info">"Экономия: 
-%1$s"</string>
-    <string name="resource_pack_confirm">Куплено компонентов темы: %1$d. Будет выгоднее купить полный комплект, чем докупить по одному компоненту.</string>
-    <string name="resource_pack_warning">Куплено компонентов темы: %1$d. Будет выгоднее купить остальные компоненты по одному, чем полный комплект.</string>
-    <string name="resource_title">Информация</string>
-    <string name="resource_download">Скачать</string>
-    <string name="resource_downloading">Загрузка</string>
-    <string name="resource_waiting_download">Ожидание</string>
-    <string name="resource_import_successful">Загрузка завершена</string>
-    <string name="resource_import_failed">Ошибка импортирования</string>
-    <string name="resource_delta_update_successful">Обновление завершено</string>
-    <string name="resource_delta_update_failed">Ошибка обновления. Повторная загрузка темы…</string>
-    <string name="resource_delta_update_total">Обновлений: %1$d (%2$s)</string>
-    <string name="resource_apply">Применить</string>
-    <string name="resource_update">Обновить</string>
-    <string name="resource_select">Выбрать</string>
-    <string name="resource_buy">Купить</string>
-    <string name="resource_importing">Импортирование…</string>
-    <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
-    <string name="online_no_network">Не удается подключиться к сети</string>
-    <string name="online_search_hint">Введите ключевые слова</string>
-    <string name="loading">Загрузка…</string>
-    <string name="download_failed">Ошибка загрузка</string>
-    <string name="download_preview_failed">Не удалось загрузить эскиз</string>
-    <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
-    <string name="all_resources">Все</string>
-    <string name="resource_default_name">Ресурс</string>
-    <string name="resource_detail">Информация</string>
-    <string name="resource_detail_window_title">%1$s: информация</string>
-    <string name="resource_detail_update_log_title">Обновления</string>
-    <string name="resource_detail_comment_title">Отзывы</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
-    <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
-    <string name="resource_detail_jump_to_online_title">Онлайн</string>
-    <string name="resource_detail_jump_to_same_author_title">От автора</string>
-    <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
-    <string name="resource_share_title">Отправить</string>
-    <string name="resource_share_subject">Отправить тему: %1$s</string>
-    <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать: %2$s</string>
-    <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
-    <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
-    <string name="resource_system_title">Системные</string>
-    <string name="resource_downloaded_title">Скачанные</string>
-    <string name="resource_see_more">Еще</string>
-    <string name="resource_no_result">Нет результатов</string>
-    <string name="resource_failed_to_load_list">Не удалось загрузить список</string>
-    <string name="resource_search_list_empty">Ничего не найдено</string>
-    <string name="resource_no_network_text">Не удается подключиться к интернету</string>
-    <string name="resource_list_title">Последние выбранные</string>
-    <string name="resource_get_auth_checking">Проверка…</string>
-    <string name="resource_get_auth_retrieving">Получение авторизации…</string>
-    <string name="resource_get_auth_not_official">Темы из сторонних источников не поддерживаются</string>
-    <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте.</string>
-    <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
-    <string name="resource_get_auth_has_been_undercarriaged">Эта тема больше не доступна</string>
-    <string name="resource_pack_get_auth_has_been_undercarriaged">Эта тема больше не доступна</string>
-    <string name="resource_server_alert_dialog_title">Мы скоро вернемся…</string>
-    <string name="resource_purchase_getting_order">Получение информации о заказе…</string>
-    <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
-    <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
-    <string name="resource_download_trial">Пробная версия</string>
-    <string name="resource_apply_trial">Применить</string>
-    <string name="resource_on_trial">Применение пробной версии: %1$s</string>
-    <string name="resource_trial_time">(пробное время: %1$d мин.)</string>
-    <string name="resource_trial_fail_title">Не удается настроить пробную сессию</string>
-    <string name="resource_trial_fail_message">Убедитесь, что в вашем телефоне установлено правильное время.</string>
-    <string name="resource_trial_fail_cancel">ОК</string>
-    <string name="resource_trial_fail_go_settings">Настройки</string>
-    <string name="resource_trial_end_title">Пробный период окончен</string>
-    <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
-    <string name="resource_trial_end_restore">Отмена</string>
-    <string name="resource_trial_end_purchase">Приобрести</string>
-    <string name="deleting">Удаление…</string>
-    <string name="resource_title_select_ringtone">Выберите мелодию</string>
-    <string name="resource_tip_select_none">Не выбрано</string>
-    <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
-    <string name="loading_resource_detail_info">Загрузка…</string>
-    <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
-    <string name="resource_expand_full_text">Развернуть</string>
-    <string name="resource_account_login">Вход</string>
-    <string name="resource_account_switch">Переключить</string>
-    <string name="resource_account_login_title">Вход</string>
-    <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
-    <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
-    <string name="resource_account_login_before_action">Войдите в ваш Mi аккаунт</string>
-    <string name="resource_send">Отправить</string>
-    <string name="resource_save_to_note">Сохранить в заметки</string>
-    <string name="resource_present">Подарить</string>
-    <string name="resource_exchange">Выкупить</string>
-    <string name="resource_exchange_confirm">Подтвердить</string>
-    <string name="resource_exchange_hint">Введите подарочный код</string>
-    <string name="resource_exchange_window_title">Выкупить</string>
-    <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы в маркете.</string>
-    <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы из маркета.</string>
-    <string name="resource_exchange_empty_format">Введите подарочный код</string>
-    <string name="resource_exchange_wrong_format_by_local">Неверный формат кода</string>
-    <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что вы ввели его корректно.</string>
-    <string name="resource_exchange_has_used">Введенный код уже используется</string>
-    <string name="resource_exchange_has_expired">Срок действия кода истек</string>
-    <string name="resource_exchange_unavailable">Тема с этим кодом недоступна</string>
-    <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
-    <string name="resource_exchange_success">Готово!</string>
-    <string name="resource_exchange_share_code_dlg_title">Отправка…</string>
-    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$s: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
-    <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
-    <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
-    <string name="resource_comment_all_comments">Все</string>
-    <string name="resource_comment_good_comments">Хорошие</string>
-    <string name="resource_comment_bad_comments">Плохие</string>
-    <string name="resource_comment_average_score">Оценка</string>
-    <string name="resource_comment_score_count">Оценок: %1$s</string>
-    <string name="resource_comment_no_average_score">-/-</string>
-    <string name="resource_comment_5_star">5</string>
-    <string name="resource_comment_4_star">4</string>
-    <string name="resource_comment_3_star">3</string>
-    <string name="resource_comment_2_star">2</string>
-    <string name="resource_comment_1_star">1</string>
-    <string name="resource_comment_footer">Пустые отзывы не отображаются</string>
-    <string name="resource_comment_no_comment">Нет отзывов</string>
-    <string name="resource_comment_current_version">Текущая версия</string>
-    <string name="resource_comment_upload_hint">Отзыв будет опубликован после проверки</string>
-    <string name="resource_comment_sending">Отправка отзыва…</string>
-    <string name="resource_comment_upload_failed">Не удалось отправить отзыв</string>
-    <string name="resource_comment_upload_success">Отзыв отправлен</string>
-    <string name="resource_comment_upload_data_invalid">Некорректный отзыв</string>
-    <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
-    <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
-    <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить.</string>
-    <string name="resource_comment_expand_full_text">Развернуть▼</string>
-    <string name="resource_comment_title">Отзывов: %1$s</string>
-    <string name="resource_comment_edit_title">Отзыв к теме: %1$s</string>
-    <string name="resource_comment_edit_comment">Добавить отзыв</string>
-    <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
-    <string name="resource_comment_edit_text_default">Оставить отзыв</string>
-    <string name="resource_comment_publish">" Отправить "</string>
-    <string name="resource_comment_name_default">Пользователь %1$s</string>
-    <string name="resource_comment_loading_list">Загрузка…</string>
-    <string name="resource_comment_rate">Рейтинг:</string>
-    <string name="resource_comment_entry_tips">Отзывы (%1$s)</string>
-    <string name="resource_comment_rating_star_tips">Оценить:</string>
-    <string name="resource_clear_search_history">Очистить историю поиска</string>
-    <string name="resource_clear_search_history_dialog">Очистить историю поиска?</string>
-    <string name="fail_to_add_account">Не удалось добавить аккаунт</string>
-    <string name="account_unactivated">Mi аккаунт не активирован</string>
-    <string name="to_activate_the_account">Активируйте Mi аккаунт</string>
-    <string name="resource_menu_refresh">Обновить</string>
-    <string name="resource_unknow_error">Неизвестная ошибка</string>
-    <string name="resource_user_know">ОК</string>
-    <string name="resource_hint">Предупреждение</string>
-    <string name="resource_ringtone_volume_mute">Звук отключен</string>
-    <string name="resource_has_been_downloaded">Тема уже загружена</string>
-    <string name="resource_no_match_app">Тип файла не поддерживается</string>
-    <string name="resource_title_rank">Топ</string>
-    <string name="resource_title_category">Категории</string>
-    <string name="resource_title_subject">Новые</string>
-    <string name="resource_title_local">Локально</string>
-    <string name="resource_title_hot_subject">Популярные</string>
-    <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
-    <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>
-    <string name="resource_download_notification_content">Нажмите для просмотра</string>
     <string name="launcherDialer">Телефон</string>
     <string name="people">Контакты</string>
     <string name="contactsList">Контакты</string>
@@ -222,7 +29,7 @@
     <string name="menu_addStar">В избранные</string>
     <string name="menu_removeStar">Из избранных</string>
     <string name="menu_editContact">Изменить</string>
-    <string name="menu_deleteContact">Удалить контакт</string>
+    <string name="menu_deleteContact">Удалить</string>
     <string name="menu_copy">Копировать</string>
     <string name="menu_create_contact_shortcut">Ярлык на рабочий стол</string>
     <string name="menu_call">Вызов</string>
@@ -324,48 +131,48 @@
     <string name="noContactsHelpTextForCreateShortcut">Отсутствуют контакты для отображения</string>
     <string name="noContactsHelpText">"У вас нет контактов для отображения.
 
-Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
+Чтобы добавить контакт нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем нажмите:
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SIM или SD карты
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SIM или SD карты
+"</b></font></li></string>
     <string name="noContactsHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)
 
-Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
+Чтобы добавить контакт нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем нажмите:
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для выбора отображаемых контактов
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SIM или SD карты
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Параметры отображения для выбора отображаемых контактов
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SIM или SD карты
+"</b></font></li></string>
     <string name="noContactsNoSimHelpText">"У вас нет контактов для отображения.
 
-Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
+Чтобы добавить контакт нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем нажмите:
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD карты
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SD карты
+"</b></font></li></string>
     <string name="noContactsNoSimHelpTextWithSync">"У вас нет контактов для отображения. (Если вы только что добавили аккаунт, синхронизация займет несколько минут.)
 
-Чтобы добавить контакт нажмите "<b><font fgcolor="#ffffffff">Меню</font></b>", затем нажмите:
+Чтобы добавить контакт нажмите "<font fgcolor="#ffffffff"><b>Меню</b></font>", затем нажмите:
  
-"<b><font fgcolor="#ffffffff"><li>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Параметры отображения для выбора отображаемых контактов
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Новый контакт для создания нового контакта
-"</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Импорт/экспорт для импорта контактов с SD карты
-"</li></font></b></string>
+"<li><font fgcolor="#ffffffff"><b>"Аккаунты для добавления или настройки аккаунта с контактами, для синхронизации с устройством
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Параметры отображения для выбора отображаемых контактов
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Новый контакт для создания нового контакта
+"</b></font></li>" 
+"<li><font fgcolor="#ffffffff"><b>"Импорт/экспорт для импорта контактов с SD карты
+"</b></font></li></string>
     <string name="noFavoritesHelpText">"У вас нет избранных контактов.
 
 Чтобы добавить контакт в избранное:
@@ -737,7 +544,6 @@
     <string name="dialog_voicemail_not_ready_message">Чтобы настроить голосовую почту, перейдите в Меню > Настройки</string>
     <string name="dialog_voicemail_airplane_mode_message">Для вызова голосовой почты, сначала выключите режим полета</string>
     <string name="action_menu_overflow_description">Дополнительные параметры</string>
-    <string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
     <string name="yellowpage_search_the_yellowpage">Поиск сервиса</string>
     <string name="import_from_sim">Импорт с SIM карты</string>
     <string name="export_to_sim_title">Экспортирование…</string>
@@ -755,9 +561,6 @@
     <string name="sim_card_no_free_space_title">SIM карта заполнена!</string>
     <string name="sim_card_no_free_space_message">Недостаточно памяти</string>
     <string name="sim_contacts">Контакты на SIM карте</string>
-    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
-
-Свободно: %d"</string>
     <string name="export_sim_contact_finish">Экспорт завершен</string>
     <string name="sim_export_loading">Чтение SIM карты…</string>
     <string name="sim_capacity">Емкость SIM карты</string>
@@ -769,8 +572,6 @@
     <string name="pref_key_sim_manage2">Контакты SIM карты 2</string>
     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM карты</string>
     <string name="readingSimContacts">Чтение контактов с SIM карты…</string>
-    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
-Контактов: %d"</string>
     <string name="importing_sim_contacts_miui">Импортирование контактов с SIM карты…</string>
     <string name="import_sim_entries_finish">Импорт контактов с SIM карты завершен</string>
     <string name="deleting_sim_entry_miui">Удаление контактов с SIM карты…</string>
@@ -785,7 +586,7 @@
     <string name="callrecordview_item_op_time_short_outgoing">" | "</string>
     <string name="callrecordview_item_op_time_short_incoming">" | "</string>
     <string name="callrecordview_item_op_time_missed">| Нет ответа</string>
-    <string name="callrecordview_item_op_time_rejected">Отклонен</string>
+    <string name="callrecordview_item_op_time_rejected">| Отклонен</string>
     <string name="callrecordview_menu_show_title">Отображение вызовов</string>
     <string name="callrecordview_menu_show_all">Все</string>
     <string name="callrecordview_menu_show_missed">Пропущенные</string>
@@ -819,6 +620,8 @@
     <string name="date_time_set">Настроить</string>
     <string name="service_provider">Сервисные контакты</string>
     <string name="zero_items_selected">Выберите контакты</string>
+    <string name="select_all">" Выбрать все "</string>
+    <string name="deselect_all">Снять выбор</string>
     <string name="select_none">Необходимо выбрать контакты</string>
     <string name="toast_finish_delete_call_log">Журнал вызовов очищен</string>
     <string name="toast_finish_delete_selected_call_log">Удаление завершено</string>
@@ -841,8 +644,9 @@
     <string name="success_message_import_from_account">Импорт завершен</string>
     <string name="unknown_contact_name">Неизвестный номер</string>
     <string name="contactDetailCalllog">Журнал вызовов</string>
-    <string name="add_blacklist">В черный список</string>
-    <string name="remove_blacklist">Удалить из черного списка</string>
+    <string name="add_blacklist">Блокировать</string>
+    <string name="remove_blacklist">Разблокировать</string>
+    <string name="blacklist">Блокировать</string>
     <string name="empty_divider_title">Вы можете</string>
     <string name="noContactHelpTextAccountsInfo" />
     <string name="noContactHelpTextImportXiaomiAccountInfo">Восстановить контакты из резервной копии в Mi аккаунте</string>
@@ -856,6 +660,7 @@
     <string name="picker_contact_title">Выберите контакт</string>
     <string name="picker_number_title">Выберите номер</string>
     <string name="group_add_fail_toast">Ошибка добавления контаков</string>
+    <string name="group_sms_error_message">Превышен предел получателей: %s</string>
     <string name="picker_postal_title">Выберите почтовый индекс</string>
     <string name="picker_email_title">Выберите адрес Email</string>
     <string name="preference_import">Импорт</string>
@@ -876,11 +681,7 @@
     <string name="preference_import_export_title">Импорт и экспорт</string>
     <string name="import_vcard_description">Импорт контактов из памяти телефона</string>
     <string name="export_vcard_description">Экспорт vCard в память телефона</string>
-    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
-    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
-
-Скопировано: %1$d 
-Не удалось: %2$d"</string>
+    <string name="export_sim_contact_finish_msg">Передано: %1$d | Пропущено: %2$d | Осталось: %3$d</string>
     <string name="pref_title_account_import">Импорт из аккаунта</string>
     <string name="pref_title_import_from_account">В Mi аккаунт</string>
     <string name="pref_summary_import_from_account">Импорт контактов из аккаунта Google в Mi аккаунт</string>
@@ -925,6 +726,7 @@
     <string name="preference_dial_pad_touch_tone_human">Голос</string>
     <string name="ic_menu_done">Готово</string>
     <string name="cloud_antispam_title">Определение номеров</string>
+    <string name="preference_contacts_recovery_introduction">Восстановление контактов</string>
     <string name="share_over_limit">Не удается отправить. Лимит превышен.</string>
     <string name="account_default">По умолчанию</string>
     <string name="lunarBirthdayLabelsGroup">Лунный день рождения</string>
@@ -962,7 +764,7 @@
     <string name="default_ringtone">Мелодия по умолчанию</string>
     <string name="recent_number">Последний</string>
     <string name="cloud_antispam_mark">Отметить</string>
-    <string name="antispam_mark_my_contribution">Показывать другим пользователям, что я отметил этот номер.</string>
+    <string name="antispam_mark_my_contribution">Моя метка</string>
     <string name="antispam_provider_format">Поддержка: %s</string>
     <string name="type_mx_msg">Облачные сообщения</string>
     <string name="qr_card_card">QR код</string>
@@ -1003,14 +805,10 @@
     <string name="move_and_resize">Размер и положение</string>
     <string name="btn_rotation">Поворот</string>
     <string name="contact_pick_photo">Фото</string>
-    <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
-    <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
-    <string name="photo_package_activity_title">Фото из пакета</string>
-    <string name="btn_delete_one_contact">Удалить</string>
-    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
     <string name="btn_split_contact">Разделить контакт</string>
     <string name="use_photo_as_primary2">Использовать фото контакта %1$s</string>
     <string name="label_custom_type">Пользовательский</string>
+    <string name="loading_accounts">Загрузка информации о SIM карте…</string>
     <string name="pkgLabel">Контакты и телефон</string>
     <string name="preference_smart_group_title">Умная группировка</string>
     <string name="preference_smart_group_company_title">По компаниям</string>
@@ -1095,11 +893,6 @@
     <string name="add_xiaomi_account_dialog_btn">В Mi аккаунт</string>
     <string name="keep_local_btn">В телефон</string>
     <string name="batch_delete">Пакетное удаление</string>
-    <string name="batch_delete_msg">"Удалить выбранные контакты? 
-
-Контактов: %d 
-
-Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
     <string name="starred_contacts">Избранные</string>
     <string name="other_contacts">Другие</string>
     <string name="set_photo_failed_msg">Ошибка установки фото</string>
@@ -1109,16 +902,18 @@
     <string name="toast_copying">Копирование…</string>
     <string name="toast_copy_done">Копирование завершено</string>
     <string name="group_name">Группы</string>
-    <string name="starred_yellowpage">Избранные сервисы</string>
+    <string name="followed_yellowpage">Отслеживаемые сервисы</string>
     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
     <string name="import_sim_entry_miui">Импорт</string>
     <string name="delete_sim_entry_miui">Удалить</string>
+    <string name="importing_sim_contacts_miui_prepare">Подготовка к импортированию…</string>
+    <string name="deleting_sim_entry_miui_prepare">Подготовка к удалению…</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">" Снять выбор "</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">" Выбрать все "</string>
     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
     <string name="import_selected_sim_entries_miui">Импорт выбранных контактов</string>
-    <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
-    <string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
+    <string name="add_blacklist_dialog_title">Заблокировать этот номер?</string>
+    <string name="remove_blacklist_dialog_title">Разблокировать эти номера?</string>
     <string name="close_dial_pad">Закрыть клавиатуру</string>
     <string name="dial">Вызов</string>
     <string name="delete_dial_input">Удалить</string>
@@ -1139,6 +934,7 @@
     <string name="yellowPageNavigationIconLabel">Сервисы</string>
     <string name="login_ok">Вход</string>
     <string name="yellowpage_navigation_no_content">Нет результатов</string>
+    <string name="yellowpage_navigation_search_history">История</string>
     <string name="yellowpage_navigation_clear_search_history">Очистить историю</string>
     <string name="yellowpage_navigation_search_offline_hint">Интернет недоступен</string>
     <string name="refresh">Обновить</string>
@@ -1152,17 +948,12 @@
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
     <string name="yellowpage_navigation_send_to_desktop_downloading">Загрузка иконки…</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Ошибка подключения к сети</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
-    <string name="yellowpage_navigation_network_location_enable">Включить</string>
-    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
     <string name="yellowpage_user_profile">Профиль</string>
     <string name="yellowpage_navigation_more_items">Еще</string>
     <string name="yellowpage_navigation_more_items_title">Другие сервисы</string>
     <string name="imei_invalid">Неверный IMEI</string>
     <string name="meid_invalid">Неверный MEID</string>
     <string name="firewall_setting">Черный список</string>
-    <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
     <string name="menu_edit_mode">Режим редактирования</string>
     <string name="clip_dialog_title">Вызвать скопированный номер?</string>
     <string name="edit_contact_photo">Изменить фото контакта</string>
@@ -1173,19 +964,248 @@
     <string name="pull_to_refresh_pull_label">Потяните для обновления</string>
     <string name="pull_to_refresh_release_label">Отпустите для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Загрузка…</string>
+    <string name="phone_call_type_voip">VoIP</string>
+    <string name="cloud_recommend_msg">Нажмите для синхронизации контактов с Mi Cloud</string>
+    <string name="unknow_phone_number_call_failed">Не удается вызвать неизвестный номер</string>
+    <string name="unknow_phone_number_mms_failed">Не удается отправить SMS на неизвестный номер</string>
+    <string name="account_unactivated">Mi аккаунт не активирован</string>
+    <string name="all_resources">Все</string>
+    <string name="batch_delete_msg">"Удалить выбранные контакты? 
+
+Контактов: %d 
+
+Данные, которые хранятся в Mi Cloud так же будут удалены."</string>
+    <string name="btn_delete_multi_contacts">Удалить контакты (%d)</string>
+    <string name="btn_delete_one_contact">Удалить</string>
+    <string name="callNoAnswerTimeFormat">" | Гудков: %s"</string>
+    <string name="confirm_delete_sim_entry_miui">"Удалить выбранные контакты с SIM карты? 
+Контактов: %d"</string>
+    <string name="deleting">Удаление…</string>
+    <string name="description_author">Автор:</string>
+    <string name="description_designer">Дизайнер:</string>
+    <string name="description_download">Загрузок:</string>
+    <string name="description_size">Размер:</string>
+    <string name="description_summary">Инфо:</string>
+    <string name="description_uploadtime">Обновлено:</string>
+    <string name="description_version">Версия:</string>
+    <string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
+    <string name="dlg_add_blacklist">Добавить номер в черный список?</string>
+    <string name="dlg_remove_blacklist">Удалить номер из черного списка?</string>
+    <string name="download_failed">Ошибка загрузка</string>
+    <string name="download_preview_failed">Не удалось загрузить эскиз</string>
+    <string name="export_sim_contact_finish_failure">"Недостаточно места. 
+
+Скопировано: %1$d 
+Не удалось: %2$d"</string>
+    <string name="export_sim_contact_finish_success">Скопировано контактов: %d</string>
+    <string name="export_sim_contacts_dialog_message">"Экспортировать контакты на SIM карту? 
+
+Свободно: %d"</string>
+    <string name="fail_to_add_account">Не удалось добавить аккаунт</string>
+    <string name="loading">Загрузка…</string>
+    <string name="loading_resource_detail_fail">Не удалось загрузить ресурс</string>
+    <string name="loading_resource_detail_info">Загрузка…</string>
     <string name="none_found">Устройства не найдены</string>
+    <string name="online_no_network">Не удается подключиться к сети</string>
+    <string name="online_search_hint">Введите ключевые слова</string>
+    <string name="photo_package_activity_title">Фото из пакета</string>
+    <string name="resource_account_abnormal_state">Ошибка аккаунта. Попробуйте позже.</string>
+    <string name="resource_account_fail_to_add">Не удалось добавить аккаунт</string>
+    <string name="resource_account_login">Вход</string>
+    <string name="resource_account_login_before_action">Войдите в ваш Mi аккаунт</string>
+    <string name="resource_account_login_title">Вход</string>
+    <string name="resource_account_switch">Переключить</string>
+    <string name="resource_alarm_default">Будильник</string>
+    <string name="resource_app_name">Диспетчер ресурсов</string>
+    <string name="resource_apply">Применить</string>
+    <string name="resource_apply_trial">Применить</string>
+    <string name="resource_buy">Купить</string>
+    <string name="resource_can_not_selected">%1$s не может быть выбран!</string>
+    <string name="resource_category">Категории</string>
+    <string name="resource_clear_search_history">Очистить историю поиска</string>
+    <string name="resource_clear_search_history_dialog">Очистить историю поиска?</string>
+    <string name="resource_comment_1_star">1</string>
+    <string name="resource_comment_2_star">2</string>
+    <string name="resource_comment_3_star">3</string>
+    <string name="resource_comment_4_star">4</string>
+    <string name="resource_comment_5_star">5</string>
+    <string name="resource_comment_all_comments">Все</string>
+    <string name="resource_comment_average_score">Оценка</string>
+    <string name="resource_comment_bad_comments">Плохие</string>
+    <string name="resource_comment_current_version">Текущая версия</string>
+    <string name="resource_comment_edit_comment">Добавить отзыв</string>
+    <string name="resource_comment_edit_comment_waiting">Проверка истории…</string>
+    <string name="resource_comment_edit_text_default">Оставить отзыв</string>
+    <string name="resource_comment_edit_title">Отзыв к теме: %1$s</string>
+    <string name="resource_comment_entry_tips">Отзывы (%1$s)</string>
+    <string name="resource_comment_expand_full_text">Развернуть▼</string>
+    <string name="resource_comment_footer">Пустые отзывы не отображаются</string>
+    <string name="resource_comment_good_comments">Хорошие</string>
+    <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить.</string>
+    <string name="resource_comment_loading_list">Загрузка…</string>
+    <string name="resource_comment_name_default">Пользователь %1$s</string>
+    <string name="resource_comment_no_average_score">-/-</string>
+    <string name="resource_comment_no_comment">Нет отзывов</string>
+    <string name="resource_comment_publish">" Отправить "</string>
+    <string name="resource_comment_rate">Рейтинг:</string>
+    <string name="resource_comment_rating_star_tips">Оценить:</string>
+    <string name="resource_comment_score_count">Оценок: %1$s</string>
+    <string name="resource_comment_sending">Отправка отзыва…</string>
+    <string name="resource_comment_title">Отзывов: %1$s</string>
+    <string name="resource_comment_upload_data_invalid">Некорректный отзыв</string>
+    <string name="resource_comment_upload_failed">Не удалось отправить отзыв</string>
+    <string name="resource_comment_upload_hint">Отзыв будет опубликован после проверки</string>
+    <string name="resource_comment_upload_not_bought">Прежде чем оставить отзыв, необходимо применить тему.</string>
+    <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
+    <string name="resource_comment_upload_success">Отзыв отправлен</string>
+    <string name="resource_default">Мелодия по умолчанию</string>
+    <string name="resource_default_name">Ресурс</string>
+    <string name="resource_delete">Удалить</string>
+    <string name="resource_delete_all">Удалить выбранные ресурсы (%1$d)?</string>
+    <string name="resource_delete_confirm">Удалить эти ресурсы?</string>
+    <string name="resource_delta_update_failed">Ошибка обновления. Повторная загрузка темы…</string>
+    <string name="resource_delta_update_successful">Обновление завершено</string>
+    <string name="resource_delta_update_total">Обновлений: %1$d (%2$s)</string>
+    <string name="resource_detail">Информация</string>
+    <string name="resource_detail_comment_title">Отзывы</string>
+    <string name="resource_detail_jump_to_online_title">Онлайн</string>
+    <string name="resource_detail_jump_to_same_author_title">От автора</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора \"%1$s\"</string>
+    <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
+    <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
+    <string name="resource_detail_update_log_title">Обновления</string>
+    <string name="resource_detail_window_title">%1$s: информация</string>
+    <string name="resource_download">Скачать</string>
+    <string name="resource_download_trial">Пробная версия</string>
+    <string name="resource_downloaded_title">Скачанные</string>
+    <string name="resource_downloading">Загрузка</string>
+    <string name="resource_exchange">Выкупить</string>
+    <string name="resource_exchange_confirm">Подтвердить</string>
+    <string name="resource_exchange_empty_format">Введите подарочный код</string>
+    <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
+    <string name="resource_exchange_has_expired">Срок действия кода истек</string>
+    <string name="resource_exchange_has_used">Введенный код уже используется</string>
+    <string name="resource_exchange_hint">Введите подарочный код</string>
+    <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
+    <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
+    <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$s: %2$s. Когда вы отправите код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+    <string name="resource_exchange_share_code_dlg_title">Отправка…</string>
+    <string name="resource_exchange_success">Готово!</string>
+    <string name="resource_exchange_unavailable">Тема с этим кодом недоступна</string>
+    <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы из маркета.</string>
+    <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой темы в маркете.</string>
+    <string name="resource_exchange_window_title">Выкупить</string>
+    <string name="resource_exchange_wrong_format_by_local">Неверный формат кода</string>
+    <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что вы ввели его корректно.</string>
+    <string name="resource_expand_full_text">Развернуть</string>
+    <string name="resource_get_auth_checking">Проверка…</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">У вас уже есть 10 устройств, авторизованных на этом аккаунте.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Превышен предел авторизаций</string>
     <string name="resource_get_auth_missing">Темы загруженные из сторонних источников не поддерживаются</string>
+    <string name="resource_get_auth_retrieving">Получение авторизации…</string>
+    <string name="resource_hint">Предупреждение</string>
+    <string name="resource_import_failed">Ошибка импортирования</string>
+    <string name="resource_import_successful">Загрузка завершена</string>
+    <string name="resource_importing">Импортирование…</string>
+    <string name="resource_list_title">Последние выбранные</string>
+    <string name="resource_local">Локально %1$s</string>
+    <string name="resource_menu_refresh">Обновить</string>
+    <string name="resource_mute">Без звука</string>
+    <string name="resource_my">Локальные</string>
+    <string name="resource_no_result">Нет результатов</string>
+    <string name="resource_notification_default">Уведомления</string>
+    <string name="resource_on_trial">Применение пробной версии: %1$s</string>
+    <string name="resource_online">Онлайн %1$s</string>
+    <string name="resource_pack_confirm">Куплено тем: %1$d. Будет выгоднее купить полный комплект, чем докупать по одной теме.</string>
+    <string name="resource_pack_discount_info">"Экономия: 
+%1$s"</string>
+    <string name="resource_pack_price_info">"Цена: 
+%1$s"</string>
+    <string name="resource_pack_warning">Куплено тем: %1$d. Будет выгоднее купить остальные темы по одной, чем полный комплект.</string>
+    <string name="resource_present">Подарить</string>
+    <string name="resource_price_format">(%1$s)</string>
+    <string name="resource_price_free">Бесплатно</string>
+    <string name="resource_purchase_getting_order">Получение информации о заказе…</string>
+    <string name="resource_purchase_verifying_payment">Проверка платежа…</string>
+    <string name="resource_purchase_waiting_payment">Ожидание информации о платеже…</string>
+    <string name="resource_ranking">Топ</string>
+    <string name="resource_ranking_free">Бесплатные</string>
+    <string name="resource_ranking_purchase">Платные</string>
+    <string name="resource_ringtone_default">Мелодии</string>
+    <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
+    <string name="resource_ringtone_volume_mute">Звук отключен</string>
+    <string name="resource_save_to_note">Сохранить в заметки</string>
+    <string name="resource_see_more">Еще</string>
+    <string name="resource_select">Выбрать</string>
+    <string name="resource_selected">Новые</string>
+    <string name="resource_send">Отправить</string>
+    <string name="resource_server_alert_dialog_title">Мы скоро вернемся…</string>
+    <string name="resource_server_out_of_service">Сервис не доступен. Попробуйте позже.</string>
+    <string name="resource_share_subject">Отправить тему: %1$s</string>
+    <string name="resource_share_text">Я отправил вам тему \"%1$s\". Скачать: %2$s</string>
+    <string name="resource_share_title">Отправить</string>
+    <string name="resource_system_title">Системные</string>
     <string name="resource_tip_select_ringtone">Мелодия не выбрана</string>
-    <string name="scanning">Поиск устройств…</string>
-    <string name="select_device">Выберите устройство</string>
+    <string name="resource_title">Информация</string>
+    <string name="resource_title_select_ringtone">Выберите мелодию</string>
+    <string name="resource_trial_end_message">Пробный период %1$s окончен. Если вам понравилось, вы можете приобрести полную версию.</string>
+    <string name="resource_trial_end_purchase">Приобрести</string>
+    <string name="resource_trial_end_restore">Отмена</string>
+    <string name="resource_trial_end_title">Пробный период окончен</string>
+    <string name="resource_trial_fail_cancel">ОК</string>
+    <string name="resource_trial_fail_go_settings">Настройки</string>
+    <string name="resource_trial_fail_message">Убедитесь, что в вашем телефоне установлено правильное время.</string>
+    <string name="resource_trial_fail_title">Не удается настроить пробную сессию</string>
+    <string name="resource_trial_time">(пробное время: %1$d мин.)</string>
     <string name="resource_unable_to_access">Содержимое, которое вы ищите, недоступно в вашей стране.</string>
+    <string name="resource_unknow_error">Неизвестная ошибка</string>
+    <string name="resource_update">Обновить</string>
+    <string name="resource_user_know">ОК</string>
+    <string name="resource_waiting_download">Ожидание</string>
+    <string name="scanning">Поиск устройств…</string>
+    <string name="sdcard_not_mounted_dialog_message">"Вставьте SD карту 
+"</string>
+    <string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
+    <string name="select_device">Выберите устройство</string>
+    <string name="select_new_photo_from_photo_package">Выбрать новое фото из пакета</string>
+    <string name="select_photo_from_photo_package">Выбрать фото из пакета</string>
+    <string name="to_activate_the_account">Активируйте Mi аккаунт</string>
+    <string name="yellowpage_navigation_network_location_enable">Включить</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Позже</string>
+    <string name="yellowpage_navigation_network_location_enabled">Сервис активен. Отключить его можно в настройках местоположения.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Услуги будут отображаться согласно вашему местоположению, в каком городе вы находитесь. Включение этой функции может улучшить качество сервисов.</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Использование местоположения</string>
+    <string name="starred_yellowpage">Избранные сервисы</string>
+    <string name="resource_failed_to_load_list">Не удалось загрузить список</string>
+    <string name="resource_get_auth_has_been_undercarriaged">Эта тема больше не доступна</string>
+    <string name="resource_get_auth_not_official">Темы из сторонних источников не поддерживаются</string>
+    <string name="resource_has_been_downloaded">Тема уже загружена</string>
+    <string name="resource_no_match_app">Тип файла не поддерживается</string>
+    <string name="resource_no_network_text">Не удается подключиться к интернету</string>
+    <string name="resource_search_list_empty">Ничего не найдено</string>
+    <string name="resource_select_ringtone_confirm">Выбрать эту мелодию?</string>
+    <string name="resource_tip_select_none">Не выбрано</string>
+    <string name="resource_title_category">Категории</string>
+    <string name="resource_title_hot_subject">Популярные</string>
+    <string name="resource_title_local">Локально</string>
+    <string name="resource_title_rank">Топ</string>
+    <string name="resource_title_subject">Новые</string>
+    <string name="resource_pack_get_auth_has_been_undercarriaged">Эта тема больше не доступна</string>
+    <string name="resource_download_notification_content">Нажмите для просмотра</string>
+    <string name="resource_download_notification_title_many">Скачано тем: %1$s</string>
+    <string name="resource_download_notification_title_one">Скачивание темы завершено</string>
+    <string name="resource_tab_to_view">Нажмите для просмотра</string>
+    <string name="resource_select_ringtone_confirm_picker">Установить эту мелодию?</string>
+    <string name="expand_collapse_name_fields_description">Развернуть или свернуть информацию</string>
+    <string name="listAllContactsInAccount">Контакты: %s</string>
+    <string name="menu_export_database">Экспорт контактов</string>
+    <string name="progress_notifier_message" formatted="false">Импортирование %s из %s: %s</string>
     <string name="check_unsynchronized_accounts">Уведомлять о синхронизации аккаунтов</string>
     <string name="contact_detail_picture_description">Изменить фото</string>
     <string name="device_import_done_toast">Контактов импортировано: %1$d</string>
     <string name="dirty_contacts_notification_description">Несинхронизированных данных с Mi аккаунтом: %d</string>
     <string name="dirty_contacts_notification_message">Вы можете выключить это уведомление в настройках</string>
     <string name="dirty_contacts_notification_title">Синхронизировать контакты?</string>
-    <string name="expand_collapse_name_fields_description">Развернуть или свернуть информацию</string>
     <string name="frequency_none">Никогда</string>
     <string name="frequency_three_days">Каждые 3 дня</string>
     <string name="frequency_weekly">Каждую неделю</string>
@@ -1196,16 +1216,28 @@
     <string name="hint_search_contacts">Контактов: %d</string>
     <string name="hint_search_emails">Адресов Email: %d</string>
     <string name="hint_search_phone_numbers">Номеров: %d</string>
-    <string name="listAllContactsInAccount">Контакты: %s</string>
     <string name="login_before_recharging">Сначала необходимо авторизоваться в аккаунте</string>
-    <string name="menu_export_database">Экспорт контактов</string>
     <string name="pick_favorites_contacts_list_title">Избранных: %1$d</string>
     <string name="pick_favorites_list_title">Избранных: %1$d</string>
     <string name="pick_recent_contacts_list_title">Недавних контактов: %1$d</string>
     <string name="pick_recent_list_title">Недавних контактов: %1$d</string>
-    <string name="progress_notifier_message" formatted="false">Импортирование %s из %s: %s</string>
     <string name="remind_btn_ignore">Отмена</string>
     <string name="remind_btn_sync_now">Синхронизировать</string>
     <string name="unknown_caller">Неизвестный контакт</string>
     <string name="yellowpage_navigation_search_hint">Поиск</string>
+    <string name="resource_price_unit"> Mi Credits</string>
+    <string name="imei">IMEI</string>
+    <string name="meid">MEID</string>
+    <string name="percentage">%s%%</string>
+    <string name="from_account_format">%1$s</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
+    <string name="call_type_and_date">%1$s %2$s     </string>
+    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
+    <string name="call_log_empty_gecode">-</string>
+    <string name="callrecordview_menu_delete_confirm">%s?</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
+    <string name="import_percent">0%</string>
+    <string name="percent_sign">%</string>
+    <string name="sina_weibo">Sina Weibo</string>
 </resources>

@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Notification</item>
-        <item>Mail</item>
+        <item>E-mail</item>
         <item>SMS</item>
         <item>Alarme</item>
     </string-array>
@@ -203,6 +203,18 @@
         <item>Arrière-plan transparent noir</item>
         <item>Arrière-plan blanc</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Aucun rappel</item>
+        <item>0 minute</item>
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 heure</item>
+        <item>1 jour</item>
+        <item>2 jours</item>
+        <item>1 semaine</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>jour</item>
         <item>semaine</item>
@@ -279,7 +291,7 @@
     </string-array>
     <string-array name="repeat_choose_end">
         <item>Jamais</item>
-        <item>Time</item>
-        <item>Count</item>
+        <item>Date</item>
+        <item>Nombre</item>
     </string-array>
 </resources>

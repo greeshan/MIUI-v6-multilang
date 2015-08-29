@@ -80,7 +80,6 @@
     <string name="wipe_data_dialog_title">Некои предмети не се синхронизирани</string>
     <string name="wipe_data_dialog_msg">%s предмети ќе бидат изгубени ако продолжите.</string>
     <string name="wipe_data_dialog_msg_separator">,</string>
-    <string name="micloud_user_base_info">Кориснички информации</string>
     <string name="bind_settings">Поврзи</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Поврзан акаунт</string>
@@ -98,6 +97,7 @@
     <string name="completed">Заврши</string>
     <string name="micloud_account_details">Детали на сметката</string>
     <string name="micloud_none">Ништо</string>
+    <string name="micloud_user_base_info">Кориснички информации</string>
     <string name="micloud_user_email">Email</string>
     <string name="micloud_user_id">Mi сметка ID</string>
     <string name="micloud_user_name">Име</string>

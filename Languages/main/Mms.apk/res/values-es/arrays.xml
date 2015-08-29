@@ -62,7 +62,7 @@
     </string-array>
     <string-array name="contact_entries">
         <item>Nombre</item>
-        <item>Nick</item>
+        <item>Apodo</item>
         <item>Teléfono</item>
         <item>Correo-e</item>
         <item>Organización</item>
@@ -91,16 +91,40 @@
         <item>Hora enviado</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Vía mensaje</item>
+        <item>Vía mensaje a la nube</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>Vía mensaje</item>
+        <item>Vía mensaje a la nube</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
         <item>1</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>No establecido</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 día</item>
+        <item>Máximo</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period_value">
+        <item>-1</item>
+        <item>60</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>635040</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period">
+        <item>Máximo</item>
+        <item>2 días</item>
+    </string-array>
+    <string-array name="entries_mms_validity_period_value">
+        <item>0</item>
+        <item>172800</item>
     </string-array>
     <string-array name="select_dialog_items">
         <item>1 segundo</item>

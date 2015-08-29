@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="updated_contacts">
+        <item quantity="other">%s పరిచయాలు అప్‌డేట్ అయ్యాయి</item>
+        <item quantity="one">%s పరిచయం అప్‌డేట్ అయ్యింది</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%d పరిచయాలు</item>
+        <item quantity="one">%d పరిచయం</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%d సందేశాలు</item>
+        <item quantity="one">%d సందేశం</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%d గమనికలు</item>
+        <item quantity="one">%d గమనిక</item>
+    </plurals>
+</resources>

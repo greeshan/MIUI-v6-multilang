@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Целзий</item>
+        <item>Фаренхайт</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Да не се актуализира автоматично</item>
+        <item>На всеки час</item>
+        <item>На всеки 2 часа</item>
+        <item>На всеки 6 часа</item>
+        <item>На всеки 12 часа</item>
+        <item>На всеки ден</item>
+    </string-array>
+</resources>

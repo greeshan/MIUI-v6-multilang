@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Nov</item>
+        <item>Dorůstající srpek</item>
+        <item>První čtvrt</item>
+        <item>Dorůstající měsíc</item>
+        <item>Úplněk</item>
+        <item>Couvající měsíc</item>
+        <item>Poslední čtvrt</item>
+        <item>Couvající srpek</item>
+        <item>Zatmění</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
@@ -45,16 +56,5 @@
         <item>Vítr JZ</item>
         <item>Vítr Z</item>
         <item>Vítr SZ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Nov</item>
-        <item>Dorůstající srpek</item>
-        <item>První čtvrt</item>
-        <item>Dorůstající měsíc</item>
-        <item>Úplněk</item>
-        <item>Couvající měsíc</item>
-        <item>Poslední čtvrt</item>
-        <item>Couvající srpek</item>
-        <item>Zatmění</item>
     </string-array>
 </resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi தரவு</item>
+        <item>அனைத்து பயன்பாடுகள்</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>உலாவி</item>
+        <item>அனுமதிகள்</item>
+        <item>கேமரா</item>
+        <item>தரவு பயன்பாடு</item>
+        <item>வானிலை தரவு</item>
+        <item>வானிலை</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>தொடர்புகள்</item>
+        <item>அழைப்பு பதிவு</item>
+        <item>செய்திகள்</item>
+        <item>மல்டிமீடியா செய்திகள்</item>
+        <item>முறைமை அமைப்புகள்</item>
+        <item>Wi-Fi அமைப்புகள்</item>
+        <item>முகப்பு திரை வடிவமைப்பு</item>
+        <item>அலார அமைப்புகள்</item>
+        <item>குறிப்புகள்</item>
+        <item>DND</item>
+        <item>கணக்கு</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>தரவு</item>
+        <item>பயன்பாடுகள்</item>
+        <item>பயன்பாடுகளும் தரவும்</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>தொடர்புகள்</item>
+        <item>அழைப்பு பதிவு</item>
+        <item>செய்திகள்</item>
+        <item>Wi-Fi அமைப்புகள்</item>
+        <item>குறிப்புகள்</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>தொடர்புகள்</item>
+        <item>Wi-Fi அமைப்புகள்</item>
+        <item>குறிப்புகள்</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>அழைப்பு பதிவுகள்</item>
+        <item>செய்திகள்</item>
+    </string-array>
+</resources>

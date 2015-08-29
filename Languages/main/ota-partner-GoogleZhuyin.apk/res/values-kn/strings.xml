@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Google ಜುಯಿನ್ ಇನ್‌ಪುಟ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="ime_name">Google ಜುಯಿನ್ ಇನ್‌ಪುಟ್</string>
+    <string name="label_subtype_zhuyin">ಚೈನೀಸ್ ಜುಯಿನ್</string>
+</resources>

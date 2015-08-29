@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">"%d ദിവസങ്ങള്‍ "</item>
+        <item quantity="one">"%d ദിവസം "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d മണിക്കൂറുകള്‍ "</item>
+        <item quantity="one">"%d മണിക്കൂര്‍ "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d മിനിറ്റുകള്‍ "</item>
+        <item quantity="one">"%d മിനിറ്റ് "</item>
+    </plurals>
+    <plurals name="hints_auto_start_enable_title">
+        <item quantity="other">%d ആപ്‌സുകൾക്ക് ഓട്ടോസ്റ്റാർട്ട് ചെയ്യാനാകും</item>
+        <item quantity="one">%d ആപ്‌സിന് ഓട്ടോസ്റ്റാർട്ട് ചെയ്യാനാകും</item>
+    </plurals>
+    <plurals name="hints_auto_start_disable_title">
+        <item quantity="other">%d ആപ്‌സുകൾക്ക് ഓട്ടോസ്റ്റാർട്ട് അനുമതിയില്ല</item>
+        <item quantity="one">%d ആപിന് ഓട്ടോസ്റ്റാർട്ട് അനുമതിയില്ല</item>
+    </plurals>
+    <plurals name="hints_apps_perm_count">
+        <item quantity="other">%d അനുമതികൾ</item>
+        <item quantity="one">%d അനുമതി</item>
+    </plurals>
+    <plurals name="hints_permission_apps_count">
+        <item quantity="other">%d ആപ്‌സുകൾ</item>
+        <item quantity="one">%d ആപ്</item>
+    </plurals>
+    <plurals name="hints_get_root_enable_title">
+        <item quantity="other">%d ആപ്‌സുകൾക്ക് റൂട്ട് ആക്‌സസ് ഉണ്ട്</item>
+        <item quantity="one">%d ആപിന് റൂട്ട് ആക്‌സസ് ഉണ്ട്</item>
+    </plurals>
+    <plurals name="hints_get_root_disable_title">
+        <item quantity="other">%d ആപ്‌സുകൾക്ക് റൂട്ട് ആക്‌സസ് ഇല്ല</item>
+        <item quantity="one">%d ആപിന് റൂട്ട് ആക്‌സസ് ഇല്ല</item>
+    </plurals>
+    <plurals name="summary_app_update">
+        <item quantity="other">%d ആപ്‌സുകൾക്കായി അപ്‌ഡേറ്റുകൾ ലഭ്യമാണ്.</item>
+        <item quantity="one">%d ആപ്‌സിനായി അപ്‌ഡേറ്റ് ലഭ്യമാണ്.</item>
+    </plurals>
+</resources>

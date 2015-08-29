@@ -2,8 +2,9 @@
 <resources>
     <string name="dialog_confirm_delete_downloads_message">Törli a %d letöltést?</string>
     <string name="dialog_confirm_delete_the_download_item_message">Letöltés törlése</string>
-    <string name="dialog_confirm_delete_checkbox_message">A helyi fájlok is törölve</string>
+    <string name="dialog_confirm_delete_checkbox_message">A letöltött fájlt is törölje</string>
     <string name="download_when_network_connected">Letöltés mobil adatkapcsolaton is</string>
+    <string name="show_more">Egyebek(%s)</string>
     <string name="download_paused">Letöltés szüneteltetve</string>
     <string name="download_pending">Letöltés várakozik</string>
     <string name="download_wait_connect">A letöltés a csatlakozásra vár</string>
@@ -39,8 +40,11 @@
     <string name="pref_summary_max_bytes_limit_format">Felugró ablak, ha a fájl meghaladja a %s méretet</string>
     <string name="pref_summary_any_bytes_popup">Mindig várjon Wi-Fi hálózatra</string>
     <string name="pref_summary_no_limit_popup">Nincs letöltési mérethatár</string>
-    <string name="download_in_process">Letöltés</string>
-    <string name="download_complete">Letöltve</string>
+    <string name="download">Letöltések</string>
+    <string name="download_in_process">LETÖLTÉS</string>
+    <string name="download_complete">LETÖLTVE</string>
+    <string name="downloading_empty">Nincs letöltés</string>
+    <string name="downloaded_empty">Nincs letöltött fájl</string>
     <string name="download_list_get_free_vip">Xunlei próbaverzió</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei próberzió időszaka megkezsődött</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Élvezze a gyorsabb letöltési sebességet a Xunlei támogatásával</string>
@@ -58,7 +62,7 @@
     <string name="all_fileter">Összes</string>
     <string name="apk_filter">APK</string>
     <string name="media_filter">MÉDIA</string>
-    <string name="doc_filter">DOKUMENTUM</string>
+    <string name="doc_filter">DOKS</string>
     <string name="package_filter">CSOMAGOK</string>
     <string name="other_filter">EGYÉB</string>
     <string name="xunlei_brand" />
@@ -69,7 +73,7 @@
     <string name="vip_auto_speedup">Xunlei sebességnövelés</string>
     <string name="xunlei_gaosu">Xunlei nagysebességű szolgáltatás</string>
     <string name="free_speedup_exp">Ingyenes Xunlei nagysebességű szolgáltatás</string>
-    <string name="valid_in_this_month">csak ehónapban érvényes</string>
+    <string name="valid_in_this_month">csak e hónapban érvényes</string>
     <string name="xunlei_speed_service">Xunlei Nagysebességű szolgáltatás</string>
     <string name="open_xunlei_speed_service">Xunlei sebességnövelő szolgáltatás</string>
     <string name="bind_xunlei_account">Xunlei fiók összekapcsolás</string>
@@ -105,7 +109,7 @@
     <string name="download_list_open_xl_cancel">Mégsem</string>
     <string name="download_list_intoAuth">Are entering miui authorization page</string>
     <string name="download_list_intoAuthAlert">Várjon</string>
-    <string name="unbind_xunlei_success">Kijelentkezva a Xunlei fiókból</string>
+    <string name="unbind_xunlei_success">Kijelentkezve a Xunlei fiókból</string>
     <string name="unbind_xunlei_2_success">Xunlei fiók hozzáadva</string>
     <string name="privacy_tip_title">Xunlei Letöltőmotor használata</string>
     <string name="privacy_tip_content">Szeretné használni a Xunlei Letötlőmotor a gyorsabb letöltéshez? A letöltés URL címe fel lesz töltve a Xunlei szerverére. A Mi fiók adatai szintén feltöltésre kerülnek a későbbi aktív szolgáltatások ellenőrzése céljából.</string>
@@ -115,6 +119,16 @@
     <string name="xunlei_close_tips_content">Xunlei letöltőmotor</string>
     <string name="xunlei_close_tips_button">Bekapcsolás</string>
     <string name="toast_xunlei_engine_open">Xunlei letöltőmotor bekapcsolva</string>
+    <string name="recommend_other_downloads">Népszerű</string>
+    <string name="recommend_show_other_downloads">Ajánlott mutatása</string>
+    <string name="recommend_install">Telepítés</string>
+    <string name="recommend_open">Megnyitás</string>
+    <string name="recommend_downloading">Letöltés</string>
+    <string name="recommend_prepare">Várakozás</string>
+    <string name="recommend_installing">Telepítés</string>
+    <string name="recommend_failed">Sikertelen</string>
+    <string name="recommend_paused">Szüneteltetve</string>
+    <string name="recommend_loading">Betöltés…</string>
     <string name="app_label">Letöltések</string>
     <string name="download_title">Letöltések</string>
     <string name="download_title_sorted_by_date">Letöltések - Dátum szerint rendezve</string>
@@ -148,4 +162,15 @@
     <string name="select_all">Összes kijelölése</string>
     <string name="selected_count">%2$d/%1$d kiválasztva</string>
     <string name="download_share_dialog">Megosztás:</string>
+    <string name="no_vip_info">Igényeljen Xunlei tagságot a letöltések felgyorsításához</string>
+    <string name="no_vip_show_info">"A letöltések felgyorsítása
+minden eszközén a Xunlei használatával"</string>
+    <string name="vip_show_info">"5 millió felhasználó.
+A letöltések felgyorsítása minden eszközén a Xunlei használatával"</string>
+    <string name="vip_expire_show_info">"A Xunlei tagsága lejárt.
+Újítsa meg most 5% kedvezménnyel."</string>
+    <string name="vip_expire_today_show_info">"A Xunlei tagsága lejárt.
+Újítsa meg most 5% kedvezménnyel"</string>
+    <string name="expire_notification_msg">A Xunlei tagság hamarosan lejár.</string>
+    <string name="expire_today_notification_msg">A Xunlei tagság ma lejár.</string>
 </resources>

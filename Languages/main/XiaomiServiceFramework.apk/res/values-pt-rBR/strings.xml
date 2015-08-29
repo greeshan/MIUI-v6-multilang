@@ -6,13 +6,12 @@
     <string name="error_device_id_message">"ID do dispositivo inválida: %s
 A ID do dispositivo deve ser um endereço MAC ou IMEI válidos. Sem o ID do dispositivo, alguns recursos de sua conta e da nuvem ficarão indisponíveis."</string>
     <string name="accept">OK</string>
+    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="sync_notification_title_format">Atualmente sincronizando: %1$s</string>
     <string name="activate_phone_failed_notif_title">Não foi possível ativar o cartão SIM</string>
     <string name="activate_phone_failed_notif_title_msim">Não foi possível ativar o cartão SIM %s</string>
     <string name="activate_status_title_activating">Ativando seu cartão SIM</string>
     <string name="activate_status_title_activating_msim">Ativando seu cartão SIM %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">Aguardando serviço de telefonia</string>
-    <string name="activate_status_desc_registration">Registrando cartão SIM</string>
-    <string name="activate_status_desc_registration_server_error">Ocorreu um erro no servidor durante o registro do cartão SIM</string>
     <string name="activate_status_desc_query_activation_info">Consultando informações de ativação do servidor</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nenhuma informação de ativação no servidor</string>
     <string name="activate_status_desc_query_activation_info_server_error">Ocorreu um erro no servidor durante a consulta da ativação</string>
@@ -22,7 +21,6 @@ A ID do dispositivo deve ser um endereço MAC ou IMEI válidos. Sem o ID do disp
     <string name="activate_status_desc_wait_for_sms_fail">Não foi possível receber SMS de ativação do servidor</string>
     <string name="activate_status_desc_request_activation_sms">Solicitando um SMS de ativação do servidor para seu telefone</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Ocorreu um erro no servidor durante a solicitação do SMS de ativação</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">O número de telefone digitado é inválido</string>
     <string name="activate_status_desc_getting_gateway">Obtendo gateway de SMS</string>
     <string name="activate_status_desc_failed_getting_gateway">Não foi possível obter o gateway de SMS</string>
     <string name="activate_status_desc_prepare_sending_sms">Preparando o envio do SMS de ativação para o gateway</string>
@@ -38,8 +36,6 @@ A ID do dispositivo deve ser um endereço MAC ou IMEI válidos. Sem o ID do disp
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Ocorreu um erro no servidor ao verificar a Conta Mi</string>
     <string name="activate_status_desc_registering_xiaomi_account">Registrando Conta Mi no servidor</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Ocorreu um erro no servidor ao registrar sua Conta Mi</string>
-    <string name="activate_status_desc_getting_sim_info">Obtendo informações do cartão SIM</string>
-    <string name="activate_status_desc_getting_sim_info_fail">Não foi possível obter informações do cartão SIM</string>
     <string name="sim_unactivated_title">Seu cartão SIM não foi ativado</string>
     <string name="activate">Ativar</string>
     <string name="activate_popup_title_manual">Ativar %s</string>
@@ -79,4 +75,15 @@ A ID do dispositivo deve ser um endereço MAC ou IMEI válidos. Sem o ID do disp
     <string name="activate_feature_mms_sync">Sincronizar SMS</string>
     <string name="activate_feature_call_log_sync">Sincronizar registro de chamadas</string>
     <string name="activate_feature_find_device">Encontrar dispositivo</string>
+    <string name="activate_status_desc_getting_sim_info">Obtendo informações do cartão SIM</string>
+    <string name="activate_status_desc_getting_sim_info_fail">Não foi possível obter informações do cartão SIM</string>
+    <string name="activate_status_desc_registration">Registrando cartão SIM</string>
+    <string name="activate_status_desc_registration_server_error">Ocorreu um erro no servidor durante o registro do cartão SIM</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">O número de telefone digitado é inválido</string>
+    <string name="activate_status_desc_wait_for_phone_service">Aguardando serviço de telefonia</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Relatar</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Relatar este problema para a Mi? (ID do relatório: %s)</string>
+    <string name="activate_popup_link_diagnosis_detail">Quais informações serão incluídas?</string>
+    <string name="activate_popup_title_diagnosis_detail">Info. de diagnóstico</string>
+    <string name="activate_popup_title_upload_diagnosis_info">Não foi possível ativar o cartão SIM</string>
 </resources>

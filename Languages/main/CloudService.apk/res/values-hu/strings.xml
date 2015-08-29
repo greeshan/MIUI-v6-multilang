@@ -46,10 +46,15 @@
     <string name="sync_sub_dspt">Egy üzenet elküldése szükséges az aktiválásához</string>
     <string name="sync_sub_int_dspt">Az aktiváló üzenet díja a nemzetközi díjnak felel meg.</string>
     <string name="access_denied">Hozzáférés megtagadva</string>
+    <string name="internet_access_dspt">Az alkalmazás megfelelő működéséhez internetkapcsolat szükséges.</string>
     <string name="sync_on">Be</string>
     <string name="sync_off">Ki</string>
     <string name="mx_dspt">Mi Üzenetek</string>
+    <string name="mx_voip_dspt">Mi kommunikáció</string>
     <string name="mx_sub_dspt_provision">Mi Üzenetek</string>
+    <string name="mx_sub_dspt_provision_with_voip">VoIP hívás</string>
+    <string name="voip_choose_sim">Válasszon telefonszámot a MiVoice aktiválásához</string>
+    <string name="activate_number_change_dialog_message">Válasszon telefonszámot, amelyet VoIP hívás esetén a hívott fél fog látni.</string>
     <string name="phone_number_may_required_dspt_provision">"A szolgáltatás igénybevételéhez telefonszám megadása szükséges. "</string>
     <string name="phone_number_required_dspt_provision">"A szolgáltatás igénybevételéhez telefonszám megadása szükséges. "</string>
     <string name="sync_resend_sms_dspt_provision">SIM kártya váltáskor a szolgáltatás újra aktiválásához egy üzenet díja felszámításra kerülhet .</string>
@@ -59,23 +64,35 @@
     <string name="sync_dspt_provision3">" weboldalról is elérhetőek.
 
 A szolgáltatás bármikor be és kikapcsolható."</string>
-    <string name="sync_dspt_entrance_provision">Szinkronizálja fényképeit, névjegyeit, üzeneteit, vagy keresse meg készülékét.</string>
+    <string name="sync_dspt_entrance_provision">Szinkronizálja a fényképeket, névjegyeket, üzeneteket, hívásnaplót az összes eszközén.A szinkronizált adatok eléréshez keresse fel az %s weboldalt.</string>
     <string name="sync_dspt_entrance_provision_2">További információ</string>
-    <string name="find_device_dspt_provision">"Elveszett készüléke esetén lépjen be az "</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">Nem</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Igen</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Bekapcsolja a MiCloud szolgáltatást?</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">A MIUI beépített alkalmazásainak szüksége van a MiCloudra a fényképek, névjegyek, jegyzetek és egyebek biztonsági mentésére. A MiCloud használata ingyenes.</string>
+    <string name="sync_dspt_entrance_provision_skip">Átugrás</string>
+    <string name="find_device_dspt_provision">"Elveszett készüléke esetén lépjen be az %s  weboldalra, hogy megtalálja, lezárja vagy annak tartalmát törölje.A szolgáltatás bármikor be és kikapcsolható. "</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
-    <string name="find_device_dspt_provision_3">" weboldalra, hogy megtalálja, lezárja vagy annak tartalmát törölje.
-
-A szolgáltatás bármikor be és kikapcsolható."</string>
+    <string name="find_device_dspt_provision_3">A szolgáltatás bármikor be és kikapcsolható.</string>
     <string name="find_device_dspt_provision_4">SIM kártya váltáskor a szolgáltatás újraaktiválásához egy SMS üzenet lesz automatikusan elküldve.</string>
-    <string name="find_device_send_sms_alert">SIM kártya csere esetén a szolgáltatás újbóli aktiválásához egy másik SMS lesz elküldve.</string>
+    <string name="find_device_send_sms_alert">"
+\u0009
+SIM kártya csere esetén a szolgáltatás újbóli aktiválásához egy másik SMS lesz elküldve.
+"</string>
     <string name="mx_dspt_provision">"Az Mi Üzenetek szolgáltatás ingyenes üzenetküldést tesz lehetővé a MIUI felhasználói között.
 
 A szolgáltatás bármikor be és kikapcsolható."</string>
+    <string name="mx_dspt_provision_with_voip">MIUI felhasználók ingyenes hívása internetkapcsolat esetén. A funkció bármikor be és kikapcsolható a Beállításokban. VoIP a Weihui támogatásával. Weihui Adatvédelmi Irányelvek megtekintése</string>
+    <string name="mx_dspt_provision_with_voip2">Adatvédelmi Irányelvek</string>
     <string name="mx_dspt_provision_privacy">"A szolgáltatás igénybevételéhez a telefonszáma szükséges.A szolgáltató az aktiváláshoz egy SMS üzenet díját számíthatja fel.
 Ez a funkció titkosítja és feltölti az eszköz azonosítóját a Xiaomi szerverére."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"A szolgáltatáshoz a telefonszáma szükséges. Az aktiváláshoz két SMS díját felszámíthatja a szolgáltató.
+
+A szolgáltatás titkosítja és feltölti az eszköz azonosítóját a Mi szerverére."</string>
     <string name="user_agreement_p6">"
-A szolgáltatás használatával elfogadja a "</string>
+A szolgáltatás használatával elfogadja a 
+"</string>
     <string name="user_agreement_p7">MiCloud felhasználási feltételeit</string>
     <string name="user_agreement_p8">.</string>
     <string name="user_agreement_title">MiCloud Felhasználási feltételek</string>
@@ -105,7 +122,7 @@ A szolgáltatás használatával elfogadja a "</string>
     <string name="micloud_more">Tudjon meg többet</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="micloud_dspt">"Használja a MiCloud  szolgáltatást adattárolásra, megosztásra és "</string>
-    <string name="cmcc_micloud_dspt">Használja a MiCloud szolgáltatást az adat szinkronzáláshoz, eszközkereséshez.</string>
+    <string name="cmcc_micloud_dspt">Használja a MiCloud szolgáltatást az adat szinkronizáláshoz, eszközkereséshez.</string>
     <string name="micloud_sec_dspt">eszközkereséshez.</string>
     <string name="micloud_dspt_provision">Használja a MiCloud szolgáltatást adattárolásra, megosztásra és eszközkereséshez.</string>
     <string name="start_micloud">Indítás</string>
@@ -117,16 +134,22 @@ A szolgáltatás használatával elfogadja a "</string>
     <string name="noRemind">Ne emlékeztessen</string>
     <string name="restoreSync">Visszaállítás</string>
     <string name="enableAll">Minden szinkronizálása</string>
-    <string name="master_alert_notif_dspt_add">%s vár szinkronizálásra.</string>
+    <string name="master_alert_notif_dspt_add">%s elem vár szinkronizálásra.</string>
     <string name="master_alert_notif_dspt_no">Minden naprakész.</string>
     <string name="sub_alert_notif_dspt_add">%s elem vár szinkronizálásra.</string>
     <string name="sub_alert_notif_dspt_no">Még semmi nem volt szinkronizálva.</string>
-    <string name="click_to_enabled">Kattintson a szinkr.</string>
+    <string name="cloudservice_new_sync">%s szinkronizálása</string>
+    <string name="click_to_enabled">Kattintson a szinkronizáláshoz</string>
     <string name="calendar_sync">Naptár</string>
     <string name="antispam_sync">Csendes üzemmód beállítások</string>
+    <string name="deskclock_backup">Ébresztőóra</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Duokan tartalom kezelése a Duokan alkalmazás használatával.</string>
+    <string name="micloud_space_applist_title">Alkalmazások kezelése</string>
+    <string name="micloud_space_applist_detail">Kezdőképernyő alkalmazásainak kezelése</string>
+    <string name="micloud_space_soundrecorder_title">Hangfelvételek</string>
+    <string name="micloud_space_soundrecorder_detail">Az eszközön tárolt hangfelvételek kezelése</string>
     <string name="micloud_space_full_influence"><u>Mi történik ha megtelik a felhő tárhely?</u></string>
     <string name="micloud_storage_usage" formatted="false">Felhasznált %s / Teljes tárhely %s</string>
     <string name="micloud_title_dspt" formatted="false">"Teljes: %s 
@@ -136,7 +159,8 @@ Felhasznált: %s  | Elérhető: %s"</string>
     <string name="micloud_user_space_usage">Felhasznált tárhely</string>
     <string name="micloud_web_discription_01">A fájlok tárolásához és hozzáféréséhez</string>
     <string name="micloud_web_discription_02">" jelentkezzen be az i.mi.com weboldalra."</string>
-    <string name="micloud_web_discription">Adatai tárolásához és eléréséhez jelentkezzen be az i.mi.com weboldalra</string>
+    <string name="micloud_web_discription">Látogasson el az i.mi.com weboldalra</string>
+    <string name="micloud_web_discription_international">www.mi.com/micloud</string>
     <string name="micloud_full_influence_title">Ha a MiCloud megtelt…</string>
     <string name="micloud_warn_low_title">A MiCloud tárhely hamarosan megtelik…</string>
     <string name="micloud_warn_low_sum">A MiCloud tárhely 90%-a foglalt.</string>
@@ -167,24 +191,27 @@ Felhasznált: %s  | Elérhető: %s"</string>
     <string name="cloud_sync_setting_summary_wlan">Csak Wi-Fi kapcsolat: Az adatok szinkronizálása csak Wi-Fi használatával történik.</string>
     <string name="sync_item_calllog_title">Hívásnapló szinkronizálása</string>
     <string name="sync_item_calllog_summary">A beérkező és kimenő hívások szinkronizálása</string>
-    <string name="view_storage_title">Micloud tárhely megtekintése</string>
+    <string name="view_storage_title">MiCloud tárhely megtekintése</string>
     <string name="storage">Tárhely</string>
     <string name="setting">Beállítások</string>
-    <string name="remind_later">Emlékeztessen</string>
+    <string name="remind_later">Most nem</string>
     <string name="enable_cloud_service_notification">Még nincs bekapcsolva MiCloud szolgáltatás</string>
     <string name="contact">Névjegy</string>
-    <string name="sms">SMS</string>
+    <string name="sms">Üzenetek</string>
     <string name="photo">Fénykép</string>
     <string name="micloud_unlogin_for_time_title">MiCloud engedélyezése</string>
     <string name="micloud_main_sync_stop">Kikapcsolva</string>
     <string name="micloud_main_sync_pause">Szüneteltetés</string>
     <string name="micloud_main_sync_exception">Szinkronizálási hiba</string>
     <string name="micloud_main_stop_sync">Kikapcsolva</string>
-    <string name="micloud_main_suggest_sync">Néhány adat még nincs szinkronizálva.</string>
+    <string name="micloud_main_suggest_sync">Az adatok nincsenek szinkronizálva.</string>
     <string name="micloud_main_set_internet">Internet</string>
     <string name="micloud_main_sync_now">Szinkronizálás</string>
     <string name="micloud_main_network_error">A hálózat nem működik, ellenőrizze a beállításokat.</string>
     <string name="micloud_main_sync_on_wifi">adatok szinkr. Wi-Fi eléréskor</string>
+    <string name="micloud_main_sync_setting">Szinkronizálási beállítások</string>
+    <string name="micloud_main_suggest_setting">"A szinkronizáláshoz várakozás Wi-Fi kapcsolatra
+További opciók megtekintéséhez kattintson a Beállítások gombra"</string>
     <string name="micloud_main_data_unsynced">%d elem vár szinkronizálásra</string>
     <string name="micloud_main_detail">Részletek</string>
     <string name="micloud_main_network_abnormal">Nem csatlakozható az internethez</string>
@@ -192,9 +219,8 @@ Felhasznált: %s  | Elérhető: %s"</string>
     <string name="micloud_main_syncing">Szinkronizálás...</string>
     <string name="micloud_main_last_sync_time">Utolsó szinkronizálás %s</string>
     <string name="micloud_main_synced_data_count">%d adat szinkronizálva</string>
-    <string name="micloud_main_wlan_sync_data_count">%d adat szinkr. WI-Fi eléréskor</string>
+    <string name="micloud_main_wlan_sync_data_count">%d tétel szinkronizálása Wi-Fi kapcsolódáskor</string>
     <string name="micloud_main_space_full">Nincs elég szabad terület</string>
-    <string name="micloud_main_space_risk">%d szinkronizálva.</string>
     <string name="micloud_main_update_space">Nagyobb tárhely igénylése</string>
     <string name="micloud_detail_syncing">szinkronizálás</string>
     <string name="micloud_detail_pending">függőben</string>
@@ -217,7 +243,8 @@ a Mi fiókba a MiCloud újraaktiválásához."</string>
     <string name="micloud_setting_browser_summary">Könyvjelzők és előzmények</string>
     <string name="micloud_setting_music_summary">Lejátszási listák és kedvencek</string>
     <string name="micloud_setting_wifi_summary">Wi-Fi beállítások</string>
-    <string name="micloud_setting_antispam_summary">Csendes üzemmód és a Tiltólista telefonszámok.</string>
+    <string name="micloud_setting_deskclock_summary">Időzóna és ébresztés beállítások</string>
+    <string name="micloud_setting_antispam_summary">Kivételek és a Tiltólista telefonszámok.</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
     <string name="upgrade_space_mibipreyear">%s MiCredit évente</string>
@@ -259,24 +286,48 @@ a Mi fiókba a MiCloud újraaktiválásához."</string>
 Nagyobb tárhely vásárlásához kínai bankkártya szükséges."</string>
     <string name="buy_more_space_c_class">"A szolgáltatáshoz kínai bankkártya szükséges.
 Nagyobb tárhely igényléséhez látogassa meg a visit mi.com/micloud weboldalt."</string>
+    <string name="micloud_member_buy_title">Megrendelés megerősítése</string>
+    <string name="micloud_member_buy_content" formatted="false">"Érvényesség %s-%s-%s
+%s MiCredit évente"</string>
+    <string name="micloud_member_net_error_alert_title">Nem sikerült kapcsolódni a hálózathoz</string>
+    <string name="micloud_member_net_error_alert_message">Nincs internetkapcsolat.</string>
+    <string name="micloud_member_pay_fail_toast">Nem sikerült a fizetés véglegesítése</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Szerverhiba</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Az oldalt nem sikerült betölteni</string>
+    <string name="micloud_member_webload_fail_error_message">Hálózati hiba</string>
+    <string name="micloud_member_pay_order_error_toast">Adathiba</string>
+    <string name="micloud_member_pay_miid_error_toast">Fiókhiba</string>
+    <string name="micloud_member_refresh_button">Frissítés</string>
     <string name="share_miliao_not_installed">MiTalk nincs telepítve.</string>
     <string name="share_weibo_not_installed">Weibo nincs telepítve.</string>
     <string name="share_weixin_not_installed">Wechat nincs telepítve.</string>
     <string name="share_success">Megosztás sikeres</string>
     <string name="share_cancel">Megosztás megszakítva</string>
     <string name="share_failed">Megosztás sikertelen</string>
-    <string name="cloud_back_up_title">Asztal mentése</string>
-    <string name="cloud_back_up_open_info_no_backuptime">Asztali elrendezés és alkalmazások mentése minden %1$s Wi-Fi csatlakozás esetén</string>
-    <string name="cloud_back_up_open_info">"Asztali elrendezés és alkalmazások mentése minden %1$s Wi-Fi csatlakozás esetén
+    <string name="cloud_back_up_title">Alkalmazások mentése</string>
+    <string name="settings_backup_title">Rendszerbeállítások mentése</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Alkalmazások mentése Wi-Fi csatlakozás esetén minden %1$s</string>
+    <string name="cloud_back_up_open_info">"Alkalmazások mentése Wi-Fi csatlakozás esetén minden %1$s.
 Utolsó mentés: %2$s"</string>
-    <string name="cloud_back_up_interval_long">7 nap</string>
-    <string name="cloud_back_up_interval_short">1 óra</string>
+    <string name="cloud_back_up_interval_long">7.napon</string>
+    <string name="cloud_back_up_interval_short">nap</string>
     <string name="cloud_back_up_close_info">Kattintson a mentéshez.</string>
     <string name="cloud_backup_dialog_title">Mentés a MiCloud-dal</string>
     <string name="cloud_back_up_dialog_content">Megszakítja a mentést? Ha megszakítja, nem fogja tudni a mentett alkalmazásokat visszaállítani.</string>
     <string name="cloud_back_up_button_ok">Leállítás</string>
     <string name="cloud_back_up_network_unavailable">Nem törölhető. Csatlakozzon Wi-Fi hálózathoz, majd próbálja újra.</string>
     <string name="cloud_back_up_remove_success">A mentés törölve</string>
+    <string name="micloud_storage">Tárhely</string>
+    <string name="micloud_member">MiCloud tagok</string>
+    <string name="micloud_buy_member">Fiók</string>
+    <string name="micloud_member_advantage">További tárhely igénylése.</string>
+    <string name="micloud_main_title_sync_fail">Nem szinkronizálható</string>
+    <string name="micloud_main_title_sync_on_wifi">Wi-Fi használata</string>
+    <string name="micloud_main_title_sync_off">Szinkronizálás kikapcsolva</string>
+    <string name="micloud_sync_alert_dialog_title">MiCloud használata</string>
+    <string name="micloud_sync_alert_dialog_message">Fényképek, névjegyek, jegyzetek szinkronizálása valamennyi eszközön.</string>
+    <string name="micloud_sync_alert_dialog_negative">Mégsem</string>
+    <string name="micloud_sync_alert_dialog_positive">OK</string>
     <string name="app_sync_off">Alk.szinkronizálás kikapcsolva</string>
     <string name="current">Jelenlegi</string>
     <string name="data_syncing">Adatok szinkronizálása</string>
@@ -295,10 +346,22 @@ Utolsó mentés: %2$s"</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Wi-Fi leválasztva</string>
     <string name="wifi_sync">Wi-Fi szinkronizálás</string>
+    <string name="micloud_main_space_risk">%d szinkronizálva.</string>
+    <string name="close_cloud_app_backup_cancel">Mégsem</string>
+    <string name="close_cloud_app_backup_close">Bezárás</string>
+    <string name="close_cloud_app_backup_local_backup">Mentés</string>
+    <string name="close_cloud_app_backup_message">Az alkalmazások MiCloudba történő biztonsági mentés szolgáltatása 2015.május 1-jétől megszűnik! Az adatok törlősre kerülnek, ezért mihamarabb mentse le az adatokat.</string>
+    <string name="close_cloud_app_backup_notification_message">Kattintson a részletek megtekintéséhez</string>
+    <string name="close_cloud_app_backup_notification_title">MiCloud szolgáltatás változás!</string>
+    <string name="close_cloud_app_backup_title">Biztonsági mentés</string>
+    <string name="cloud_app_back_up_quit_notification_content1">A nem MIUI alkalmazás adatok MiCloud-ba történő biztonsági mentésének szolgáltatása megszűnik és 2015. Május 1.-jén törlésre kerülnek. Az adatvesztés elkerülése érdekében mentse le a MiCloudból az adatokat most.</string>
+    <string name="cloud_app_back_up_quit_notification_content2">A névjegyeket, üzeneteket, galériát és egyéb MIUI rendszer alkalmazást nem érint a változás.</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Alkalmazás adatok mentése</string>
+    <string name="voip_dspt">Mi Hanghívás</string>
     <string name="micloud_intro_01_part_01">Ingyen küldhető SMS</string>
     <string name="micloud_intro_01_part_02">Ingyenes Mi üzenet Wi-Fi-n keresztül</string>
     <string name="micloud_intro_02_part_01">Ne a pendrive-on és az emailfiókokon keresztül mozgassa a fájlokat.</string>
-    <string name="micloud_intro_02_part_02">Névjegyek, üzenetek, fényképek szinkonizálása egyéb eszközökre.</string>
+    <string name="micloud_intro_02_part_02">Névjegyek, üzenetek, fényképek szinkronizálása egyéb eszközökre.</string>
     <string name="micloud_intro_03_part_01">Biztonságos tartalom bárhonnan.</string>
     <string name="micloud_intro_03_part_02">Az eszköz nyomon követhető, lezárható illetve törölhető annak tartalma az i.mi.com-on keresztül</string>
 </resources>

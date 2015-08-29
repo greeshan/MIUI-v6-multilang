@@ -52,7 +52,6 @@
     <string name="download_successful">Downloaded</string>
     <string name="download_invalid">No resources</string>
     <string name="download_start_toast">Prepare downloading %1$s(%2$dbps)</string>
-    <string name="download_quality_toast">Choose download quality</string>
     <string name="download_progress_toast">%1$d%%</string>
     <string name="download_network_is_not_available">"Can't connect to the network"</string>
     <string name="play_local_sound">Playing offline: %1$s</string>
@@ -100,4 +99,5 @@
     <string name="impunity_declaration_ignore">"Don't show again"</string>
     <string name="impunity_declaration_positive_text">OK</string>
     <string name="impunity_declaration_negative_text">Quit</string>
+    <string name="download_quality_toast">Choose download quality</string>
 </resources>

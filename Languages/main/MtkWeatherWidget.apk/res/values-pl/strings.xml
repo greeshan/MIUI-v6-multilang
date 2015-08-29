@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <string name="updating">Aktualizowanie</string>
+    <string name="failed_to_locate">Nie można zlokalizować</string>
+    <string name="no_weather">Prognoza pogody dla %s nie jest aktualnie dostępna.</string>
+    <string name="add_setting">Stuknij tutaj, aby dodać miasta</string>
+    <string name="net_error">Sieć jest niedostępna. Sprawdź to.</string>
+</resources>

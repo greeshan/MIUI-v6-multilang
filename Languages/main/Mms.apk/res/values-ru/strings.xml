@@ -37,6 +37,7 @@
     <string name="add_slide_hint">Добавить новый слайд</string>
     <string name="discard_slideshow">Отменить слайд-шоу</string>
     <string name="slide_show_part">Часть %1$s из %2$s</string>
+    <string name="select_copy_text">Скопировать текст</string>
     <string name="remove_text">Удалить текст</string>
     <string name="add_picture">Изображение</string>
     <string name="remove_picture">Удалить изображение</string>
@@ -81,6 +82,8 @@
     <string name="too_many_attachments">Для вложений установлено ограничение: %1$s. Будет добавлено вложений: %2$s.</string>
     <string name="adding_attachments_title">Добавление вложений</string>
     <string name="adding_attachments">Добавление…</string>
+    <string name="recipients_over_size">Слишком много получателей</string>
+    <string name="over_max_mms_size">Превышен размер MMS сообщения</string>
     <string name="preview">Просмотр</string>
     <string name="preview_slideshow">Просмотр</string>
     <string name="replace_image">Заменить изображение</string>
@@ -108,6 +111,7 @@
     <string name="pref_title_sms_delete">Максимальное количество SMS</string>
     <string name="pref_title_mms_delete">Максимальное количество MMS</string>
     <string name="pref_messages_to_save">Установить количество сообщений в диалоге для хранения</string>
+    <string name="pref_title_storage_status">Состояние памяти сообщений</string>
     <string name="pref_title_mms_auto_retrieval">Автозагрузка MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Автоматически загружать MMS сообщения</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
@@ -123,7 +127,9 @@
     <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера?</string>
     <string name="confirm_no_block_title">Разблокировать номер и восстановить все сообщения?</string>
     <string name="confirm_no_block_positive">Разблокировать</string>
+    <string name="confirm_restore_checkbox">Разблокировать сообщения с этого номера</string>
     <string name="confirm_restore_title">Восстановить сообщения?</string>
+    <string name="confirm_restore_message">Восстановить выбранные сообщения?</string>
     <string name="confirm_restore_positive">Восстановить</string>
     <string name="delete_unlocked">Удалить закрепленные сообщения</string>
     <string name="delete">Удалить</string>
@@ -266,6 +272,7 @@
     <string name="message_pending">Отправка</string>
     <string name="message_readed">Прочитано</string>
     <string name="message_rejected">Отклонено</string>
+    <string name="message_expired">Срок действия истек</string>
     <string name="resent_message">Повторить</string>
     <string name="group_resend_message">Переслать (%d)</string>
     <string name="nosend_message">Не отправлено</string>
@@ -305,6 +312,8 @@
     <string name="pref_summary_wake_up_screen">Включение экрана при получении новых сообщений</string>
     <string name="pref_title_delivery_reports">Отчет о доставке</string>
     <string name="pref_summary_delivery_reports">Запрашивать отчет о доставке для всех отправляемых сообщений</string>
+    <string name="pref_title_send_delivery_reports">Отправлять отчет о приеме</string>
+    <string name="pref_summary_send_delivery_reports">Отправлять отчет о приеме сообщения отправителю</string>
     <string name="pref_title_ringtone_repeat">Количество напоминаний</string>
     <string name="pref_title_ringtone_repeat_summary">Количество звуковых уведомлений при приеме сообщений, когда экран выключен:</string>
     <string name="pref_other_title">Другие</string>
@@ -355,6 +364,7 @@
     <string name="title_date_type">Время сообщений</string>
     <string name="mx_msg">Облачные сообщения</string>
     <string name="mx_enable">Облачные сообщения</string>
+    <string name="mx_enable_ex">Облачные сообщения и VoIP</string>
     <string name="mx_on_sim_1">Облачные сообщения на SIM 1</string>
     <string name="mx_on_sim_2">Облачные сообщения на SIM 2</string>
     <string name="mx_btn_enable">ОК</string>
@@ -384,7 +394,8 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="mx_activate_int_hint_server">Может взиматься плата за отправляемое SMS в роуминг для повторной активации облачных сообщений</string>
     <string name="need_download">Ожидание синхронизации…</string>
     <string name="found_wild_messages_title">Загрузка сообщений</string>
-    <string name="found_wild_messages">Сообщения от данных номеров были сохранены в Mi Cloud (%s). Загрузить их?</string>
+    <string name="found_wild_messages_guide_settings_desc">Для синхронизации SMS из Mi Could включите синхронизацию в настройках сообщений</string>
+    <string name="found_wild_messages_guide_cloud_desc">Для синхронизации SMS с Mi Cloud войдите в Mi аккаунт и включите синхронизацию SMS</string>
     <string name="found_old_messages_title">Загрузка сообщений</string>
     <string name="found_old_messages">Найдено сообщений от предыдущего аккаунта: %1$s Вы хотите загрузить их в свой текущий аккаунт %2$s?</string>
     <string name="show_all_messages">Показать все сообщения</string>
@@ -399,6 +410,9 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="in_sms">Сообщение</string>
     <string name="sms_content">Содержимое:</string>
     <string name="hint_search_sms">Сообщений: %d</string>
+    <string name="cloud_state_sync_finished">Синхронизировано с Mi Cloud</string>
+    <string name="cloud_state_syncing">Синхронизация с Mi Cloud…</string>
+    <string name="cloud_state_disabled">Синхронизация с Mi Cloud отключена</string>
     <string name="search_show_more_results">Еще</string>
     <string name="add_private_contact">Добавить контакт</string>
     <string name="private_settings">Настройки</string>
@@ -436,6 +450,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="context_menu_add_to_browser_favorite">Добавить в избранные браузера</string>
     <string name="restore_all_button_msg">Восстановить все</string>
     <string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
+    <string name="reply_button_msg">Ответить</string>
     <string name="restore_blocked_message">Восстановить сообщение</string>
     <string name="overwrite_edited_content">Перезаписать содержимое?</string>
     <string name="back_to_message_list">Вернутся к списку сообщений</string>
@@ -452,13 +467,15 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="sp_conversation_title">Уведомления</string>
     <string name="title_show_sms_template">Копировать проверочные коды</string>
     <string name="pref_show_sms_template_summary">Автоматически копировать и вставлять проверочные коды из SMS</string>
+    <string name="title_show_blocked_messages">Показывать блокированные SMS</string>
+    <string name="pref_show_blocked_messages_summary">Показывать блокированные SMS в списке диалогов</string>
     <string name="sp_mark_as_read_title">Отметить как прочитанные</string>
     <string name="sp_mark_as_read">Отметить все сообщения как прочитанные?</string>
     <string name="sp_mark_as_read_progress">Обработка…</string>
     <string name="sp_category_all">Все служебные сообщения</string>
     <string name="sp_category_bank">Сообщения от банков</string>
     <string name="refill_now">Пополнить</string>
-    <string name="toast_feedback_start">Сбор данных журнала…</string>
+    <string name="toast_feedback_start">Сбор данных отчета…</string>
     <string name="toast_feedback_finish">Отчет будет отправлен автоматически при подключении к сети Wi-Fi</string>
     <string name="toast_feedback_max">Вы можете отправлять не более трех отчетов в день</string>
     <string name="toast_description_required">Невозможно отправить пустое сообщение</string>
@@ -496,6 +513,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="confirm_dlg__msg">Отменить регистрацию?</string>
     <string name="alert_dlg_ok_button">ОК</string>
     <string name="alert_dlg_cancel_button">Отмена</string>
+    <string name="cloud_recommend_msg">Нажмите для синхронизации с Mi Cloud</string>
     <string name="send_message_notification_tickerText">Запрос разрешения управления устройством</string>
     <string name="send_message_notification_title">Управление устройством</string>
     <string name="send_message_notification_msg">Управление устройством запрашивает разрешение на отправку сообщения</string>
@@ -510,7 +528,7 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="file_size">Размер:</string>
     <string name="file_title">Имя:</string>
     <string name="festival_networking_title">Предупреждение</string>
-    <string name="festival_networking_desc">Разрешить приложению доступ к интернету?</string>
+    <string name="festival_networking_desc">Разрешить доступ к интернету?</string>
     <string name="festival_continue">ОК</string>
     <string name="festival_never_remind">Запомнить</string>
     <string name="pref_title_festival_networking">Запрашивать доступ к интернету</string>
@@ -518,8 +536,10 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="view_hms_attachment_fail">Не удалось загрузить изображение</string>
     <string name="mx_type_guide">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>
     <string name="mx_dspt_provision">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно. Для активации сервиса будет отправлено SMS сообщение.</string>
-    <string name="mx_activate_user_agreement_p1">"При использовании этого сервиса вы соглашаетесь с "</string>
+    <string name="mx_dspt_provision_ex">Бесплатная отправка сообщений и совершение вызовов между пользователями MIUI. Оплата оператором может взиматься только за использование мобильного трафика. VoIP предоставлен при поддержке Weihui.</string>
+    <string name="mx_dspt_provision_ex2">Политика конфиденциальности</string>
     <string name="mx_activate_dlg_title">Активация облачных сообщений</string>
+    <string name="mx_activate_dlg_title_ex">Активация облачных сообщений и VoIP</string>
     <string name="resource_price_free">Бесплатно</string>
     <string name="menu_send_as_common">Отправлено как SMS</string>
     <string name="message_sent">Отправлено</string>
@@ -542,7 +562,25 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="pref_title_mms_validity_period">Период действия MMS</string>
     <string name="open_url_with_web">Разрешить открывать ссылки из сообщений?</string>
     <string name="block_messaging_entry_title">Блокированные SMS</string>
+    <string name="mipub_messaging_entry_title">Облачные сообщения</string>
+    <string name="message_contact">Контакт:</string>
+    <string name="message_number">Номер телефона:</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_mms_size">Размер MMS:</string>
+    <string name="storage_dialog_attachments">Вложения MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_database">База данных:</string>
+    <string name="storage_dialog_available_space">Свободно:</string>
+    <string name="storage_unavailable">Нет свободного места</string>
+    <string name="security_alert_desc">Отправитель отсутствует в списке контактов. <u><font color="red">Отправить отчет</font></u></string>
+    <string name="security_alert_desc_highlight">Отметить номер</string>
+    <string name="security_alert_dialog_title">Отчет</string>
+    <string name="security_alert_dialog_desc">Отправить номер отправителя (%s) в Xiaomi для рассмотрения</string>
+    <string name="sms_report_failed">Не удается отправить отчет</string>
+    <string name="sms_report_success">Отчет отправлен</string>
     <string name="add_bookmark">Избранные</string>
+    <string name="found_wild_messages">Сообщения от данных номеров были сохранены в Mi Cloud (%s). Загрузить их?</string>
+    <string name="mx_activate_user_agreement_p1">"При использовании этого сервиса вы соглашаетесь с "</string>
     <string name="mx_activate_int_popup_msg">Обмен облачными сообщениями позволяет пользователям MIUI общаться между собой без использования денежных средств</string>
     <string name="mx_activate_popup_msg">Облачные сообщения позволяют пользователям MIUI обмениваться сообщениями бесплатно через интернет</string>
     <string name="mx_activation_done">Облачные сообщения активированы</string>
@@ -551,6 +589,10 @@ SMS (%1$d), MMS (%2$d)."</string>
     <string name="mx_int_warning_notice">"Для активации облачных сервисов будет отправлено SMS. 
 Продолжить?"</string>
     <string name="mx_warning_notice">Будет отправлено SMS для активации облачных сообщений</string>
-    <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
     <string name="my_bookmark">Избранные</string>
+    <string name="set_smsc_address_title_miui">Установить номер SMS центра</string>
+    <string name="recipient_editor_count_format">%d</string>
+    <string name="wap_push_title">[WAP Push] </string>
+    <string name="sp_category_title_prefix">с%s</string>
+    <string name="mx2_type_description">[%s]</string>
 </resources>

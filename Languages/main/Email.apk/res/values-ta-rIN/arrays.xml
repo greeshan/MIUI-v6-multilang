@@ -6,18 +6,18 @@
         <item>முன்னோக்கி</item>
     </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>சிறு</item>
-        <item>சிறிய</item>
-        <item>வழக்கமான</item>
-        <item>பெரிய</item>
-        <item>மிகப்பெரிய</item>
+        <item>மிகச்சிறியது</item>
+        <item>சிறியது</item>
+        <item>வழக்கமானது</item>
+        <item>பெரியது</item>
+        <item>மிகப்பெரியது</item>
     </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
-        <item>சமீபத்தில் காணப்பட்டது</item>
+        <item>சமீபத்தில் பார்த்தவை</item>
         <item>வடிவமைப்பு</item>
         <item>பெயர்</item>
         <item>அனுப்புநர்</item>
-        <item>தேதி பெறப்பட்டது</item>
+        <item>பெற்ற தேதி</item>
     </string-array>
     <string-array name="moveto_folder_sections">
         <item>முறைமை</item>
@@ -37,7 +37,7 @@
     <string-array name="prefSummaries_autoAdvance">
         <item>நீங்கள் நீக்கிய பின்னர் புதிய உரையாடலைக் காண்பி</item>
         <item>நீங்கள் நீக்கிய பின்னர் பழைய உரையாடலைக் காண்பி</item>
-        <item>நீங்கள் நீக்கிய பின்னர் உரையாடல் பட்டியலை காண்பி</item>
+        <item>நீக்கிய பின்னர் இன்பாக்ஸைக் காண்பி</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>காப்பிடு மட்டும் காண்பி</item>
@@ -65,13 +65,5 @@
         <item>இந்த மின்னஞ்சல்</item>
         <item>பொறுப்புத்துறப்பு</item>
         <item>மின்னஞ்சல் பொறுப்புத்துறப்பு</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>ஒத்திசைவு வெற்றியடைந்தது.</item>
-        <item>நெட்வொர்க் இணைப்பு பிழை.</item>
-        <item>உள்நுழைவு தோல்வியடைந்தது.</item>
-        <item>பாதுகாப்பான இணைப்பு பிழை.</item>
-        <item>ஒத்திசைப்பதில் தோல்வியுற்றது.</item>
-        <item>சர்வர் பிழை.</item>
     </string-array>
 </resources>

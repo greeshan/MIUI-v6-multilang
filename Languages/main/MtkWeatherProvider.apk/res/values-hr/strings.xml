@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usluga za vremenske prilike</string>
+    <string name="choose_city">Odaberite grad</string>
+    <string name="searching">Tražnje, pričekajte...</string>
+    <string name="no_found">Nijedan grad ne podudara se sa %s. Provjerite unesene riječi.</string>
+    <string name="net_error">Mreža nije dostupna. Provjerite je.</string>
+    <string name="no_city_error">Ne možemo dobiti podatke za grad. Vrijeme sustava i vremensku zonu postavite na ispravan način.</string>
+    <string name="searching_fail">Traženje grada nije uspjelo.</string>
+    <string name="no_weather_error">Ne možemo dobiti podatke o vremenskim prilikama. Postavite točno vrijeme sustava i vremensku zonu.</string>
+    <string name="no_weather">Trenutno ne postoji vrijeme za %s.</string>
+    <string name="setting_title">Postavljanje</string>
+    <string name="temperature">Jedinice za temperaturu</string>
+    <string name="tem_celsius">Celziji</string>
+    <string name="cities_title">Gradovi</string>
+    <string name="update_fre">Učestalost ažuriranja</string>
+    <string name="every12">Svakih 12 sati</string>
+    <string name="weatherserver">Poslužitelj za vremenske prilike</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Odustani</string>
+    <string name="menu_add_city">Dodaj grad</string>
+    <string name="add_city">Pritisnite ikonu kako bi se dodao novi grad</string>
+    <string name="remove">Ukloni</string>
+    <string name="warn">Može se dodati najviše 8 gradova.</string>
+    <string name="has_chosen">je odabran.</string>
+    <string name="no_city">Nema gradova</string>
+    <string name="powered_by">Omogućio:</string>
+    <string name="menu_about">O</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Izbriši</string>
+    <string name="no">Odustani</string>
+    <string name="select_all">Odaberi sve</string>
+    <string name="deselect_all">Poništi sve</string>
+    <string name="delete">Izbriši</string>
+</resources>

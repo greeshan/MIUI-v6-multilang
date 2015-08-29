@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d മിനിറ്റുകൾക്ക് മുമ്പ്</item>
+        <item quantity="one">%d മിനിട്ട് മുമ്പ്</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d മണിക്കൂറുകൾ മുമ്പ്</item>
+        <item quantity="one">%d മണിക്കൂർ മുമ്പ്</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d ദിവസങ്ങൾ മുമ്പ്</item>
+        <item quantity="one">%d ദിവസം മുമ്പ്</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">തെളിഞ്ഞത്</item>
+        <item quantity="one">തെളിഞ്ഞത്</item>
+    </plurals>
+</resources>

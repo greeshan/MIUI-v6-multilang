@@ -83,8 +83,6 @@
     <string name="confirm_to_remove_blacklist">Деблокирај овој број?</string>
     <string name="custom_mark_category">Прилагодено</string>
     <string name="mark_number_dialog_maintitle">Ознака број и испрати</string>
-    <string name="mark_number_custom_dialog_maintitle">потврди или поправи ознака</string>
-    <string name="selected_category_format">назнака на %2$d луѓе како %1$s .</string>
     <string name="mark_title_null_hint">Внесете ознака</string>
     <string name="smart_antispam">Идентификување на непознати броеви</string>
     <string name="turn_on_smart_antispam_hint">Идентификување на повици од непознати броеви со користење на Xiaomi база на податоци</string>
@@ -209,8 +207,6 @@
     <string name="express_order_succeeded">Успешно</string>
     <string name="express_order_failed">Не успеа</string>
     <string name="express_field_empty">Празен</string>
-    <string name="express_order_internal_id">ID Нарачка</string>
-    <string name="express_order_created_time">Креирано време</string>
     <string name="express_cancel_order">Откажи</string>
     <string name="express_delete_order">Избриши</string>
     <string name="express_order_state_ordered">Нарачани</string>
@@ -242,7 +238,6 @@
     <string name="express_company_list_empty">Без компании</string>
     <string name="express_send_notice">За забранети предмети</string>
     <string name="express_tracking_number">Следење на број</string>
-    <string name="express_order_info">Информации за нарачување</string>
     <string name="remind_user_suspect_number_title">Сомнителен број</string>
     <string name="remind_user_suspect_number_message">Бидете внимателни: Вие секогаш треба да го потврдите идентитетот на контакт прво по телефон или видео пред одговор на сите пораки кои вклучуваат ваши лични информации.</string>
     <string name="remind_another_time">Дон &amp;apos; т покаже повторно</string>
@@ -261,7 +256,6 @@
     <string name="order_empty_hint">Нема налози</string>
     <string name="order_merchant_title">Мој нарачки</string>
     <string name="order_merchant_title_format">%1$s - %2$s</string>
-    <string name="order_status">%s</string>
     <string name="order_product_name_label">Име на производот:</string>
     <string name="order_status_label">Статус на нарачка: %s</string>
     <string name="order_price_label">цена нарачка: %s</string>
@@ -298,9 +292,15 @@
     <string name="sina_share_fail">Неуспешно испраќање</string>
     <string name="sina_token_expired_warning">Weibo сметка е истечена: Ве молиме надополнете</string>
     <string name="sina_token_invalid_warning">Weibo сметка не е валиден: Ве молиме надополнете</string>
-    <string name="express_order_detail">Детали</string>
     <string name="express_no_tracking_number">Неповрзан број на следење</string>
+    <string name="express_order_created_time">Креирано време</string>
+    <string name="express_order_detail">Детали</string>
+    <string name="express_order_info">Информации за нарачување</string>
+    <string name="express_order_internal_id">ID Нарачка</string>
+    <string name="mark_number_custom_dialog_maintitle">потврди или поправи ознака</string>
+    <string name="order_status">%s</string>
     <string name="recharge_pay_hint">поддршка обезбедена од страна Xiaomi Inc.</string>
+    <string name="selected_category_format">назнака на %2$d луѓе како %1$s .</string>
     <string name="express_inquiry_logistics_indication">Компанија за испорака</string>
     <string name="menu_about_yellow_page">За</string>
     <string name="select">Изберете</string>

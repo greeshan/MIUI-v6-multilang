@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weather_type">
+        <item>ಪ್ರಕಾಶಮಾನ</item>
+        <item>ಮೋಡ</item>
+        <item>ಕತ್ತಲು ಕವಿದಿದೆ</item>
+        <item>ಮಂಜು</item>
+        <item>ಭಾರೀ ಬಿರುಗಾಳಿ ಮಳೆ</item>
+        <item>ಸುರಿಮಳೆ</item>
+        <item>ಬಿರುಗಾಳಿ ಮಳೆ</item>
+        <item>ಚಂಡಮಾರುತ</item>
+        <item>ಸುರಿತ</item>
+        <item>ಭಾರೀ ಮಳೆ</item>
+        <item>ಮಧ್ಯಮ ಮಳೆ</item>
+        <item>ಹಗುರವಾದ ಮಳೆ</item>
+        <item>ಮಳೆ ಮತ್ತು ಹಿಮ</item>
+        <item>ಹಿಮದ ಬಿರುಗಾಳಿ</item>
+        <item>ಹಿಮ</item>
+        <item>ಭಾರಿ ಹಿಮ</item>
+        <item>ಮಧ್ಯಮ ಹಿಮ</item>
+        <item>ಮಧ್ಯಮ ಹಿಮ</item>
+        <item>ಪ್ರಬಲ ಮರಳ ಬಿರುಗಾಳಿ</item>
+        <item>ಮರಳ ಬಿರುಗಾಳಿ</item>
+        <item>ಮರಳು</item>
+        <item>ಬಿರುಗಾಳಿಯ</item>
+        <item>ಆಲಿಕಲ್ಲು</item>
+        <item>ಧೂಳು</item>
+        <item>ಮಂಕು</item>
+        <item>ಘನೀಕರಿಸುವ ಮಳೆ</item>
+        <item>ಡೇಟಾ ಇಲ್ಲ</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>ದುರ್ಬಲ</item>
+        <item>ದುರ್ಬಲ</item>
+        <item>ಮಧ್ಯ ಶ್ರೇಣಿಯ</item>
+        <item>ಬಲವಾದ</item>
+        <item>ಸಧೃಡ</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>ಗಾಳಿ ಉ</item>
+        <item>ಗಾಳಿ ಈ</item>
+        <item>ಗಾಳಿ ಪೂ</item>
+        <item>ಗಾಳಿ ಆ</item>
+        <item>ಗಾಳಿ ದ</item>
+        <item>ಗಾಳಿ ನೈ</item>
+        <item>ಗಾಳಿ ಪ</item>
+        <item>ಗಾಳಿ ವಾ</item>
+    </string-array>
+</resources>

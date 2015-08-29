@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_app_name">Compte Mi</string>
-    <string name="passport_account_hint_text">Email ou n° de téléphone</string>
+    <string name="passport_account_hint_text">E-mail ou n° de téléphone</string>
     <string name="passport_phone_num_hint_text">N° de téléphone</string>
     <string name="passport_login">Connexion</string>
     <string name="passport_login_with_email_or_id"><u>Connectez-vous avec votre adresse e-mail ou votre ID de compte Mi</u></string>
@@ -45,8 +45,8 @@
     <string name="passport_active_email_visit">Consultez votre boîte e-mail sur %s</string>
     <string name="passport_click_email_to_valid">"
 
-  Pour activer votre compte, suivez le
-  lien dans le message que nous vous avons envoyé."</string>
+ Pour activer votre compte, suivez le
+ lien dans le message que nous vous avons envoyé."</string>
     <string name="passport_resend_active_email">"Ré-envoyer le e-mail d'activation"</string>
     <string name="passport_delete_account">Déconnecter</string>
     <string name="passport_completed">Terminer</string>
@@ -135,7 +135,7 @@
     <string name="account">Compte</string>
     <string name="login">Se connecter</string>
     <string name="login_with_email_or_id"><u>Se connecter avec un autre compte</u></string>
-    <string name="email_or_id_hint_text">Email ou ID compte Mi</string>
+    <string name="email_or_id_hint_text">E-mail ou ID compte Mi</string>
     <string name="verify">Vérifier</string>
     <string name="register">Créer un compte</string>
     <string name="register_by_email"><u>Utiliser un e-mail</u></string>
@@ -199,12 +199,8 @@
     <string name="checking_account">Vérification du mot de passe…</string>
     <string name="button_cancel">Annuler</string>
     <string name="mili_center">Mi Credit</string>
-    <string name="mibi_balance">%s MiCredits</string>
-    <string name="loading_mili_center">Chargement…</string>
-    <string name="hide_mibi_info">Les infos de Mi Credit ont été masquées</string>
-    <string name="failed_get_mibi_info">"Échec d'accès à Mi Credit"</string>
     <string name="mipay_center">Centre de paiement Mi</string>
-    <string name="mi_support_service">Support</string>
+    <string name="mi_pass">Mi Pass</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="bind_sina_weibo">Ajouter un compte Sina Weibo</string>
     <string name="bind_weibo_description">"Trouver les contacts téléphoniques, amis et d'autres informations directement à partir de votre compte."</string>
@@ -240,9 +236,11 @@
     <string name="account_none">Aucun</string>
     <string name="account_no_set">Aucun</string>
     <string name="account_none_user_name">Aucun</string>
-    <string name="micloud_user_base_info">Informations utilisateur</string>
-    <string name="account_user_email">Email</string>
+    <string name="account_user_base_info">Info Utilisateur</string>
+    <string name="account_user_secure_info">Info de sécurité</string>
+    <string name="account_user_email">E-mail</string>
     <string name="account_user_phone">N° de téléphone</string>
+    <string name="account_user_recovery_phone">Numéro de récupération</string>
     <string name="account_user_name">Nom</string>
     <string name="account_user_avatar">Photo du profil</string>
     <string name="account_user_gender">Genre</string>
@@ -266,6 +264,42 @@
     <string name="sns_access_token_expired_warning">La connexion au compte a expiré. Veuillez vous reconnecter pour ajouter ce compte.</string>
     <string name="user_avatar_uploading">Envoi…</string>
     <string name="user_avatar_update_title">Modifier la photo</string>
+    <string name="account_none_binded_secure_phone">Pas de numéro de récupération</string>
+    <string name="account_none_binded_info">Aucun</string>
+    <string name="account_bind_secure_phone_title">Ajouter un numéro de récupération</string>
+    <string name="account_bind_secure_email_title">Ajouter une adresse mail de récupération</string>
+    <string name="update_recovery_info_dialog_title">Mise à jour de %s</string>
+    <string name="update_recovery_info_dialog_message">Vous devez vérifier votre identité avant de mettre à jour %s.</string>
+    <string name="failed_dup_secure_phone_number">Ce numéro de téléphone est déjà associé à un autre compte Mi.</string>
+    <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
+    <string name="confirm_phone_number_dialog_message">Un code de vérification va être envoyé à: %s.</string>
+    <string name="confirm_email_address_dialog_title">"Confirmation de l'adresse mail"</string>
+    <string name="confirm_email_address_dialog_message">Un code de vérification va être envoyé à: %s.</string>
+    <string name="change_phone_number">Changer le numéro de téléphone</string>
+    <string name="change_email_address">"Changer l'adresse mail"</string>
+    <string name="checking_phone_num_availible">Vérification du numéro…</string>
+    <string name="account_binded_phone">Téléphone %d</string>
+    <string name="account_bind_new_phone">Ajouter un nouveau numéro de téléphone</string>
+    <string name="account_bind_phone_notice">Utilisez ce numéro pour vous connecter, réinitialiser votre mot de passe, ou changer vos paramètres de sécurité.</string>
+    <string name="continue_action">Continuer</string>
+    <string name="replace_binded_phone">Remplacer le numéro</string>
+    <string name="delete_action">Supprimer</string>
+    <string name="phone_send_verify_code_prompt">Envoyer un code de vérification à %s</string>
+    <string name="email_send_verify_code_prompt">"Envoyer un e-mail à %s
+Veuillez saisir le code de vérification contenu dans le message"</string>
+    <string name="restart_email_bind_title">"Changement de l'adresse mail de récupération"</string>
+    <string name="restart_phone_bind_title">Changement du numéro de récupération</string>
+    <string name="restart_email_bind_message">Un mail contenant le code de vérification va être envoyé à cette adresse.</string>
+    <string name="restart_phone_bind_message">Un SMS contenant le code de vérification va être envoyé à ce numéro.</string>
+    <string name="restart_action">Redémarrer</string>
+    <string name="error_dup_binded_email">Cette adresse est déjà associée à un autre compte Mi.</string>
+    <string name="error_invalid_bind_address">"L'adresse saisie est invalide."</string>
+    <string name="just_a_second">Une seconde…</string>
+    <string name="trying_read_verify_code_sms">Récupération du code de vérification…</string>
+    <string name="get_phone_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à ce numéro. Veuillez attendre 24 heures puis essayer à nouveau.</string>
+    <string name="get_email_verifycode_exceed_limit">Trop de codes de vérification ont été envoyés à cette adresse. Veuillez attendre 24 heures puis essayer à nouveau.</string>
+    <string name="mi_account_identity_title">Vérifier votre identité</string>
+    <string name="exceed_binded_phone_times_notice">Ce numéro est déjà associé à un autre compte Mi.</string>
     <string name="bind_settings">Comptes</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="account_bind_settings">Comptes</string>
@@ -319,8 +353,16 @@
     <string name="get_device_list_failed">"Échec du chargement de la liste d'appareils"</string>
     <string name="delete_device_failed">"Impossible de supprimer l'appareil"</string>
     <string name="empty_device_list_notice">Aucun appareil</string>
+    <string name="account_vip_level">Niveau VIP</string>
+    <string name="account_vip_task">Tâche</string>
+    <string name="vip_level_value">LV%d</string>
+    <string name="failed_get_mibi_info">"Échec d'accès à Mi Credit"</string>
+    <string name="hide_mibi_info">Les infos de Mi Credit ont été masquées</string>
+    <string name="loading_mili_center">Chargement…</string>
+    <string name="mibi_balance">%s MiCredits</string>
     <string name="micloud_account_details">Détails du compte</string>
     <string name="micloud_none">Aucun</string>
+    <string name="micloud_user_base_info">Informations utilisateur</string>
     <string name="micloud_user_email">E-mail</string>
     <string name="micloud_user_id">ID compte Mi</string>
     <string name="micloud_user_name">"Nom d'utilisateur"</string>
@@ -328,7 +370,7 @@
     <string name="micloud_user_phone">Numéro de téléphone</string>
     <string name="mi_service">Support</string>
     <string name="account_dspt">"Un compte pour tout l'univers Xiaomi"</string>
-    <string name="account_hint_text">Mail ou numéro de téléphone</string>
+    <string name="account_hint_text">E-mail ou numéro de téléphone</string>
     <string name="account_not_activated">"Votre compte n'a pas été vérifié !"</string>
     <string name="activating">Activation…</string>
     <string name="btn_activate">Activer</string>
@@ -375,7 +417,7 @@ Vous pouvez l'utiliser pour vous connecter et récupérer votre mot de passe."</
     <string name="micloud_activating_account_notify_info">Activation de votre compte Mi</string>
     <string name="micloud_activating_account_notify_title">Activation du compte…</string>
     <string name="micloud_active_alert_title">Avertissement</string>
-    <string name="micloud_active_email_sent_1">"Mail d'activation envoyé à : "</string>
+    <string name="micloud_active_email_sent_1">"E-mail d'activation envoyé à : "</string>
     <string name="micloud_active_email_visit">Visitez %s</string>
     <string name="micloud_activing_account">Activation…</string>
     <string name="micloud_activing_account_delayed">"Il faut probablement 30 secondes pour terminer l'activation. 
@@ -452,4 +494,5 @@ Pour activer votre compte, suivez le /n lien d'activation envoyé sur votre boî
     <string name="foreign_login"><u>Pays/Indicatif</u></string>
     <string name="int_phone_user_notice">"Lors de l'enregistrement d'un numéro hors de Chine veuillez saisir votre code de pays, par exemple +33xxxxxxxxx"</string>
     <string name="seperator_forget_and_foreign">" | "</string>
+    <string name="passport_xiaomi_account_sec_dspt2">"L'accès au compte Mi nécessite une connexion Internet. De plus, les accès à la localisation, Mi Cloud, et Mi VIP seront activés automatiquement."</string>
 </resources>

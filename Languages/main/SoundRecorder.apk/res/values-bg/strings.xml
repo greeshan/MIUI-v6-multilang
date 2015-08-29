@@ -30,6 +30,7 @@
     <string name="deleting_message">Изтриване...</string>
     <string name="rename_dialog_title">Преименуване на звукозаписа</string>
     <string name="rename_duplicate">Името вече съществува, моля въведете друго:</string>
+    <string name="rename_no_more_tip">Без ново запитване</string>
     <string name="record_picker_title">Избор на звукозапис</string>
     <string name="dialog_title_storage_full">Малко място</string>
     <string name="dialog_content_storage_full">Поради липса на място за съхранение звукозаписът беше спрян. Желаете ли да отворите Файловия мениджър, за да изтриете ненужни файлове?</string>
@@ -40,6 +41,7 @@
     <string name="record_name_hour">.</string>
     <string name="sound_recorder_settings">Настройки на звукозаписа</string>
     <string name="preference_led_indicator">Индикатор за записване при заключен екран</string>
+    <string name="preference_tip_rename">Показване на диалог за преименуване след край на записа</string>
     <string name="preference_led_indicator_prompt">По време на звукозапис индикирай с LED и в лентата на състоянието, когато екранът е заключен</string>
     <string name="preference_record_type_title">Вид звукозапис</string>
     <string name="preference_scenes">Настройки на сцените</string>
@@ -92,6 +94,7 @@
     <string name="data_connection_button_text">OK</string>
     <string name="error_sdcard_unmounted">SD картата е демонтирана, моля поставете SD карта</string>
     <string name="record_back_pressed_hint">Докоснете отново, за да спрете записа</string>
+    <string name="record_mark_point">%sмарка</string>
     <string name="access_error">Не можете да записвате докато сте в режим Гост</string>
     <string name="button_ok">OK</string>
     <string name="hour">%d час(а)</string>

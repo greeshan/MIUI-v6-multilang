@@ -1,35 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> fotos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> foto na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Excluir&amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotos na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir&amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> foto na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
         <item quantity="other">Excluir %s fotos?</item>
         <item quantity="one">Excluir %s foto?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Excluir&amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeo na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Excluir&amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> vídeos na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir&amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> vídeo na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
         <item quantity="other">Excluir %s vídeos?</item>
         <item quantity="one">Excluir %s vídeo?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> fotos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> foto na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Excluir &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotos na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> foto na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>pasta local e na Mi Cloud&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeos na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
-        <item quantity="one">" &lt;Data> Excluir &amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;lt;/xliff:g> vídeo na &amp;amp;lt;font color=#323232>&amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;lt;/b>&amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="other">" &lt;Data> Excluir &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> vídeos na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Excluir &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> vídeo na &amp;amp;amp;lt;font color=#323232>&amp;amp;amp;lt;b>pasta local e na Mi Cloud?&amp;amp;amp;lt;/b>&amp;amp;amp;lt;/font>?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d selecionados</item>
+        <item quantity="zero">%1$d selecionados</item>
         <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="how_many_pics">
@@ -54,10 +56,16 @@
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d imagens</item>
+        <item quantity="zero">%1$d imagens</item>
         <item quantity="one">%1$d imagem</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">%1$d itens</item>
+        <item quantity="zero">%1$d itens</item>
         <item quantity="one">%1$d item</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s novos rostos também podem pertencer a %2$s >></item>
+        <item quantity="one">%1$s novo rosto também pode pertencer a %2$s >></item>
     </plurals>
 </resources>

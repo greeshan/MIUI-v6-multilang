@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>ಬಿಳಿ</item>
+        <item>ಹಳದಿ</item>
+        <item>ಬೂದು</item>
+        <item>ಕಂದು</item>
+        <item>ಹಸಿರು</item>
+        <item>ನೀಲಿ</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>ಪೂರ್ವನಿಯೋಜಿತ ಆರಂಭ ಪುಟ</item>
+        <item>ಕಸ್ಟಮ್</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>ಆಂಡ್ರಾಯ್ಡ್</item>
+        <item>ಗಣಕತೆರೆ</item>
+        <item>ಐಫೋನ್</item>
+        <item>ಐಪ್ಯಾಡ್</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>ಹಿಂದಿನ ಪುಟ/ಮುಂದಿನ ಪುಟ</item>
+        <item>ಹಿಂದಿನ ಪುಟ/ಮುಂದಿನ ಪುಟ</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>ಹಿಂದೆ/ಮುಂದೆ ಪುಟ</item>
+        <item>ವಿಂಡೋ ಬದಲಿಸಿ</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ಸಣ್ಣ</item>
+        <item>ಸಾಧಾರಣ</item>
+        <item>ದೊಡ್ಡದು</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>ಏ೦ದಿಗೊ</item>
+        <item>Wi-Fiನಲ್ಲಿ ಮಾತ್ರ</item>
+        <item>ಯಾವಾಗಲೂ</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>ಸಣ್ಣ</item>
+        <item>ಸಣ್ಣ</item>
+        <item>ಸಾಧಾರಣ</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಬೃಹತ್</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>ದೊಡ್ಡ</item>
+        <item>ದೊಡ್ಡದು</item>
+        <item>ಸಾಧಾರಣ</item>
+        <item>ಸಣ್ಣ</item>
+    </string-array>
+</resources>

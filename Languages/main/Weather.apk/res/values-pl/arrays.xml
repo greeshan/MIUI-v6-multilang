@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Nów</item>
+        <item>" "</item>
+        <item>Pierwsza kwadra</item>
+        <item>" "</item>
+        <item>Pełnia</item>
+        <item>" "</item>
+        <item>Ostatnia kwadra</item>
+        <item>" "</item>
+        <item>Nów</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Bezchmurnie</item>
         <item>Pochmurnie</item>
@@ -9,9 +20,9 @@
         <item>Ulewa</item>
         <item>Ulewa</item>
         <item>Burze</item>
-        <item>Deszcze</item>
+        <item>Deszczowo</item>
         <item>Duże opady</item>
-        <item>Deszcze</item>
+        <item>Deszczowo</item>
         <item>Przelotne opady</item>
         <item>Deszcz ze śniegiem</item>
         <item>Burza śnieżna</item>
@@ -45,16 +56,5 @@
         <item>Wiatr PDZ</item>
         <item>Wiatr Z</item>
         <item>Wiatr PNZ</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Nów</item>
-        <item>" "</item>
-        <item>Pierwsza kwadra</item>
-        <item>" "</item>
-        <item>Pełnia</item>
-        <item>" "</item>
-        <item>Ostatnia kwadra</item>
-        <item>" "</item>
-        <item>Nów</item>
     </string-array>
 </resources>

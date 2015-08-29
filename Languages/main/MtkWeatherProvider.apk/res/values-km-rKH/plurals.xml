@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d បានជ្រើសរើស</item>
+        <item quantity="zero">%1$d បានជ្រើសរើស</item>
+        <item quantity="one">%1$d បានជ្រើសរើស</item>
+    </plurals>
+    <plurals name="confirm_delete_city">
+        <item quantity="other">%1$s ឈ្មោះទីក្រុងនឹងត្រូវលុបចោល</item>
+        <item quantity="one">ឈ្មោះទីក្រុងមួយនឹងត្រូវលុបចោល</item>
+    </plurals>
+</resources>

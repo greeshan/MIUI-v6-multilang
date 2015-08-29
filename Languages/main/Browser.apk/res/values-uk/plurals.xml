@@ -27,10 +27,6 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Останні %d днів</item>
     </plurals>
-    <plurals name="miui_edit_mode_title">
-        <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="one">Вибрано: %1$d</item>
-    </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">Треків: %d</item>
         <item quantity="one">Треків: %d</item>
@@ -42,5 +38,9 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">Популярних треків: %d</item>
         <item quantity="one">Популярних треків: %d</item>
+    </plurals>
+    <plurals name="miui_edit_mode_title">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
     </plurals>
 </resources>

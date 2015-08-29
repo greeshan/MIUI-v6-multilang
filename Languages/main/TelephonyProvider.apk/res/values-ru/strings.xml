@@ -4,4 +4,5 @@
     <string name="mms_provider_label">MMS</string>
     <string name="mms_sms_provider_label">Сообщения</string>
     <string name="app_label">Хранилище номеров и сообщений</string>
+    <string name="siminfo_default_name">SIM %d</string>
 </resources>

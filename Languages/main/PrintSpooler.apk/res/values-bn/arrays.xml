@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="orientation_labels">
+        <item>পোর্ট্রেট</item>
+        <item>ল্যান্ডস্কেপ</item>
+    </string-array>
+</resources>

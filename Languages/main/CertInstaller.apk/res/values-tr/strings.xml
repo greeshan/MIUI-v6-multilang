@@ -29,4 +29,7 @@
     <string name="no_cert_file_found">SD Kartta Sertifika dosyası bulunamadı.</string>
     <string name="sdcard_not_present">SD kart mevcut değil.</string>
     <string name="intent_parse_error">Ayrıştırılamıyor: %s</string>
+    <string name="invalid_cert">Sertifika geçersiz.</string>
+    <string name="only_primary_user_allowed">Sadece bu cihazın sahibi sertifikaları yükleyebilir.</string>
+    <string name="credential_usage_label">Kimlik bilgisinin kullanımı:</string>
 </resources>

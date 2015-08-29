@@ -42,6 +42,13 @@ Povolit automatické spuštění?"</string>
     <string name="virus_scan_is_risk">Tato aplikace je podezřelá!</string>
     <string name="virus_scan_clear">Vyčistit</string>
     <string name="virus_scan_caller_unknown">Neznámý</string>
+    <string name="lift_ban_once">Povolit jednou</string>
+    <string name="dlg_appstore_notice">Stáhněte si tuto aplikaci z oficiálního Obchodu Play.</string>
+    <string name="app_store_missing_title">Xiaomi AppStore nebyl nalezen</string>
+    <string name="reboot_time">Zařízení bude restartováno...(%1$s)</string>
+    <string name="app_store_missing_message">Xiaomi AppStore není nainstalován na tomto zařízení.</string>
+    <string name="app_store_install_hint">Instalovat</string>
+    <string name="app_store_installing_message">Instalace Xiaomi AppStore</string>
     <string name="app_name">Nástroj k instalaci balíčků</string>
     <string name="install">Instalovat</string>
     <string name="done">Hotovo</string>
@@ -96,4 +103,13 @@ Všechna předchozí data uživatele budou uložena."</string>
     <string name="uninstall_failed_msg">Aplikaci %1$s nelze odinstalovat.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
     <string name="Parse_error_dlg_text">Při analýze balíčku došlo k problému.</string>
+    <string name="activity_package_delete_confirm_title">Důležité upozornění</string>
+    <string name="button_text_cancel">Zrušit</string>
+    <string name="button_text_delete">Vymazat</string>
+    <string name="button_text_next_step_timer">Další (%d)</string>
+    <string name="button_text_next_step">Další</string>
+    <string name="button_text_delete_timer">Vymazat (%d)</string>
+    <string name="package_delete_confirm_step_1">Vymazat %s?</string>
+    <string name="package_delete_confirm_step_2">Vymazání této aplikace může způsobit nestabilitu vašeho systému.</string>
+    <string name="package_delete_confirm_step_3">Po vymazání nebude možné tuto aplikaci spustit.</string>
 </resources>

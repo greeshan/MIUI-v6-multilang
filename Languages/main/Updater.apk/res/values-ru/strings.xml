@@ -45,7 +45,10 @@
     <string name="cancel_download_buton_text">Отмена</string>
     <string name="boot_recovery">Перезагрузка в Recovery</string>
     <string name="cancel_download">Отменить загрузку?</string>
+    <string name="update_success_reboot_immediately">Прошивка обновлена</string>
+    <string name="download_success_reboot_immediately">Перезагрузитесь для применения обновления</string>
     <string name="update_success">Обновление завершено</string>
+    <string name="install_failed">Ошибка обновления</string>
     <string name="download_current_rom">Скачать последнюю прошивку</string>
     <string name="later">Позже</string>
     <string name="notification_update_new_version">Доступна новая версия</string>
@@ -55,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Нажмите для перезагрузки</string>
     <string name="notification_reboot_btn">Перезагрузка</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
+    <string name="notification_auto_reboot_seccess_title">Устройство обновлено автоматически</string>
     <string name="notification_reboot_seccess_des">Рассказать друзьям</string>
     <string name="notification_share">Поделиться</string>
     <string name="notification_downloading">Загрузка прошивки…</string>
@@ -77,6 +81,11 @@
     <string name="pause">Пауза</string>
     <string name="repeat">Повтор</string>
     <string name="user_begin">ОК</string>
+    <string name="recovery_failed_title">Не удается войти в Recovery</string>
+    <string name="recovery_failed_msg">"На вашем устройстве недостаточно памяти для обновления через Recovery. Попробуйте использовать программу Mi PC Suite:
+http://miui.su/mi-pc-suite"</string>
+    <string name="recovery_failed_button">ОК</string>
+    <string name="recovery_failed_notification_msg">Используйте Mi PC Suite для обновления</string>
     <string name="validate_pkg_failed_title">Ошибка проверки</string>
     <string name="validate_pkg_failed_msg">Загруженная прошивка не с официального сайта. Рекомендуем скачать повторно.</string>
     <string name="user_intertup_download_title">Продолжить загрузку?</string>
@@ -186,6 +195,24 @@
     <string name="submit_success">Успешно отправлено</string>
     <string name="submit_fail">Не удалось отправить</string>
     <string name="submit">Отправить</string>
+    <string name="updater_wait_for_unzip">Установка обновления…</string>
+    <string name="vote_beta">Отзыв о бета версии</string>
+    <string name="vote_submit">Отправить</string>
+    <string name="vote_recommend">Рекомендовать</string>
+    <string name="vote_not_recommend">Не рекомендовать</string>
+    <string name="vote_error_nonetwork">Не удается подключиться к интернету</string>
+    <string name="vote_error1">Вы не являетесь бета тестером</string>
+    <string name="vote_error2">Не удается отправить отзыв. Обновите прошивку и повторите попытку.</string>
+    <string name="vote_hint">Получите 20 кредитов опыта на форуме MIUI за голосование</string>
+    <string name="vote_join">Голос отправлен</string>
+    <string name="vote_experience">Кредиты на форуме</string>
+    <string name="vote_error3">Не удается войти. Попробуйте войти в Mi аккаунт еще раз.</string>
+    <string name="vote_error4">Вы уже отправили отзыв</string>
+    <string name="vote_error5">Не удается отправить отзыв</string>
+    <string name="miui_BBS">" "<a href="http://bbs.miui.com">Перейти на форум MIUI</a>" "</string>
+    <string name="welcom_title">Добро пожаловать!</string>
+    <string name="welcom_message">Наслаждайтесь MIUI6</string>
+    <string name="welcom_button">ОК</string>
     <string name="menu_title_check_update">Настройки</string>
     <string name="no_proper_updates">Для текущей версии обновления не найдены</string>
     <string name="install_file_explorer">Установите файловый менеджер</string>
@@ -198,7 +225,6 @@
     <string name="apply_now_button_text">Обновить</string>
     <string name="apply_later_button_text">Отмена</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
-    <string name="install_failed">Ошибка обновления</string>
     <string name="download_failed">Ошибка загрузки</string>
     <string name="now">Сейчас</string>
     <string name="notification_new_version">Доступна новая версия %s</string>
@@ -257,8 +283,8 @@
     <string name="sdcard_has_no_space_dialog_title">Нет места на SD карте</string>
     <string name="sdcard_is_not_present_dialog_body">Необходима SD карта для загрузки обновления</string>
     <string name="sdcard_is_not_present_dialog_title">Нет SD карты</string>
-    <string name="send_install_log">Отправить журнал</string>
-    <string name="send_install_log_error">Не удалось отправить журнал ошибок</string>
+    <string name="send_install_log">Отправить отчет</string>
+    <string name="send_install_log_error">Не удалось отправить отчет об ошибках</string>
     <string name="sign_in_add_account">Активируйте Mi аккаунт</string>
     <string name="sign_in_add_account_helper">Войдите в Mi аккаунт</string>
     <string name="sign_in_info">"Рейтинг обновления: %1$s%%
@@ -281,7 +307,7 @@
     <string name="updater_finish_download">Загрузка завершена</string>
     <string name="verify_and_apply_dialog_message">Проверка контрольной суммы</string>
     <string name="verify_and_apply_dialog_title">Проверка целостности файла</string>
-    <string name="view_install_log">Просмотр журнала</string>
+    <string name="view_install_log">Просмотр отчета</string>
     <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
     <string name="button_text_reboot_now">Перезагрузка</string>
@@ -291,4 +317,8 @@
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
     <string name="toast_not_enough_free_space">Недостаточно места для OTA</string>
     <string name="toast_update_failed_hints">Не удалось обновить. Для повторной попытки требуется перезагрузка.</string>
+    <string name="sogou_uninstall_title">Предупреждение</string>
+    <string name="sogou_uninstall_msg">Клавиатура Sogou больше не совместима с MIUI6. Смените клавиатуру или обновите Sogou до последней версии.</string>
+    <string name="sogou_uninstall_positive_button">Сменить клавиатуру</string>
+    <string name="sogou_uninstall_negative_button">Обновить Sogou</string>
 </resources>

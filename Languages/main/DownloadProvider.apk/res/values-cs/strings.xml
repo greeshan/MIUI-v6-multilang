@@ -16,6 +16,15 @@
     <string name="notif_title_multiple_downloading">%1$d</string>
     <string name="notif_title_file_size">Celkem: %1$d</string>
     <string name="paused_waiting_for_network">Čekání na síť</string>
+    <string name="warning_tip_title">Využívání mobilních dat</string>
+    <string name="warning_tip_content">Chybí připojení na Wi-Fi síť. Stahování tohoto souboru může navýšit vaše poplatky za mobilní data.</string>
+    <string name="warning_tip_cancel">Stáhnout</string>
+    <string name="warning_tip_ok">Zastavit</string>
+    <string name="dialog_not_show_again">Znovu se neptat</string>
+    <string name="notification_download_complete">Stahování dokončeno</string>
+    <string name="notification_download_failed">Stahování bylo neúspěšné</string>
+    <string name="notification_download_success_more">Staženo: %1$d</string>
+    <string name="notification_download_failed_more">Stahování %1$d selhalo</string>
     <string name="app_label">Správce stahování</string>
     <string name="permlab_downloadManager">Získat přístup ke správci stahování.</string>
     <string name="permdesc_downloadManager">Umožňuje aplikaci získat přístup do správce stahování a použít jej ke stahování souborů. Škodlivé aplikace mohou toto oprávnění použít k přerušení stahování a získání přístupu k soukromým údajům.</string>
@@ -32,8 +41,6 @@
     <string name="permlab_accessAllDownloads">Přístup ke všem systémovým stahováním</string>
     <string name="permdesc_accessAllDownloads">Umožňuje aplikaci zobrazit a upravovat všechna stahování zahájená libovolnou aplikací v systému.</string>
     <string name="download_unknown_title">Bez názvu</string>
-    <string name="notification_download_complete">Stahování dokončeno</string>
-    <string name="notification_download_failed">Stahování bylo neúspěšné</string>
     <string name="notification_need_wifi_for_size">Čekání na Wi-Fi připojení</string>
     <string name="notification_paused_in_background">Pozastaveno na pozadí</string>
     <string name="wifi_required_title">Stahovaný soubor je pro síť operátora příliš velký</string>

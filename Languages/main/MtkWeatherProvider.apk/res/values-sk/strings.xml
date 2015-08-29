@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poveternostná služba</string>
+    <string name="choose_city">Vyberte mesto</string>
+    <string name="searching">Prebieha vyhľadávanie, čakajte prosím...</string>
+    <string name="no_found">Žiadne nájdené mesto sa nezhoduje s %s. Skontrolujte zadanie svojich slov.</string>
+    <string name="net_error">Sieť nie je k dispozícii. Skontrolujte to.</string>
+    <string name="no_city_error">Nemožno získať informácie o meste. Nastavte správne systémový čas a časové pásmo.</string>
+    <string name="searching_fail">Nepodarilo sa vyhľadať mesto.</string>
+    <string name="no_weather_error">Nemožno získať informácie o počasí. Nastavte správne systémový čas a časové pásmo.</string>
+    <string name="no_weather">Momentálne nemáte správy o počasí po dobu%s.</string>
+    <string name="setting_title">Nastavenie</string>
+    <string name="temperature">Teplotné jednotky</string>
+    <string name="tem_celsius">Celzius</string>
+    <string name="cities_title">Mestá</string>
+    <string name="update_fre">Aktualizovať frekvenciu</string>
+    <string name="every12">Každých 12 hodín</string>
+    <string name="weatherserver">Server pre počasie</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="menu_add_city">Pridať mesto</string>
+    <string name="add_city">Ak chcete pridať nové mesto, klepnite na ikonu</string>
+    <string name="remove">Odstrániť</string>
+    <string name="warn">Pridať možno najviac 8 miest.</string>
+    <string name="has_chosen">je vybraný</string>
+    <string name="no_city">Žiadne mestá</string>
+    <string name="powered_by">Napájaný z:</string>
+    <string name="menu_about">O službe</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Odstrániť</string>
+    <string name="no">Zrušiť</string>
+    <string name="select_all">Vybrať všetko</string>
+    <string name="deselect_all">Zrušiť výber všetkých</string>
+    <string name="delete">Odstrániť</string>
+</resources>

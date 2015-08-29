@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d పాటలు కనుగొనబడ్డాయి</item>
+        <item quantity="one">%d పాట కనుగొనబడింది</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d రోజులు మిగిలి ఉన్నాయి</item>
+        <item quantity="one">%d రోజు మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d పాటలు తొలగించబడతాయి</item>
+        <item quantity="one">1 పాట తొలగించబడుతుంది</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d కొత్తవి</item>
+        <item quantity="one">%d కొత్తది</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d పాటలు</item>
+        <item quantity="one">%d పాట</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">అదే %d పాటలు</item>
+        <item quantity="one">అదే %d పాట</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d పాటలు ప్లేజాబితాకు జోడించబడ్డాయి</item>
+        <item quantity="one">పాట ప్లేజాబితాకు జోడించబడింది</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d పాటలు ప్లేజాబితా నుండి తీసివేయబడ్డాయి</item>
+        <item quantity="one">పాట ప్లేజాబితా నుండి తీసివేయబడింది</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d పాటలు</item>
+        <item quantity="one">1 పాట</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d పాటలు పంపబడతాయి</item>
+        <item quantity="one">1 పాట పంపబడుతుంది</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d పాటలు</item>
+        <item quantity="one">1 పాట</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d పాటలు జోడించబడ్డాయి</item>
+        <item quantity="one">%d పాట జోడించబడింది</item>
+    </plurals>
+</resources>

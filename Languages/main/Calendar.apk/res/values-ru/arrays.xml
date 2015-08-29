@@ -179,6 +179,18 @@
         <item>Прозрачный</item>
         <item>Белый</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Отключено</item>
+        <item>По факту</item>
+        <item>За 5 минут</item>
+        <item>За 10 минут</item>
+        <item>За 15 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
+        <item>За 2 дня</item>
+        <item>За 1 неделю</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>дн.</item>
         <item>нед.</item>
@@ -256,7 +268,7 @@
     <string-array name="repeat_choose_end">
         <item>Никогда</item>
         <item>Время</item>
-        <item>Таймер</item>
+        <item>Счетчик</item>
     </string-array>
     <string-array name="preferences_skip_reminders_labels">
         <item>Только при отказе</item>

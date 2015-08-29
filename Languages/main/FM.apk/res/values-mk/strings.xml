@@ -26,7 +26,6 @@
     <string name="exit_fm">Излез</string>
     <string name="toast_sleep_mode">Радиото ќе престане да свири за %s</string>
     <string name="toast_sleep_mode_exit">Тајмерот е откажан</string>
-    <string name="record_file_location_format">Зачувани на %s</string>
     <string name="record_completed">Снимање заврши</string>
     <string name="turn_off_fm">Исклучете го FM</string>
     <string name="view_stations_list">Преглед на листата на станици</string>
@@ -57,6 +56,7 @@
     <string name="msg_fm_starting">Започнување…</string>
     <string name="txt_sleep_mode">Режим на мирување</string>
     <string name="txt_divider">|</string>
+    <string name="record_file_location_format">Зачувани на %s</string>
     <string name="FMRecording_reach_storage_threshold">Снимањето е прекинато: вашата SD картичка снемува празно место</string>
     <string name="access_sd_fail">Не може да се пристапи на SD картичката.</string>
     <string name="alert_dialog_cancel">Откажи</string>

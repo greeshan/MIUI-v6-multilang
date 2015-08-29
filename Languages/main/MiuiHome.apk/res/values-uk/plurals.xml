@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="editing_mode_title">
+        <item quantity="other">Вибрано: %1$d</item>
+        <item quantity="zero">Вибрано: %1$d</item>
+        <item quantity="one">Вибрано: %1$d</item>
+        <item quantity="two">Вибрано: %1$d</item>
+        <item quantity="few">Вибрано: %1$d</item>
+        <item quantity="many">Вибрано: %1$d</item>
+    </plurals>
     <plurals name="uninstall_dialog_title_format">
         <item quantity="other">Видалити застосунок \"%1$s\" і ще %2$d?</item>
         <item quantity="one">Видалити застосунок \"%s\"?</item>
@@ -15,13 +23,5 @@
         <item quantity="other">Не вддалося видалити застосунків: %2$d</item>
         <item quantity="one">Не вдалося видалити застосунок \"%s\"</item>
         <item quantity="two">Не вдалося видалити застосунок \"%s\" і 1 інше</item>
-    </plurals>
-    <plurals name="editing_mode_title">
-        <item quantity="other">Вибрано: %1$d</item>
-        <item quantity="zero">Вибрано: %1$d</item>
-        <item quantity="one">Вибрано: %1$d</item>
-        <item quantity="two">Вибрано: %1$d</item>
-        <item quantity="few">Вибрано: %1$d</item>
-        <item quantity="many">Вибрано: %1$d</item>
     </plurals>
 </resources>

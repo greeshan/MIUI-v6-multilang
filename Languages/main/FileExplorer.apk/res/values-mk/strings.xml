@@ -46,7 +46,6 @@
     <string name="category_other">Други</string>
     <string name="category_favorite">Следени</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Логови</string>
     <string name="operation_rename_message">Преименувај фолдер</string>
     <string name="operation_create_folder_message">Име на папка</string>
     <string name="operation_delete_confirm_message">Избришете папка?</string>
@@ -240,7 +239,6 @@
     <string name="operation_moving_detail">Префрлање (%1$d/%2$d)</string>
     <string name="operation_copying">Копирање…</string>
     <string name="operation_copying_detail">Копирање (%1$d/%2$d)</string>
-    <string name="name_illegal">Мора да внесете име.</string>
     <string name="open_changed_file_title">Промените се применети.</string>
     <string name="open_changed_file_message">"Датотеката што сакате да ја отворите е променета. Ве молиме:
 1. Преземете ја датотеката повторно.
@@ -285,6 +283,8 @@
     <string name="share_box_receive">Добиени</string>
     <string name="file_not_exist">датотека не постои</string>
     <string name="open_file_failed">отворањето не успеа</string>
+    <string name="name_illegal">Мора да внесете име.</string>
+    <string name="category_log">Логови</string>
     <string name="category_mirouter">Рутер</string>
     <string name="colon">:</string>
     <string name="local_cache_size">Локална големина на кешот: %s</string>

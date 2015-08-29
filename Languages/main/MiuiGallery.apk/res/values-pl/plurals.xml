@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Usunąć %1$s albumów (razem: %2$s)?</item>
+        <item quantity="one">Usunąć %1$s album (razem: %2$s)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Usunąć %s zdjęć z chmury?</item>
         <item quantity="one">Usunąć %s zdjęcie z chmury?</item>
@@ -24,6 +28,10 @@
         <item quantity="other">Usunąć %s filmów z urządzenia i chmury?</item>
         <item quantity="one">Usunąć %s filmów z urządzenia i chmury?</item>
     </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">Usunąć %1$d filmów z %2$d albumów?</item>
+        <item quantity="one">Usunąć %1$d film z %2$d albumów?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Wybrane: %1$d</item>
         <item quantity="zero">Wybrane: %1$d</item>
@@ -47,8 +55,8 @@
         <item quantity="one">Katalogów: %d</item>
     </plurals>
     <plurals name="message_no_delete_access_with_count">
-        <item quantity="other">Nie masz uprawnień do usunięcia %d plików.</item>
-        <item quantity="one">Nie masz uprawnień do usunięcia %d pliku.</item>
+        <item quantity="other">Nie masz uprawnień do usunięcia %d plików</item>
+        <item quantity="one">Nie masz uprawnień do usunięcia %d pliku</item>
     </plurals>
     <plurals name="pick_with_limited_upper_bound_title">
         <item quantity="other">Możesz zaznaczyć %d elementów</item>
@@ -63,5 +71,9 @@
         <item quantity="other">%1$d elementów</item>
         <item quantity="zero">%1$d elementów</item>
         <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s z %2$s</item>
+        <item quantity="one">%1$s z %2$s</item>
     </plurals>
 </resources>

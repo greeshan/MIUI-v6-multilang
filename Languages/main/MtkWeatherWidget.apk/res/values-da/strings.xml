@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vejr</string>
+    <string name="updating">Opdaterer</string>
+    <string name="failed_to_locate">Kunne ikke finde din placering</string>
+    <string name="no_weather">Har ikke vejret for %s for øjeblikket.</string>
+    <string name="add_setting">Tryk her for at tilføje en by</string>
+    <string name="net_error">Netværket er ikke tilgængeligt. Tjek den.</string>
+</resources>

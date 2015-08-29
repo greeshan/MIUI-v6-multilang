@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>সাদা</item>
+        <item>হলুদ</item>
+        <item>ধূসর</item>
+        <item>বাদামি</item>
+        <item>সবুজ</item>
+        <item>নীল</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>পূর্বনির্দিষ্ট শুরুর পৃষ্ঠা</item>
+        <item>ব্যক্তিগতকৃত</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>ডেস্কটপ</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>পূর্ববর্তী পৃষ্ঠা/পরবর্তী পৃষ্ঠা</item>
+        <item>পূর্ববর্তী ট্যাব/পরবর্তী ট্যাব</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>পৃষ্ঠা ফরোয়ার্ড/ব্যাকওয়ার্ড</item>
+        <item>উইন্ডো পাল্টান</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>ছোট</item>
+        <item>মাঝারি</item>
+        <item>বড়</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>কখনো না</item>
+        <item>শুধুমাত্র ওয়াই ফাইয়ে</item>
+        <item>সবসময়</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>ক্ষুদ্র</item>
+        <item>ছোট</item>
+        <item>স্বাভাবিক</item>
+        <item>বড়</item>
+        <item>বিশাল</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>বৃহত্তর</item>
+        <item>বড়</item>
+        <item>স্বাভাবিক</item>
+        <item>ছোট</item>
+    </string-array>
+</resources>

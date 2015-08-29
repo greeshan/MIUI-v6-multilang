@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Да се изтрият ли %1$s албуми (общо %2$s)?</item>
+        <item quantity="one">Да се изтрие ли %1$s албум (общо %2$s)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Да се изтрият ли %s снимки от облака?</item>
         <item quantity="one">Да се изтрие ли %s снимка от облака?</item>
@@ -23,6 +27,10 @@
     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">Да се изтрият ли %s видеоклипа локално и от облака?</item>
         <item quantity="one">Да се изтрие ли %s видеоклип локално и от облака?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" &lt;Data> Да се изтрият ли &lt;xliff:g id=ITEM>%1$d видеоклипа&lt;/xliff:g> от %2$d албума?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Да се изтрие ли &lt;xliff:g id=ITEM>%1$d видеоклип&lt;/xliff:g> от %2$d албума?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Избрани: %1$d</item>
@@ -63,5 +71,9 @@
         <item quantity="other">%1$d елементи</item>
         <item quantity="zero">%1$d елементи</item>
         <item quantity="one">%1$d елемент</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s снимки на %2$s</item>
+        <item quantity="one">%1$s снимка на %2$s</item>
     </plurals>
 </resources>

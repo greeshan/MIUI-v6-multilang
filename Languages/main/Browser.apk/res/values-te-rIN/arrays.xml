@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_theme_setting">
+        <item>తెలుపు</item>
+        <item>పసుపు</item>
+        <item>బూడిద రంగు</item>
+        <item>గోధుమ రంగు</item>
+        <item>ఆకుపచ్చ</item>
+        <item>నీలం</item>
+    </string-array>
+    <string-array name="pref_homepage_choices">
+        <item>డిఫాల్ట్ ప్రారంభ పేజీ</item>
+        <item>అనుకూలం</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>Android</item>
+        <item>డెస్క్‌టాప్</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+    </string-array>
+    <string-array name="pref_volume_key_choices">
+        <item>మునుపటి పేజీ/తదుపరి పేజీ</item>
+        <item>మునుపటి ట్యాబ్/తదుపరి ట్యాబ్</item>
+    </string-array>
+    <string-array name="pref_fling_on_border_choices">
+        <item>పేజీ ముందుకు/వెనుకకు</item>
+        <item>విండోను మార్చు</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>చిన్న</item>
+        <item>మధ్యస్థ</item>
+        <item>పెద్ద</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>ఎప్పుడూ వద్దు</item>
+        <item>Wi-Fiలో మాత్రమే</item>
+        <item>ఎల్లప్పుడూ</item>
+    </string-array>
+    <string-array name="pref_text_zoom_choices">
+        <item>చాలా తక్కువ</item>
+        <item>తక్కువ</item>
+        <item>సాధారణ</item>
+        <item>ఎక్కువ</item>
+        <item>చాలా ఎక్కువ</item>
+    </string-array>
+    <string-array name="pre_webapp_text_sizes">
+        <item>చాలా పెద్ద</item>
+        <item>పెద్ద</item>
+        <item>సాధారణ</item>
+        <item>చిన్న</item>
+    </string-array>
+</resources>

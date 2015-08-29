@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_title">Google ժույին ներածման կարգավորումներ</string>
+    <string name="ime_name">Google ժույին ներածում</string>
+    <string name="label_subtype_zhuyin">Չինարեն ժույին</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="caller_app">Pemanggil: %1$s</string>
+    <string name="safe_guard_support">Sokongan teknikal disediakan oleh %1$s</string>
+    <string name="safe_relative">Kebenaran relatif selamat</string>
+    <string name="privacy_relative">Kebenaran relatif peribadi</string>
+    <string name="other_relative">Kebenaran lain</string>
+    <string name="perm_notice">Waspada</string>
+    <string name="trust_switch_dialog_msg">MIUI tidak akan menyoal anda untuk pengeshan sebarang operasi berkaitan dengan sekuriti dan privasi dari app ini.</string>
+    <string name="auto_startup_dialog_msg">MIUI akan membenarkan app ini untuk mula tanpa kebenaran anda.</string>
+    <string name="low_risk_perms">Kebenaran Risiko rendah</string>
+    <string name="high_risk_perms">Kebenaran Risiko tinggi</string>
+    <string name="perm_privacy_app_finish">Selesai</string>
+    <string name="perm_privacy_app_launch">Lancarkan</string>
+    <string name="perm_privacy_app_installed">Pemasangan berjaya!</string>
+    <string name="perm_sysopt_boost_auto_start">Kebenaran Auto-Mula</string>
+    <string name="perm_sysopt_boost_auto_start_summary">App ini akan bermula secara automatik!</string>
+    <string name="perm_privacy_app_trust">Saya percaya app ini</string>
+    <string name="perm_privacy_app_trust_summary">MIUI akan memantau app ini</string>
+    <string name="perm_action_accept">Benarkan</string>
+    <string name="perm_action_prompt">Tanya</string>
+    <string name="perm_action_reject">Nafi</string>
+    <string name="unknown_installer">Alat PC yang tidak dikenali</string>
+    <string name="install_failed_system_incompatible">App ini tidak sesuai dengan sistem MIUI.</string>
+    <string name="app_name">Pemasang pakej</string>
+    <string name="install">Pasang</string>
+    <string name="done">Selesai</string>
+    <string name="security_settings_desc">Membenarkan aplikasi ini untuk:</string>
+    <string name="cancel">Batal</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="installing">Memasang...</string>
+    <string name="install_done">Aplikasi dipasang</string>
+    <string name="install_confirm_question">Adakah anda ingin memasang aplikasi ini?</string>
+    <string name="install_failed">Aplikasi tidak dipasang</string>
+    <string name="install_failed_invalid_apk">Pakej itu kelihatan seperti telah rosak.</string>
+    <string name="install_failed_inconsistent_certificates">Pakej sedia ada yang mempunyai nama yang sama dengan tandatangan yang bercanggah sudah pun dipasang.</string>
+    <string name="install_failed_older_sdk">Pakej ini hanya berfungsi pada Android versi terbaru.</string>
+    <string name="install_failed_cpu_abi_incompatible">Aplikasi ini tidak serasi dengan CPU telefon ini.</string>
+    <string name="install_failed_file_not_found">Pakej yang dinyatakan telah dipadamkan sebelum pemasangan dapat dilengkapkan.</string>
+    <string name="install_failed_verify_failed">Pakej ini tidak lulus pengesahan dan tidak boleh dipasang.</string>
+    <string name="install_failed_verify_timeout">Tamat masa berlaku semasa cuba mengesahkan pakej ini. Sila cuba memasangnya lagi nanti.</string>
+    <string name="install_failed_msg">%1$s tidak boleh dipasangkan pada telefon ini.</string>
+    <string name="launch">Buka</string>
+    <string name="unknown_apps_dlg_title">Pemasangan disekat</string>
+    <string name="unknown_apps_dlg_text">Untuk keselamatan, telefon anda ditetapkan untuk menyekat pemasangan aplikasi yang tidak diperoleh dari Android Market.</string>
+    <string name="ok">OK</string>
+    <string name="settings">Tetapan</string>
+    <string name="allow_source_dlg_title">Benarkan sumber baru untuk aplikasi?</string>
+    <string name="allow_source_dlg_text">"%1$s mahu memasang aplikasi lain.
+
+Benarkan ini sekarang dan pada masa akan datang?"</string>
+    <string name="manage_applications">Urus aplikasi</string>
+    <string name="dlg_app_replacement_title">Ganti aplikasi</string>
+    <string name="dlg_app_replacement_statement">"Aplikasi yang anda sedang pasang akan menggantikan aplikasi lain.
+
+Semua data pengguna terdahulu akan disimpan."</string>
+    <string name="dlg_sys_app_replacement_statement">"Ini adalah aplikasi sistem. Adakah anda masih mahu menggantikannya?
+
+Semua data pengguna terdahulu akan disimpan."</string>
+    <string name="out_of_space_dlg_title">Kehabisan ruang</string>
+    <string name="out_of_space_dlg_text">%1$s tidak boleh dipasang. Kosongkan sedikit ruang dan cuba lagi.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplikasi tidak ditemui</string>
+    <string name="app_not_found_dlg_text">Aplikasi tidak ditemui dalam senarai aplikasi yang dipasang.</string>
+    <string name="uninstall_application_title">Nyahpasang Aplikasi</string>
+    <string name="uninstall_update_title">Nyahpasang Kemas Kini</string>
+    <string name="uninstall_activity_text">%1$s merupakan sebahagian daripada aplikasi berikut:</string>
+    <string name="uninstall_application_text">Aplikasi ini akan dinyahpasang.</string>
+    <string name="uninstall_update_text">Aplikasi ini akan digantikan dengan versi kilang.</string>
+    <string name="uninstalling">Menyahpasang...</string>
+    <string name="uninstall_done">Penyahpasangan selesai</string>
+    <string name="uninstall_failed">Nyahpasang tidak berjaya</string>
+    <string name="uninstall_failed_device_policy_manager">Tidak boleh menyahpasang: pakej ini adalah pentadbir peranti yang aktif.</string>
+    <string name="manage_device_administrators">Urus pentadbir peranti</string>
+    <string name="uninstall_failed_msg">%1$s tidak boleh dinyahpasang</string>
+    <string name="Parse_error_dlg_title">Ralat penghuraian</string>
+    <string name="Parse_error_dlg_text">Terdapat masalah menghuraikan pakej.</string>
+</resources>

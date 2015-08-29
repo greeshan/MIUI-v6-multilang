@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="caller_app">Beller: %1$s</string>
+    <string name="caller_app">Toestemmings aanvraag van %1$s</string>
     <string name="safe_guard_support">Technische ondersteuning door: %1$s</string>
     <string name="safe_relative">Veiligheidscontroles</string>
     <string name="privacy_relative">Privacy machtigingen</string>
@@ -40,6 +40,8 @@
     <string name="virus_scan_is_risk">Deze app is een risico voor de veiligheid van uw apparaat.</string>
     <string name="virus_scan_clear">Verwijderen</string>
     <string name="virus_scan_caller_unknown">Onbekend</string>
+    <string name="lift_ban_once">Allow once</string>
+    <string name="dlg_appstore_notice">Haal deze app van onze officiele &lt;u>&lt;font color=#91c727>App Store&lt;/font>&lt;/u></string>
     <string name="app_name">Installatieprogramma van pakket</string>
     <string name="install">Installeren</string>
     <string name="done">Gereed</string>
@@ -60,13 +62,13 @@
     <string name="install_failed_msg">%1$s kan niet worden geïnstalleerd op uw tablet.</string>
     <string name="launch">Openen</string>
     <string name="unknown_apps_dlg_title">Installatie geblokkeerd</string>
-    <string name="unknown_apps_dlg_text">Voor de veiligheid blokkeert uw apparaat de installatie van apps uit onbekende bronnen.</string>
+    <string name="unknown_apps_dlg_text">Uw telefoon en persoonlijke gegevens zijn gevoeliger voor aanvallen door apps van onbekende bronnen. U stemt ermee in dat u zelf verantwoordelijk voor eventuele schade aan het apparaat of verlies van gegevens die voortkomen uit het gebruik van deze apps. U kunt deze melding uitschakelen in Instellingen.</string>
     <string name="ok">OK</string>
     <string name="settings">Instellingen</string>
     <string name="allow_source_dlg_title">Nieuwe bron voor apps toestaan?</string>
     <string name="allow_source_dlg_text">%1$s wil andere apps installeren. Dit voortaan toestaan?</string>
     <string name="manage_applications">Apps beheren</string>
-    <string name="dlg_app_replacement_title">Vervang app</string>
+    <string name="dlg_app_replacement_title">Bestande app vervangen</string>
     <string name="dlg_app_replacement_statement">De app die u installeert, vervangt een andere app. Al uw eerdere gebruikersgegevens worden opgeslagen.</string>
     <string name="dlg_sys_app_replacement_statement">Dit is een systeem app. Al uw eerdere gebruikersgegevens worden opgeslagen.</string>
     <string name="out_of_space_dlg_title">Geen ruimte beschikbaar</string>
@@ -87,4 +89,18 @@
     <string name="uninstall_failed_msg">%1$s kon niet worden verwijderd</string>
     <string name="Parse_error_dlg_title">Parseer fout</string>
     <string name="Parse_error_dlg_text">Er is een probleem opgetreden bij het ontleden van het pakket.</string>
+    <string name="activity_package_delete_confirm_title">Belangerijke waarschuwing</string>
+    <string name="button_text_cancel">Annuleren</string>
+    <string name="button_text_delete">Verwijderen</string>
+    <string name="button_text_next_step_timer">Volgende (%d)</string>
+    <string name="button_text_next_step">Volgende</string>
+    <string name="button_text_delete_timer">Verwijder (%d)</string>
+    <string name="package_delete_confirm_step_1">%s verwijderen?</string>
+    <string name="package_delete_confirm_step_2">Door deze app te verwijderen kan het systeem onstabiel worden.</string>
+    <string name="package_delete_confirm_step_3">Het zal niet meer mogelijk zijn om deze app na verwijdering te openen</string>
+    <string name="app_store_missing_title">App Store is niet geïnstalleerd</string>
+    <string name="reboot_time">Voorbereiden op herstarten……(%1$s)</string>
+    <string name="app_store_missing_message">Xiaomi App Store is niet op dit apparaat geïnstalleerd, Nu installeren?</string>
+    <string name="app_store_install_hint">Nu installeren</string>
+    <string name="app_store_installing_message">Installeren……</string>
 </resources>

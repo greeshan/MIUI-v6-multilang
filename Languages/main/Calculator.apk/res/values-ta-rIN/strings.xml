@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">கணிப்பான்</string>
+    <string name="del">நீக்கு</string>
+    <string name="error_nan">எண் அல்ல</string>
+    <string name="error_syntax">பிழை</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+    <string name="fun_cos">காஸ்</string>
+    <string name="fun_ln">ln</string>
+    <string name="fun_log">மடக்கை</string>
+    <string name="fun_sin">சைன்</string>
+    <string name="fun_tan">டேன்</string>
+    <string name="clr">அழி</string>
+    <string name="desc_const_e">ஆய்லரின் எண்</string>
+    <string name="desc_const_pi">பை</string>
+    <string name="desc_dec_point">புள்ளி</string>
+    <string name="desc_lparen">இடது அடைப்புக்குறி</string>
+    <string name="desc_rparen">வலது அடைப்புக்குறி</string>
+    <string name="desc_fun_cos">கோசைன்</string>
+    <string name="desc_fun_ln">இயல் மடக்கை</string>
+    <string name="desc_fun_log">மடக்கை</string>
+    <string name="desc_fun_sin">சைன்</string>
+    <string name="desc_fun_tan">டேன்ஜென்ட்</string>
+    <string name="desc_op_add">பிளஸ்</string>
+    <string name="desc_op_div">வகுத்தல்</string>
+    <string name="desc_op_fact">காரணியப் பெருக்கம்</string>
+    <string name="desc_op_mul">பெருக்கல்</string>
+    <string name="desc_op_pow">அடுக்கு</string>
+    <string name="desc_op_sqrt">வர்க்க மூலம்</string>
+    <string name="desc_op_sub">கழித்தல்</string>
+    <string name="desc_clr">அழி</string>
+    <string name="desc_del">நீக்கு</string>
+    <string name="desc_eq">சமக்குறி</string>
+</resources>

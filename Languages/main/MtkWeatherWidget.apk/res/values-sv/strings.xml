@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Väder</string>
+    <string name="updating">Uppdaterar</string>
+    <string name="failed_to_locate">Det gick inte att hitta</string>
+    <string name="no_weather">Har för närvarande inte vädret för %s.</string>
+    <string name="add_setting">Tryck här för att lägga till städer</string>
+    <string name="net_error">Nätverket är inte tillgänligt. Kontrollera att det fungerar korrekt.</string>
+</resources>

@@ -40,6 +40,14 @@
         <item quantity="other">%1$d mensagens de voz</item>
         <item quantity="one">1 mensagem de voz</item>
     </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">Cartão SIM pode armazenar %d contactos.</item>
+        <item quantity="one">Cartão SIM pode armazenar um contacto.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Eliminar %d contactos do cartão SIM?</item>
+        <item quantity="one">Eliminar contacto do cartão SIM?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
@@ -76,6 +84,10 @@
         <item quantity="other">" %1$d contactos adicionados"</item>
         <item quantity="one">%1$d contacto adicionado</item>
     </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Eliminar %d contactos</item>
+        <item quantity="one">Eliminar contacto</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d pessoas</item>
         <item quantity="one">1 pessoa</item>
@@ -84,9 +96,29 @@
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Eliminar %d contactos?</item>
+        <item quantity="one">Eliminar %d contacto?</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
         <item quantity="zero">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Bloquear estes %1$d números de telefone?</item>
+        <item quantity="one">Bloquear este número de telefone?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Desbloquear estes %1$d números de telefone?</item>
+        <item quantity="one">Desbloquear este número de telefone?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Tocou %d vezes</item>
+        <item quantity="one">Tocou uma vez</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Copiados %d contactos</item>
+        <item quantity="one">Copiado um contacto</item>
     </plurals>
 </resources>

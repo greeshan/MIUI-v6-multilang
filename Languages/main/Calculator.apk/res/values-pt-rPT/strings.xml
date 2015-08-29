@@ -14,14 +14,26 @@
     <string name="digit9">9</string>
     <string name="del">EXCLUIR</string>
     <string name="clear">C</string>
+    <string name="div">÷</string>
+    <string name="mul">×</string>
+    <string name="plus">+</string>
+    <string name="minus">−</string>
+    <string name="dot">.</string>
+    <string name="equal">=</string>
+    <string name="enter">↓</string>
     <string name="sin">sin</string>
     <string name="cos">cos</string>
     <string name="tan">tan</string>
+    <string name="pi">π</string>
     <string name="e">e</string>
+    <string name="e_mathematical_value">e</string>
     <string name="ln">ln</string>
     <string name="lg">log</string>
     <string name="leftParen">(</string>
     <string name="rightParen">)</string>
+    <string name="sqrt">√</string>
+    <string name="power">^</string>
+    <string name="factorial">!</string>
     <string name="clear_history">Eliminar histórico</string>
     <string name="text_copied_toast">Texto copiado.</string>
     <string name="leftParenDesc">parêntese esquerdo</string>
@@ -43,7 +55,4 @@
     <string name="eDesc">número de Euler</string>
     <string name="piDesc">pi</string>
     <string name="equalDesc">igual a</string>
-    <string name="advanced">Painel avançado</string>
-    <string name="basic">Painel básico</string>
-    <string name="delDesc">excluir</string>
 </resources>

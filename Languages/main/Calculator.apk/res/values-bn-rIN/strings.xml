@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ক্যালকুলেটর</string>
+    <string name="del">del</string>
+    <string name="error_nan">একটি সংখ্যা নয়</string>
+    <string name="error_syntax">ত্রুটি</string>
+    <string name="dec_point">.</string>
+    <string name="digit_0">০</string>
+    <string name="digit_1">১</string>
+    <string name="digit_2">২</string>
+    <string name="digit_3">৩</string>
+    <string name="digit_4">৪</string>
+    <string name="digit_5">৫</string>
+    <string name="digit_6">৬</string>
+    <string name="digit_7">৭</string>
+    <string name="digit_8">৮</string>
+    <string name="digit_9">৯</string>
+    <string name="fun_cos">cos</string>
+    <string name="fun_ln">ইন</string>
+    <string name="fun_log">log</string>
+    <string name="fun_sin">sin</string>
+    <string name="fun_tan">tan</string>
+    <string name="clr">clr</string>
+    <string name="desc_const_e">ইউলার সংখ্যা</string>
+    <string name="desc_const_pi">পাই</string>
+    <string name="desc_dec_point">পয়েন্ট</string>
+    <string name="desc_lparen">বাম লঘুবন্ধনী</string>
+    <string name="desc_rparen">ডান লঘুবন্ধনী</string>
+    <string name="desc_fun_cos">কোসাইন</string>
+    <string name="desc_fun_ln">স্বাভাবিক লগারিদম</string>
+    <string name="desc_fun_log">লগারিদম</string>
+    <string name="desc_fun_sin">সাইন</string>
+    <string name="desc_fun_tan">ট্যানজেন্ট</string>
+    <string name="desc_op_add">যোগ চিহ্ন</string>
+    <string name="desc_op_div">ভাগ চিহ্ন</string>
+    <string name="desc_op_fact">গৌণিক</string>
+    <string name="desc_op_mul">গুণ</string>
+    <string name="desc_op_pow">পাওয়ার</string>
+    <string name="desc_op_sqrt">বর্গমূল</string>
+    <string name="desc_op_sub">বিয়োগ চিহ্ন</string>
+    <string name="desc_clr">সাফ করুন</string>
+    <string name="desc_del">মুছুন</string>
+    <string name="desc_eq">সমান চিহ্ন</string>
+</resources>

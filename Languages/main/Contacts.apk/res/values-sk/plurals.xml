@@ -85,10 +85,6 @@
         <item quantity="other">" %1$d pridaných kontaktov"</item>
         <item quantity="one">%1$d pridaný kontakt</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Skopírované kontakty: %d</item>
-        <item quantity="one">Skopírované kontakty: %d</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Vymazať kontakty %d</item>
         <item quantity="one">Vymazať kontakt</item>
@@ -110,9 +106,21 @@
         <item quantity="zero">Vybraných: %1$d</item>
         <item quantity="one">Vybraných: %1$d</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokovať tieto %1$d čísla?</item>
+        <item quantity="one">Blokovať toto číslo?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokovať tieto %1$d čísla?</item>
+        <item quantity="one">Odblokovať toto číslo?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">Zvonil %dx</item>
         <item quantity="one">Zvonil %dx</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Skopírované kontakty: %d</item>
+        <item quantity="one">Skopírované kontakty: %d</item>
     </plurals>
     <plurals name="picker_multi_title">
         <item quantity="other">Vybraných: %1$d</item>

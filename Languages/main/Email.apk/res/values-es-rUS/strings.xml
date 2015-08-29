@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="ApplicationIconMore99">99+</string>
-    <string name="Folders">Folders</string>
     <string name="abc_action_bar_home_description">Navegar a la página principal</string>
     <string name="abc_action_bar_up_description">Navegar hacia arriba</string>
     <string name="abc_action_menu_overflow_description">Más opciones</string>
@@ -73,6 +72,7 @@
     <string name="account_settings_sync_email_summary">Sync email for this account</string>
     <string name="account_settings_unsupported_label">Unsupported policies</string>
     <string name="account_settings_unsupported_summary">None</string>
+    <string name="account_settings_using_ringtone">Ringtone</string>
     <string name="account_settings_vibrate_when_label">Vibrate</string>
     <string name="account_setup_account_type_headline">Account type</string>
     <string name="account_setup_account_type_instructions">What type of account is this?</string>
@@ -867,5 +867,6 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="wrong_password">The password you entered is incorrect</string>
     <string name="yes">Yes</string>
     <string name="zip_viewer_no_file">No files.</string>
+    <string name="Folders">Folders</string>
     <string name="search_tabs_name_reciver">Recipient</string>
 </resources>

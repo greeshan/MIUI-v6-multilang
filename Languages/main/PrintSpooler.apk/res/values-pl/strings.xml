@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Bufor wydruku</string>
-    <string name="advanced_settings_button">Ustawienia drukarki</string>
     <string name="print_button">Drukuj</string>
-    <string name="save_button">Zapisz</string>
     <string name="label_destination">Miejsce docelowe</string>
     <string name="label_copies">Kopie</string>
     <string name="label_paper_size">Rozmiar papieru</string>
     <string name="label_color">Kolor</string>
     <string name="label_orientation">Orientacja</string>
-    <string name="label_pages">Strony (%1$s)</string>
+    <string name="label_pages">Strony</string>
     <string name="pages_range_example">np. 1-5, 8, 11-13</string>
     <string name="print_preview">Podgląd wydruku</string>
     <string name="install_for_print_preview">Zainstaluj przeglądarkę PDF, by zobaczyć podgląd</string>
     <string name="printing_app_crashed">Aplikacja drukująca uległa awarii</string>
-    <string name="page_count_unknown">Strony</string>
     <string name="generating_print_job">Generowanie zadania wydruku</string>
     <string name="save_as_pdf">Zapisz jako PDF</string>
     <string name="all_printers">Wszystkie drukarki…</string>
@@ -39,5 +36,22 @@
     <string name="no_connection_to_printer">Brak połączenia z drukarką</string>
     <string name="reason_unknown">brak informacji</string>
     <string name="printer_unavailable">%1$s – niedostępne</string>
-    <string name="print_error_default_message">Nie udało się wygenerować zadania drukowania</string>
+    <string name="print_error_default_message">To nie zadziałało. Spróbuj jeszcze raz.</string>
+    <string name="collapse_handle">Uchwyt zwijający</string>
+    <string name="current_page_template">%1$d/%2$d</string>
+    <string name="expand_handle">Uchwyt rozwijający</string>
+    <string name="label_copies_summary">Kopie:</string>
+    <string name="label_paper_size_summary">Rozmiar papieru:</string>
+    <string name="more_options_button">Więcej opcji</string>
+    <string name="page_description_template">Strona %1$d z %2$d</string>
+    <string name="print_error_printer_unavailable">Drukarka nie jest teraz dostępna.</string>
+    <string name="print_error_retry">Ponów próbę</string>
+    <string name="print_options_collapsed">Opcje wydruku są zwinięte</string>
+    <string name="print_options_expanded">Opcje wydruku są rozwinięte</string>
+    <string name="print_preparing_preview">Przygotowuję podgląd…</string>
+    <string name="print_write_error_message">Nie można zapisać pliku</string>
+    <string name="savetopdf_button">Zapisz jako PDF</string>
+    <string name="summary_template">Posumowanie, liczba kopii %1$s, rozmiar papieru %2$s</string>
+    <string name="template_all_pages">Wszystkie %1$s</string>
+    <string name="template_page_range">Zakres %1$s</string>
 </resources>

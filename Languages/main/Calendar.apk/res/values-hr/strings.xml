@@ -31,7 +31,7 @@
     <string name="show_controls">Pokaži kontrole</string>
     <string name="select_visible_calendars_title">Kalendari za prikaz</string>
     <string name="synced">Sinkronizirano</string>
-    <string name="not_synced">nije sinkronizirano</string>
+    <string name="not_synced">Nije sinkronizirano</string>
     <string name="acct_not_synced">Ovaj se račun ne sinkronizira pa vaši kalendari možda nisu ažurni.</string>
     <string name="accounts">Računi &amp; sinkronizacija</string>
     <string name="select_synced_calendars_title">Kalendari za sinkronizaciju</string>
@@ -58,7 +58,7 @@
     <string name="privacy_label">Privatnost</string>
     <string name="reminders_label">Dodaj podsjetnik</string>
     <string name="no_syncable_calendars">Nema kalendara</string>
-    <string name="no_calendars_found">Prije nego što ćete moći dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
+    <string name="no_calendars_found">Prije nego što možete dodati događaj morate dodati barem jedan račun usluge Kalendar na svoj uređaj i učiniti ga vidljivim. Da biste dodali račun, dodirnite Dodaj račun (ako ste upravo dodali račun, pričekajte da se dovrši sinkronizacija i pokušajte ponovo). Ili dodirnite Otkaži i provjerite da je barem jedan kalendar vidljiv.</string>
     <string name="create_an_account_desc">Kalendar radi bolje s Mi Računom. • Pristupite mu iz bilo kojeg web-preglednika. • Stvorite sigurnosnu kopiju svojih događaja.</string>
     <string name="add_account">Dodavanje računa</string>
     <string name="view_event_calendar_label">Kalendar:</string>
@@ -67,7 +67,7 @@
     <string name="response_yes">Da</string>
     <string name="response_maybe">Možda</string>
     <string name="response_no">Ne</string>
-    <string name="email_guests_label">Slanje e-poruke gostima</string>
+    <string name="email_guests_label">Slanje e-pošte gostima</string>
     <string name="email_picker_label">Pošalji e-poštu s</string>
     <string name="email_subject_prefix">"Odgovor: "</string>
     <string name="quick_response_settings">Brzi odgovori</string>
@@ -163,7 +163,7 @@
     <string name="acessibility_cal_notification">Obavijesti Kalendara</string>
     <string name="acessibility_snooze_notification">Odgodi obavijest</string>
     <string name="day_view_new_event_hint">Novi događaj</string>
-    <string name="template_announce_item_index">Događaj %1$s od %2$s.</string>
+    <string name="template_announce_item_index">Događaj %1$s od %2$s</string>
     <string name="acessibility_selected_marker_description">Odabrani događaj</string>
     <string name="do_not_check">NE provjeravaj -></string>
     <string name="event_lunar_month" />
@@ -197,6 +197,7 @@
     <string name="action_text_online">Online</string>
     <string name="text_year">Godina</string>
     <string name="view_all_matches">Prikaži sve</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Kupite cvijeće ili tortu za TA</string>
     <string name="button_day">D</string>
     <string name="button_week">T</string>
     <string name="button_month">M</string>
@@ -209,6 +210,8 @@
     <string name="time_zone">Vremenska zona</string>
     <string name="event_all_day_label">Cijeli dan</string>
     <string name="today_no_events">Nema događaja</string>
+    <string name="event_info_reminders_label_1">Podsjetnik</string>
+    <string name="event_info_reminders_label_more">Podsjetnik %d</string>
     <string name="event_account">Račun</string>
     <string name="event_show_more">Više opcija</string>
     <string name="event_hide_more">Sakrij</string>
@@ -253,7 +256,7 @@
     <string name="xiaomi_calendar_display_name">Kalendar Mi Računa</string>
     <string name="local_owner_account_name">Spremljeno na ovom uređaju</string>
     <string name="birthday_term">rođendan</string>
-    <string name="anniversary_term">godišnjica</string>
+    <string name="anniversary_term">godišnjicu</string>
     <string name="birthday_metric" />
     <string name="anniversary_metric" />
     <string name="birthday_notification_title_today">%1$s ima %3$s</string>
@@ -262,11 +265,12 @@
     <string name="birthday_notification_text_three_days_later">Za 3 dana ima %3$s (%4$s)!</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
-    <string name="birthday_event_description">Danas ima %1$s %4$s!</string>
+    <string name="birthday_event_description">Danas %1$s ima %4$s!</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Skoči</string>
     <string name="jump_date_full">Skoči na datum</string>
+    <string name="select_date">Odaberi datum</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Novo</string>
@@ -305,17 +309,16 @@
     <string name="repeat_end_label">Zaustavi ponavljanje nakon</string>
     <string name="repeat_end_times_unit">" puta"</string>
     <string name="sync_notice_title">Zahtjev za sinkr.</string>
-    <string name="sync_notice_message">Niste sinkronizirali Kalendar s Mi Cloudom, dopustiti sinkr. sada?</string>
-    <string name="sync_notice_ok">Dopusti</string>
+    <string name="sync_notice_message">Sinkronizirati Kalendar s Mi Cloudom?</string>
+    <string name="sync_notice_ok">Sinkr. sada</string>
     <string name="sync_notice_ok_toast_message">Lokalni Kalendar biti će sinkroniziran s Mi Cloudom</string>
     <string name="sync_notice_cancel_toast_message">Lokalni Kalendar neće biti sinkroniziran s Mi Cloudom</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">Kopiranje e-adrese</string>
     <string name="copy_number">Kopiranje telefonskog broja</string>
-    <string name="done">Vrati</string>
+    <string name="done">Dalje</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Praznik</string>
+    <string name="action_label">Vrati</string>
     <string name="event_not_found">Događaj nije pronađen.</string>
-    <string name="show_all_lunar">Lunarno (Kina)</string>
-    <string name="show_almanac">Almanah (Kina)</string>
 </resources>

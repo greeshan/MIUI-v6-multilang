@@ -15,7 +15,7 @@
     <string name="no_title_label">(Geen titel)</string>
     <string name="calendar_refresh">Vernieuwen</string>
     <string name="show_day_view">Geef dag weer</string>
-    <string name="agenda_view">Agenda</string>
+    <string name="agenda_view">Evenementen</string>
     <string name="day_view">Dag</string>
     <string name="week_view">Week</string>
     <string name="month_view">Maand</string>
@@ -85,7 +85,7 @@
     <string name="agenda_today">VANDAAG, %1$s</string>
     <string name="agenda_yesterday">GISTEREN, %1$s</string>
     <string name="agenda_tomorrow">MORGEN, %1$s</string>
-    <string name="loading">Laden…</string>
+    <string name="loading">Een momentje…</string>
     <string name="show_older_events">Raak aan om gebeurtenissen vóór %1$s weer te geven</string>
     <string name="show_newer_events">Raak aan om gebeurtenissen na %1$s weer te geven</string>
     <string name="search_title">"Zoeken in mijn agenda's"</string>
@@ -158,7 +158,7 @@
     <string name="accessibility_add_attendee">Deelnemer toevoegen</string>
     <string name="accessibility_sync_cal">Agenda synchroniseren</string>
     <string name="accessibility_all_day">Afspraak die de hele dag duurt</string>
-    <string name="accessibility_repeats">Herhaling</string>
+    <string name="accessibility_repeats">Herhalingen</string>
     <string name="accessibility_reminder_time">Herinneringstijd</string>
     <string name="accessibility_reminder_type">Type herinnering</string>
     <string name="accessibility_reminder_showmeas">Mij weergeven als</string>
@@ -219,6 +219,7 @@
     <string name="action_text_online">Abonneren</string>
     <string name="text_year">Jaarlijks</string>
     <string name="view_all_matches">Bekijk alle Wedstrijden</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Plan cake, bloemen voor de TA</string>
     <string name="button_day">D</string>
     <string name="button_week">W</string>
     <string name="button_month">M</string>
@@ -289,6 +290,7 @@
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Overslaan</string>
     <string name="jump_date_full">Spring naar datum</string>
+    <string name="select_date">Selecteer datum</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Nieuw</string>
@@ -326,13 +328,15 @@
     <string name="repeat_label_choose_month">Kies maand</string>
     <string name="repeat_end_label">Stop met herhalen na</string>
     <string name="repeat_end_times_unit">" maal"</string>
-    <string name="sync_notice_title">Sync. aanvraag</string>
-    <string name="sync_notice_message">je hebt de Mi kalender nog niet gesync., wil je dat nu inschakelen?</string>
-    <string name="sync_notice_ok">Toestaan</string>
+    <string name="sync_notice_title">Sync. kalender</string>
+    <string name="sync_notice_message">Je kalender sync. met Mi Cloud?</string>
+    <string name="sync_notice_ok">Nu sync.</string>
     <string name="sync_notice_ok_toast_message">Lokale kalender wordt gesync. Mi Cloud</string>
     <string name="sync_notice_cancel_toast_message">Lokale kalender wordt niet gesync. met Mi Cloud</string>
     <string name="more_string">+%1$s</string>
     <string name="copy_email">E-mailadres kopiëren</string>
     <string name="copy_number">Telefoonnummer kopiëren</string>
     <string name="done">Gereed</string>
+    <string name="event_info_reminders_label_1">Herinnering</string>
+    <string name="event_info_reminders_label_more">Herinnering %d</string>
 </resources>

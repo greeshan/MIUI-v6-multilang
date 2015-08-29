@@ -78,13 +78,12 @@
     <string name="task_canceled_all_local">Hủy</string>
     <string name="task_failed_local">Sao lưu chưa hoàn tất (%s)</string>
     <string name="task_failed_all_local">Không thể sao lưu</string>
-    <string name="task_backup_finished_local">Sao lưu hoàn tất</string>
-    <string name="task_restore_finished_local">Khôi phục hoàn tất</string>
+    <string name="task_backup_finished_local">"Đã sao lưu "</string>
+    <string name="task_restore_finished_local">"Đã khôi phục "</string>
     <string name="task_restore_none">Không cần khôi phục</string>
     <string name="task_stopped_exception">Đã hủy khôi phục</string>
     <string name="sdcard_no_enough_space">Không đủ dung lượng</string>
     <string name="sdcard_no_enough_space_message">Không còn đủ dung lượng lưu trữ trên thẻ SD của bạn.</string>
-    <string name="data_no_enough_space">Không đủ dung lượng</string>
     <string name="data_no_enough_space_message">Không đủ dung lượng trống trên thẻ nhớ trong điện thoại của bạn.</string>
     <string name="task_running_hint">Dịch vụ này đang được chạy trong nền</string>
     <string name="task_running_dialog">Sao lưu và khôi phục đang được tiến hành. Bấm OK để xem.</string>
@@ -191,4 +190,5 @@
     <string name="sd_not_available">Gắn thẻ SD bây giờ</string>
     <string name="never">Không bao giờ</string>
     <string name="every_day">Hàng ngày</string>
+    <string name="data_no_enough_space">Không đủ dung lượng</string>
 </resources>

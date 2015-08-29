@@ -18,7 +18,7 @@
     </plurals>
     <plurals name="merge_info">
         <item quantity="other">fusionado de %0$d fuentes</item>
-        <item quantity="one">No se fusionara</item>
+        <item quantity="one">no fusionado</item>
     </plurals>
     <plurals name="num_groups_in_account">
         <item quantity="other">%0$d grupos</item>
@@ -39,6 +39,14 @@
     <plurals name="notification_voicemail_title">
         <item quantity="other">%1$d mensajes de voz</item>
         <item quantity="one">Mensaje de voz</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">La tarjeta SIM puede almacenar %d contactos.</item>
+        <item quantity="one">La tarjeta SIM puede almacenar %d contacto.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">¿Borrar %d contactos de la tarjeta SIM?</item>
+        <item quantity="one">¿Borrar %d contacto de la tarjeta SIM?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d seleccionados</item>
@@ -61,8 +69,8 @@
         <item quantity="one">%1$d número</item>
     </plurals>
     <plurals name="hint_search_emails">
-        <item quantity="other">%1$d contactos con correo electrónico</item>
-        <item quantity="one">1 contacto con correo electrónico</item>
+        <item quantity="other">%1$d contactos con email</item>
+        <item quantity="one">1 contacto con email</item>
     </plurals>
     <plurals name="pick_favorites_contacts_list_title">
         <item quantity="other">%1$d favoritos</item>
@@ -76,6 +84,10 @@
         <item quantity="other">" %1$d contactos añadidos"</item>
         <item quantity="one">%1$d contacto añadido</item>
     </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Borrar %d contactos</item>
+        <item quantity="one">Borrar contacto</item>
+    </plurals>
     <plurals name="smart_group_member_count">
         <item quantity="other">%d personas</item>
         <item quantity="one">1 persona</item>
@@ -84,9 +96,29 @@
         <item quantity="other">%1$d contactos importados</item>
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">¿Borrar %d contactos?</item>
+        <item quantity="one">¿Borrar %d contacto?</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d seleccionados</item>
-        <item quantity="zero">%1$d seleccionado</item>
+        <item quantity="zero">%1$d seleccionados</item>
         <item quantity="one">%1$d seleccionado</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">¿Bloquear estos %1$d números?</item>
+        <item quantity="one">¿Bloquear este número?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">¿Desbloquear estos %1$d números?</item>
+        <item quantity="one">¿Desbloquear este número?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Sonó %d veces</item>
+        <item quantity="one">Sonó %d vez</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Copiados %d contactos</item>
+        <item quantity="one">Copiado %d contacto</item>
     </plurals>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">ನೀವು ಫೋನ್ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+        <item quantity="one">ನೀವು ಫೋನ್ ಮಾಹಿತಿಯನ್ನು ನಮೂದಿಸಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">ನೀವು CIT ನಮೂದಿಸಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+        <item quantity="one">ನೀವು CIT ನಮೂದಿಸಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">ನೀವು ದೋಷ ವರದಿ ಮಾಡಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+        <item quantity="one">ನೀವು ದೋಷ ವರದಿ ಮಾಡಲು %1$d ಹೆಜ್ಜೆ ದೂರ.</item>
+    </plurals>
+</resources>

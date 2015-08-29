@@ -11,9 +11,6 @@
     <string name="activate_phone_failed_notif_title_msim">Nie udało się aktywować karty SIM %s</string>
     <string name="activate_status_title_activating">Aktywacja karty SIM</string>
     <string name="activate_status_title_activating_msim">Aktywacja karty SIM %s</string>
-    <string name="activate_status_desc_wait_for_phone_service">Waiting for phone service</string>
-    <string name="activate_status_desc_registration">Rejestracja karty SIM</string>
-    <string name="activate_status_desc_registration_server_error">A server error occurred while registering SIM card</string>
     <string name="activate_status_desc_query_activation_info">Querying activation info from server</string>
     <string name="activate_status_desc_query_activation_info_no_info">No activation info on server</string>
     <string name="activate_status_desc_query_activation_info_server_error">A server error occurred while querying activation info</string>
@@ -23,24 +20,21 @@
     <string name="activate_status_desc_wait_for_sms_fail">"Couldn't receive activation SMS from server"</string>
     <string name="activate_status_desc_request_activation_sms">Requesting an activation SMS from server to your phone</string>
     <string name="activate_status_desc_request_activation_sms_server_error">A server error occurred while requesting an activation SMS from server to your phone</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">The phone number you entered is invalid</string>
     <string name="activate_status_desc_getting_gateway">Uzyskiwanie informacji o bramce SMS</string>
     <string name="activate_status_desc_failed_getting_gateway">Nie można połączyć się z bramką SMS</string>
     <string name="activate_status_desc_prepare_sending_sms">Przygotowanie do wysłania SMS</string>
     <string name="activate_status_desc_sending_sms">Wysyłanie wiadomości aktywacyjnej do bramki SMS</string>
     <string name="activate_status_desc_sending_sms_fail">"Can't send activation SMS to server"</string>
     <string name="activate_status_desc_sms_sent">Wiadomość aktywacyjna została pomyślnie wysłana</string>
-    <string name="activate_status_desc_acquire_phone_number">Pomyślnie uzyskano numer z serwera</string>
+    <string name="activate_status_desc_acquire_phone_number">Uzyskiwanie numeru telefonu...</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">Wystąpił błąd podczas uzyskiwania numeru.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">Nie można uzyskać numeru telefonu.</string>
     <string name="activate_status_desc_registering_sim_account">Łączenie karty SIM z kontem</string>
-    <string name="activate_status_desc_registering_sim_account_server_error">A server error occurred while registering SIM card</string>
+    <string name="activate_status_desc_registering_sim_account_server_error">Wystąpił błąd serwera podczas rejestracji karty SIM</string>
     <string name="activate_status_desc_checking_xiaomi_account">Tworzenie konta...</string>
     <string name="activate_status_desc_checking_xiaomi_account_server_error">A server error occurred while checking Mi Account</string>
     <string name="activate_status_desc_registering_xiaomi_account">Rejestracja konta na serwerze</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">A server error occurred while registering Mi Account</string>
-    <string name="activate_status_desc_getting_sim_info">Uzyskiwanie informacji o SIM</string>
-    <string name="activate_status_desc_getting_sim_info_fail">"Couldn't get SIM card info"</string>
     <string name="sim_unactivated_title">Karta SIM jest nieaktywna</string>
     <string name="activate">Aktywuj</string>
     <string name="activate_popup_title_manual">Powiąż kartę SIM</string>
@@ -76,13 +70,17 @@
     <string name="activate_popup_title_failed_phone_error">Nieprawidłowy numer</string>
     <string name="activate_popup_desc_failed_phone_error">Wpisany numer jest nieprawidłowy.</string>
     <string name="activate_popup_confirm_failed_phone_error">Ponów</string>
-    <string name="activate_popup_title_upload_diagnosis_info">Nie można aktywować SIM</string>
-    <string name="activate_popup_desc_upload_diagnosis_info">Nie można aktywować SIM. Wysłać raport do MIUI? (ID raportu: %s)</string>
-    <string name="activate_popup_confirm_upload_diagnosis_info">Kopiuj</string>
-    <string name="activate_popup_link_diagnosis_detail">Jakie informacje będą załączane?</string>
-    <string name="activate_popup_title_diagnosis_detail">Diagnostyka</string>
+    <string name="activate_popup_title_all_gateway_failed_send_sms">Nie można wysłać wiadomości</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nie można wysłać wiadomości aktywacyjnej. Upewnij się, że karta SIM jest aktywowana.
+Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
+    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Ponów</string>
+    <string name="activate_popup_title_all_gateway_failed_query_info">Nie udało się znaleźć numeru</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">"Nie można wykryć numeru telefonu. Upewnij się, że karta SIM jest aktywowana.
+Wpisz numer powiązany z nową kartą SIM aby aktywować ponownie %s"</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">Ponów</string>
     <string name="activate_feature_mx">Darmowe wiadomości w chmurze</string>
     <string name="activate_feature_mms_sync">Synchronizacja SMS</string>
     <string name="activate_feature_call_log_sync">Synchronizacja rejestru</string>
     <string name="activate_feature_find_device">Lokalizacja urządzenia</string>
+    <string name="activate_sms_postfix">To SMS aktywacyjny usług Xiaomi.</string>
 </resources>

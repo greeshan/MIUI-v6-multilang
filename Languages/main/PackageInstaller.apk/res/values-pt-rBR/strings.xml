@@ -40,4 +40,6 @@
     <string name="virus_scan_is_risk">Este app apresenta riscos para a segurança de seu dispositivo.</string>
     <string name="virus_scan_clear">Remover</string>
     <string name="virus_scan_caller_unknown">Desconhecido</string>
+    <string name="lift_ban_once">Permitir uma vez</string>
+    <string name="dlg_appstore_notice">Nós não podemos verificar a autenticidade ou segurança de apps de fontes fora da &lt;u>&lt;font color=#91c727>Loja de Apps&lt;/font>&lt;/u>.</string>
 </resources>

@@ -27,7 +27,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>ಹೊಸ ಸಂದೇಶ</item>
         <item>ಹಳೆಯ ಸಂದೇಶ</item>
-        <item>ಸಂಭಾಷಣೆ ಪಟ್ಟಿ</item>
+        <item>ಇನ್‌ಬಾಕ್ಸ್‌</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>ಆರ್ಕೈವ್ ಮಾತ್ರ ತೋರಿಸಿ</item>
@@ -37,7 +37,7 @@
     <string-array name="prefSummaries_autoAdvance">
         <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹೊಸದಾದ ಸಂಭಾಷಣೆ ತೋರಿಸಿ</item>
         <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಹಳೆಯ ಸಂಭಾಷಣೆಯನ್ನು ತೋರಿಸಿ</item>
-        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಸಂಭಾಷಣೆ ಪಟ್ಟಿ ತೋರಿಸಿ</item>
+        <item>ನೀವು ಅಳಿಸಿದ ನಂತರ ಇನ್‌ಬಾಕ್ಸ್‌ ತೋರಿಸು</item>
     </string-array>
     <string-array name="prefSummaries_removal_action_summary">
         <item>ಆರ್ಕೈವ್ ಮಾತ್ರ ತೋರಿಸಿ</item>
@@ -65,13 +65,5 @@
         <item>ಈ ಇಮೇಲ್</item>
         <item>ಹಕ್ಕುನಿರಾಕರಣೆ</item>
         <item>ಇಮೇಲ್ ಡಿಸ್‌ಕ್ಲೈಮರ್‌‌</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>ಸಿಂಕ್ ಯಶಸ್ವಿಯಾಗಿದೆ.</item>
-        <item>ನೆಟ್‌ವರ್ಕ್ ಸಂಪರ್ಕದಲ್ಲಿ ದೋಷ.</item>
-        <item>ಸೈನ್ ಇನ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</item>
-        <item>ಸುರಕ್ಷಿತ ಸಂಪರ್ಕದಲ್ಲಿ ದೋಷವಿದೆ.</item>
-        <item>ಸಿಂಕ್ ಮಾಡಲು ವಿಫಲವಾಗಿದೆ.</item>
-        <item>ಸರ್ವರ್ ದೋಷ.</item>
     </string-array>
 </resources>

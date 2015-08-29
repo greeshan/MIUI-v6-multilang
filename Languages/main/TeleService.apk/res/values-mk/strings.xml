@@ -37,7 +37,6 @@
     <string name="requesting_unlock">Requesting SIM network unlock…</string>
     <string name="unlock_failed">SIM Network unlock request unsuccessful.</string>
     <string name="unlock_success">SIM Network unlock successful.</string>
-    <string name="bad_pin2">Стариот PIN2 што го внесовте не е точен, Обидете се повторно.</string>
     <string name="labelGSMMore">GSM call settings</string>
     <string name="labelCDMAMore">CDMA call settings</string>
     <string name="apn_settings">Access Point Names</string>
@@ -263,13 +262,6 @@ Your SIM card will be erased after another failed attempt."</string>
     <string name="pin_failed">The PIN you typed was incorrect.</string>
     <string name="pin_changed">SIM PIN changed successfully.</string>
     <string name="puk_requested">Password incorrect, PIN Blocked! PUK requested.</string>
-    <string name="enter_pin2_text">ПИН2</string>
-    <string name="pin2_changed">PIN2 changed successfully.</string>
-    <string name="label_puk2_code">Type PUK2 code</string>
-    <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>
-    <string name="pin2_lock_warning">"
-PIN2 related functions will be locked after another failed attempt"</string>
-    <string name="puk2_label">Input PUK2 code</string>
     <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
     <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
     <string name="pin_progress_change_pin">Changing PIN…</string>
@@ -424,6 +416,7 @@ Try again or call customer service for more options."</string>
     <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
     <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
     <string name="respond_via_sms_canned_response_4">"Can't talk now. What's up?"</string>
+    <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
     <string name="respond_via_sms_setting_title">Quick responses</string>
     <string name="respond_via_sms_setting_summary">Edit pre-written text responses</string>
     <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
@@ -700,6 +693,31 @@ Try again or call customer service for more options."</string>
     <string name="uplmn_list_setting_title">Preferred networks</string>
     <string name="uplmn_list_setting_add_plmn">New PLMN</string>
     <string name="select_voice_call_sim">please select</string>
+    <string name="old_pin_label">Old PIN</string>
+    <string name="new_pin_label">New PIN</string>
+    <string name="confirm_pin_label">Потврдете го новиот PIN</string>
+    <string name="bad_pin">Стариот PIN што го внесовте не е точен, Обидете се повторно.</string>
+    <string name="mismatch_pin">"The PINs you typed don't match. Try again."</string>
+    <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
+    <string name="bad_puk">PUK кодот што го внесовте не е точен. Обидете се повторно.</string>
+    <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
+    <string name="enter_pin2_text">ПИН2</string>
+    <string name="old_pin2_label">Old PIN2</string>
+    <string name="new_pin2_label">New PIN2</string>
+    <string name="confirm_pin2_label">Потврдете го новиот ПИН2</string>
+    <string name="bad_puk2">PUK2 кодот што го внесовте не е точен. Обидете се повторно.</string>
+    <string name="bad_pin2">Стариот PIN2 што го внесовте не е точен, Обидете се повторно.</string>
+    <string name="mismatch_pin2">"The PIN2s you typed don't match. Try again."</string>
+    <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
+    <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
+    <string name="pin2_changed">PIN2 changed successfully.</string>
+    <string name="label_puk2_code">Type PUK2 code</string>
+    <string name="fdn_enable_puk2_requested">Password incorrect, PIN2 Blocked. Please change PIN2 and retry!</string>
+    <string name="pin2_lock_warning">"
+PIN2 related functions will be locked after another failed attempt"</string>
+    <string name="puk2_label">Input PUK2 code</string>
+    <string name="pin_attempts">"
+There are %d remaining attempts."</string>
     <string name="managed_roaming_title">Managed Roaming</string>
     <string name="managed_roaming_title_sub1">Managed Roaming (SUB1)</string>
     <string name="managed_roaming_title_sub2">Managed Roaming (SUB2)</string>
@@ -756,23 +774,6 @@ Try again or call customer service for more options."</string>
     <string name="stk_cc_ss_to_ss_error">SS request modified to new SS request.</string>
     <string name="fdn_contacts_empty">No contacts in FDN list.</string>
     <string name="exportContacts">Додавање контакти на SIM-картичката...</string>
-    <string name="old_pin_label">Old PIN</string>
-    <string name="new_pin_label">New PIN</string>
-    <string name="confirm_pin_label">Потврдете го новиот PIN</string>
-    <string name="bad_pin">Стариот PIN што го внесовте не е точен, Обидете се повторно.</string>
-    <string name="mismatch_pin">"The PINs you typed don't match. Try again."</string>
-    <string name="invalid_pin">Type a PIN that is 4 to 8 numbers.</string>
-    <string name="bad_puk">PUK кодот што го внесовте не е точен. Обидете се повторно.</string>
-    <string name="invalid_puk">Type a PUK that is 4 to 8 numbers.</string>
-    <string name="old_pin2_label">Old PIN2</string>
-    <string name="new_pin2_label">New PIN2</string>
-    <string name="confirm_pin2_label">Потврдете го новиот ПИН2</string>
-    <string name="bad_puk2">PUK2 кодот што го внесовте не е точен. Обидете се повторно.</string>
-    <string name="mismatch_pin2">"The PIN2s you typed don't match. Try again."</string>
-    <string name="invalid_pin2">Type a PIN2 that is 4 to 8 numbers.</string>
-    <string name="invalid_puk2">Type a PUK2 that is 8 numbers.</string>
-    <string name="pin_attempts">"
-There are %d remaining attempts."</string>
     <string name="card_title_unconditionalCF">Безусловен пренасочен повик е овозможен</string>
     <string name="card_title_conditionalCF">Повикот е пренасочен условен е овозможено</string>
     <string name="card_title_MOcall_forwarding">пренасочен појдовен повик</string>
@@ -795,7 +796,6 @@ There are %d remaining attempts."</string>
     <string name="incall_error_turn_off_airplane_mode">Turn off Airplane mode</string>
     <string name="no_volte">Unable to make IMS call</string>
     <string name="no_vt_allowed">To place a video call, turn off the TTY mode</string>
-    <string name="respond_via_sms_cannot_empty">Reject messages can not be empty</string>
     <string name="call_type">Вид на повик</string>
     <string name="callind_multi_sim">SUBS подесувања</string>
     <string name="ims_accounts_title">IMS Account</string>

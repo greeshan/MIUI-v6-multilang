@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%1$d ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">ಕಳೆದ %d ದಿನಗಳು</item>
+        <item quantity="one">ನಿನ್ನೆ</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d / %2$d</item>
+        <item quantity="one">1 ಹೊಂದಾಣಿಕೆ</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d ಹೊಂದಾಣಿಕೆಗಳು</item>
+        <item quantity="one">%d ಹೊಂದಾಣಿಕೆ</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂ ನಿರ್ಬಂಧಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="movie_channel_tabs">
-        <item>Рекомендуемые</item>
-        <item>Топ</item>
-        <item>Лучшие</item>
-        <item>Новые</item>
+    <string-array name="server_list_entries">
+        <item>Тестовый сервер</item>
+        <item>Онлайн сервер</item>
     </string-array>
-    <string-array name="variety_channel_tabs">
-        <item>Рекомендуемые</item>
-        <item>Лучшие</item>
+    <string-array name="version_list_entries">
+        <item>Стабильная версия</item>
+        <item>Версия для разработчиков</item>
     </string-array>
     <string-array name="channel_tabs">
         <item>Лучшие</item>
@@ -31,5 +29,15 @@
     <string-array name="addon_list_tabs">
         <item>Все лучшие</item>
         <item>Мои лучшие</item>
+    </string-array>
+    <string-array name="movie_channel_tabs">
+        <item>Рекомендуемые</item>
+        <item>Топ</item>
+        <item>Лучшие</item>
+        <item>Новые</item>
+    </string-array>
+    <string-array name="variety_channel_tabs">
+        <item>Рекомендуемые</item>
+        <item>Лучшие</item>
     </string-array>
 </resources>

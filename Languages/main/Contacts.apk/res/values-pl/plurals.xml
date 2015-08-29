@@ -84,10 +84,6 @@
         <item quantity="other">" %1$d  dodanych kontaktów"</item>
         <item quantity="one">%1$d dodany kontakt</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">Skopiowano %d kontaktów</item>
-        <item quantity="one">Skopiowano %d kontakt</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">Usuń %d kontaktów</item>
         <item quantity="one">Usuń kontakt</item>
@@ -109,8 +105,20 @@
         <item quantity="zero">- %1$d -</item>
         <item quantity="one">- %1$d -</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Zablokować %1$d numerów telefonu?</item>
+        <item quantity="one">Zablokować ten numer telefonu?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokować %1$d numerów telefonu?</item>
+        <item quantity="one">Odblokować ten numer telefonu?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">, %d dzwonków</item>
-        <item quantity="one">, %d dzwonek</item>
+        <item quantity="other">%d dzwonków</item>
+        <item quantity="one">%d dzwonek</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Skopiowano %d kontaktów</item>
+        <item quantity="one">Skopiowano %d kontakt</item>
     </plurals>
 </resources>

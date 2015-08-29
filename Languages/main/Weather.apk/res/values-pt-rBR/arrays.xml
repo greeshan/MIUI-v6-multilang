@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Lua nova</item>
+        <item>Lua crescente</item>
+        <item>Quarto crescente</item>
+        <item>Crescente gibosa</item>
+        <item>Lua cheia</item>
+        <item>Minguante gibosa</item>
+        <item>Quarto minguante</item>
+        <item>Minguante crescente</item>
+        <item>Lua nova</item>
+    </string-array>
     <string-array name="weather_type">
         <item>Ensolarado</item>
         <item>Nublado</item>
@@ -45,16 +56,5 @@
         <item>Vento SO</item>
         <item>Vento O</item>
         <item>Vento NO</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Lua nova</item>
-        <item>Lua crescente</item>
-        <item>Quarto crescente</item>
-        <item>Crescente gibosa</item>
-        <item>Lua cheia</item>
-        <item>Minguante gibosa</item>
-        <item>Quarto minguante</item>
-        <item>Minguante crescente</item>
-        <item>Lua nova</item>
     </string-array>
 </resources>

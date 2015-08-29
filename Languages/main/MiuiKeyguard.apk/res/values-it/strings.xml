@@ -15,7 +15,7 @@
     <string name="incorrect_pukcode">Codice PUK errato</string>
     <string name="incorrect_pincode">Codice PIN errato</string>
     <string name="open_wifi_settings">Apri connessione di rete</string>
-    <string name="lock_screen_date">dd/MM, E</string>
+    <string name="lock_screen_date">E, dd/MM</string>
     <string name="lockscreen_glogin_password_hint">Password</string>
     <string name="lockscreen_glogin_checking_password">Verifica in corso…</string>
     <string name="login_website_in_case_forget_password">Per resettare la tua password, va su i.xiaomi.com.</string>
@@ -33,7 +33,7 @@
     <string name="phone_locked_timeout_seconds_string">Prego riprovare tra %s secondi</string>
     <string name="phone_locked_timeout_minutes_string">Prego riprovare tra %s minuti</string>
     <string name="input_password_hint_text">Inserisci la password</string>
-    <string name="unlock_sim_string">Sblocco SIM</string>
+    <string name="unlock_sim_string">Sblocca SIM</string>
     <string name="lockscreen_glogin_submit_button">Accesso</string>
     <string name="lockscreen_access_pattern_start">Sequenza iniziata</string>
     <string name="lockscreen_access_pattern_cleared">Sequenza annullata</string>
@@ -53,6 +53,6 @@
     <string name="invalid_confirm_pin_hint">I PIN non corrispondono</string>
     <string name="unlock_string">Sblocca</string>
     <string name="open_camera_hint_text">Scorri a sinistra per aprire la Fotocamera</string>
-    <string name="open_remote_center_hint_text">Scorri a destra per aprire Mi Remote</string>
+    <string name="open_remote_center_hint_text">Scorri a destra per aprire il Telefono</string>
     <string name="click_to_enter_text">Tocca per sbloccare</string>
 </resources>

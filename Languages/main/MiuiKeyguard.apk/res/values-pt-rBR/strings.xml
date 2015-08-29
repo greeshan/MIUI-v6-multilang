@@ -52,4 +52,7 @@
     <string name="confirm_pin_msg">Digite o PIN novamente</string>
     <string name="invalid_confirm_pin_hint">Os PINs não correspondem</string>
     <string name="unlock_string">Desbloquear</string>
+    <string name="open_camera_hint_text">Deslize para a esquerda para abrir a Câmera</string>
+    <string name="open_remote_center_hint_text">Deslize para a direita para abrir o Mi Remote</string>
+    <string name="click_to_enter_text">Toque para visualizar</string>
 </resources>

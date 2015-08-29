@@ -2,12 +2,19 @@
 <resources>
     <string name="search_in_web">Wyszukaj w sieci</string>
     <string name="search_in_app_store">Wyszukaj w Google Play</string>
-    <string name="xiaomi_search_label">Wyniki online</string>
+    <string name="xiaomi_search_label">Wyniki</string>
     <string name="cta_declaration_title">Warunki Użytkowania</string>
     <string name="cta_declaration">Aplikacja Wyszukiwanie potrzebuje dostępu do różnych danych telefonu w celu dostarczenia wyników.</string>
     <string name="cta_declaration_ignore">Nie pokazuj ponownie</string>
     <string name="cta_declaration_positive_text">OK</string>
     <string name="cta_declaration_negative_text">Anuluj</string>
+    <string name="searchable_sources">Online</string>
+    <string name="searchable_lable_app">Aplikacje</string>
+    <string name="searchable_lable_music">Muzyka</string>
+    <string name="searchable_lable_video">Wideo</string>
+    <string name="searchable_lable_browser">Przeglądarka</string>
+    <string name="searchable_lable_duokan">Wiadomości</string>
+    <string name="searchable_lable_o2o">Mapy</string>
     <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
     <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
     <string name="apps_search_activity" />

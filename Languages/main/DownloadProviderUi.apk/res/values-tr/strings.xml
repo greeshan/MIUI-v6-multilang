@@ -4,6 +4,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Seçtiğiniz görevleri silmek istiyor musunuz ?</string>
     <string name="dialog_confirm_delete_checkbox_message">Yerel dosyaları sil</string>
     <string name="download_when_network_connected">İndirme mobil şebekeyi kullanıyor</string>
+    <string name="show_more">Daha fazla(%s)</string>
     <string name="download_paused">İndirme duraklatıldı</string>
     <string name="download_pending">Bekleniyor...</string>
     <string name="download_wait_connect">Bağlantı bekleniyor</string>
@@ -39,8 +40,11 @@
     <string name="pref_summary_max_bytes_limit_format">"Dosya boyutu %s 'ı aşarsa Wi-Fi ile indir"</string>
     <string name="pref_summary_any_bytes_popup">Sadece Wi-Fi ile indir</string>
     <string name="pref_summary_no_limit_popup">Sınırsız indirme boyutu</string>
+    <string name="download">İndirilenler</string>
     <string name="download_in_process">Devam eden</string>
     <string name="download_complete">Tamamlanan</string>
+    <string name="downloading_empty">İndirilen içerik yok</string>
+    <string name="downloaded_empty">İndirilen içerik yok</string>
     <string name="download_speed_null" />
     <string name="download_list_get_free_vip">Xunlei deneme</string>
     <string name="download_list_get_hightspeed_flow_sucess_head">Xunlei deneme oturumu oluşturuldu</string>
@@ -56,6 +60,7 @@
     <string name="app_downloads">%s uygulama indirmesi</string>
     <string name="dialog_file_missing_title">Dosyayı açarken hata oluştu</string>
     <string name="paused_insufficient_space">Bellekte kullanılabilir alan bekleniyor</string>
+    <string name="doc_filter">Belge</string>
     <string name="xunlei_brand" />
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Xunlei indirme motoru</string>
@@ -104,6 +109,16 @@
     <string name="xunlei_close_tips_button">Hızlandır</string>
     <string name="toast_xunlei_engine_open">"Xunlei hızlandırıcı açık.
  Bu özellik, Çin dışındaki kullanıcılar için tavsiye edilmez"</string>
+    <string name="recommend_other_downloads">Yeni</string>
+    <string name="recommend_show_other_downloads">Yenileri Göster</string>
+    <string name="recommend_install">Yükle</string>
+    <string name="recommend_open">Aç</string>
+    <string name="recommend_downloading">İndiriliyor</string>
+    <string name="recommend_prepare">Bekle</string>
+    <string name="recommend_installing">Yükleniyor</string>
+    <string name="recommend_failed">Başarısız</string>
+    <string name="recommend_paused">Durdu</string>
+    <string name="recommend_loading">Yükleniyor…</string>
     <string name="app_label">İndirmeler</string>
     <string name="download_title">İndirilenler</string>
     <string name="download_title_sorted_by_date">İndirilenler - Tarihe göre</string>
@@ -145,4 +160,16 @@
     <string name="prefDefault_max_bytes_limit">52428800</string>
     <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>
     <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
+    <string name="all_fileter">Tümü</string>
+    <string name="apk_filter">APK</string>
+    <string name="media_filter">MEDYA</string>
+    <string name="package_filter">PAKETLER</string>
+    <string name="other_filter">DİĞER</string>
+    <string name="vip_auto_speedup">Xunlei indirme hızlandırıcı açık</string>
+    <string name="xunlei_gaosu">Xunlei indirme hızlandırıcı</string>
+    <string name="free_speedup_exp">Xunlei indirme hızlandırıcıyı ücretsiz olarak deneyin</string>
+    <string name="valid_in_this_month">Bu ay için geçerli</string>
+    <string name="display_expire_netiv1">Bu ay</string>
+    <string name="unbind_xunlei_success">Xunlei hesabı oturumu kapatıldı</string>
+    <string name="unbind_xunlei_2_success">Xunlei hesabı eklendi</string>
 </resources>

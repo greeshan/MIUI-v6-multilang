@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vremenske prilike</string>
+    <string name="updating">Ažuriranje</string>
+    <string name="failed_to_locate">Nije uspjelo lociranje</string>
+    <string name="no_weather">Trenutno ne postoji vrijeme za %s.</string>
+    <string name="add_setting">Dodirnite ovdje da dodate gradove</string>
+    <string name="net_error">Mreža nije dostupna. Provjerite je.</string>
+</resources>

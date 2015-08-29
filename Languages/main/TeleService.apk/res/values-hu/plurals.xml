@@ -12,4 +12,8 @@
         <item quantity="other">A kiválasztott művelet nem áll rendelkezésre Sürgősségi visszahívás módban. A telefon %s percig lesz ebben a módban. Szeretne most kilépni?</item>
         <item quantity="one">A kiválasztott művelet nem áll rendelkezésre Sürgősségi visszahívás módban. A telefon %s percig lesz ebben a módban. Szeretne most kilépni?</item>
     </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">%d hívás rögzítve.</item>
+        <item quantity="one">1 hívás rögzítve.</item>
+    </plurals>
 </resources>

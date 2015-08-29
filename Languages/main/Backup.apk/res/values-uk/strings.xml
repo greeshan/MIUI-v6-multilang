@@ -86,7 +86,6 @@
     <string name="task_stopped_exception">Відновлення скасоване</string>
     <string name="sdcard_no_enough_space">Недостатньо вільного місця</string>
     <string name="sdcard_no_enough_space_message">Недостатньо вільного місця на SD карті</string>
-    <string name="data_no_enough_space">Недостатньо вільного місця</string>
     <string name="data_no_enough_space_message">"Недостатньо вільного місця в пам'яті пристрою"</string>
     <string name="task_running_hint">Служба вже працює у фоновому режимі</string>
     <string name="task_running_dialog">Бекап і відновлення працюють у фоновому режимі. Натисніть \"ОК\" для перегляду</string>
@@ -191,4 +190,5 @@
     <string name="sd_not_available">Накопичувач не підключений</string>
     <string name="never">Ніколи</string>
     <string name="every_day">Щодня</string>
+    <string name="data_no_enough_space">Недостатньо вільного місця</string>
 </resources>

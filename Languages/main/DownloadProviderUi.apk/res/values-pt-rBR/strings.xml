@@ -111,7 +111,12 @@
     <string name="privacy_tip_content">Use o Acelerador Xunlei para acelerar seus downloads? A URL do host do download será enviada para os servidores da Xunlei. Detalhes de sua Conta Mi também serão enviados para verificar se você possui alguma assinatura deste serviço.</string>
     <string name="privacy_tip_cancel">Cancelar</string>
     <string name="privacy_tip_ok">OK</string>
+    <string name="xunlei_close_tips_title">Acelere seus downloads</string>
+    <string name="xunlei_close_tips_content">Acelerador de Downloads Xunlei.</string>
+    <string name="xunlei_close_tips_button">Ativar</string>
+    <string name="toast_xunlei_engine_open">Acelerador de downloads Xinlei ativado</string>
     <string name="app_label">Downloads</string>
+    <string name="download_title">Downloads</string>
     <string name="download_title_sorted_by_date">Downloads - Classificados por data</string>
     <string name="download_title_sorted_by_size">Downloads - Classificados por tamanho</string>
     <string name="no_downloads">Nenhum download.</string>
@@ -122,6 +127,7 @@
     <string name="download_running">Em andamen.</string>
     <string name="download_success">Concluído</string>
     <string name="download_error">Falha</string>
+    <string name="download_error_insufficient_space">Espaço insuficiente</string>
     <string name="dialog_title_not_available">Falha no download</string>
     <string name="dialog_failed_body">Você deseja tentar fazer o download do arquivo novamente mais tarde ou excluí-lo da fila?</string>
     <string name="dialog_title_queued_body">Arquivo não disponível</string>
@@ -142,4 +148,14 @@
     <string name="select_all">Selecionar todos</string>
     <string name="selected_count">Selecionados %1$d de %2$d</string>
     <string name="download_share_dialog">Compartilhar via</string>
+    <string name="recommend_other_downloads">Popular</string>
+    <string name="recommend_show_other_downloads">Ver populares</string>
+    <string name="recommend_install">Instalar</string>
+    <string name="recommend_open">Abrir</string>
+    <string name="recommend_downloading">Transferindo…</string>
+    <string name="recommend_prepare">Aguardando…</string>
+    <string name="recommend_installing">Instalando…</string>
+    <string name="recommend_failed">Falha</string>
+    <string name="recommend_paused">Pausado</string>
+    <string name="recommend_loading">Carregando…</string>
 </resources>

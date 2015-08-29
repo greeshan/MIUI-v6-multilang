@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">%dটি পরিচিতি</item>
+        <item quantity="one">%dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">%dটি বার্তা</item>
+        <item quantity="one">%d টি বার্তা</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">%dটি নোট</item>
+        <item quantity="one">%dটি নোট</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">%dটি ছবি</item>
+        <item quantity="one">%dটি ছবি</item>
+    </plurals>
+</resources>

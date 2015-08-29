@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">ফোন নম্বর সহ %dটি পরিচিতি</item>
+        <item quantity="one">ফোন নম্বর সহ ১টি পরিচিতি</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%dগুলি পরিচিতি</item>
+        <item quantity="one">১টি পরিচিতি</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%dগুলি পাওয়া গেছে</item>
+        <item quantity="one">১টি পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%dগুলি পাওয়া গেছে</item>
+        <item quantity="one">১টি পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">%0$d উৎস থেকে মেশানো হয়েছে</item>
+        <item quantity="one">মেশানো হয়নি</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d গ্রুপগুলি</item>
+        <item quantity="one">১টি গ্রুপ</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%2$s থেকে %1$d জন ব্যক্তি</item>
+        <item quantity="one">%2$s থেকে %1$d জন ব্যক্তি</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d জন ব্যক্তি</item>
+        <item quantity="one">%1$d জন ব্যক্তি</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d সংখ্যক</item>
+        <item quantity="one">%1$d সংখ্যক</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$dগুলি ভয়েসমেল</item>
+        <item quantity="one">ভয়েসমেল</item>
+    </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">USIM কার্ডে %dটি পরিচিতি রাখা যাবে।</item>
+        <item quantity="one">USIM কার্ডে %dটি পরিচিতি রাখা যাবে।</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">সিম কার্ড থেকে %d পরিচিতি মুছবেন?</item>
+        <item quantity="one">সিম কার্ড থেকে %d পরিচিতি মুছবেন?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$dটি নির্বাচন হয়েছে</item>
+        <item quantity="one">%1$dটি নির্বাচন হয়েছে</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d পছন্দসই</item>
+        <item quantity="one">%1$d পছন্দসই</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$dটি সাম্প্রতিক পরিচিতি</item>
+        <item quantity="one">১টি সাম্প্রতিক পরিচিতি</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$dটি পরিচিতি</item>
+        <item quantity="one">%1$dটি পরিচিতি</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$dটি নম্বর</item>
+        <item quantity="one">%1$dটি নম্বর</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$dটি পরিচিতি ইমেল</item>
+        <item quantity="one">টি পরিচিতি ইমেল</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$dটি পছন্দসই</item>
+        <item quantity="one">%1$dটি পছন্দসই</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$dটি সাম্প্রতিক পরিচিতি</item>
+        <item quantity="one">%1$dটি সাম্প্রতিক পরিচিতি</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d টি পরিচিতি যোগ হয়েছে"</item>
+        <item quantity="one">%1$dটি পরিচিতি যোগ হয়েছে</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">%dটি পরিচিতি মুছুন</item>
+        <item quantity="one">পরিচিতি মুছুন</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d জন</item>
+        <item quantity="one">১ জন</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$dটি পরিচিতি আমদানি হয়েছে</item>
+        <item quantity="one">%1$dটি পরিচিতি আমদানি হয়েছে</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">%d পরিচিতি মুছুন?</item>
+        <item quantity="one">%d পরিচিতি মুছুন?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">%1$dটি নির্বাচন হয়েছে</item>
+        <item quantity="one">%1$dটি নির্বাচন হয়েছে</item>
+    </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">এই %1$d নাম্বারগুলি ব্লক করবেন?</item>
+        <item quantity="one">এই নাম্বারটা ব্লক করবেন?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">এই নাম্বারটি %1$dগুলিকে আর ব্লক করতে হবে না?</item>
+        <item quantity="one">এই নাম্বারটি কে আর ব্লক করতে হবে না?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">%d বার রিং হয়েছে</item>
+        <item quantity="one">%d বার রিং হয়েছে</item>
+    </plurals>
+</resources>

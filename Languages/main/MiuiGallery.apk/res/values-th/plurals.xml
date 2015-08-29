@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">ลบอัลบั้ม %1$s อัลบั้ม (รวม %2$s รายการ)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">"             "&lt;Data>                 ลบรูปภาพ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> รูปออกจาก Mi คลาวด์?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">ลบรูปภาพ %s รูปนี้?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">"             "&lt;Data>                 ลบวิดีโอ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> รายการออกจาก Mi คลาวด์?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">ลบวิดีโอ %s ไฟล์นี้?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">"             "&lt;Data>                 ลบรูปภาพ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> รูปออกจาก Mi คลาวด์?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">"             "&lt;Data>                 ลบวิดีโอ &lt;xliff:g id=ITEM>%s&lt;/xliff:g> ไฟล์ในเครื่องและบน Mi คลาวด์?&lt;/Data>         </item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" "&lt;Data> ลบวิดีโอ &lt;xliff:g id=ITEM>%1$d ไฟล์&lt;/xliff:g> ที่อยู่ใน %2$d อัลบั้ม?&lt;/Data>" "</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">เลือกไว้ %1$d รายการ</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">รูปภาพ %d รูป</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">วิดีโอ %d รายการ</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">โฟลเดอร์ย่อย %d โฟลเดอร์</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">คุณไม่มีสิทธิ์ในการลบไฟล์ %d</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">คุณสามารถเลือกได้ครั้งละ %d รายการ</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d รูปภาพ</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d รูป</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s รปภาพของ %2$s</item>
+    </plurals>
+</resources>

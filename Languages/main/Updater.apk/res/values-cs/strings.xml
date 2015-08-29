@@ -14,6 +14,7 @@
     <string name="download_cancel">Zrušit</string>
     <string name="install">Instalovat</string>
     <string name="install_local">Vybrat ZIP z úložiště</string>
+    <string name="reboot">Restart</string>
     <string name="set_auto">Nastavit automatický režim</string>
     <string name="get_auto">Použít 3G a Wi-Fi</string>
     <string name="set_only_wifi">Nastavit kontrolu pouze přes Wi-Fi</string>
@@ -45,6 +46,8 @@
     <string name="cancel_download_buton_text">Zrušit</string>
     <string name="boot_recovery">Restartovat do recovery</string>
     <string name="cancel_download">Zastavit stahování aktualizace?</string>
+    <string name="update_success_reboot_immediately">Zařízení je aktualizováno</string>
+    <string name="download_success_reboot_immediately">Restartujte do nové verze</string>
     <string name="update_success">Aktualizace proběhla úspěšně</string>
     <string name="install_failed">Aktualizace selhala</string>
     <string name="download_current_rom">Stáhnout poslední verzi ROM</string>
@@ -56,6 +59,7 @@
     <string name="notification_reboot_summary_hm">Restartovat zařízení</string>
     <string name="notification_reboot_btn">Restart</string>
     <string name="notification_reboot_seccess_title">Aktualizováno!</string>
+    <string name="notification_auto_reboot_seccess_title">Aktualizováno automaticky</string>
     <string name="notification_reboot_seccess_des">Sdílet informace o aktualizace</string>
     <string name="notification_share">Sdílet</string>
     <string name="notification_downloading">Stahování aktualizace...</string>
@@ -115,6 +119,7 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
     <string name="top_secret_build">Tajná verze</string>
     <string name="stable_build">Stabilní verze</string>
     <string name="unstable_build">Stabilní verze</string>
+    <string name="particular_build">Speciální</string>
     <string name="about_device">Info o telefonu</string>
     <string name="emegency_build">Sestavení:</string>
     <string name="loading">Připojování k MIUI serveru...</string>
@@ -146,15 +151,15 @@ Navštivte www.miuios.cz/rom (MIUIv6) pro více informací."</string>
     <string name="title_toast_auto">Automatické stahování aktualizací je povoleno</string>
     <string name="update_feedback">Hodnocení aktualizace</string>
     <string name="update_feedback_end">Zmeškali jste hodnocení aktuální verze</string>
-    <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé úterý.</string>
+    <string name="update_feedback_end_sum">Svůj názor můžete odeslat každé pondělí.</string>
     <string name="update_feedback_need_update">Momentálně nepoužíváte nejnovější verzi MIUI. Před odesláním zpětné vazby, musíte nejdříve aktualizovat na nejnovější verzi.</string>
-    <string name="update_feedback_expired">"Zmeškali jste hodnocení aktualizace!
-Vyplňte jej prosím následující úterý"</string>
+    <string name="update_feedback_expired">"Zmeškali jste hodnocení aktuální verze!
+Svůj názor můžete odeslat každé pondělí"</string>
     <string name="update_feedback_need_account">Musíte se přihlásit ke Xiaomi účtu</string>
     <string name="update_feedback_need_network">Připojte se k síti</string>
     <string name="update_happy">Výborná</string>
-    <string name="update_general">Není špatná</string>
-    <string name="update_sad">Nic moc</string>
+    <string name="update_general">Průměrná</string>
+    <string name="update_sad">Zklamání</string>
     <string name="update_feel">Jak hodnotíte tuto aktualizaci?</string>
     <string name="best_update">Skvélá aktualizace</string>
     <string name="worst_update">Nejhorší aktualizace</string>
@@ -189,6 +194,27 @@ Vyplňte jej prosím následující úterý"</string>
     <string name="submit_success">Úspěšně odesláno, děkujeme!</string>
     <string name="submit_fail">Odesílání selhalo</string>
     <string name="submit">Odeslat</string>
+    <string name="updater_wait_for_unzip">Rozbalování aktualizace...</string>
+    <string name="vote_beta">Beta Feedback Program</string>
+    <string name="vote_submit">Odeslat</string>
+    <string name="vote_recommend">Doporučuji tuto verzi MIUI</string>
+    <string name="vote_not_recommend">Nedoporučuji tuto verzi MIUI</string>
+    <string name="vote_error_nonetwork">Nelze se připojit k síti</string>
+    <string name="vote_error1">"Zřejmě nejste členem 
+BETA Feedback Programu"</string>
+    <string name="vote_error2">"Nelze odeslat váš názor.
+Aktualizujte své zařízení a zkuste to znovu"</string>
+    <string name="vote_hint">Získejte 20 bodů na fóru en.miui.com za hlasování</string>
+    <string name="vote_join">Už bylo odhlasováno</string>
+    <string name="vote_experience">Forum experience</string>
+    <string name="vote_error3">"Nelze se přihlásit.
+Zkuste se znovu přihlásit svým Xiaomi účtem."</string>
+    <string name="vote_error4">Váš názor již byl odeslán</string>
+    <string name="vote_error5">"Nastala chyba,
+Nelze odeslat váš názor názor"</string>
+    <string name="welcom_title">Vítejte v MIUI 6</string>
+    <string name="welcom_message">Dokončeno</string>
+    <string name="welcom_button">OK</string>
     <string name="menu_title_check_update">Kontrolovat nové verze pouze přes Wi-Fi</string>
     <string name="no_proper_updates">Aktualizace nebyla nalezena. Zkontrolujte verzi na miuios.cz/rom</string>
     <string name="install_file_explorer">Nainstalujte si správce souborů prosím</string>

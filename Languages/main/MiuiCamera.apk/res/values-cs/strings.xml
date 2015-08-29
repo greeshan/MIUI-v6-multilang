@@ -227,9 +227,8 @@
     <string name="simple_mode_button_text_hand_night">Ukončit noční režim</string>
     <string name="simple_mode_button_text_panorama">Ukončit</string>
     <string name="simple_mode_button_text_color_effect">Ukončit filtry</string>
-    <string name="simple_mode_button_text_audio_capture">Ukončit zvukovou spoušť</string>
     <string name="simple_mode_button_text_slow_video">Ukončit</string>
-    <string name="simple_mode_button_text_fast_video">Ukončiť</string>
+    <string name="simple_mode_button_text_fast_video">Ukončit</string>
     <string name="pref_video_captrue_ability_title">Snímek během videa</string>
     <string name="find_other_qrcode">Vyhledat QR kód</string>
     <string name="see_qrcode_detals">Zobrazit podrobnosti o QR kódu</string>
@@ -256,7 +255,6 @@
     <string name="pref_camera_exposuretime_entry_125">1/125 sek.</string>
     <string name="pref_camera_exposuretime_entry_250">1/250 sek.</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000 sek.</string>
-    <string name="pref_camera_exposuretime_entry_5000">1/5000 sek.</string>
     <string name="face_analyze_info">%1$s %2$s let</string>
     <string name="face_analyze_info_male">Muž</string>
     <string name="face_analyze_info_female">Žena</string>
@@ -282,9 +280,8 @@
     <string name="face_beauty_age_alias_female_60_m">Žena 60+</string>
     <string name="simple_mode_button_text_face_beauty">Ukončit</string>
     <string name="pref_face_beauty_title">Tón pleti</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Nejprve odemkněte zařízení.</string>
     <string name="pref_priority_storage_title">Uložit na SD kartu</string>
-    <string name="setting_top_text">Režim focení</string>
+    <string name="setting_top_text">Režim</string>
     <string name="pref_video_speed_fast_title">Rychlé</string>
     <string name="pref_video_speed_slow_title">Zpomalené</string>
     <string name="pref_camera_manual_mode_title">Manuální režim</string>
@@ -305,7 +302,7 @@
     <string name="accessibility_panorama_review_cancel">Zrušit</string>
     <string name="simple_mode_button_text_manual">Ukončit</string>
     <string name="pref_qc_focus_position_title">Ostření</string>
-    <string name="pref_front_mirror_entry_auto">Auto</string>
+    <string name="pref_front_mirror_entry_auto">Auto (v případě rozpoznané tváře</string>
     <string name="pref_front_mirror_entry_on">Zap</string>
     <string name="pref_front_mirror_entry_off">Vyp</string>
     <string name="pref_burst_shoot_title">Dávkové snímání</string>
@@ -323,27 +320,24 @@
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Dávkové snímání</string>
     <string name="pref_camera_hdr_entry_auto">Auto</string>
     <string name="pref_camera_hdr_entry_off">Vypnuto</string>
-    <string name="pref_camera_hdr_entry_normal">Normální</string>
+    <string name="pref_camera_hdr_entry_normal">Pro</string>
     <string name="pref_camera_hdr_entry_live">Živé</string>
     <string name="pref_simple_hdr_entry_off">Vypnuto</string>
     <string name="pref_simple_hdr_entry_on">Zapnuto</string>
-    <string name="pref_camera_countdown_title">Odpočítávání</string>
-    <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
-    <string name="pref_camera_countdown_entry_3s">3s</string>
-    <string name="pref_camera_countdown_entry_5s">5s</string>
-    <string name="pref_camera_countdown_entry_10s">10s</string>
     <string name="pref_camera_delay_capture_title">Časovač</string>
     <string name="simple_mode_button_text_delay_capture">Ukončit časovač</string>
     <string name="pref_camera_delay_capture_entry_audio">Zvukem</string>
     <string name="pref_camera_delay_capture_entry_3s">3s</string>
     <string name="pref_camera_delay_capture_entry_5s">5s</string>
     <string name="pref_camera_delay_capture_entry_10s">10s</string>
-    <string name="pref_camera_asd_night_title">Automatické vylepšení noční fotografie</string>
+    <string name="pref_camera_asd_night_title">Autom. vylepšit noční fotografii</string>
     <string name="pref_camera_asd_popup_title">Upozornit na nutný blesk</string>
     <string name="simple_mode_button_text_scene">Ukončit režim scény</string>
     <string name="pref_camera_peak_title">Peaking Focus</string>
     <string name="pref_camera_peak_entry_off">Vyp</string>
     <string name="pref_camera_peak_entry_on">Zap</string>
+    <string name="pref_camera_gradienter_title">Vodováha</string>
+    <string name="simple_mode_button_text_gradienter">Ukončit</string>
     <string name="edit">Upravit</string>
     <string name="details">Detaily</string>
     <string name="path">Cesta</string>
@@ -481,9 +475,11 @@
     <string name="pref_camera_auto_focus_title_entry_off">Vypnuto</string>
     <string name="pref_camera_auto_focus_title_entry_on">Zapnuto</string>
     <string name="pref_camera_coloreffect_entry_planet">Malý svět</string>
+    <string name="pref_camera_countdown_title">Odpočítávání</string>
     <string name="pref_camera_current_k_value">Aktuální hodnota</string>
     <string name="pref_camera_default_suffix">(Výchozí)</string>
     <string name="pref_camera_denoise_title">Redukce šumu</string>
+    <string name="pref_camera_exposuretime_entry_5000">1/5000 sek.</string>
     <string name="pref_camera_exposuretime_title">Čas expozice</string>
     <string name="pref_camera_focusmode_entry_continuous">Kontinuální</string>
     <string name="pref_camera_focusmode_entry_lock">Fixní</string>
@@ -554,6 +550,8 @@
     <string name="show_images_only">Zobrazit fotografie</string>
     <string name="show_on_map">Zobrazit na mapě</string>
     <string name="show_videos_only">Zobrazit videa</string>
+    <string name="simple_mode_button_text_audio_capture">Ukončit zvukovou spoušť</string>
+    <string name="simple_mode_button_text_countdown">Ukončit odpočítávání</string>
     <string name="simple_mode_title">Základní režim</string>
     <string name="slideshow">Prezentace</string>
     <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
@@ -563,6 +561,7 @@
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Dávkové snímání není dostupné při aktivním vylepšení tváře.</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímání není podporováno v režimu HDR.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímání není podporované když ISO není nastaveno na AUTO.</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Nejprve odemkněte zařízení.</string>
     <string name="undo">Zpět</string>
     <string name="unit_mm">mm</string>
     <string name="video_camera_label">Videokamera</string>
@@ -587,6 +586,9 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">Před připojením se ujistěte, že tato Wi-Fi síť je bezpečná</string>
     <string name="simple_mode_button_text_manual_mode">Ukončit</string>
+    <string name="pref_camera_countdown_entry_10s">10s</string>
+    <string name="pref_camera_countdown_entry_3s">3s</string>
+    <string name="pref_camera_countdown_entry_5s">5s</string>
     <string name="find_weixin_qrcode">Vyhledat QR kód weixin</string>
     <string name="pref_camera_asd_title">Autom. rozpoznat scénu</string>
     <string name="pref_camera_auto_opti_zoom_title">Autom. optický zoom, když je poměr větší jak 2</string>
@@ -600,4 +602,7 @@
     <string name="simple_mode_button_text_opti_zoom">Ukončit</string>
     <string name="simple_mode_button_text_ubi_focus">Ukončit</string>
     <string name="ubi_focus_exit_button_text">Ukončit</string>
+    <string name="confirm_recording_fail_title">Chyba nahrávání</string>
+    <string name="confirm_recording_fail_calling_alert">Během hovoru nelze nahrávat video.</string>
+    <string name="confirm_recording_fail_recorder_busy_alert">Jiná aplikace využívá mikrofon. Ukončete ji a zkuste to znovu.</string>
 </resources>

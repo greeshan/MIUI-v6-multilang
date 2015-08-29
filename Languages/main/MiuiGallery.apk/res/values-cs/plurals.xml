@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Vymazat %1$s alba (celkem %2$s)?</item>
+        <item quantity="one">Vymazat %1$s alba (celkem %2$s)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
         <item quantity="other">Vymazat obrázky (%s) v cloudu?</item>
         <item quantity="one">Vymazat obrázky (%s) v cloudu?</item>
@@ -23,6 +27,10 @@
     <plurals name="confirm_delete_has_cloud_local_video">
         <item quantity="other">Vymazat videa (%s) v zařízení a cloudu?</item>
         <item quantity="one">Vymazat video (%s) v zařízení a cloudu?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" &lt;Data> Vymazat &amp;amp;amp;lt;xliff:g id=ITEM>%1$d videí&amp;amp;amp;lt;/xliff:g> z %2$d alb?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Vymazat &amp;amp;amp;lt;xliff:g id=ITEM>%1$d video&amp;amp;amp;lt;/xliff:g> z %2$d alb?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Vybráno: %1$d</item>
@@ -63,5 +71,9 @@
         <item quantity="other">Položek: %1$d</item>
         <item quantity="zero">Položek: %1$d</item>
         <item quantity="one">Položek: %1$d</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s fotografie %2$s >></item>
+        <item quantity="one">%1$s fotografie %2$s >></item>
     </plurals>
 </resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>ওয়াই ফাই ডেটা</item>
+        <item>সমস্ত অ্যাপ্স</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>ব্রাউজার</item>
+        <item>অনুমতি</item>
+        <item>ক্যামেরা</item>
+        <item>ডেটার ব্যবহার</item>
+        <item>আবহাওয়ার তথ্য</item>
+        <item>আবহাওয়া</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>পরিচিতি</item>
+        <item>কল লগ</item>
+        <item>বার্তাগুলি</item>
+        <item>মাল্টিমিডিয়া বার্তাগুলি</item>
+        <item>সিস্টেম সেটিংস</item>
+        <item>ওয়াই ফাই সেটিংস</item>
+        <item>মূখ্য স্ক্রীনের সজ্জা</item>
+        <item>অ্যালার্ম সেটিংস</item>
+        <item>নোট</item>
+        <item>DND</item>
+        <item>অ্যাকাউন্ট</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>ডেটা</item>
+        <item>অ্যাপ্স</item>
+        <item>অ্যাপ্স এবং ডেটা</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>পরিচিতি</item>
+        <item>কল লগ</item>
+        <item>বার্তাগুলি</item>
+        <item>ওয়াই ফাই সেটিংস</item>
+        <item>নোট</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>পরিচিতি</item>
+        <item>ওয়াই ফাই সেটিংস</item>
+        <item>নোট</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>কল লগ</item>
+        <item>বার্তাগুলি</item>
+    </string-array>
+</resources>

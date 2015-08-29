@@ -219,6 +219,7 @@
     <string name="st_sub_title_customize_mode_name">İsim</string>
     <string name="read_all_sms">Okundu olarak işaretle</string>
     <string name="loding">Veri yükleniyor</string>
+    <string name="action_source_sms_title">Engellenen SMS</string>
     <string name="st_title_open_antispam">Kara Liste</string>
     <string name="st_title_antispam_mode">Kurallar</string>
     <string name="st_sub_title_whiteblack_list_group">Kara Liste</string>
@@ -278,15 +279,9 @@
     <string name="mark_fraud">Dolandırıcı</string>
     <string name="mark_agent">Satış acentası</string>
     <string name="mark_sell">Telemarket</string>
-    <string name="mark_meal">Yiyecek dağıtım</string>
-    <string name="mark_express">Kurye</string>
-    <string name="mark_banking_insurance">Sigorta satışı</string>
     <string name="mark_fraud_block">Dolandırıcılık olarak işaretlendi</string>
     <string name="mark_agent_block">Satış acentası olarak işaretlendi</string>
     <string name="mark_sell_block">Telemarket olarak işaretlendi</string>
-    <string name="mark_meal_block">Yiyecek dağıtım olarak işaretlendi</string>
-    <string name="mark_express_block">Kurye olarak işaretlendi</string>
-    <string name="mark_banking_insurance_block">Sigorta satışı olarak işartlendi</string>
     <string name="mark_number_info">"
  Aslında bu çağrılar bazen kullanışlı olabilir. Eğer gelen çağrıları almak istiyorsanız bu numaraları Kara Listeye eklemeyin."</string>
     <string name="dlg_title_not_open_stranger_identify">Bilinmeyen numaraları belirlemeyi etkinleştir</string>
@@ -308,14 +303,27 @@
     <string name="mark_number_fraud">Dolandırıcı</string>
     <string name="mark_number_agent">Acente</string>
     <string name="mark_number_sell">Telemarketer</string>
-    <string name="mark_number_banking">Sigorta satış</string>
     <string name="antispam_notification_setting_title">Engelleme bildirimleri</string>
-    <string name="antispam_notificaiton_type_show_all">Herhangi bir çağrı engellenince bildir</string>
-    <string name="antispam_notificaiton_type_show_except_blacklist">Karalistede olmayan numara engellenince bildir</string>
+    <string name="antispam_notificaiton_type_show_all">Tüm numaralar</string>
+    <string name="antispam_notificaiton_type_show_except_blacklist">Karalistede olmayan numaralar</string>
     <string name="antispam_notificaiton_type_show_none">Bildirim gösterme</string>
+    <string name="quiet_off_mode">Hepsine izin ver</string>
+    <string name="quiet_important_interruptions_mode">Sadece istisnalar izin ver</string>
+    <string name="quiet_mode">Hepsini sustur</string>
+    <string name="quiet">Sessiz</string>
     <string name="Call_MODENAME">Varsayılan Kara Liste</string>
     <string name="SMS_MODENAME">Varsayılan Kara Liste</string>
+    <string name="mark_express">Kurye</string>
+    <string name="mark_express_block">Kurye olarak işaretlendi</string>
+    <string name="mark_meal">Yiyecek dağıtım</string>
+    <string name="mark_meal_block">Yiyecek dağıtım olarak işaretlendi</string>
+    <string name="mark_banking_insurance">Sigorta satışı</string>
+    <string name="mark_banking_insurance_block">Sigorta satışı olarak işartlendi</string>
+    <string name="mark_number_banking">Sigorta satış</string>
     <string name="fw_blocked_count_call">%d çağrı</string>
     <string name="fw_blocked_count_sms">" ve %d mesaj"</string>
     <string name="APKTOOL_DUMMY_0130">false</string>
+    <string name="fw_blocked_join">" ve "</string>
+    <string name="st_antispam_title_service_sms">Servis bildirimleri</string>
+    <string name="quiet_group">DND</string>
 </resources>

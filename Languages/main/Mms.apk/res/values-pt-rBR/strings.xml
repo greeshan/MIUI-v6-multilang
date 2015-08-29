@@ -37,6 +37,7 @@ Tentativas efetuadas: %s."</string>
     <string name="add_slide_hint">Toque para criar um novo slide</string>
     <string name="discard_slideshow">Descartar apresentação de slides</string>
     <string name="slide_show_part">Parte %1$s de %2$s</string>
+    <string name="select_copy_text">Selecionar e copiar texto da mensagem</string>
     <string name="remove_text">Remover texto</string>
     <string name="add_picture">Adicionar imagem</string>
     <string name="remove_picture">Remover imagem</string>
@@ -81,6 +82,8 @@ Tentativas efetuadas: %s."</string>
     <string name="too_many_attachments">Há um limite de %1$s anexos. Apenas os primeiros %2$s serão adicionados.</string>
     <string name="adding_attachments_title">Adicionando anexos</string>
     <string name="adding_attachments">Aguarde enquanto os itens são adicionados à apresentação de slides.</string>
+    <string name="recipients_over_size">Muitos destinatários.</string>
+    <string name="over_max_mms_size">MMS muito grande.</string>
     <string name="preview">Pré-visualizar</string>
     <string name="preview_slideshow">Pré-visualizar</string>
     <string name="replace_image">Substituir imagem</string>
@@ -108,6 +111,7 @@ Tentativas efetuadas: %s."</string>
     <string name="pref_title_sms_delete">Limite de mensagens de texto</string>
     <string name="pref_title_mms_delete">Limite de mensagens multimídia</string>
     <string name="pref_messages_to_save">Definir número de mensagens a serem salvas</string>
+    <string name="pref_title_storage_status">Status de armazenamento de mensagens</string>
     <string name="pref_title_mms_auto_retrieval">Recuperação automática de MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Recupera as mensagens MMS automaticamente</string>
     <string name="pref_title_mms_retrieval_during_roaming">Recuperar em roaming</string>
@@ -123,7 +127,9 @@ Tentativas efetuadas: %s."</string>
     <string name="confirm_restore_all_title">Restaurar todas as mensagens deste número?</string>
     <string name="confirm_no_block_title">Desbloquear este número e restaurar todas as suas mensagens?</string>
     <string name="confirm_no_block_positive">Desbloquear</string>
+    <string name="confirm_restore_checkbox">Restaurar mensagens bloqueadas</string>
     <string name="confirm_restore_title">Restaurar mensagens selecionadas?</string>
+    <string name="confirm_restore_message">Restaurar mensagens selecionadas?</string>
     <string name="confirm_restore_positive">Restaurar</string>
     <string name="delete_unlocked">Excluir mensagens bloqueadas</string>
     <string name="delete">Excluir</string>
@@ -266,6 +272,7 @@ Tentativas efetuadas: %s."</string>
     <string name="message_pending">Enviando</string>
     <string name="message_readed">Lida</string>
     <string name="message_rejected">Rejeitada</string>
+    <string name="message_expired">Expirado</string>
     <string name="resent_message">Reenviar</string>
     <string name="group_resend_message">Reenviar (%d)</string>
     <string name="nosend_message">Não enviar</string>
@@ -305,7 +312,10 @@ Tentativas efetuadas: %s."</string>
     <string name="pref_summary_wake_up_screen">Ligar a tela quando receber uma nova mensagem</string>
     <string name="pref_title_delivery_reports">Relatórios de entrega</string>
     <string name="pref_summary_delivery_reports">Habilitar relatórios de entrega para mensagens enviadas</string>
+    <string name="pref_title_send_delivery_reports">Enviar relatórios de entrega</string>
+    <string name="pref_summary_send_delivery_reports">Enviar confirmação de entrega para o remetente quando você receber uma mensagem multimídia</string>
     <string name="pref_title_ringtone_repeat">Repetição de notificação</string>
+    <string name="pref_title_ringtone_repeat_summary">"Número de vezes a notificação será exibida quando uma SMS for recebida com a tela desligada: "</string>
     <string name="pref_other_title">Configurações adicionais</string>
     <string name="pref_system_title">Sistema</string>
     <string name="pref_advanced_settings_title">Configurações adicionais</string>
@@ -383,7 +393,6 @@ Tentativas efetuadas: %s."</string>
     <string name="mx_activate_int_hint_server">Sua operadora poderá cobrá-lo por 1 mensagem SMS internacional usada para reativar o Mi Message.</string>
     <string name="need_download">Sincronizando…</string>
     <string name="found_wild_messages_title">Download de mensagens</string>
-    <string name="found_wild_messages">Mensagens dos números abaixos foram armazenadas em sua Mi Cloud anteriormente. %s Fazer o download delas agora?</string>
     <string name="found_old_messages_title">Fazer o upload das mensagens de seus outros cartões SIM?</string>
     <string name="found_old_messages">Fazer o upload das mensagens de %1$s para %2$s?</string>
     <string name="show_all_messages">Mostrar todas as mensagens</string>
@@ -449,6 +458,8 @@ Tentativas efetuadas: %s."</string>
     <string name="title_collapse_sp_messages">Agrupar mensagens da operadora</string>
     <string name="pref_collapse_sp_messages_summary">Agrupar notificações da operadora na mesma conversa</string>
     <string name="sp_conversation_title">Notificações</string>
+    <string name="title_show_sms_template">Checar por códigos de verificação em SMS</string>
+    <string name="pref_show_sms_template_summary">Copiar e preencher automaticamente códigos de verificação</string>
     <string name="sp_mark_as_read_title">Marcar todas como lidas</string>
     <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">Trabalhando…</string>
@@ -506,6 +517,7 @@ Tentativas efetuadas: %s."</string>
     <string name="file_create_time">Criado:</string>
     <string name="file_size">Tamanho:</string>
     <string name="file_title">Nome:</string>
+    <string name="festival_networking_title">Aviso</string>
     <string name="festival_networking_desc">Este recurso requer uma conexão com a internet para funcionar normalmente.</string>
     <string name="festival_continue">OK</string>
     <string name="festival_never_remind">Não mostrar novamente</string>
@@ -514,7 +526,6 @@ Tentativas efetuadas: %s."</string>
     <string name="view_hms_attachment_fail">Não foi possível transferir a imagem</string>
     <string name="mx_type_guide">O Mi Message permite que você envie mensagens para outros usuários MIUI sem gastar com tarifas de SMS</string>
     <string name="mx_dspt_provision">O Mi Message permite que você envie mensagens para outros usuários MIUI sem gastar com tarifas de SMS. Sua operadora poderá cobrá-lo por 1 SMS usado para ativar este serviço.</string>
-    <string name="mx_activate_user_agreement_p1">"Ao usar este serviço, você está concordando com os "</string>
     <string name="mx_activate_dlg_title">Ativar o Mi Message</string>
     <string name="resource_price_free">Grátis</string>
     <string name="menu_send_as_common">Enviar como SMS</string>
@@ -534,4 +545,25 @@ Tentativas efetuadas: %s."</string>
     <string name="snippet_audio">[audio]</string>
     <string name="snippet_picture">[picture]</string>
     <string name="audio_download_failed">Falha no download do áudio</string>
+    <string name="hms_uri_param_err">A URL não pode estar em branco</string>
+    <string name="pref_title_sms_validity_period">Expiração de SMS</string>
+    <string name="pref_title_mms_validity_period">Expiração da MMS</string>
+    <string name="open_url_with_web">Abrir esta URL no navegador?</string>
+    <string name="block_messaging_entry_title">SMS bloqueada</string>
+    <string name="message_contact">Contato:</string>
+    <string name="message_number">Número de telefone:</string>
+    <string name="storage_dialog_mms">MMS: %d</string>
+    <string name="storage_dialog_mms_size">Tamanho do MMS:</string>
+    <string name="storage_dialog_attachments">Anexos de MMS:</string>
+    <string name="storage_dialog_sms">SMS: %d</string>
+    <string name="storage_dialog_database">Banco de dados:</string>
+    <string name="storage_dialog_available_space">Espaço disponívelAvailable space:</string>
+    <string name="storage_unavailable">Sem espaço disponível</string>
+    <string name="found_wild_messages">Mensagens dos números abaixos foram armazenadas em sua Mi Cloud anteriormente. %s Fazer o download delas agora?</string>
+    <string name="mx_activate_user_agreement_p1">"Ao usar este serviço, você está concordando com os "</string>
+    <string name="security_alert_desc">O remetente não está em seus contatos. <u><font color="red">Reportar este número</font></u></string>
+    <string name="security_alert_dialog_title">Reportar</string>
+    <string name="security_alert_dialog_desc">Reportar este número (%s) e enviar mensagem para revisão pela Xiaomi.</string>
+    <string name="sms_report_failed">Não foi possível enviar o relatório</string>
+    <string name="sms_report_success">Relatório enviado</string>
 </resources>

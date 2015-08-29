@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="print_button">প্রিন্ট করুন</string>
+    <string name="save_button">সংরক্ষণ করুন</string>
+    <string name="label_color">রং</string>
+    <string name="label_orientation">পরিচিতি</string>
+    <string name="search">অনুসন্ধান করুন</string>
+    <string name="add_print_service_label">সেবা যোগ করুন</string>
+    <string name="print_search_box_shown_utterance">অনুসন্ধান ঘর প্রদর্শিত</string>
+    <string name="print_search_box_hidden_utterance">অনুসন্ধান ঘর লুকায়িত</string>
+    <string name="print_add_printer">প্রিন্টার যোগ করুন</string>
+    <string name="print_searching_for_printers">প্রিন্টার খোঁজা হচ্ছে</string>
+    <string name="print_no_printers">কোন প্রিন্টার পাওয়া যায়নি</string>
+    <string name="printing_notification_title_template">প্রিন্ট করা হচ্ছে %1$s</string>
+    <string name="failed_notification_title_template">প্রিন্টারের ত্রুটি %1$s</string>
+    <string name="blocked_notification_title_template">প্রিন্টার ব্লক করেছে %1$s</string>
+    <string name="cancel">বাতিল করুন</string>
+    <string name="restart">পুনরায় চালু করুন</string>
+    <string name="reason_unknown">অজানা</string>
+</resources>

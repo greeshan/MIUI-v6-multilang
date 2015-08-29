@@ -35,6 +35,11 @@
     <string name="toast_no_application">A fájlt nem lehet megnyitni</string>
     <string name="toast_failed_delete">Néhány dokumentumot nem lehet törölni</string>
     <string name="share_via">Megosztás itt:</string>
+    <string name="menu_advanced_hide">Belső tárhely elrejtése</string>
+    <string name="menu_advanced_show">Belső tárhely</string>
+    <string name="menu_file_size_hide">Fájlméret elrejtése</string>
+    <string name="menu_file_size_show">Fájlméret megjelenítése</string>
+    <string name="menu_select">A(z) „^1” mappa kiválasztása</string>
     <string name="unbind_xunlei_2_success">Xunlei fiók hozzáadva</string>
     <string name="unbind_xunlei_success">Xunlei fiókból kijelentkezve</string>
 </resources>

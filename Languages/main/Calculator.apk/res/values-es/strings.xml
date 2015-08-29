@@ -49,7 +49,7 @@
     <string name="sqrtDesc">raíz cuadrada</string>
     <string name="divDesc">dividir</string>
     <string name="mulDesc">multiplicar</string>
-    <string name="plusDesc">por</string>
+    <string name="plusDesc">más</string>
     <string name="minusDesc">menos</string>
     <string name="dotDesc">punto</string>
     <string name="powerDesc">potencia</string>
@@ -60,7 +60,4 @@
     <string name="eDesc">Número de Euler</string>
     <string name="piDesc">PI</string>
     <string name="equalDesc">es igual a</string>
-    <string name="advanced">Panel avanzado</string>
-    <string name="basic">Panel básico</string>
-    <string name="delDesc">borrar</string>
 </resources>

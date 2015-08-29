@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moon_desc">
+        <item>অমাবস্যা</item>
+        <item>অর্ধচন্দ্র</item>
+        <item>প্রথম ত্রৈমাসিক</item>
+        <item>অর্ধাধিক</item>
+        <item>পূর্ণিমা</item>
+        <item>ক্ষীয়মাণ অর্ধাধিক</item>
+        <item>শেষ ত্রৈমাসিক</item>
+        <item>ক্ষীয়মাণ অর্ধচন্দ্র</item>
+        <item>অন্ধকার চাঁদ</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>রৌদ্রজ্জ্বল</item>
+        <item>মেঘাচ্ছন্ন</item>
+        <item>মেঘলা</item>
+        <item>কুয়াশাচ্ছন্ন</item>
+        <item>ব্যাপক বৃষ্টিঝড়</item>
+        <item>প্রবল বর্ষণ</item>
+        <item>ঝড়বৃষ্টি</item>
+        <item>বজ্রবিদ্যুতসহ ঝড়</item>
+        <item>বর্ষণ</item>
+        <item>প্রচন্ড বৃষ্টিপাত</item>
+        <item>মোটামুটি বৃষ্টি</item>
+        <item>হাল্কা বৃষ্টিপাত</item>
+        <item>বৃষ্টিপাত এবং বরফের মিশ্রণ</item>
+        <item>তুষার ঝড়</item>
+        <item>বরফ</item>
+        <item>প্রবল তুষার</item>
+        <item>মোটামুটি তুষারপাত</item>
+        <item>হালকা তুষার</item>
+        <item>প্রচন্ড বালুঝড়</item>
+        <item>বালু ঝড়</item>
+        <item>বালি</item>
+        <item>ঝড়ো</item>
+        <item>শিলাবৃষ্টি</item>
+        <item>ধুলো</item>
+        <item>কুয়াশা</item>
+        <item>তুষার ও বৃষ্টি</item>
+        <item>কোনো ডেটা নেই</item>
+    </string-array>
+    <string-array name="weather_indexes_uv_level">
+        <item>দুর্বলতম</item>
+        <item>দুর্বল</item>
+        <item>মধ্য-পরিসীমা</item>
+        <item>প্রচন্ড</item>
+        <item>শক্তিশালী</item>
+    </string-array>
+    <string-array name="wind_direction">
+        <item>উুঃ হাওয়া</item>
+        <item>উুঃ পূ হাওয়া</item>
+        <item>পূ হাওয়া</item>
+        <item>দঃ পূ হাওয়া</item>
+        <item>দঃ হাওয়া</item>
+        <item>দঃ পশ্চি হাওয়া</item>
+        <item>পশ্চি হাওয়া</item>
+        <item>উুঃ পশ্চি হাওয়া</item>
+    </string-array>
+</resources>

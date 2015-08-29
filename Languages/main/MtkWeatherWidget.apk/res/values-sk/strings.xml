@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Počasie</string>
+    <string name="updating">Aktualizovanie</string>
+    <string name="failed_to_locate">Nepodarilo sa nájsť</string>
+    <string name="no_weather">Momentálne nemáte správy o počasí po dobu%s.</string>
+    <string name="add_setting">Klepnutím sem pridajte mestá</string>
+    <string name="net_error">Sieť nie je k dispozícii. Skontrolujte to.</string>
+</resources>

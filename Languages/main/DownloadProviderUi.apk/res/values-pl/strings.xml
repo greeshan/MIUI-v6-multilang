@@ -4,6 +4,7 @@
     <string name="dialog_confirm_delete_the_download_item_message">Usuń zadania pobierania</string>
     <string name="dialog_confirm_delete_checkbox_message">Usunąć też pliki lokalne</string>
     <string name="download_when_network_connected">Pobierz gdy dostępne każde połączenie</string>
+    <string name="show_more">Więcej (%s)</string>
     <string name="download_paused">Zatrzymaj pobieranie</string>
     <string name="download_pending">Pobieranie oczekujące</string>
     <string name="download_wait_connect">Oczekiwanie na połączenie</string>
@@ -27,7 +28,7 @@
     <string name="paused_waiting_for_network">Oczekiwanie na połączenie sieci</string>
     <string name="paused_waiting_to_retry">Oczekiwanie na ponowienie</string>
     <string name="paused_unknown">Wstrzymane z nieznanego powodu</string>
-    <string name="confirm_delete_downloads_message">%d pobierań zostanie usuniętych!</string>
+    <string name="confirm_delete_downloads_message">%d zadań pobierania zostanie usuniętych!</string>
     <string name="confirm_delete_the_download_item_message">Usunąć pobrane pliki?</string>
     <string name="delete_the_downloaded_file">Usuń pobrane pliki</string>
     <string name="downloads_operating">Przetwarzanie...</string>
@@ -39,8 +40,11 @@
     <string name="pref_summary_max_bytes_limit_format">Powiadom gdy rozmiar pliku przekracza %s</string>
     <string name="pref_summary_any_bytes_popup">Pobieraj pliki tylko przy Wi-Fi</string>
     <string name="pref_summary_no_limit_popup">Limit wielkości pobieranego pliku wyłączony!</string>
+    <string name="download">Pobierania</string>
     <string name="download_in_process">Pobieranie</string>
     <string name="download_complete">Pobrane</string>
+    <string name="downloading_empty">Brak pobrań w trakcie</string>
+    <string name="downloaded_empty">Brak pobrań</string>
     <string name="download_speed_null" />
     <string name="download_list_get_hightspeed_flow_sucess_head">Sesja próbna Xunlei utworzona</string>
     <string name="download_list_get_hightspeed_flow_sucess_tail">Pobieraj szybciej pliki z Xunlei</string>
@@ -91,7 +95,7 @@
     <string name="xunlei_member_annual_fee">Xunlei member for one year(platinum)</string>
     <string name="disable">Wyłącz</string>
     <string name="Only_the_wifi">Tylko z Wi-Fi</string>
-    <string name="all_the_internet">"Użyj "</string>
+    <string name="all_the_internet">Wszystkie sieci</string>
     <string name="get_order_fail_msg">Get Order Fail</string>
     <string name="get_order_dialog_msg">Getting Order Info</string>
     <string name="get_account_dialog_msg">Sprawdzanie danych</string>
@@ -114,7 +118,7 @@
     <string name="download_title">Pobieranie</string>
     <string name="download_title_sorted_by_date">Pobierania - Sortowane po dacie</string>
     <string name="download_title_sorted_by_size">Pobierania - Sortowane po rozmiarze</string>
-    <string name="no_downloads">Brak pobierań</string>
+    <string name="no_downloads">Brak pobrań</string>
     <string name="missing_title">Nieznany</string>
     <string name="button_sort_by_size">Sortuj po rozmiarze</string>
     <string name="button_sort_by_date">Sortuj po dacie</string>

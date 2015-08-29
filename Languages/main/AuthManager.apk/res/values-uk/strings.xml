@@ -366,4 +366,5 @@
     <string name="HIPS_Perm_Systemalert">Спливаючі вікна</string>
     <string name="HIPS_Perm_Systemalert_Desc">Доступ до спливаючих вікон</string>
     <string name="HIPS_Perm_Systemalert_Hint">Доступ до спливаючих вікон (%1$s)</string>
+    <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.com/getrom.php</string>
 </resources>

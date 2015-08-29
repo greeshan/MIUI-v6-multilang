@@ -40,7 +40,6 @@
     <string name="confirm_to_remove_blacklist">Odblokować numer?</string>
     <string name="custom_mark_category">Własne</string>
     <string name="mark_number_dialog_maintitle">Funkcja niedostępna w Europie</string>
-    <string name="mark_number_custom_dialog_maintitle">Popraw oznaczenie</string>
     <string name="mark_title_null_hint">Musisz wprowadzić nazwę</string>
     <string name="smart_antispam">Identyfikacja nieznanych numerów</string>
     <string name="turn_on_smart_antispam_hint">"Identify calls from unknown numbers using Xiaomi's database"</string>
@@ -79,5 +78,6 @@
 Wpisz ponownie swoje hasło do konta Xiaomi dla potwierdzenia tożsamości"</string>
     <string name="account_updating_device">Aktualizacja…</string>
     <string name="account_updating_device_failed">Nie można się wpisać</string>
+    <string name="mark_number_custom_dialog_maintitle">Popraw oznaczenie</string>
     <string name="menu_about_yellow_page">Informacje o stronie</string>
 </resources>

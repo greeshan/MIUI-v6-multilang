@@ -37,10 +37,7 @@
     <string name="vibrate_when_ringing">Вибрировать при сигнале</string>
     <string name="start_up">Старт</string>
     <string name="cancel">Сброс</string>
-    <string name="timer_message_00">%1$d мин. %2$d сек.</string>
-    <string name="timer_message_01">%1$d мин. %2$d сек.</string>
-    <string name="timer_message_10">%1$d мин. %2$d сек.</string>
-    <string name="timer_message">Таймер на %1$d мин. и %2$d сек.</string>
+    <string name="timer_item_picker_hour">Ч</string>
     <string name="timer_item_picker_minute">М</string>
     <string name="timer_item_picker_second">С</string>
     <string name="timer_item_duration_display">%1$d мин. %2$d сек.</string>
@@ -117,10 +114,12 @@
     <string name="control_set_alarm_with_existing">Будильник установлен на %s</string>
     <string name="menu_edit_systemtime">Настройки даты и времени</string>
     <string name="snooze_message">Отложить на %d мин.</string>
+    <string name="timer_message">Таймер на %1$d мин. и %2$d сек.</string>
     <string name="timer_message_with_hour">Таймер на %1$d ч. и %2$d мин.</string>
     <string name="timer_message_with_seconds">%1$d сек.</string>
-    <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
-    <string name="add_time_zone">Добавить часовой пояс</string>
+    <string name="timer_message_00">%1$d мин. %2$d сек.</string>
+    <string name="timer_message_01">%1$d мин. %2$d сек.</string>
+    <string name="timer_message_10">%1$d мин. %2$d сек.</string>
     <string name="alarm_alert_dismiss_now_text">Отключить</string>
     <string name="alarm_alert_dismiss_text">Отключить</string>
     <string name="alarm_alert_predismiss_title">Предстоящий будильник</string>
@@ -130,7 +129,6 @@
     <string name="alarm_deleted">Будильник удален</string>
     <string name="alarm_missed_title">Пропущенный будильник</string>
     <string name="alarm_notify_snooze_text">Будильник установлен на %s. Нажмите для отмены.</string>
-    <string name="alarm_timeline_title_text">СЛЕДУЮЩИЙ БУДИЛЬНИК</string>
     <string name="alarm_undo">Отменить</string>
     <string name="alarms_selected">Выбрано: %d</string>
     <string name="all_timers_stopped_notif">Нажмите для просмотра таймеров</string>
@@ -145,15 +143,12 @@
     <string name="clock_settings">ЧАСЫ</string>
     <string name="clock_style">Стиль</string>
     <string name="collapse_alarm">Свернуть будильник</string>
-    <string name="current_zone">Текущий часовой пояс</string>
     <string name="day_picker_description">Календарь</string>
     <string name="default_ringtone_setting_title">Мелодия по умолчанию</string>
     <string name="deleted_key">Удалено: %1$s</string>
     <string name="deleted_message">Удалено</string>
-    <string name="description_direction_down">Проведите вниз, чтобы отложить.</string>
     <string name="description_direction_left">Проведите влево, чтобы отложить.</string>
     <string name="description_direction_right">Проведите вправо, чтобы отключить.</string>
-    <string name="description_direction_up">Проведите вверх, чтобы отключить</string>
     <string name="desk_clock_button_description">Часы</string>
     <string name="digital_gadget">Цифровые часы</string>
     <string name="disable_alarm">Выключить будильник</string>
@@ -197,7 +192,6 @@
     <string name="screensaver_settings">Настройки сна</string>
     <string name="seconds_label">с</string>
     <string name="seconds_label_description">секунды</string>
-    <string name="see_all">Смотреть все…</string>
     <string name="select_day">Выберите день и месяц</string>
     <string name="select_hours">Выберите часы</string>
     <string name="select_minutes">Выберите минуты</string>
@@ -236,8 +230,17 @@
     <string name="volume_button_dialog_title">Установить функцию клавиш громоксти во время будильника</string>
     <string name="weather_fetch_failure">Информация о погоде недоступна</string>
     <string name="year_picker_description">Список лет</string>
+    <string name="abbrev_wday_month_day_no_year">dMMMMEEE</string>
+    <string name="add_time_zone">Добавить часовой пояс</string>
+    <string name="alarm_timeline_title_text">СЛЕДУЮЩИЙ БУДИЛЬНИК</string>
+    <string name="current_zone">Текущий часовой пояс</string>
+    <string name="description_direction_down">Проведите вниз, чтобы отложить.</string>
+    <string name="description_direction_up">Проведите вверх, чтобы отключить</string>
+    <string name="see_all">Смотреть все…</string>
     <string name="zone_time_offset_ahead">%1$d ч. %2$d мин. больше</string>
     <string name="zone_time_offset_ahead_only_hour">%d ч. больше</string>
     <string name="zone_time_offset_behind">%1$d ч. %2$d мин. меньше</string>
     <string name="zone_time_offset_behind_only_hour">%d ч. меньше</string>
+    <string name="battery_charging_level">%d%%</string>
+    <string name="alarm_in_silent_mode_summary">Подавать сигнал, даже если телефон работает в режиме без звука</string>
 </resources>

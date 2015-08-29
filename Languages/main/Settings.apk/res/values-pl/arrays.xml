@@ -48,11 +48,11 @@
     <string-array name="tts_rate_entries">
         <item>Bardzo wolno</item>
         <item>Wolno</item>
-        <item>Normalna</item>
+        <item>Normalnie</item>
         <item>Szybko</item>
+        <item>Trochę szybciej</item>
         <item>Szybciej</item>
-        <item>Bardzo szybko</item>
-        <item>Szybko</item>
+        <item>Jeszcze szybciej</item>
         <item>Bardzo szybko</item>
         <item>Najszybciej</item>
     </string-array>
@@ -110,9 +110,9 @@
         <item>Poza zasięgiem</item>
     </string-array>
     <string-array name="bluetooth_visibility_timeout_entries">
-        <item>2 minuty</item>
-        <item>5 minut</item>
-        <item>1 godzina</item>
+        <item>2 min</item>
+        <item>5 min</item>
+        <item>1 godz.</item>
         <item>Brak limitu czasu</item>
     </string-array>
     <string-array name="wifi_signal">
@@ -132,13 +132,13 @@
         <item>Nigdy</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
-        <item>Automatyczna</item>
+        <item>Automatyczne</item>
         <item>Tylko 5 GHz</item>
         <item>Tylko 2,4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Czas użycia</item>
-        <item>Licznik uruchomień</item>
+        <item>Ostatnie użycie</item>
         <item>Nazwa aplikacji</item>
     </string-array>
     <string-array name="wifi_eap_entries">
@@ -197,18 +197,18 @@
     <string-array name="app_install_location_entries">
         <item>Wewnętrzna pamięć urządzenia</item>
         <item>Wymienna karta SD</item>
-        <item>Zastosuj ustawienia systemowe</item>
+        <item>Zastosuj ustawienie systemowe</item>
     </string-array>
     <string-array name="app_ops_categories">
         <item>Lokalizacja</item>
-        <item>Osobisty</item>
-        <item>SMS/MMS</item>
+        <item>Osobiste</item>
+        <item>Wiadomości</item>
         <item>Multimedia</item>
         <item>Urządzenie</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>lokalizacja przybliżona</item>
-        <item>lokalizacja precyzyjna</item>
+        <item>przybliżona lokalizacja</item>
+        <item>dokładna lokalizacja</item>
         <item>GPS</item>
         <item>wibracje</item>
         <item>przeczytaj kontakty</item>
@@ -343,7 +343,7 @@
         <item>Zawsze sprawdzaj</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Nie sprawdzaj HDCP</item>
+        <item>Nigdy nie sprawdzaj HDCP</item>
         <item>Użyj sprawdzania HDCP tylko w przypadku treści chronionych DRM</item>
         <item>Zawsze używaj sprawdzania HDCP</item>
     </string-array>
@@ -387,8 +387,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>Brak</item>
         <item>Logcat</item>
-        <item>Systrace (Grafika)</item>
-        <item>Błąd stosu wywołań glGetError</item>
+        <item>Systrace (grafika)</item>
+        <item>Stos wywołań funkcji glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>Wyłączone</item>
@@ -674,9 +674,75 @@
         <item>WARM</item>
         <item>COLD</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Pytaj o pozwolenie</item>
+        <item>Zezwól</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Pytaj o pozwolenie</item>
+        <item>Zezwól</item>
+    </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>natychmiast</item>
+        <item>po 1 min</item>
+        <item>po 2 min</item>
+        <item>po 5 min</item>
+        <item>po 15 min</item>
+        <item>po 30 min</item>
+    </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Wyłącz animacje systemowe</item>
+        <item>Pokaż animacje systemowe</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>Wyłączenie animacji może polepszyć płynność urządzenia</item>
+        <item>Włączenie animacji może zmniejszyć wydajność urządzenia</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Uruchomić ponownie by zastosować zmiany?</item>
+        <item>Uruchomić ponownie by zastosować zmiany?</item>
+    </string-array>
     <string-array name="miracast_policies">
         <item>Krótkie opóźnienie</item>
         <item>Standardowe</item>
         <item>Lepsza jakość</item>
+    </string-array>
+    <string-array name="entries_zen_mode">
+        <item>Wyłączony</item>
+        <item>Wyjątki</item>
+        <item>Bez przerw</item>
+    </string-array>
+    <string-array name="proc_stats_memory_states">
+        <item>Normalnie</item>
+        <item>Średnio</item>
+        <item>Nisko</item>
+        <item>Krytycznie</item>
+    </string-array>
+    <string-array name="proc_stats_process_states">
+        <item>Persistent</item>
+        <item>Top activity</item>
+        <item>Important (foreground)</item>
+        <item>Important (background)</item>
+        <item>Backup</item>
+        <item>Heavy weight</item>
+        <item>Service (running)</item>
+        <item>Service (restarting)</item>
+        <item>Receiver</item>
+        <item>Home</item>
+        <item>Last activity</item>
+        <item>Cached (activity)</item>
+        <item>Cached (activity client)</item>
+        <item>Cached (empty)</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>QHD (2K)</item>
+        <item>HD (720P)</item>
     </string-array>
 </resources>

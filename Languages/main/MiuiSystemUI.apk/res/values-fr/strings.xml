@@ -97,7 +97,6 @@ d MMMM yyyy"</string>
     <string name="description_direction_left">Glisser vers la gauche pour %s.</string>
     <string name="description_target_search">Rechercher</string>
     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB</string>
-    <string name="status_bar_recent_memory_info2" />
     <string name="usb_mode_notification">Périphérique de stockage USB</string>
     <string name="usb_mode_dont_ask">Ne plus me le demander la prochaine fois</string>
     <string name="usb_mode_mount_storage_title">Ouvrir le périphérique de stockage USB ?</string>
@@ -114,6 +113,9 @@ d MMMM yyyy"</string>
     <string name="user_guide_for_notification">"Lors de la réception d'une notification, vous pouvez faire glisser la barre d'état vers le bas pour voir le détail"</string>
     <string name="user_guide_for_toggle">"La liste d'activation peut défiler horizontalement"</string>
     <string name="user_guide_for_toggle_list">Appuyer pour modifier les paramètres</string>
+    <string name="activate_usb_title">"Activation de l'USB"</string>
+    <string name="activate_usb_message">Pour activer cette fonction, insérez la carte SIM</string>
+    <string name="usb_function_charging_text">Connecté en mode de charge</string>
     <string name="return_to_incall_screen">"Appuyer pour revenir à l'appel"</string>
     <string name="call_status_dialing">Numérotation</string>
     <string name="call_status_ringing">Sonnerie</string>
@@ -176,6 +178,9 @@ d MMMM yyyy"</string>
     <string name="status_bar_network_flow_limit">" | Limite mensuelle: %1$s"</string>
     <string name="drive_mode_tip">Mode voiture activé - Gardez un œil sur la route</string>
     <string name="no_notification_tips">Aucune notification</string>
+    <string name="expanded_notification_manager">Gérer les notifications</string>
+    <string name="disable_notification_title">Désactiver la notification</string>
+    <string name="disable_notification_summary">La notification ne sera pas affiché après désactivation</string>
     <string name="notification_otg_mouse_in">Souris connectée</string>
     <string name="notification_otg_keyboard_in">Clavier connecté</string>
     <string name="notification_otg_gamestick_in">Manette de jeu connectée</string>
@@ -209,12 +214,19 @@ d MMMM yyyy"</string>
     <string name="battery_profiles">Profils de batterie</string>
     <string name="oldman_airplane_mode_text">mode avion</string>
     <string name="oldman_incall_text">en appel</string>
+    <string name="notification_template_text">" a un message, touchez pour l'afficher."</string>
     <string name="audio_effect_settings">"Définir le type d'écouteurs"</string>
     <string name="audio_effect_info">"Optimiser l'audio"</string>
     <string name="audio_effect_custom">Configurer</string>
     <string name="media_projection_dialog_text">%s va capturer tout ce qui est affiché sur votre écran.</string>
     <string name="media_projection_remember_text">Ne plus afficher</string>
     <string name="media_projection_action_text">Démarrer maintenant</string>
+    <string name="vpn_title">VPN activé</string>
+    <string name="vpn_title_long">Connexion au VPN via %s</string>
+    <string name="vpn_text">Appuyer pour gérer les paramètres.</string>
+    <string name="vpn_text_long">Connecté à %s. Appuyer pour afficher les détails.</string>
+    <string name="screen_button_notification_title">Les boutons physiques sont désactivés</string>
+    <string name="screen_button_notification_text">"Pour les activer, appuyez sur les boutons d'accueil et d'alimentation simultanément."</string>
     <string name="battery_low_subtitle">Le niveau de la batterie est faible.</string>
     <string name="battery_low_why">Utilisation batterie</string>
     <string name="status_bar_recent_inspect_item_title">"Informations sur l'application"</string>

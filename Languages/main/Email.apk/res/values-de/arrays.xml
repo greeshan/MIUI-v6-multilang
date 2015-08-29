@@ -27,7 +27,7 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Neuere Nachricht</item>
         <item>Ältere Nachricht</item>
-        <item>Konversationsliste</item>
+        <item>Posteingang</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Nur archivierte anzeigen</item>
@@ -65,13 +65,5 @@
         <item>Diese E-Mail</item>
         <item>Haftungsausschluss</item>
         <item>E-Mail Widerruf</item>
-    </string-array>
-    <string-array name="sync_status">
-        <item>Synchronisierung erfolgreich.</item>
-        <item>Fehler bei der Netzwerkverbindung.</item>
-        <item>Fehler beim anmelden.</item>
-        <item>Fehler in sicherer Verbindung.</item>
-        <item>Fehler beim Synchronisieren.</item>
-        <item>Serverfehler.</item>
     </string-array>
 </resources>

@@ -30,7 +30,7 @@
     <string name="HIPS_Perm_CallMonitor_Hint">%1$s апликации може слушаат при вашите повици и да го контролираат волуменот на звукот</string>
     <string name="HIPS_Perm_Location">Локација</string>
     <string name="HIPS_Perm_Location_Desc">апликацијата може да користи мрежа и GPS за да ја пронајде вашата локација</string>
-    <string name="HIPS_Perm_Location_Hint">%1$s апликации може да користат мрежа и GPS за да ја најдат вашата локација</string>
+    <string name="HIPS_Perm_Location_Hint">%1$s апликацијата мже да ја добие вашата прецизна локација(базирано на GPS и мрежа)</string>
     <string name="HIPS_Perm_PhoneID">Уред</string>
     <string name="HIPS_Perm_PhoneID_Desc">апликацијата има пристап до IMEI и IMSI на Вашиот уред</string>
     <string name="HIPS_Perm_PhoneID_Hint">%1$s апликациите имаат пристап до IMEI и IMSI на Вашиот уред</string>
@@ -115,13 +115,13 @@
     <string name="HIPS_Perm_MMS_Access">апликацијата може да пристапи до Вашите MMS податоци</string>
     <string name="HIPS_Perm_CallLog_Access">апликацијата може да пристапи до историјата на вашите повици</string>
     <string name="HIPS_Perm_Settings_Modify">апликацијата може да ги промени системските поставувања</string>
-    <string name="HIPS_Perm_Location_Source_Network">Податоци од мрежа</string>
-    <string name="HIPS_Perm_Location_Source_GPS">Податоци од GPS</string>
-    <string name="HIPS_Perm_Location_Source_Cellular">Податоци од мобилната базна станица</string>
+    <string name="HIPS_Perm_Location_Source_Network">Приближна локација со користење на мрежи базирани на извори</string>
+    <string name="HIPS_Perm_Location_Source_GPS">Добивање на вашата прецизна локација со помош на GPS-a</string>
+    <string name="HIPS_Perm_Location_Source_Cellular">Приближна локација со користење на мобилна базна станица</string>
     <string name="HIPS_Perm_Location_CellLocation">апликација може да добие инфо локацијата на мобилната базна станица</string>
     <string name="HIPS_Perm_Location_CellInfo">апликација може да добие инфо за мобилната базна станица</string>
     <string name="HIPS_Perm_Location_Monitor">апликација може да ги следи вашите движења</string>
-    <string name="HIPS_Perm_Location_Access">апликацијата може да пристапи до вашата локација</string>
+    <string name="HIPS_Perm_Location_Access">Добивање на прецизни локации(базирано на GPS и мрежа)</string>
     <string name="HIPS_Perm_PhoneID_IMEI">апликацијата има пристап до IMEI бројот на вашиот уред</string>
     <string name="HIPS_Perm_PhoneID_IMEISN">апликацијата има пристап до IMEI SN на уредот</string>
     <string name="HIPS_Perm_PhoneID_ICCID">апликацијата може да добие</string>
@@ -145,6 +145,15 @@
     <string name="HIPS_Perm_Recorder_Video">апликацијата може да снима аудио и видео</string>
     <string name="HIPS_Perm_Recorder_Audio">апликацијата може да снима аудио</string>
     <string name="HIPS_Perm_Recorder_VoiceCall">апликацијата може да ги снима вашите повици</string>
+    <string name="HIPS_Perm_Read_SMS">Читање на SMS пораки</string>
+    <string name="HIPS_Perm_Read_SMS_Desc">Читање на вашите SMS пораки</string>
+    <string name="HIPS_Perm_Read_SMS_Hint">%1$s апликацијата може да ги чита вашите SMS пораки</string>
+    <string name="HIPS_Perm_Read_MMS">Читање на MMS пораки</string>
+    <string name="HIPS_Perm_Read_MMS_Desc">Читање на вашите MMS пораки</string>
+    <string name="HIPS_Perm_Read_MMS_Hint">%1$s апликацијата може да ги чита вашите MMS пораки</string>
+    <string name="HIPS_Perm_Xiaomi_Account">Mi Račun</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Desc">pristup vašem Mi Računu</string>
+    <string name="HIPS_Perm_Xiaomi_Account_Hint">%1$s aplikacija može pristupiti vašem Mi Računu</string>
     <string name="app_name">Управување со дозволи</string>
     <string name="Generic_Copyright">Овозможено од LBE Privacy Guard</string>
     <string name="Generic_Version">Верзија: %1$s</string>
@@ -172,7 +181,6 @@
     <string name="Generic_Good">Добро</string>
     <string name="Generic_Update">Надградба за софтверот</string>
     <string name="Generic_Shortcut">Контекстуалното мени</string>
-    <string name="HIPS_SecurityPrompt_Caption">Безбедносно предупредување</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s се обидува да %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Не прашувај повторно</string>
     <string name="HIPS_SecurityPrompt_Accept">Дозволете (%d)</string>
@@ -239,4 +247,6 @@
     <string name="Su_Enable_Dialog">%1$s бара админ пристап.</string>
     <string name="Su_Unavailable">Админ пристап не е достапен во стабилната верзија на MIUI. Треба да флешувате развојна верзија на MIUI за да имате админ пристап.</string>
     <string name="Su_Package_Forbidden">%1$s нема админ пристап.</string>
+    <string name="HIPS_SecurityPrompt_Accept_Once">Dopusti jednom (%d)</string>
+    <string name="HIPS_SecurityPrompt_Caption">Безбедносно предупредување</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="updating">Поновлення</string>
+    <string name="failed_to_locate">Не знайдено розташування</string>
+    <string name="no_weather">Зараз нема прогнозу погоди для %s.</string>
+    <string name="add_setting">Натисніть тут, щоб додати міста</string>
+    <string name="net_error">Мережа недоступна. Будь ласка, перевірте її.</string>
+</resources>

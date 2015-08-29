@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="items_selected">
+        <item quantity="other">%d elem kiválasztva</item>
+        <item quantity="one">1 elem kiválasztva</item>
+    </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">Épp most</item>
     </plurals>
@@ -51,9 +55,5 @@
     <plurals name="in_num_minutes">
         <item quantity="other">%d perc múlva</item>
         <item quantity="one">1 perc múlva</item>
-    </plurals>
-    <plurals name="items_selected">
-        <item quantity="other">%d elem kiválasztva</item>
-        <item quantity="one">1 elem kiválasztva</item>
     </plurals>
 </resources>

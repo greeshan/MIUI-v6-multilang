@@ -26,7 +26,6 @@
     <string name="exit_fm">Thoát</string>
     <string name="toast_sleep_mode">Đài sẽ dừng phát sau %s</string>
     <string name="toast_sleep_mode_exit">Đã hủy hẹn giờ tắt</string>
-    <string name="record_file_location_format">Đã lưu vào \"%s\"</string>
     <string name="record_completed">Ghi lại hoàn tất</string>
     <string name="turn_off_fm">Tắt FM</string>
     <string name="view_stations_list">Xem danh sách đài</string>
@@ -60,4 +59,6 @@
     <string name="txt_divider">" | "</string>
     <string name="group_favor">Đặt trước</string>
     <string name="group_other">Khác</string>
+    <string name="record_file_location_format">Đã lưu vào \"%s\"</string>
+    <string name="notification_rec_title">Chạm để xem ghi âm</string>
 </resources>

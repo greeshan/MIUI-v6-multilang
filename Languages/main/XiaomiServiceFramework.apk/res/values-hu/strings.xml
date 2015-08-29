@@ -11,9 +11,6 @@
     <string name="activate_phone_failed_notif_title_msim">%s SIM kártya aktiválása nem sikerült</string>
     <string name="activate_status_title_activating">SIM kártya aktiválása</string>
     <string name="activate_status_title_activating_msim">%s SIM kártya aktiválása</string>
-    <string name="activate_status_desc_wait_for_phone_service">Várakozás a szolgáltatásra</string>
-    <string name="activate_status_desc_registration">SIM kártya regisztrálása</string>
-    <string name="activate_status_desc_registration_server_error">Hiba lépett fel a SIM kártya regisztrálása közben</string>
     <string name="activate_status_desc_query_activation_info">Aktiválási adatok lekérése</string>
     <string name="activate_status_desc_query_activation_info_no_info">Nincs adat az aktiválásról a szerveren</string>
     <string name="activate_status_desc_query_activation_info_server_error">Hiba lépett fel az aktiválási információ lekérése közben</string>
@@ -23,7 +20,6 @@
     <string name="activate_status_desc_wait_for_sms_fail">Az aktiváló SMS fogadása nem sikerült</string>
     <string name="activate_status_desc_request_activation_sms">Aktiváló SMS kérése</string>
     <string name="activate_status_desc_request_activation_sms_server_error">Szerverhiba történt az aktiváló SMS lekérése során</string>
-    <string name="activate_status_desc_request_activation_sms_phone_error">A begépelt telefonszám hibás</string>
     <string name="activate_status_desc_getting_gateway">Getting SMS Gateway</string>
     <string name="activate_status_desc_failed_getting_gateway">Failed to get SMS Gateway</string>
     <string name="activate_status_desc_prepare_sending_sms">Prepare sending activation SMS to Gateway</string>
@@ -39,8 +35,6 @@
     <string name="activate_status_desc_checking_xiaomi_account_server_error">Szerverhiba történt a Mi fiók ellenőrzése közben</string>
     <string name="activate_status_desc_registering_xiaomi_account">Xiaomi fiók regisztrálása</string>
     <string name="activate_status_desc_registering_xiaomi_account_server_error">Hiba lépett fel a Xiaomi fiók regisztrálása során</string>
-    <string name="activate_status_desc_getting_sim_info">SIM kártya információ lekérése</string>
-    <string name="activate_status_desc_getting_sim_info_fail">A SIM kártya információ lekérése nem sikerült</string>
     <string name="sim_unactivated_title">A SIM kártya nincs aktiválva</string>
     <string name="activate">Aktiválás</string>
     <string name="activate_popup_title_manual">%s aktiválása</string>
@@ -57,6 +51,8 @@
     <string name="activate_popup_desc_new_2_sim_cards">SIM kártya csere történt. A(z) %s bekapcsolásához 2db aktiváló üzenet elküldése szükséges. (szolgáltatói tarifa)</string>
     <string name="activate_popup_desc_new_2_intl_sim_cards">SIM kártya csere történt. A(z) %s bekapcsolásához 2db aktiváló üzenet elküldése szükséges. (szolgáltatói tarifa)</string>
     <string name="activate_popup_desc_new_sim_card_downlink">SIM kártya csere történt. Írja be a SIM kártya számát az %s szolgáltatás megrendeléséhez</string>
+    <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP a Weihui támogatásával. "</string>
+    <string name="activate_popup_desc_voip_privacy">Adatvédelmi Irányelvek</string>
     <string name="activate_popup_title_register_account">Mi Fiók létrehozása</string>
     <string name="activate_popup_desc_register_account">Egy SMS küldése szükséges a Xiaomi fiók regisztrálásához</string>
     <string name="activate_popup_desc_register_account_intl">Egy nemzetközi SMS küldése szükséges a Mi fiók regisztrálásához</string>
@@ -76,12 +72,27 @@
     <string name="activate_popup_title_failed_phone_error">Hibás telefonszám</string>
     <string name="activate_popup_desc_failed_phone_error">A megadott telefonszám érvénytelen.</string>
     <string name="activate_popup_confirm_failed_phone_error">Újra</string>
-    <string name="activate_popup_desc_upload_diagnosis_info">Nem aktiválható a SIM kártya. Kérjük töltse fel a diagnosztikai adatokat, melynek segítségével kideríthetjük a hibát. (Report ID: %s)</string>
-    <string name="activate_popup_confirm_upload_diagnosis_info">Feltöltés</string>
-    <string name="activate_popup_link_diagnosis_detail">Milyen adatvédelmi információkat fog tartalmazni?</string>
-    <string name="activate_popup_title_diagnosis_detail">Diagnosztikai információ</string>
+    <string name="activate_popup_title_all_gateway_failed_send_sms">Nem küldhető el szöveges üzenet</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"Az aktiváló üzenetet nem sikerült elküldeni. Ellenőrizze, hogy a SIM kártya már aktivált állapotban van.
+%s újraaktiválásához írja be az új SIM kártyához rendelt telefonszámot"</string>
+    <string name="activate_popup_confirm_all_gateway_failed_send_sms">Újra</string>
+    <string name="activate_popup_title_all_gateway_failed_query_info">Nem található szám</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">"Nem található a telefonszáma. Ellenőrizze, hogy a SIM kártya már aktivált állapotban van.
+%s újraaktiválásához írja be az új SIM kártyához rendelt telefonszámot"</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">Újra</string>
     <string name="activate_feature_mx">Mi üzenetkezelés</string>
+    <string name="activate_feature_mx_and_voip">Mi Üzenetek és Hanghívás</string>
     <string name="activate_feature_mms_sync">Üzenetek szinkr.</string>
     <string name="activate_feature_call_log_sync">Hívásnapló szinkr.</string>
     <string name="activate_feature_find_device">Eszköz keresése</string>
+    <string name="activate_status_desc_getting_sim_info">SIM kártya információ lekérése</string>
+    <string name="activate_status_desc_getting_sim_info_fail">A SIM kártya információ lekérése nem sikerült</string>
+    <string name="activate_status_desc_registration">SIM kártya regisztrálása</string>
+    <string name="activate_status_desc_registration_server_error">Hiba lépett fel a SIM kártya regisztrálása közben</string>
+    <string name="activate_status_desc_request_activation_sms_phone_error">A begépelt telefonszám hibás</string>
+    <string name="activate_status_desc_wait_for_phone_service">Várakozás a szolgáltatásra</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Feltöltés</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Nem aktiválható a SIM kártya. Kérjük töltse fel a diagnosztikai adatokat, melynek segítségével kideríthetjük a hibát. (Report ID: %s)</string>
+    <string name="activate_popup_link_diagnosis_detail">Milyen adatvédelmi információkat fog tartalmazni?</string>
+    <string name="activate_popup_title_diagnosis_detail">Diagnosztikai információ</string>
 </resources>

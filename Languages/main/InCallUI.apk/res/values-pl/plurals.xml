@@ -5,11 +5,15 @@
         <item quantity="one">Brak połączenia transmisji danych przez %s min</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">Telefon będzie w trybie alarmowego połączenia zwrotnego przez %s min. W tym trybie nie można używać aplikacji korzystających z połączenia transmisji danych. Czy chcesz teraz zakończyć?</item>
-        <item quantity="one">Telefon będzie w trybie alarmowego połączenia zwrotnego przez %s min. W tym trybie nie można używać aplikacji korzystających z połączenia transmisji danych. Czy chcesz teraz zakończyć?</item>
+        <item quantity="other">Telefon będzie w trybie alarmowym połączenia zwrotnego przez %s min. W tym trybie nie można korzystać z aplikacji używających połączeń danych. Czy chcesz teraz wyjść?</item>
+        <item quantity="one">Telefon będzie w trybie alarmowym połączenia zwrotnego przez %s minutę. W tym trybie nie można korzystać z aplikacji używających połączeń danych. Czy chcesz teraz wyjść?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">Wybrana akcja jest niedostępna w trybie alarmowego połączenia zwrotnego. Telefon będzie w tym trybie przez %s min. Czy chcesz teraz zakończyć?</item>
-        <item quantity="one">Wybrana akcja jest niedostępna w trybie alarmowego połączenia zwrotnego. Telefon będzie w tym trybie przez %s min. Czy chcesz teraz zakończyć?</item>
+        <item quantity="other">Wybrana akcja nie jest dostępna w trybie alarmowym połączenia zwrotnego. Telefon będzie w tym trybie %s min. Czy chcesz teraz wyjść?</item>
+        <item quantity="one">Wybrana akcja nie jest dostępna w trybie alarmowym połączenia zwrotnego. Telefon będzie w tym trybie %s min. Czy chcesz teraz wyjść?</item>
+    </plurals>
+    <plurals name="call_recording_notification_complete">
+        <item quantity="other">Nagranych rozmów: %d</item>
+        <item quantity="one">1 nagrana rozmowa</item>
     </plurals>
 </resources>

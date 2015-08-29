@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Időjárás szolgáltató</string>
-    <string name="aqi_quality_index_pure">LHI %1$s</string>
-    <string name="aqi_quality_index_good">LHI %1$s</string>
-    <string name="aqi_quality_index_moderate">LHI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">LHI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">LHI %1$s</string>
-    <string name="aqi_quality_index_dangerous">LHI %1$s</string>
-    <string name="aqi_quality_index_hazardous">LHI %1$s</string>
     <string name="aqi_quality_index_break">LHI %1$s</string>
+    <string name="aqi_quality_index_dangerous">LHI %1$s</string>
+    <string name="aqi_quality_index_good">LHI %1$s</string>
+    <string name="aqi_quality_index_hazardous">LHI %1$s</string>
+    <string name="aqi_quality_index_light_pollution">LHI %1$s</string>
+    <string name="aqi_quality_index_moderate">LHI %1$s</string>
+    <string name="aqi_quality_index_pure">LHI %1$s</string>
+    <string name="aqi_quality_index_unhealthy">LHI %1$s</string>
 </resources>

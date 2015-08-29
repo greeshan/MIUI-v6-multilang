@@ -26,7 +26,7 @@
     <string name="exit_fm">Sair</string>
     <string name="toast_sleep_mode">O rádio será desligado em %s</string>
     <string name="toast_sleep_mode_exit">Temporizador cancelado</string>
-    <string name="record_file_location_format">Gravação salva em \"%s\"</string>
+    <string name="notification_rec_title">Toque para ver a gravação</string>
     <string name="record_completed">Gravação concluída</string>
     <string name="turn_off_fm">Desligar Rádio FM</string>
     <string name="view_stations_list">Ver lista de estações</string>

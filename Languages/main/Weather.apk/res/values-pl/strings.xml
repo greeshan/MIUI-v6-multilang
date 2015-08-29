@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Dostawca Pogody</string>
-    <string name="aqi_quality_index_pure">AQI %1$s</string>
-    <string name="aqi_quality_index_good">AQI %1$s</string>
-    <string name="aqi_quality_index_moderate">AQI %1$s</string>
-    <string name="aqi_quality_index_light_pollution">AQI %1$s</string>
-    <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
-    <string name="aqi_quality_index_dangerous">AQI %1$s</string>
-    <string name="aqi_quality_index_hazardous">AQI %1$s</string>
-    <string name="aqi_quality_index_break">AQI %1$s</string>
-    <string name="view_indexes_wind_unit">km/h</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
@@ -28,13 +18,15 @@
     <string name="act_set_city_find_side_error">Lokalizacja nieudana</string>
     <string name="menu_location">Lokalizacje</string>
     <string name="button_allow">Ok</string>
+    <string name="button_confirm">Zezwól</string>
     <string name="button_abandon">Anuluj zmiany</string>
+    <string name="button_exit">Zakończ</string>
     <string name="button_not_allow">Anuluj</string>
     <string name="location_allow_err">Nie udało się zlokalizować</string>
     <string name="view_aqi_title">Powietrze</string>
     <string name="act_weather_find_city_net_no_good">Brak połączenia z siecią</string>
     <string name="act_weather_find_city_click_retry">Ponów</string>
-    <string name="act_weather_find_city_connect_net">Sprawdź połączenie z siecią i spróbuj ponownie.</string>
+    <string name="act_weather_find_city_connect_net">Sprawdź połączenie z siecią i spróbuj ponownie</string>
     <string name="act_weather_find_city_searching">Wyszukiwanie…</string>
     <string name="loading_weather">Wczytywanie…</string>
     <string name="act_weather_cycle_link_china">WeatherChina</string>
@@ -63,7 +55,7 @@
     <string name="activity_main_refresh_time">Ostatnia aktualizacja %1$s</string>
     <string name="activity_main_update_time">Aktualizowane %1$s</string>
     <string name="activity_main_update_time_right_now">Teraz</string>
-    <string name="activity_main_refresh_timeout">" "</string>
+    <string name="activity_main_refresh_fail">Nie można połączyć się z siecią</string>
     <string name="activity_find_city_dialog_cancel">Anuluj</string>
     <string name="activity_find_city_dialog_set">Włącz lokalizację</string>
     <string name="activity_find_city_dialog_title">Usługi lokalizacji</string>
@@ -78,7 +70,30 @@
     <string name="accuweather_tag">accu</string>
     <string name="weatherchina_tag">weather.com.cn</string>
     <string name="application_screenorientation">portrait</string>
-    <string name="first_start_network_msg">Wymagane jest połączenie z siecią do pobierania prognoz pogody</string>
-    <string name="first_start_network_title">Informacja o sieci</string>
+    <string name="first_start_network_msg">Wymagane jest połączenie z siecią do pobierania prognoz pogody na podstawie lokalizacji</string>
+    <string name="first_start_network_title">Dostęp do sieci i lokalizacji</string>
     <string name="international_detail_menu_title">Szczegółowa prognoza</string>
+    <string name="share_menu_title">Udostępnij pogodę</string>
+    <string name="share_btn_cancel">Anuluj</string>
+    <string name="share_btn_confirm">Udostępnij</string>
+    <string name="share_subject">Moja pogoda</string>
+    <string name="share_button">Udostępnij</string>
+    <string name="share_weather_save_pic_fail">Nie można wykonać zrzutu</string>
+    <string name="share_title">Moja pogoda</string>
+    <string name="share_weather_desc_split">". Aktualnie jest "</string>
+    <string name="share_weather_desc">Moja pogoda w: %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
+    <string name="aqi_quality_index_pure" />
+    <string name="aqi_quality_index_good" />
+    <string name="aqi_quality_index_moderate" />
+    <string name="aqi_quality_index_light_pollution" />
+    <string name="aqi_quality_index_unhealthy" />
+    <string name="aqi_quality_index_dangerous" />
+    <string name="aqi_quality_index_hazardous" />
+    <string name="aqi_quality_index_break" />
+    <string name="view_indexes_wind_unit">km/h</string>
+    <string name="activity_main_refresh_timeout">" "</string>
+    <string name="account_unactivated">Konto jest nieaktywne</string>
+    <string name="all_resources">Wszystko</string>
+    <string name="act_weather_find_city_china">Chiny</string>
 </resources>

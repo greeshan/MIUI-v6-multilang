@@ -626,4 +626,5 @@ Volgend periode start binnen %2$d dagen (%3$s)"</string>
     <string name="online_check_warning_type_by_cmb">Spam</string>
     <string name="livetalk_provider_info">Provided by %s</string>
     <string name="livetalk_waiting">Wachten…</string>
+    <string name="livetalk_left_minute">Nog %s min</string>
 </resources>

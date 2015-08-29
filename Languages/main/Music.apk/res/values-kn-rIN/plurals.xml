@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">%d ಹಾಡುಗಳು ಕಂಡುಬಂದಿವೆ</item>
+        <item quantity="one">%d ಹಾಡು ಕಂಡುಬಂದಿದೆ</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d ದಿನಗಳು ಬಾಕಿ ಇವೆ</item>
+        <item quantity="one">%d ದಿನ ಬಾಕಿ ಇದೆ</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d ಹಾಡುಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ</item>
+        <item quantity="one">1 ಹಾಡನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">%d ಹೊಸದು</item>
+        <item quantity="one">%d ಹೊಸದು</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">%d ಹಾಡುಗಳು</item>
+        <item quantity="one">%d ಹಾಡು</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">%d ಒಂದೇ ರೀತಿಯ ಹಾಡುಗಳು</item>
+        <item quantity="one">%d ಒಂದೇ ರೀತಿಯ ಹಾಡು</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">%d ಪ್ಲೇಪಟ್ಟಿಗೆ ಹಾಡುಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">ಪ್ಲೇಪಟ್ಟಿಗೆ ಹಾಡು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d ಪ್ಲೇಪಟ್ಟಿಯಿಂದ ಹಾಡು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="one">ಪ್ಲೇಪಟ್ಟಿಯಿಂದ ಹಾಡು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="artist_list_fragment_item_count_format">
+        <item quantity="other">%d ಹಾಡುಗಳು</item>
+        <item quantity="one">1 ಹಾಡು</item>
+    </plurals>
+    <plurals name="send_songs_toast">
+        <item quantity="other">%d ಹಾಡುಗಳನ್ನು ಕಳುಹಿಸಲಾಗುವುದು</item>
+        <item quantity="one">1 ಹಾಡು ಕಳುಹಿಸಲಾಗುವುದು</item>
+    </plurals>
+    <plurals name="folder_songs_count">
+        <item quantity="other">%d ಹಾಡುಗಳು</item>
+        <item quantity="one">1 ಹಾಡು</item>
+    </plurals>
+    <plurals name="Nnew_local_audios">
+        <item quantity="other">%d ಹಾಡುಗಳನ್ನು ಸೇರಿಸಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಹಾಡು ಸೇರಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

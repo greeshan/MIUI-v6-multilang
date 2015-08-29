@@ -13,7 +13,7 @@
     <string name="read_write_all_voicemail_description">Permite que a aplicação armazene e transfira todas as mensagens de voz, a que este dispositivo possa aceder.</string>
     <string name="voicemail_from_column">Mensagem de voz de</string>
     <string name="debug_dump_title">Copiar contactos da base de dados de contactos</string>
-    <string name="debug_dump_database_message">Está prestes a 1) fazer uma cópia de segurânça da sua base de dados, que inclui todos os contactos e informações relacionadas com todos registos de chamadas para o armazenamento interno, e 2) enviar um email. Lembre-se de eliminar a cópia de segurânça que fez do dispositivo ou o email recebido.</string>
+    <string name="debug_dump_database_message">Está prestes a 1) fazer uma cópia de segurança da sua base de dados, que inclui todos os contactos e informações relacionadas com todos registos de chamadas para o armazenamento interno, e 2) enviar um email. Lembre-se de eliminar a cópia de segurança que fez do dispositivo ou o email recebido.</string>
     <string name="debug_dump_delete_button">Eliminar agora</string>
     <string name="debug_dump_start_button">Iniciar</string>
     <string name="debug_dump_email_sender_picker">Escolher aplicação para enviar ficheiros</string>

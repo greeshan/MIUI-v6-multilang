@@ -84,10 +84,6 @@
         <item quantity="other">%1$d személy hozzáadva</item>
         <item quantity="one">%1$d személy hozzáadva</item>
     </plurals>
-    <plurals name="export_sim_contact_finish_success">
-        <item quantity="other">%d névjegy átmásolva</item>
-        <item quantity="one">Egy névjegy átmásolva</item>
-    </plurals>
     <plurals name="btn_delete_multi_contacts">
         <item quantity="other">%d névjegy törlése</item>
         <item quantity="one">Névjegy törlése</item>
@@ -109,8 +105,20 @@
         <item quantity="zero">Nincs kiválasztva</item>
         <item quantity="one">%1$d kiválasztva</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Hozzáadja ezt a(z) %1$d telefonszámot?</item>
+        <item quantity="one">Hozzáadja ezt a telefonszámot?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Eltávolítja ezt a(z) %1$d telefonszámot a tiltólistáról?</item>
+        <item quantity="one">Eltávolítja ezt a telefonszámot a tiltólistáról?</item>
+    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d csengetés</item>
         <item quantity="one">1 csengetés</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">%d névjegy átmásolva</item>
+        <item quantity="one">Egy névjegy átmásolva</item>
     </plurals>
 </resources>

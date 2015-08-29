@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="report_options">
+        <item>Sporoči hrošča</item>
+        <item>Pošlji povratno inf.</item>
+    </string-array>
+</resources>

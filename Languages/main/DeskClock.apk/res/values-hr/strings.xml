@@ -13,7 +13,7 @@
     <string name="delete_timer_item_title">Izbrisati odabrani zadatak</string>
     <string name="delete_selected_timer_item">Izbrisati odabrane zadatke Kronometra?</string>
     <string name="delete_timezone_title">Izbrisati vremensku zonu</string>
-    <string name="delelte_selected_timezone">Izbrisati odabrane vremenske zone?</string>
+    <string name="delelte_selected_timezone">Izbrisati odabranu vremensku zonu?</string>
     <string name="timezone_exist_error_message">Već prikazujete tu vremensku zonu</string>
     <string name="alarm_disabled">Isključeno</string>
     <string name="alarm_ascending_mode_title">Pojačavanje glasnoće</string>

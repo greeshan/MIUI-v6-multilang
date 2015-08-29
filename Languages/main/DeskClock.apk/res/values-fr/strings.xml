@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="common_settings">Paramètres</string>
-    <string name="alarm_settings">"Paramètres d'alarmes"</string>
+    <string name="alarm_settings">Alarmes</string>
     <string name="edit_systemtime">"Modifier l'heure système"</string>
     <string name="vibrate_pref_summary">"Vibrer pendant l'alarme"</string>
     <string name="label_pref_summary">"Nom de l'alarme"</string>
@@ -40,7 +40,7 @@
     <string name="timer_item_picker_hour">h</string>
     <string name="timer_item_picker_minute">min</string>
     <string name="timer_item_picker_second">sec</string>
-    <string name="timer_item_duration_display">%1$d min %2$d sec</string>
+    <string name="timer_item_duration_display">%1$d min %2$d s</string>
     <string name="timer_new_item">Ajouter une minuterie</string>
     <string name="timer_item_label_hint">Nom de la minuterie</string>
     <string name="shutdown_alarm_title">"Extinction d'alarme"</string>
@@ -113,12 +113,12 @@
     <string name="loading_ringtone">Chargement de la sonnerie…</string>
     <string name="control_set_alarm">"Régler l'alarme"</string>
     <string name="control_set_alarm_with_existing">Alarme définie : %s</string>
+    <string name="menu_edit_systemtime">"Changer l'heure du système"</string>
+    <string name="snooze_message">Répéter dans %d min</string>
+    <string name="timer_message">%1$d minutes et %2$d secondes</string>
+    <string name="timer_message_with_hour">%1$d heures et %2$d minutes</string>
+    <string name="timer_message_with_seconds">%1$d secondes</string>
     <string name="timer_message_00">%1$d minute et %2$d seconde</string>
     <string name="timer_message_01">%1$d minute et %2$d secondes</string>
     <string name="timer_message_10">%1$d minutes et %2$d secondes</string>
-    <string name="timer_message">%1$d minutes et %2$d secondes</string>
-    <string name="menu_edit_systemtime">"Changer l'heure du système"</string>
-    <string name="snooze_message">Répéter dans %d min</string>
-    <string name="timer_message_with_hour">%1$d heures et %2$d minutes</string>
-    <string name="timer_message_with_seconds">%1$d secondes</string>
 </resources>

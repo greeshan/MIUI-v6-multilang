@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wetter</string>
+    <string name="updating">Aktualisierung</string>
+    <string name="failed_to_locate">Ortsbestimmung fehlgeschlagen</string>
+    <string name="no_weather">Derzeit gibt es für %s keine Wetterdaten.</string>
+    <string name="add_setting">Zum Hinzufügen von Städten hier tippen</string>
+    <string name="net_error">Netzwerk nicht verfügbar. Bitte überprüfen.</string>
+</resources>

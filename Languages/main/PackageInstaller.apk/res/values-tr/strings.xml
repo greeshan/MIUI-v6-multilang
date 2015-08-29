@@ -40,6 +40,8 @@
     <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
     <string name="virus_scan_clear">Sil</string>
     <string name="virus_scan_caller_unknown">Bilinmeyen</string>
+    <string name="lift_ban_once">İzin ver</string>
+    <string name="dlg_appstore_notice">Uygulamayı resmi marketten indirin</string>
     <string name="app_name">Paket Yükleyici</string>
     <string name="install">Yükle</string>
     <string name="done">Bitti</string>
@@ -60,7 +62,7 @@
     <string name="install_failed_msg">%1$s yükleme işlemi başarısız !</string>
     <string name="launch">Aç</string>
     <string name="unknown_apps_dlg_title">Yükleme durduruldu!</string>
-    <string name="unknown_apps_dlg_text">Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar->Güvenlik->Bilinmeyen kaynaklar.</string>
+    <string name="unknown_apps_dlg_text">Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar->Güvenlik->Bilinmeyen kaynaklara göz atın...</string>
     <string name="ok">Tamam</string>
     <string name="settings">Ayarlar</string>
     <string name="allow_source_dlg_title">Uygulamalar için yeni kaynaklara izin vermek istiyor musunuz?</string>
@@ -82,7 +84,7 @@
     <string name="app_not_found_dlg_text">Yüklü uygulamalar listesinde bulunamadı!</string>
     <string name="uninstall_application_title">Uygulamayı kaldır</string>
     <string name="uninstall_update_title">Güncellemeyi kaldır</string>
-    <string name="uninstall_activity_text">%1$s Aşağıdaki uygulamanın bir parçasıdır:</string>
+    <string name="uninstall_activity_text">%1$s, aşağıdaki uygulamanın bir parçasıdır:</string>
     <string name="uninstall_application_text">Uygulama kaldırılacak!</string>
     <string name="uninstall_update_text">Uygulama fabrika versiyonu ile değiştirildi.</string>
     <string name="uninstalling">Kaldırılıyor...</string>
@@ -93,6 +95,15 @@
     <string name="uninstall_failed_msg">%1$s kaldırılamadı!</string>
     <string name="Parse_error_dlg_title">Ayrıştırma hatası!</string>
     <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
+    <string name="activity_package_delete_confirm_title">Önemli Uyarı !</string>
+    <string name="button_text_cancel">İptal</string>
+    <string name="button_text_delete">SİL</string>
+    <string name="button_text_next_step_timer">İleri (%d)</string>
+    <string name="button_text_next_step">İleri</string>
+    <string name="button_text_delete_timer">SİL (%d)</string>
+    <string name="package_delete_confirm_step_1">%s silinsin mi?</string>
+    <string name="package_delete_confirm_step_2">Bu uygulamayı silmeniz sistemin kararlı yapısını bozabilir!</string>
+    <string name="package_delete_confirm_step_3">Bu uygulamayı tekrar kullanmanız mümkün olmayacaktır!</string>
     <string name="ad_block_button_title">Reklam engelleme</string>
     <string name="ad_relative">Reklam</string>
     <string name="adware_count">%d eklenti içeriyor</string>

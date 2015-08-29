@@ -25,36 +25,36 @@
         <item quantity="one">%d चयनित</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को संग्रहीत किया गया.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को संग्रहीत किया गया.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> को संग्रहीत किया गया.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> को संग्रहीत किया गया.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> हटाया गया.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> हटाया गया.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> हटाया गया.</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> हटाया गया.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">परिवर्तित फ़ोल्डर.</item>
         <item quantity="one">परिवर्तित फ़ोल्डर.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> मौन किया गया</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> मौन किया गया.</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> मौन किया गया</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> मौन किया गया.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> संदेशों को 'महत्वपूर्ण' फ़ोल्डर से निकाला गया"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को 'महत्वपूर्ण' फ़ोल्डर से निकाला गया"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> संदेशों को 'महत्वपूर्ण' फ़ोल्डर से निकाला गया"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> को 'महत्वपूर्ण' फ़ोल्डर से निकाला गया"</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को 'स्पैम' फ़ोल्डर से निकाला गया"</item>
-        <item quantity="one">"&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को 'स्पैम' फ़ोल्डर से निकाला गया"</item>
+        <item quantity="other">"&lt;b> %1$d &lt;/b> को 'स्पैम' फ़ोल्डर से निकाला गया"</item>
+        <item quantity="one">"&lt;b> %1$d &lt;/b> को 'स्पैम' फ़ोल्डर से निकाला गया"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> संदेशों को स्पैम के रूप में रिपोर्ट किया गया</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> संदेश को स्पैम के रूप में रिपोर्ट किया गया</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> संदेशों को स्पैम के रूप में रिपोर्ट किया गया</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> संदेश को स्पैम के रूप में रिपोर्ट किया गया</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को स्पैम के रूप में चिह्नित किया गया</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> को स्पैम के रूप में चिह्नित किया गया</item>
+        <item quantity="other">&lt;b> %1$d &lt;/b> को स्पैम के रूप में चिह्नित किया गया</item>
+        <item quantity="one">&lt;b> %1$d &lt;/b> को स्पैम के रूप में चिह्नित किया गया</item>
     </plurals>
     <plurals name="conversation_unstarred">
         <item quantity="other">%1$d बातचीत अतारांकित किए गए</item>

@@ -39,6 +39,7 @@
     <string name="no_file">Няма файлове</string>
     <string name="tab_category">Преглед</string>
     <string name="tab_path">Път</string>
+    <string name="tab_storage">ХРАНИЛИЩЕ</string>
     <string name="category_all">Всички</string>
     <string name="category_music">Музика</string>
     <string name="category_video">Видео</string>
@@ -50,7 +51,7 @@
     <string name="category_other">Други</string>
     <string name="category_favorite">Любими</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Регистри</string>
+    <string name="category_recent">Скорошни</string>
     <string name="operation_rename_message">Въведи новото име</string>
     <string name="operation_create_folder_message">Въведете името на папката</string>
     <string name="operation_delete_confirm_message">Ще потвърдите ли изтриване?</string>
@@ -167,6 +168,7 @@
     <string name="operation_decompressing">Разархивиране...</string>
     <string name="decompress_success">Разархивирането завърши</string>
     <string name="decompress_fail">Грешка при разархивиране!</string>
+    <string name="decompress_destination_error">Извличането е неуспешно: не може да извличате файлове тук.</string>
     <string name="decompress_to_here">Разархивирай в текущата папка</string>
     <string name="decompress_to">Разархивирай в:</string>
     <string name="decompress_confirm">Ще разархивирате ли?</string>
@@ -249,7 +251,6 @@
     <string name="operation_moving_detail">Преместване на файлове (%1$d/%2$d)</string>
     <string name="operation_copying">Копиране...</string>
     <string name="operation_copying_detail">Копиране на файлове (%1$d/%2$d)</string>
-    <string name="name_illegal">Файлът трябва да има име</string>
     <string name="open_changed_file_title">Файлът е променен</string>
     <string name="open_changed_file_message">"Файлът, който се опитвате да отворите е променен. Изберете:
 1. Изтегли (актуализира локалния файл)
@@ -311,6 +312,7 @@
     <string name="open_file_failed">неуспешно отваряне</string>
     <string name="action_mode_deselect_all">Размаркирай всички</string>
     <string name="action_mode_select_all">Избери всички</string>
+    <string name="can_not_send_with_too_many">Не може да изпращате толкова много елементи</string>
     <string name="file_already_downlaoded">Файлът е съхранен в \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Копиране на файла в KuaiPan</string>
     <string name="downloading_in_3g">Изтегля се чрез 3G…</string>
@@ -325,6 +327,7 @@
     <string name="kp_category_txt">Текст</string>
     <string name="no_display_file">Не може да се покаже %1$s</string>
     <string name="delete_selected_tasks">Да се изтрият ли избраните?</string>
+    <string name="kuaipan_delete_guide_des">Да се изтрие ли ръководството?</string>
     <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
     <string name="kuaipan_data_formater_without_year">d.M.</string>
     <string name="kuaipan_photo_locate">Засечени %1$s</string>
@@ -339,6 +342,22 @@
     <string name="operation_agree">Приемам</string>
     <string name="never_notify_network_connect">Не показвай отново</string>
     <string name="connect_network_setting_des">Напомняне когато се използва интернет</string>
+    <string name="tab_source">ПРИЛ.</string>
+    <string name="tab_more">още</string>
+    <string name="title_recent">Скорошни</string>
+    <string name="title_more_source">Още прил.</string>
+    <string name="expand_all">Всички</string>
+    <string name="group_title">%2$s от %1$s</string>
+    <string name="sdcard">SD карта</string>
+    <string name="category_file">Файлове</string>
+    <string name="sdcard_total">Общо %1$s</string>
+    <string name="sdcard_available">На разположение %1$s</string>
+    <string name="archive_send_to">Изпрати до…</string>
+    <string name="wechat_video">Видео от %s</string>
+    <string name="month_day_format">dd MMM</string>
+    <string name="year_month_day_format">dd MMM, yyyy</string>
+    <string name="name_illegal">Файлът трябва да има име</string>
+    <string name="category_log">Регистри</string>
     <string name="category_mirouter">MiRouter</string>
     <string name="colon">": "</string>
     <string name="image_download">Изтегляне</string>

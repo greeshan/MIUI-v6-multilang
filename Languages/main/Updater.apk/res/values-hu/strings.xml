@@ -27,7 +27,7 @@
     <string name="button_text_reboot">Újraindítás</string>
     <string name="button_text_reboot_hm">Újraindítás most</string>
     <string name="button_text_later_reboot">Később</string>
-    <string name="download_title_first">Részletek</string>
+    <string name="download_title_first">Adatok lékérése</string>
     <string name="download_title_full_download">Teljes ROM letöltése</string>
     <string name="download_title">Letöltés: %s</string>
     <string name="apply_title">Frissítés: %s</string>
@@ -45,6 +45,8 @@
     <string name="cancel_download_buton_text">Mégsem</string>
     <string name="boot_recovery">Újraindítás Recovery módban</string>
     <string name="cancel_download">Megszakítja a letöltést?</string>
+    <string name="update_success_reboot_immediately">A rendszer frissítve</string>
+    <string name="download_success_reboot_immediately">A frissítéshez újraindítás szükséges</string>
     <string name="update_success">Frissítés befejeződött</string>
     <string name="install_failed">A frissítés nem sikerült</string>
     <string name="download_current_rom">A legfrissebb ROM letöltése és telepítése</string>
@@ -56,6 +58,7 @@
     <string name="notification_reboot_summary_hm">Kattintson a készülék újraindításához.</string>
     <string name="notification_reboot_btn">Újraindítás</string>
     <string name="notification_reboot_seccess_title">A frissítés befejeződött!</string>
+    <string name="notification_auto_reboot_seccess_title">A rendszer automatikusan frissítés</string>
     <string name="notification_reboot_seccess_des">Kattintson a frissítési adatok megosztásához.</string>
     <string name="notification_share">Megosztás</string>
     <string name="notification_downloading">Letöltés...</string>
@@ -97,7 +100,7 @@
     <string name="auto_dialog_msg_check_again">El kell fogadnia a frissített Adatvédelmi irányelveket mielőtt frissíti a rendszert.</string>
     <string name="auto_button_examine_immediately">Megtekintés</string>
     <string name="auto_button_sure_cancel">Mégsem</string>
-    <string name="auto_update_sum">Válassza ki automatikusan a frisítés letöltéséhez a legjobb időt</string>
+    <string name="auto_update_sum">Wi-Fi csatlakozáskor a frissítés automatikus letöltése</string>
     <string name="updater_nonetwork">Csatlakozás az internetre a változáslista megtekintéséhez</string>
     <string name="updater_nonetwork_clause">Csatlakozzon az internethez a frissített Adatvédelmi irányelvek megtekintéséhez</string>
     <string name="updater_nolog">A változások listája nem elérhető</string>
@@ -190,6 +193,7 @@ De jövőhét kedden rész vehet."</string>
     <string name="submit_success">Elküldve</string>
     <string name="submit_fail">A küldés sikertelen</string>
     <string name="submit">Elküld</string>
+    <string name="updater_wait_for_unzip">Frissítés kicsomagolása…</string>
     <string name="menu_title_check_update">Ellenőrzés csak Wi-Fi kapcsolat esetén</string>
     <string name="install_file_explorer">Kérem telepítsen fájlkezelőt</string>
     <string name="file_not_found_error_message">Frissítés nem található</string>

@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="select_all">Tümünü seç</string>
-    <string name="deselect_all">Hiçbirini seçme</string>
-    <string name="deleting">Siliniyor...</string>
     <string name="launcherDialer">Telefon</string>
-    <string name="people">Rehber</string>
-    <string name="contactsList">Rehber</string>
-    <string name="shortcutContact">Rehber</string>
+    <string name="people">Kişiler</string>
+    <string name="contactsList">Kişiler</string>
+    <string name="shortcutContact">Kişiler</string>
     <string name="shortcutDialContact">Direk arama</string>
     <string name="shortcutMessageContact">Direk mesaj</string>
     <string name="shortcutActivityTitle">Bir kişi kısayolu seçin</string>
@@ -17,7 +14,7 @@
     <string name="frequentList">En çok arananlar</string>
     <string name="strequentList">Favoriler</string>
     <string name="viewContactTitle">Kişi Ayrıntıları</string>
-    <string name="viewContactDesription">Kişiyi Gör</string>
+    <string name="viewContactDesription">Kişiye gözat</string>
     <string name="editContactDescription">Kişiyi Düzenle</string>
     <string name="insertContactDescription">Yeni kişi oluştur</string>
     <string name="editGroupDescription">Grubu düzenle</string>
@@ -27,7 +24,7 @@
     <string name="searchHint">Kişileri Ara</string>
     <string name="menu_search">Ara</string>
     <string name="menu_newContact">Yeni Kişi</string>
-    <string name="menu_viewContact">Kişiyi Gör</string>
+    <string name="menu_viewContact">Kişiye gözat</string>
     <string name="menu_callNumber">%s ara</string>
     <string name="menu_addStar">Favorilere ekle</string>
     <string name="menu_removeStar">Favorilerden kaldır</string>
@@ -59,16 +56,16 @@
     <string name="readOnlyContactWarning">Salt okunur hesaplardaki kişileri silemezsiniz fakat kişi listenizde gizleyebilirsiniz.</string>
     <string name="readOnlyContactDeleteConfirmation">Bu kişi kaydı birden fazla hesaba ait bilgiler içermektedir. Salt okunur hesaplar kişi listenizde gizlenecek fakat silinmeyecektir.</string>
     <string name="multipleContactDeleteConfirmation">Bu kişiyi silmeniz birden fazla hesaptaki bilgileride silinecektir !</string>
-    <string name="deleteConfirmation">Bu kişi silinecektir.</string>
+    <string name="deleteConfirmation">Bu kişi silinecek!</string>
     <string name="menu_done">Tamam</string>
     <string name="menu_doNotSave">İptal</string>
     <string name="menu_discard">Vazgeç</string>
     <string name="label_notes">Notlar</string>
     <string name="label_sip_address">İnternet araması</string>
     <string name="ghostData_company">Şirket</string>
-    <string name="ghostData_title">Unvan</string>
+    <string name="ghostData_title">Ünvan</string>
     <string name="invalidContactMessage">Kişi mevcut değil</string>
-    <string name="createContactShortcutSuccessful">"Kişi widget'i ana ekrana eklendi"</string>
+    <string name="createContactShortcutSuccessful">Kişi widgeti ana ekrana eklendi</string>
     <string name="pickerNewContactHeader">Yeni kişi oluştur</string>
     <string name="pickerNewContactText">Yeni kişi oluştur</string>
     <string name="phoneLabelsGroup">Telefon</string>
@@ -94,15 +91,15 @@
     <string name="groupSavedToast">Grup kaydedildi</string>
     <string name="groupSavedErrorToast">Grup değişiklikleri kaydedilemiyor</string>
     <string name="listTotalAllContactsZero">Kişi yok</string>
-    <string name="listTotalAllContactsZeroCustom">Görünebilir kişi yok.</string>
+    <string name="listTotalAllContactsZeroCustom">Görünebilir kişi yok</string>
     <string name="listTotalAllContactsZeroStarred">Favori yok</string>
     <string name="listTotalAllContactsZeroGroup">%s içinde kişi yok</string>
     <string name="listSingleContact">Tek kişi</string>
     <string name="listCustomView">Özel görünümdeki kişiler</string>
-    <string name="contactsAllLabel">Rehber</string>
+    <string name="contactsAllLabel">Kişiler</string>
     <string name="contactsGroupsLabel">Gruplar</string>
     <string name="contactsFavoritesLabel">Favoriler</string>
-    <string name="dialerIconLabel">En Son</string>
+    <string name="dialerIconLabel">Geçmiş</string>
     <string name="recentCallsIconLabel">Çağrı kaydı</string>
     <string name="menu_sendTextMessage">Metin mesajı gönder</string>
     <string name="recentCalls_callNumber">%s kişisini ara</string>
@@ -117,7 +114,7 @@
     <string name="clearCallLogConfirmation">Tüm çağrı geçmişiniz silinecek.</string>
     <string name="clearCallLogProgress_title">Çağrı geçmişi temizleniyor...</string>
     <string name="clearFrequentsConfirmation_title">Sık görüşülenleri temizle?</string>
-    <string name="clearFrequentsConfirmation">Telefondaki ve rehberdeki sık kullanılanları temizle, ve e-posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
+    <string name="clearFrequentsConfirmation">Telefondaki ve kişilerdeki sık kullanılanları temizle, ve e-posta uygulamasının adresleme tercihlerini sıfırlamasını sağla.</string>
     <string name="clearFrequentsProgress_title">Sık görüşülenler temizleniyor...</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
@@ -182,14 +179,14 @@
     <string name="fail_reason_low_memory_during_import">Yeteri kadar hafıza yok. Dosya boyutu çok büyük olabilir.</string>
     <string name="fail_reason_vcard_parse_error">Beklenmedik bir nedenle vCard dosyaları ayrıştırılamadı.</string>
     <string name="fail_reason_not_supported">Desteklenmeyen dosya biçimi.</string>
-    <string name="vcard_import_failed">vCard içe aktarılamıyor.</string>
-    <string name="import_failure_no_vcard_file">Hafızada vCard dosyası bulunamadı.</string>
+    <string name="vcard_import_failed">vCard içe aktarılamıyor</string>
+    <string name="import_failure_no_vcard_file">Hafızada vCard dosyası bulunamadı</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">vCard dosyalarından meta bilgileri toplanamıyor.</string>
     <string name="fail_reason_failed_to_read_files">Bir veya daha fazla dosya içe aktarılamıyor (%s).</string>
     <string name="fail_reason_unknown">Bilinmeyen hata.</string>
     <string name="select_vcard_title">vCard dosyası seçin</string>
     <string name="caching_vcard_title">Önbelleğe alınıyor</string>
-    <string name="caching_vcard_message">vCard dosyası telefon önbelleğine alınıyor....</string>
+    <string name="caching_vcard_message">vCard dosyası telefon önbelleğine alınıyor...</string>
     <string name="importing_vcard_description">İçe aktarılıyor %s</string>
     <string name="reading_vcard_failed_title">vCard bilgisi okunamadı</string>
     <string name="reading_vcard_canceled_title">vCard bilgisi okuma iptal edildi</string>
@@ -200,7 +197,7 @@
     <string name="vcard_import_request_rejected_message">vCard içe aktarım isteği reddedildi. Lütfen daha sonra tekrar deneyin.</string>
     <string name="vcard_export_will_start_message">%s kısa süre içinde dışa aktarılacaktır.</string>
     <string name="vcard_export_request_rejected_message">vCard dışa aktarma isteği reddedildi. Lütfen daha sonra deneyin.</string>
-    <string name="vcard_unknown_filename">Rehber</string>
+    <string name="vcard_unknown_filename">Kişiler</string>
     <string name="percentage">%s%%</string>
     <string name="confirm_export_title">Kişiler dışa aktarılsın mı?</string>
     <string name="confirm_export_message">Kişi listeniz şu dosyaya aktarılacak: %s</string>
@@ -307,10 +304,10 @@
     <string name="email_other">E-Posta</string>
     <string name="email_custom">E-Posta %s</string>
     <string name="email">E-Posta</string>
-    <string name="map_home">Ev adresini gör</string>
-    <string name="map_work">İş adresini gör</string>
-    <string name="map_other">Adresleri gör</string>
-    <string name="map_custom">%s adresini gör</string>
+    <string name="map_home">Ev adresini gözat</string>
+    <string name="map_work">İş adresini gözat</string>
+    <string name="map_other">Adresleri gözat</string>
+    <string name="map_custom">%s adresini gözat</string>
     <string name="chat_aim">AIM kullanarak sohbet et</string>
     <string name="chat_msn">Windows Live kullanarak sohbet et</string>
     <string name="chat_yahoo">Yahoo kullanarak sohbet et</string>
@@ -359,9 +356,9 @@
     <string name="take_photo">Fotoğraf çek</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
     <string name="pick_photo">Galeriden resim seç</string>
-    <string name="pick_new_photo">"Galeri'den yeni bir resim seç"</string>
+    <string name="pick_new_photo">Galeriden yeni bir resim seç</string>
     <string name="locale_change_in_progress">Kişi listesi, dil değişikliğini yansıtacak şekilde güncellenmektedir.</string>
-    <string name="upgrade_in_progress">Kişi listesi güncellenmektedir.</string>
+    <string name="upgrade_in_progress">Kişi listesi güncellemesi devam ediyor</string>
     <string name="upgrade_out_of_memory">"Kişi listesi yükseltilme işlemi sürecindedir.
  
  Yükseltme işlemi süreci telefon hafızasında  yaklaşık olarak %s MB alana ihtiyaç duyar.
@@ -391,17 +388,17 @@
     <string name="menu_copyContact">Kişilerime kopyala</string>
     <string name="add_to_my_contacts">Kişilerime Ekle</string>
     <string name="contact_directory_description">Dizin %1$s</string>
-    <string name="directory_search_label">Rehber</string>
+    <string name="directory_search_label">Kişiler</string>
     <string name="local_search_label">Tüm kişiler</string>
     <string name="toast_making_personal_copy">Kişisel bir kopya oluşturuluyor...</string>
     <string name="list_filter_all_accounts">Tüm kişiler</string>
     <string name="list_filter_all_starred">Yıldızlı</string>
     <string name="list_filter_custom">Özel</string>
-    <string name="list_filter_customize">Kişiselleştir</string>
+    <string name="list_filter_customize">Özelleştir</string>
     <string name="list_filter_phones">Telefon numarası olan tüm kişiler</string>
-    <string name="list_filter_single">Rehber</string>
+    <string name="list_filter_single">Kişiler</string>
     <string name="custom_list_filter">Özel görünüm tanımlayın</string>
-    <string name="contact_list_loading">Yükleniyor......</string>
+    <string name="contact_list_loading">Yükleniyor...</string>
     <string name="activity_title_settings">Ayarlar</string>
     <string name="activity_title_contacts_filter">Görüntülenecek kişiler</string>
     <string name="menu_settings">Ayarlar</string>
@@ -415,7 +412,7 @@
     <string name="non_phone_close">Kapat</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">Yılı gir</string>
-    <string name="social_widget_label">Rehber</string>
+    <string name="social_widget_label">Kişiler</string>
     <string name="social_widget_loading">Yükleniyor...</string>
     <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
     <string name="contacts_unavailable_add_account">Hesabınız ile oturum açın</string>
@@ -481,12 +478,12 @@
   
 • Herhangi bir tarayıcıdan erişilir.
 • Güvenli bir şekilde verileri yedekleyebilir.."</string>
-    <string name="generic_no_account_prompt">Telefonunuzu kaybetseniz bile kişilerinizi güvende tutmak için: Online bir servis ile senkronize edin.</string>
+    <string name="generic_no_account_prompt">Telefonunuzu kaybetseniz bile kişilerinizi güvende tutmak için online bir servis ile senkronize edin.</string>
     <string name="generic_no_account_prompt_title">Hesap Ekle</string>
     <string name="contact_editor_prompt_zero_accounts">Kişileri telefona yada çevrimiçi olarak yedekleyen bir hesap eklensin mi</string>
     <string name="contact_editor_prompt_one_account">Yeni kişi %1$s ile senk edilecek</string>
     <string name="contact_editor_prompt_multiple_accounts">Kaydedilecek olan hesabı seçin</string>
-    <string name="keep_local">Yerel olarak sakla</string>
+    <string name="keep_local">Senkronize etme</string>
     <string name="add_account">Hesap ekle</string>
     <string name="add_new_account">Yeni hesap ekle</string>
     <string name="dialog_phone_call_prohibited_message">Çağrı gönderilemedi</string>
@@ -496,7 +493,7 @@
     <string name="yellowpage_search_the_yellowpage">Dizinde ara</string>
     <string name="import_from_sim">SIM karttan içe aktar</string>
     <string name="export_to_sim_title">SIM karta aktarılıyor...</string>
-    <string name="import_from_sim2">"SIM kart 2'den içe aktar"</string>
+    <string name="import_from_sim2">"SIM kart2'den içe aktar"</string>
     <string name="sim_no_contact">SIM kartta kişi yok</string>
     <string name="sim_indexed_contact_not_exist">SIM karttaki %1$d pozisyonu hatalı, %2$d ve %3$d arasında olmalı</string>
     <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
@@ -515,7 +512,7 @@
     <string name="sim_contact_existing">Sim kişisi zaten mevcut.</string>
     <string name="sim_contact_invalid">Geçersiz SIM Kişisi</string>
     <string name="pref_key_sim_manage">SIM Kart Yönetimi</string>
-    <string name="pref_key_sim_manage2">SIM Kart 2 Yönetimi</string>
+    <string name="pref_key_sim_manage2">SIM Kart2 Yönetimi</string>
     <string name="simContacts_airplaneMode">SIM kişilerini aktarmak için lütfen uçak modunu kapatın</string>
     <string name="readingSimContacts">SIM kart bilgisi okunuyor...</string>
     <string name="importing_sim_contacts_miui">SIM kişileri içe aktarılıyor...</string>
@@ -525,7 +522,7 @@
     <string name="simContacts_empty">SIM kartta kişi yok</string>
     <string name="sim_account_name">SIM</string>
     <string name="summary_kind_title">Sonuç</string>
-    <string name="callrecordview_item_newcontact">Yeni Kişi</string>
+    <string name="callrecordview_item_newcontact">| Yeni Kişi</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d dk %2$d sn</string>
     <string name="callrecordview_item_op_time_only_minutes">%d dk</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sn</string>
@@ -562,11 +559,13 @@
     <string name="callrecordview_menu_show">Arama geçmişi filtresi</string>
     <string name="callrecordview_menu_paste">Yapıştır</string>
     <string name="openDialKeyboard">Tuş takımı</string>
-    <string name="t9_search_guide_pinyin">"Madencan'ı aramak için 3 ve 9'a bas"</string>
-    <string name="t9_search_guide_zhuyin">"Madencan'ı aramak için 3 ve 9'a bas"</string>
+    <string name="t9_search_guide_pinyin">"Madencan'ı aramak için 3 ve 9'a basın"</string>
+    <string name="t9_search_guide_zhuyin">"Madencan'ı aramak için 3 ve 9'a basın"</string>
     <string name="date_time_set">Seç</string>
     <string name="service_provider">Sarı sayfa</string>
     <string name="zero_items_selected">Öğeleri seç</string>
+    <string name="select_all">Tümünü seç</string>
+    <string name="deselect_all">Hiçbirini seçme</string>
     <string name="select_none">Hiçbir öğe seçilmedi</string>
     <string name="toast_finish_delete_call_log">Arama geçmişi silindi</string>
     <string name="toast_finish_delete_selected_call_log">Arama geçmişi silindi</string>
@@ -590,7 +589,8 @@
     <string name="unknown_contact_name">Bilinmeyen kişi</string>
     <string name="contactDetailCalllog">Arama geçmişi</string>
     <string name="add_blacklist">Kara Listeye ekle</string>
-    <string name="remove_blacklist">Engeli kaldır</string>
+    <string name="remove_blacklist">Kara listeden kaldır</string>
+    <string name="blacklist">Kara liste</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Mi hesabına yedeklenmiş bilgiyi geri yükle</string>
     <string name="recent_contacts_label">En Son</string>
     <string name="loading_groups">Gruplar yükleniyor...</string>
@@ -601,27 +601,28 @@
     <string name="picker_contact_title">Lütfen bir kişi seçin</string>
     <string name="picker_number_title">Bir numara seçin</string>
     <string name="group_add_fail_toast">Kişi eklenemedi</string>
+    <string name="group_sms_error_message">Grup SMS hatası: En fazla %s alıcı eklenebilir!</string>
     <string name="picker_postal_title">Bir posta kodu seçin</string>
-    <string name="picker_email_title">Bir email seçin</string>
+    <string name="picker_email_title">Bir e-posta seçin</string>
     <string name="preference_import">İçe aktar</string>
     <string name="preference_export">Dışa aktar</string>
     <string name="preference_others">Diğerleri</string>
     <string name="wipe_data">Verileri temizle</string>
     <string name="display_only_phones">Eksik numaraları gizle</string>
-    <string name="preference_remove_duplicate">Aynı kişi kayıtlarını birleştir</string>
+    <string name="preference_remove_duplicate">Aynı kişileri birleştir</string>
     <string name="scan_merge">Muhtemel çift girişler aranıyor, lütfen bekleyin...</string>
     <string name="scan_duplicate_message">%1$d kişi aynı bilgiyi içeriyor.</string>
     <string name="merge_contact_message">%1$d kişi kısmen yinelenen veri içeriyor</string>
-    <string name="delete_duplicate">Toplu birleştir</string>
+    <string name="delete_duplicate">Birleştir</string>
     <string name="delete_duplicate_message">Birleştiriliyor ...</string>
-    <string name="label_no_duplicate_contacts">Hiçbir çift kişi yok</string>
+    <string name="label_no_duplicate_contacts">Güzel, çift kişi yok</string>
     <string name="quit_dialog_confirm_title">Kişileri birleştirmeden çıkmak istediğinize emin misiniz?</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="preference_import_export">İçe / Dışa aktar</string>
     <string name="preference_import_export_title">Kişileri İçe / Dışa Aktar</string>
     <string name="import_vcard_description">Kişileri dahili hafızadan aktar</string>
     <string name="export_vcard_description">Dahili hafızaya vCard olarak aktar</string>
-    <string name="export_sim_contact_finish_failure">Aktarılan: %1$d Kalan: %2$d</string>
+    <string name="export_sim_contact_finish_msg">%1$d aktarıldı | %2$d atlandı | %3$d kaldı</string>
     <string name="pref_title_account_import">Hesaptan aktar</string>
     <string name="pref_title_import_from_account">Xiaomi hesabıma aktar</string>
     <string name="pref_summary_import_from_account">Google ve Exchange hesabından Mi hesabıma aktar</string>
@@ -636,18 +637,18 @@
     <string name="pref_key_rebuild_t9_index_message">Yeniden indeks oluşturmak, kişi arama hatalarını düzeltilebilir</string>
     <string name="pref_key_photo">Foto</string>
     <string name="pref_key_photo_word_title">Kişi fotolarını otomatik seç</string>
-    <string name="pref_key_photo_word_summary">Rehber kişilerinin fotoğraflarını otomatik seçer</string>
+    <string name="pref_key_photo_word_summary">Listedeki kişilerin fotoğraflarını otomatik seçer</string>
     <string name="remove_duplicate">"MIUI aynı kişileri bulup birleştirmenize yardım edecek.
 
   Başlamak için alttaki simgeye dokunun."</string>
     <string name="ic_menu_back">Geri</string>
     <string name="preference_display">Görünüm</string>
     <string name="preference_simple_mode_title">Basit görünüm</string>
-    <string name="preference_simple_mode_description">Fotoğraf ve diğer rehber bilgilerini gizle</string>
-    <string name="preference_contacts">Rehber</string>
-    <string name="preference_contacts_display">Rehber görünümü</string>
-    <string name="preference_contacts_more">Rehber ayarları</string>
-    <string name="preference_contacts_filter">Görüntülenecek Rehber</string>
+    <string name="preference_simple_mode_description">Fotoğraf ve diğer kişi bilgilerini gizle</string>
+    <string name="preference_contacts">Kişiler</string>
+    <string name="preference_contacts_display">Kişiler listesi görünümü</string>
+    <string name="preference_contacts_more">Kişiler listesi ayarları</string>
+    <string name="preference_contacts_filter">Görüntülenecek Kişiler listesi</string>
     <string name="preference_telocation_title">Konum</string>
     <string name="preference_telocation_summary_teloc_on">Konumu göster</string>
     <string name="preference_telocation_summary_teloc_off">Konumu gizle</string>
@@ -666,6 +667,7 @@
     <string name="preference_dial_pad_touch_tone_human">Tuş takımı dokunma sesleri</string>
     <string name="ic_menu_done">Tamam</string>
     <string name="cloud_antispam_title">Bilinmeyen numaraları tespit et</string>
+    <string name="preference_contacts_recovery_introduction">Kişileri geri yükle</string>
     <string name="share_over_limit">Limit aşıldı, paylaşılaıyor!</string>
     <string name="account_default">Telefon</string>
     <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
@@ -680,7 +682,7 @@
     <string name="option_rename_group">Yeniden adlandır</string>
     <string name="option_delete_group">Sil</string>
     <string name="deleteConfirmation_title">Sil</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" birden fazla hesaptan gelen bilgi içermektedir. Salt okunabilir hesaplardan gelen bilgiler rehberinizde gösterilmeyecektir.</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" birden fazla hesaptan gelen bilgi içermektedir. Salt okunabilir hesaplardan gelen bilgiler kişilerinizde gösterilmeyecektir.</string>
     <string name="multipleContactDeleteConfirmationDetail">\"%s\" kişisi silindiğinde birden fazla hesaptaki bilgileride silinecektir !</string>
     <string name="deleteConfirmationDetail">\"%s\" silinsin mi?</string>
     <string name="nickname_picker_name_column">Kişi adı</string>
@@ -717,7 +719,7 @@
     <string name="menu_bar_group_delete">Sil</string>
     <string name="menu_bar_group_ringtone_largeui">Zil sesi</string>
     <string name="group_rename_dialog_title">Grubu yeniden adlandır</string>
-    <string name="group_sms_progress_msg">Grup SMS için hazırlanıyor...</string>
+    <string name="group_sms_progress_msg">Grup SMS hazırlanıyor...</string>
     <string name="group_create_success_toast">Grup oluşturuldu</string>
     <string name="group_rename_success_toast">Grup yeniden adlandırıldı</string>
     <string name="group_delete_success_toast">Grup silindi</string>
@@ -735,7 +737,7 @@
     <string name="picker_all_list_empty">Kişi yok</string>
     <string name="picker_favorites_list_empty">Favori yok</string>
     <string name="picker_groups_list_empty">Grup yok</string>
-    <string name="contact_edit_title_insert">%s Kişi oluştur</string>
+    <string name="contact_edit_title_insert">Kaydedilecek hesap: %s</string>
     <string name="contact_edit_title_edit">Kişiyi Düzenle</string>
     <string name="contact_edit_title_readonly">Sadece okunabilir kişi</string>
     <string name="account_container_title">Kişi aşağıdaki hesaptan aktarıldı</string>
@@ -743,12 +745,10 @@
     <string name="move_and_resize">Taşı ve boyutlandır</string>
     <string name="btn_rotation">Döndürme</string>
     <string name="contact_pick_photo">Foto</string>
-    <string name="select_photo_from_photo_package">Paketten bir fotoğraf seçin</string>
-    <string name="select_new_photo_from_photo_package">Dosyalara Göz At</string>
-    <string name="photo_package_activity_title">Dosyalara Göz At</string>
     <string name="btn_split_contact">Ayır</string>
     <string name="use_photo_as_primary2">" %1$s kişisinin fotografını kullan "</string>
     <string name="label_custom_type">Özel</string>
+    <string name="loading_accounts">SIM bilgisi yükleniyor...</string>
     <string name="pkgLabel">Kişiler ve çevirici</string>
     <string name="preference_smart_group_title">Akıllı gruplandırma</string>
     <string name="preference_smart_group_company_title">Şirkete göre</string>
@@ -786,7 +786,7 @@
     <string name="device_pairing_dialog_message">Eşleştiriliyor...</string>
     <string name="device_paired_dialog_title">Kişiler alınıyor...</string>
     <string name="device_paired_dialog_message">Kişiler alınıyor...</string>
-    <string name="no_contacts_dialog_title">Rehber bulunamadı</string>
+    <string name="no_contacts_dialog_title">Kişiler listesi bulunamadı</string>
     <string name="no_contacts_dialog_message">Kişiler SIM kart hafızasında olabilir. Lütfen telefon hafızasına aktarmak için SIM kart hafızasını kontrol edin.</string>
     <string name="cancel_import_dialog_title">Dur</string>
     <string name="cancel_import_dialog_message">Kişilerin içe aktarımı durdurulsun mu?</string>
@@ -831,7 +831,7 @@
     <string name="import_weibo_error_user_cancel">Kullanıcı iptal etti</string>
     <string name="import_weibo_error_unknown">Bilinmeyen hata</string>
     <string name="add_xiaomi_account_dialog_title">Hesap seç</string>
-    <string name="add_xiaomi_account_dialog_msg">"Kişilerinizi Mi Hesabı'nıza kaydedin ve rehberinize her yerden ulaşabilme imkanına sahip olun!"</string>
+    <string name="add_xiaomi_account_dialog_msg">Kişilerinizi Mi Hesabınıza kaydedin ve kişiler listenize her yerden ulaşabilme imkanına sahip olun!</string>
     <string name="add_xiaomi_account_dialog_btn">Mi Hesabı kullan</string>
     <string name="keep_local_btn">Telefon dahili hafızasını kullan</string>
     <string name="batch_delete">Kişileri toplu sil</string>
@@ -848,12 +848,14 @@
     <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
     <string name="import_sim_entry_miui">İçe aktar</string>
     <string name="delete_sim_entry_miui">Sil</string>
+    <string name="importing_sim_contacts_miui_prepare">İçe aktarma için hazırlanıyor…</string>
+    <string name="deleting_sim_entry_miui_prepare">Silmek için hazırlanıyor…</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Hiçbirini seçme</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
-    <string name="delete_selected_sim_entry_miui">Seçili kişileri sil</string>
+    <string name="delete_selected_sim_entry_miui">Seçilen SIM kişilerini sil</string>
     <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
-    <string name="dlg_add_blacklist">Bu numara Kara Listeye eklensin mi?</string>
-    <string name="dlg_remove_blacklist">Bu numara Kara Listeden kaldırılsın mı?</string>
+    <string name="add_blacklist_dialog_title">Bu numara Kara listeye eklensin mi?</string>
+    <string name="remove_blacklist_dialog_title">Bu umara Kara listeden kaldırılsın mı?</string>
     <string name="close_dial_pad">Tuş takımını kapat</string>
     <string name="dial">Çevir</string>
     <string name="delete_dial_input">Sil</string>
@@ -876,16 +878,16 @@
     <string name="yellowpage_navigation_no_content">Hiçbir şey bulunamadı</string>
     <string name="yellowpage_navigation_search_history">Geçmiş</string>
     <string name="yellowpage_navigation_clear_search_history">Geçmişi temizle</string>
-    <string name="yellowpage_navigation_search_offline_hint">Çevrim dışısınız</string>
+    <string name="yellowpage_navigation_search_offline_hint">Çevrimdışısınız</string>
     <string name="refresh">Yenile</string>
     <string name="yellowpage_navigation_search_city_name_hint">Şehir</string>
-    <string name="yellowpage_navigation_search_select_city">Bir şehir seç</string>
+    <string name="yellowpage_navigation_search_select_city">Bir şehir seçin</string>
     <string name="yellowpage_navigation_search_result_no_more">Daha fazla sonuç yok</string>
     <string name="yellowpage_navigation_search_result_network_error">Ağa bağlanamıyor</string>
     <string name="yellowpage_navigation_search_result_service_error">Servis kullanılamıyor</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Bilinmeyen hata</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
-    <string name="yellowpage_navigation_send_to_desktop_downloading">Simge indirliyor...</string>
+    <string name="yellowpage_navigation_send_to_desktop_downloading">Simge indiriliyor...</string>
     <string name="yellowpage_navigation_send_to_desktop_failed">Ağ konumu hizmeti etkin</string>
     <string name="yellowpage_user_profile">Profil</string>
     <string name="yellowpage_navigation_more_items">Daha</string>
@@ -906,19 +908,283 @@
     <string name="pull_to_refresh_release_label">Yenilemek için bırakın…</string>
     <string name="pull_to_refresh_refreshing_label">Yükleniyor…</string>
     <string name="phone_call_type_voip">VOIP</string>
-    <string name="batch_delete_msg">Seçilen %d kişi silinsin mi? Bu kişilerin Bulutta kayıtlı bilgileri de silinecektir.</string>
+    <string name="cloud_recommend_msg">Kişileri Mi Bulut ile senkronize etmek için dokunun</string>
+    <string name="unknow_phone_number_call_failed">Bilinmeyen numara aranamıyor</string>
+    <string name="unknow_phone_number_mms_failed">Bilinmeyen numaraya mesaj gönderilemiyor</string>
+    <string name="batch_delete_msg">Seçilen %d kişi silinsin mi? Bu kişilerin Mi Bulutta kayıtlı olan bilgileri de silinecektir!</string>
     <string name="btn_delete_multi_contacts">%d kişiyi sil</string>
     <string name="btn_delete_one_contact">Kişiyi sil</string>
     <string name="callNoAnswerTimeFormat">%s defa çaldı</string>
     <string name="confirm_delete_sim_entry_miui">%d kişi SIM karttan silinsin mi?</string>
-    <string name="export_sim_contact_finish_success">%d Kişi kopyalandı</string>
+    <string name="deleting">Siliniyor...</string>
+    <string name="export_sim_contact_finish_success">%d kişi kopyalandı</string>
     <string name="export_sim_contacts_dialog_message">SIM kartınızda %d kartvizit var</string>
+    <string name="loading">Yükleniyor…</string>
     <string name="none_found">Cihaz bulunamadı</string>
+    <string name="photo_package_activity_title">Dosyalara Göz At</string>
     <string name="scanning">Taranıyor...</string>
     <string name="select_device">Bir cihaz seçin</string>
+    <string name="select_new_photo_from_photo_package">Dosyalara Göz At</string>
+    <string name="select_photo_from_photo_package">Paketten bir fotoğraf seçin</string>
     <string name="yellowpage_navigation_network_location_enable">Şimdi etkinleştir</string>
     <string name="yellowpage_navigation_network_location_enable_later">Daha sonra etkinleştir</string>
     <string name="yellowpage_navigation_network_location_enabled">Servis açık, konum ayarlarından devre dışı bırakabilirsiniz</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Sarı sayfalar bulunduğunuz şehre göre hizmetler sunar. WLAN bağlantısını &amp; mobil verilerin konum hizmetlerini aktif hale getirmek servislerin kalitesini artıracaktır.</string>
     <string name="yellowpage_navigation_network_location_not_enabled_title">Konum servisleri etkinleştirme</string>
+    <string name="resource_app_name">Kaynak Tarayıcısı</string>
+    <string name="resource_delete">Sil</string>
+    <string name="resource_price_free">Ücretsiz</string>
+    <string name="resource_price_unit"> Mİ Kredileri</string>
+    <string name="resource_price_format">(%1$s)</string>
+    <string name="sdcard_not_mounted_dialog_title">SD kart bulunamadı</string>
+    <string name="sdcard_not_mounted_dialog_message">"Şimdi SD kartı takın.
+"</string>
+    <string name="resource_mute">Hiçbiri</string>
+    <string name="resource_default">Varsayılan zil sesi</string>
+    <string name="resource_ringtone_default">Zil sesleri</string>
+    <string name="resource_notification_default">Bildirimler</string>
+    <string name="resource_alarm_default">Alarm</string>
+    <string name="description_designer">Tasarımcı</string>
+    <string name="description_author">Yazar</string>
+    <string name="description_size">Boyut</string>
+    <string name="description_uploadtime">Güncelle</string>
+    <string name="description_download">İndirilen</string>
+    <string name="description_version">Sürüm</string>
+    <string name="description_summary">Özet</string>
+    <string name="description_version_szie">Sürüm: %1$s Boyut: %2$s</string>
+    <string name="resource_local">Yerel %1$s</string>
+    <string name="resource_online">Çevrimiçi %1$s</string>
+    <string name="resource_selected">Öne çıkanlar</string>
+    <string name="resource_ranking">Popüler</string>
+    <string name="resource_ranking_free">Ücretsiz</string>
+    <string name="resource_ranking_purchase">Ücretli</string>
+    <string name="resource_category">Kategori</string>
+    <string name="resource_my">Çevrimdışı</string>
+    <string name="resource_pack_price_info">Liste fiyatı: %1$s</string>
+    <string name="resource_pack_discount_info">Kazancınız: %1$s</string>
+    <string name="resource_pack_confirm">Bu temanın %1$d bileşenini satın almış olsanız bile, tüm paketi satın almanız daha ucuza gelecektir.</string>
+    <string name="resource_pack_warning">Bu temanın %1$d bileşenini satın aldınız. Kalan bileşenleri teker teker satın almak sizin için daha ucuza gelecektir.</string>
+    <string name="resource_title">Ayrıntılar</string>
+    <string name="resource_download">İndir</string>
+    <string name="resource_downloading">İndiriliyor</string>
+    <string name="resource_waiting_download">Bekliyor</string>
+    <string name="resource_import_successful">Tamamlandı</string>
+    <string name="resource_import_failed">İçe aktarılamıyor</string>
+    <string name="resource_delta_update_successful">Tema güncellendi</string>
+    <string name="resource_delta_update_failed">Tema tekrar indiriliyor…</string>
+    <string name="resource_delta_update_total">%1$d delta güncellemesi kaydedildi %2$s </string>
+    <string name="resource_apply">Uygula</string>
+    <string name="resource_update">Güncelle</string>
+    <string name="resource_select">Seç</string>
+    <string name="resource_buy">Satın al</string>
+    <string name="resource_importing">İçe aktarılıyor…</string>
+    <string name="resource_ringtone_playing_error">Hata</string>
+    <string name="online_no_network">Ağa bağlanılamıyor</string>
+    <string name="online_search_hint">Çevrimiçi kaynakları arayın</string>
+    <string name="download_failed">İndirme işlemi başarısız</string>
+    <string name="download_preview_failed">Önizleme yüklenemiyor</string>
+    <string name="resource_delete_confirm">Bu kaynakları sil?</string>
+    <string name="all_resources">Tümü</string>
+    <string name="resource_default_name">Kaynak</string>
+    <string name="resource_detail">Ayrıntılar</string>
+    <string name="resource_detail_window_title">%1$s ayrıntıları</string>
+    <string name="resource_detail_update_log_title">Güncellemeler</string>
+    <string name="resource_detail_comment_title">Yorumlar</string>
+    <string name="resource_detail_recommend_desiner_other_themes">%1$s tarafından tasarlanan temalar</string>
+    <string name="resource_detail_recommend_other_themes">Kullanıcılar şunları da beğendi</string>
+    <string name="resource_detail_jump_to_online_title">Çevrimiçi</string>
+    <string name="resource_detail_jump_to_same_author_title">Aynı yazar</string>
+    <string name="resource_detail_recommend_desiner_themes">%1$s tema</string>
+    <string name="resource_share_title">Paylaş</string>
+    <string name="resource_share_subject">Temayı paylaş: %1$s</string>
+    <string name="resource_share_text">İşte seveceğini düşündüğüm bir tema: %1$s! Link: %2$s</string>
+    <string name="resource_delete_all">Seçilmiş %1$d kaynağı sil?</string>
+    <string name="resource_can_not_selected">%1$s seçilemiyor</string>
+    <string name="resource_system_title">Sistem kaynakları</string>
+    <string name="resource_downloaded_title">İndirilmiş kaynaklar</string>
+    <string name="resource_see_more">Daha fazla</string>
+    <string name="resource_no_result">Hiçbir şey bulunamadı</string>
+    <string name="resource_failed_to_load_list">Temalar yüklenemiyor.</string>
+    <string name="resource_search_list_empty">Hiçbir şey bulunamadı.</string>
+    <string name="resource_no_network_text">Ağa bağlanılamıyor.</string>
+    <string name="resource_list_title">Son seçilenler</string>
+    <string name="resource_get_auth_checking">Doğrulanıyor…</string>
+    <string name="resource_get_auth_retrieving">Bilgi alınıyor…</string>
+    <string name="resource_get_auth_not_official">Üçüncü parti kaynaklardan temalar desteklenmemektedir</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirilmiş cihaz sayısı aşıldı</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Bu hesaptan 10 cihaz zaten yetkilendirildi</string>
+    <string name="resource_server_out_of_service">Maalesef sunucularımız şu anda kapalı.</string>
+    <string name="resource_get_auth_has_been_undercarriaged">Bu tema artık kullanılabilir değil.</string>
+    <string name="resource_pack_get_auth_has_been_undercarriaged">Bu tema artık kullanılabilir değil.</string>
+    <string name="resource_server_alert_dialog_title">Hemen geri geliyoruz…</string>
+    <string name="resource_purchase_getting_order">Sipariş bilgisi alınıyor…</string>
+    <string name="resource_purchase_waiting_payment">Ödeme bilgisi için bekleniyor…</string>
+    <string name="resource_purchase_verifying_payment">Ödeme bilgisi kontrol ediliyor…</string>
+    <string name="resource_download_trial">Ücretsiz deneyin</string>
+    <string name="resource_apply_trial">Şimdi dene</string>
+    <string name="resource_on_trial">Deneniyor: %1$s</string>
+    <string name="resource_trial_time">（Deneme sürümü: %1$d dakika）</string>
+    <string name="resource_trial_fail_title">Deneme sürümü uygulanamadı</string>
+    <string name="resource_trial_fail_message">Sistem saatinizin doğru ayarlandığından emin olun.</string>
+    <string name="resource_trial_fail_cancel">Tamam</string>
+    <string name="resource_trial_fail_go_settings">Ayarlar</string>
+    <string name="resource_trial_end_title">Deneme süresi sona erdi</string>
+    <string name="resource_trial_end_message">%1$s deneme süresi sona erdi. Eğer beğendiyseniz, lütfen satın alın.</string>
+    <string name="resource_trial_end_restore">Denemeyi bitir</string>
+    <string name="resource_trial_end_purchase">Satın Al</string>
+    <string name="resource_title_select_ringtone">Tonu seçin</string>
+    <string name="resource_tip_select_none">Hiçbiri seçilmedi</string>
+    <string name="resource_select_ringtone_confirm">Bu sesi seç?</string>
+    <string name="resource_select_ringtone_confirm_picker">Bu sesi seç?</string>
+    <string name="loading_resource_detail_info">Yükleniyor…</string>
+    <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
+    <string name="resource_expand_full_text">Genişlet</string>
+    <string name="resource_account_login">Oturum açın</string>
+    <string name="resource_account_switch">Değiştir</string>
+    <string name="resource_account_login_title">Oturum açın</string>
+    <string name="resource_account_fail_to_add">Hesap eklenemiyor</string>
+    <string name="resource_account_abnormal_state">Hesap hatası. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+    <string name="resource_account_login_before_action">Şimdi Mi hesabınızda oturum açın</string>
+    <string name="resource_send">Gönder</string>
+    <string name="resource_save_to_note">Notlara kaydet</string>
+    <string name="resource_present">Hediye</string>
+    <string name="resource_exchange">Hediye aracı</string>
+    <string name="resource_exchange_confirm">Tamam</string>
+    <string name="resource_exchange_hint">Hediye kodunuzu girin</string>
+    <string name="resource_exchange_window_title">Hediye aracı</string>
+    <string name="resource_exchange_universal_goon">Bu kod market içindeki her hangi bir temayı satın almak için kullanılabilir.</string>
+    <string name="resource_exchange_universal_finish">Tema Mağazından tema indirmek için bu kodu kullanın.</string>
+    <string name="resource_exchange_empty_format">Hediye kodunu girin</string>
+    <string name="resource_exchange_wrong_format_by_local">Girmiş olduğunuz kodun formatı hatalı.</string>
+    <string name="resource_exchange_wrong_format_by_server">Kod doğrulanamadı. Lütfen kodu doğru olarak girdiğinizden emin olun.</string>
+    <string name="resource_exchange_has_used">Girdiğiniz kod daha önce kullanılmış.</string>
+    <string name="resource_exchange_has_expired">Girdiğiniz kodun süresi dolmuş.</string>
+    <string name="resource_exchange_unavailable">Girdiğiniz kod ile ilişkilendirilmiş olan tema kullanılabilir durumda değil.</string>
+    <string name="resource_exchange_has_bought">Bu temayı zaten satın aldınız.</string>
+    <string name="resource_exchange_success">Tadını çıkarın! :)</string>
+    <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>
+    <string name="resource_exchange_share_code_dlg_content">\"%1$s\" için hediye kodu : %2$s. Başka bir MIUI kullanıcıya gönderdiğinizde, bu temayı indirmek için kodu sorunsuz kullanabilir.</string>
+    <string name="resource_exchange_share_code_content">MIUI Tema Mağazasında \"%1$s\" için (%2$s) hediye koduna sahipsiniz. Kullanmak için %3$s dokunun.</string>
+    <string name="resource_exchange_purchase_unkown_error">Bilinmeyen bir hata oluştu. Ödeme durumunuzu görmek için http://market.xiaomi.com adresini ziyaret edin.</string>
+    <string name="resource_comment_all_comments">Tümü</string>
+    <string name="resource_comment_good_comments">Pozitif</string>
+    <string name="resource_comment_bad_comments">Negatif</string>
+    <string name="resource_comment_average_score">Değerlendirmeler</string>
+    <string name="resource_comment_score_count">%1$s kullanıcı</string>
+    <string name="resource_comment_no_average_score">-/-</string>
+    <string name="resource_comment_5_star">5 Yıldız</string>
+    <string name="resource_comment_4_star">4 Yıldız</string>
+    <string name="resource_comment_3_star">3 Yıldız</string>
+    <string name="resource_comment_2_star">2 Yıldız</string>
+    <string name="resource_comment_1_star">1 Yıldız</string>
+    <string name="resource_comment_footer">Boş içerikler görüntülenmez.</string>
+    <string name="resource_comment_no_comment">Yorum yok</string>
+    <string name="resource_comment_current_version">Mevcut sürüm</string>
+    <string name="resource_comment_upload_hint">Yorumunuz kısa bir incelemeden sonra görüntülenecektir.</string>
+    <string name="resource_comment_sending">Yorum gönderiliyor…</string>
+    <string name="resource_comment_upload_failed">Yorum gönderilemiyor</string>
+    <string name="resource_comment_upload_success">Yorumunuz kısa bir incelemeden sonra görüntülenecektir.</string>
+    <string name="resource_comment_upload_data_invalid">Girmiş olduğunuz yorum geçersiz</string>
+    <string name="resource_comment_upload_not_logined">Öncelikle oturum açmanız gerekmektedir</string>
+    <string name="resource_comment_upload_not_bought">Tema hakkında yorum yapmadan önce uygulayıp denemeniz gerekmektedir</string>
+    <string name="resource_comment_invalid">Temayı değerlendirmek için yıldızlara dokunun</string>
+    <string name="resource_comment_expand_full_text">Tüm metni genişlet▼</string>
+    <string name="resource_comment_title">Yorumlar: %1$s</string>
+    <string name="resource_comment_edit_title">Yorumu düzenle: %1$s</string>
+    <string name="resource_comment_edit_comment">Yorum ekle</string>
+    <string name="resource_comment_edit_comment_waiting">Geçmiş kontrol ediliyor…</string>
+    <string name="resource_comment_edit_text_default">Bir yorum yazın</string>
+    <string name="resource_comment_publish">Gönder</string>
+    <string name="resource_comment_name_default">Kullanıcı %1$s</string>
+    <string name="resource_comment_loading_list">Yükleniyor…</string>
+    <string name="resource_comment_rate">Değerlendirme:</string>
+    <string name="resource_comment_entry_tips">Yorumlar (%1$s)</string>
+    <string name="resource_comment_rating_star_tips">Puan vermek için yıldızlara dokunun:</string>
+    <string name="resource_clear_search_history">Arama geçmişinizi temizleyin</string>
+    <string name="resource_clear_search_history_dialog">Bütün arama geçmişiniz silinsin mi?</string>
+    <string name="fail_to_add_account">Hesap eklenemiyor</string>
+    <string name="account_unactivated">Hesap etkinleştirilmedi</string>
+    <string name="to_activate_the_account">Şimdi Mi hesabınızı aktive edin</string>
+    <string name="resource_menu_refresh">Yenile</string>
+    <string name="resource_unknow_error">Bilinmeyen bir hata oluştu</string>
+    <string name="resource_user_know">Tamam</string>
+    <string name="resource_hint">Uyarı</string>
+    <string name="resource_ringtone_volume_mute">Zil sesi susturuldu</string>
+    <string name="resource_has_been_downloaded">Bu temayı zaten indirmişsiniz.</string>
+    <string name="resource_no_match_app">Bu işlemi yapabilecek uygulama bulunamadı.</string>
+    <string name="resource_title_rank">Popüler</string>
+    <string name="resource_title_category">Kategoriler</string>
+    <string name="resource_title_subject">Öne çıkanlar</string>
+    <string name="resource_title_local">Çevrimdışı</string>
+    <string name="resource_title_hot_subject">Popüler</string>
+    <string name="resource_download_notification_title_one">Tema indirildi</string>
+    <string name="resource_download_notification_title_many">%1$s adet tema indirildi</string>
+    <string name="resource_tab_to_view">Görüntülemek için dokunun.</string>
+    <string name="listTotalPhoneContactsZero">Telefon numarası olan kişi bulunamadı</string>
+    <string name="foundTooManyContacts">%d kişiden daha fazla sonuç bulundu.</string>
+    <string name="listFoundAllContactsZero">Kişi yok</string>
+    <string name="noContactsHelpTextForCreateShortcut">Görüntülenecek hiç bir kişi kaydınız bulunmamaktadır.</string>
+    <string name="noContactsHelpText">"\"Görüntülenecek kişi yok.
+
+Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardından:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Hesaplar'a dokunarak telefonunuza senkronize edebileceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Yeni kişi'ye dokunarak en baştan bir kişi oluşturabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar/Dışa aktar'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.
+"</li></font></b>"\" "</string>
+    <string name="noContactsHelpTextWithSync">"\"Görüntülenecek kişi yok. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin senkronizasyon işlemi birkaç dakika sürebilir.)
+
+Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardından:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Hesaplar'a dokunarak telefonunuza senkronize edebileceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Görüntüleme seçenekleri'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Yeni kişi'ye dokunarak en baştan bir kişi oluşturabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar/Dışa aktar'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.
+"</li></font></b>"\" "</string>
+    <string name="noContactsNoSimHelpText">"\"Görüntülenecek kişi yok.
+
+Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardından:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Hesaplar'a dokunarak telefonunuza senkronize edebileceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Yeni kişi'ye dokunarak en baştan bir kişi oluşturabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar/Dışa aktar'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.
+"</li></font></b>"\" "</string>
+    <string name="noContactsNoSimHelpTextWithSync">"\"Görüntülenecek kişi yok. (Eğer kısa bir süre önce bir hesap eklediyseniz, kişilerin senkronizasyon işlemi birkaç dakika sürebilir.)
+
+Kişi eklemek için, "<b><font fgcolor="#ffffffff">Menü</font></b>"'ye, ardından:
+ 
+"<b><font fgcolor="#ffffffff"><li>"Hesaplar'a dokunarak telefonunuza senkronize edebileceğiniz kişilerin kayıtlı olduğu bir hesap ekleyebilir veya kurulumunu yapabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Görüntüleme seçenekleri'ne dokunarak hangi kişilerin görünür durumda olduğunu değiştirebilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Yeni kişi'ye dokunarak en baştan bir kişi oluşturabilir
+"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"İçe aktar/Dışa aktar'a dokunarak SIM veya SD kartınızdan kişileri içe aktarabilirsiniz.
+"</li></font></b>"\" "</string>
+    <string name="noFavoritesHelpText">"\"Favoriniz bulunmuyor..
+
+Favoriler listenize kişi eklemek için::
+ "<li>Rehbere<b>gi</b>" girin
+"</li>" 
+"<li>"Favorilere eklemek istediğiniz kişiye dokunun
+"</li>" 
+"<li>"Kişi adından sonraki yıldıza dokunun
+"</li>\"     </string>
+    <string name="delete_group_dialog_title">Grubu Sil</string>
+    <string name="delete_group_dialog_message">\"%1$s\" grubunu sil? Grupta kayıtlı kişiler silinmeyecektir.</string>
+    <string name="toast_join_with_empty_contact">Başka bir kişiyle birleştirmeden önce kişi adını yazın.     </string>
+    <string name="import_from_sim1">"SIM kart 1'den içe aktar"</string>
+    <string name="export_to_sim1">"SIM kart 1'e aktar"</string>
+    <string name="pref_key_sim_manage1">SIM kart1 ayarla</string>
+    <string name="noRecentContacts">Son görüşülen kişi yok</string>
+    <string name="yellowpage_navigation_search_result_average_price">Ortalama RMB %d</string>
+    <string name="yellowpage_navigation_more_items_title">Diğer hizmetler</string>
+    <string name="create_qrcode_fail_message">QR kodu oluşturulamıyor</string>
 </resources>

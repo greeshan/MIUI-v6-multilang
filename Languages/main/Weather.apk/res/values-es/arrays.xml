@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="moon_desc">
+        <item>Luna nueva</item>
+        <item>Luna creciente 25%</item>
+        <item>Cuarto creciente</item>
+        <item>Luna creciente 75%</item>
+        <item>Luna llena</item>
+        <item>Luna menguante 75%</item>
+        <item>Cuarto menguante</item>
+        <item>Luna menguante 25%</item>
+        <item>Luna nueva</item>
+    </string-array>
     <string-array name="weather_type">
-        <item>Despejado</item>
+        <item>Soleado</item>
         <item>Nublado</item>
         <item>Neblina</item>
         <item>Niebla</item>
@@ -45,16 +56,5 @@
         <item>Viento SO</item>
         <item>Viento O</item>
         <item>Viento NO</item>
-    </string-array>
-    <string-array name="moon_desc">
-        <item>Luna nueva</item>
-        <item>Luna creciente 25%</item>
-        <item>Cuarto creciente</item>
-        <item>Luna creciente 75%</item>
-        <item>Luna llena</item>
-        <item>Luna menguante 75%</item>
-        <item>Cuarto menguante</item>
-        <item>Luna menguante 25%</item>
-        <item>Luna nueva</item>
     </string-array>
 </resources>

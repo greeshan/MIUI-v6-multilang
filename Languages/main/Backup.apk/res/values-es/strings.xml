@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="st_antispam_mode_smart_state">11111111</string>
+    <string name="st_antispam_mode_blacklist_state">11112121</string>
+    <string name="st_antispam_mode_only_contacts_state">11110000</string>
+    <string name="st_antispam_mode_only_whitelist_state">11000000</string>
+    <string name="st_antispam_mode_only_all_deny_state">10000000</string>
     <string name="app_name">Copia de seguridad</string>
     <string name="local_app_name">Copia de seguridad</string>
     <string name="local_home_title">Copias de seguridad locales</string>
@@ -13,7 +18,7 @@
     <string name="backup_recently">"  (más reciente) "</string>
     <string name="sdcard_unmounted">Tarjeta SD no detectada</string>
     <string name="backup_progress">Haciendo copia de seguridad…;</string>
-    <string name="button_ok">Correcto</string>
+    <string name="button_ok">Aceptar</string>
     <string name="button_continue">Continuar</string>
     <string name="backup_finished">Copia de seguridad completada</string>
     <string name="backup_report">Ver detalles de la copia de seguridad</string>
@@ -28,7 +33,7 @@
     <string name="start_restore">Restaurar</string>
     <string name="backup_file_error">Copia de seguridad fallida</string>
     <string name="unit_byte">"  bytes"</string>
-    <string name="unit_piece">"  ítems"</string>
+    <string name="unit_piece">"  elementos"</string>
     <string name="restore_finished">Restauración completada</string>
     <string name="restore_report">Informe de la restauración</string>
     <string name="restore_progress">Restaurando…</string>
@@ -62,7 +67,7 @@
     <string name="call_title">Registros de llamadas</string>
     <string name="sms_title">Mensajería</string>
     <string name="mms_title">Mensajes multimedia</string>
-    <string name="wifi_title">Configuración WiFi</string>
+    <string name="wifi_title">Configuración Wi-Fi</string>
     <string name="note_title">Notas</string>
     <string name="compute_backup_info">Consiguiendo información de la copia de seguridad…</string>
     <string name="compute_delete_contact_info">Buscando contactos que eliminar…</string>
@@ -84,7 +89,6 @@
     <string name="task_stopped_exception">Restauración cancelada</string>
     <string name="sdcard_no_enough_space">No hay suficiente espacio</string>
     <string name="sdcard_no_enough_space_message">No hay suficiente espacio en la tarjeta SD del teléfono.</string>
-    <string name="data_no_enough_space">No hay espacio suficiente</string>
     <string name="data_no_enough_space_message">No hay suficiente espacio en la memoria interna del teléfono.</string>
     <string name="task_running_hint">Este proceso ya se está ejecutando en segundo plano</string>
     <string name="task_running_dialog">Copia de seguridad y restauración realizándose. Toque OK para ver.</string>
@@ -103,11 +107,11 @@
     <string name="service_stoped">Servicio detenido</string>
     <string name="sc_network_unavailable">Error de conexión a red</string>
     <string name="sc_bad_request">Solicitud errónea</string>
-    <string name="sc_unaccess_password_file">No guardar la contraseña WiFi</string>
+    <string name="sc_unaccess_password_file">No guardar la contraseña Wi-Fi</string>
     <string name="sc_service_unavailable">Mi Cloud no accesible</string>
     <string name="sc_unauthorized">Por favor identifíquese de nuevo</string>
     <string name="sc_request_timeout">Agotado el tiempo de solicitud</string>
-    <string name="sc_precondition_failed">Tienes que asociar tu cuenta Mi con una dirección válida de correo electrónico</string>
+    <string name="sc_precondition_failed">Tienes que asociar tu cuenta Mi con una dirección válida de email</string>
     <string name="sc_internal_server_error">Error interno del servidor</string>
     <string name="sc_others">Se ha producido un error</string>
     <string name="succeed">Completa</string>
@@ -128,7 +132,7 @@
     <string name="local_no_backup">No hay copias de seguridad locales</string>
     <string name="auto_backup_setting">Configuración de copia de seguridad automática</string>
     <string name="auto_backup_open">Copias de seguridad automáticas</string>
-    <string name="auto_backup_only_wifi">Únicamente al conectarse a WiFi</string>
+    <string name="auto_backup_only_wifi">Únicamente al conectarse a Wi-Fi</string>
     <string name="auto_backup_date">Frecuencia de copia de seguridad</string>
     <string name="auto_backup_time">Hora de la copia de seguridad</string>
     <string name="auto_backup_choose_title">Elegir elementos de la copia de seguridad</string>
@@ -167,15 +171,15 @@
     <string name="guarded_mode_dialog_title">Estás en modo de invitado</string>
     <string name="guarded_mode_dialog_message">Esta función no está permitida en modo invitado.</string>
     <string name="multi_select_title">%1$s seleccionados</string>
-    <string name="enable_encrypt_title">Habilitar el cifrado</string>
-    <string name="disable_encrypt_title">Deshabilitar el cifrado</string>
+    <string name="enable_encrypt_title">Activar el cifrado</string>
+    <string name="disable_encrypt_title">Desactivar el cifrado</string>
     <string name="enable_encrypt_indicator">Toque para cifrar</string>
-    <string name="enable_encrypt">Habilitar</string>
-    <string name="already_enable_encrypt">Cifrado habilitado</string>
+    <string name="enable_encrypt">Activar</string>
+    <string name="already_enable_encrypt">Cifrado activado</string>
     <string name="enable_encrypt_summery1">Tienes que iniciar sesión con tu cuenta Mi para acceder a las copias de seguridad cifradas.</string>
     <string name="enable_encrypt_summery2">Las copias de seguridad se cifrarán automáticamente. Necesitarás iniciar sesión en tu cuenta Mi para acceder a las copias de seguridad cifradas.</string>
     <string name="enable_encrypt_xiaomi_account">Esta copia de seguridad fue creada por %1$s. Para restaurar, borrar la cuenta actual e iniciar sesión como %2$s.</string>
-    <string name="enable_encrypt_ok">Correcto</string>
+    <string name="enable_encrypt_ok">Aceptar</string>
     <string name="no_encrypt_password">Sin contraseña</string>
     <string name="enable_encrypt_fail">Error de cifrado</string>
     <string name="read_encrypt_fail">No se puede leer la copia de seguridad cifrada</string>
@@ -192,4 +196,5 @@
     <string name="xiaomi_account_type">com.Xiaomi</string>
     <string name="never">Nunca</string>
     <string name="every_day">Cada día</string>
+    <string name="data_no_enough_space">No hay espacio suficiente</string>
 </resources>

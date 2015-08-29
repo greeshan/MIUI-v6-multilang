@@ -1,28 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Törli %1$s albumokat (%2$s összes)?</item>
+        <item quantity="one">Törli a(z) %1$s albumot (%2$s összes)?</item>
+    </plurals>
     <plurals name="confirm_delete_has_cloud_image">
-        <item quantity="other">Törli a(z) %s fényképet a MiCloudból?</item>
+        <item quantity="other">Törli a fényképeket a MiCloudból?</item>
         <item quantity="one">Törli a fényképet a MiCloudból?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_image">
-        <item quantity="other">Törli a(z) %s fényképet?</item>
+        <item quantity="other">Törli a fényképeket?</item>
         <item quantity="one">Törli a fényképet?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_video">
-        <item quantity="other">Törli a(z) %s videót a MiCloudból?</item>
+        <item quantity="other">Törli a videókat a MiCloudból?</item>
         <item quantity="one">Törli a videót a >MiCloudból?</item>
     </plurals>
     <plurals name="confirm_delete_has_local_video">
-        <item quantity="other">Törli a a(z) %s videót?</item>
+        <item quantity="other">Törli a videókat?</item>
         <item quantity="one">Törli a videót?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Törli a(z) %s fényképet az eszközről és a MiCloudból?</item>
+        <item quantity="other">Törli a fényképeket az eszközről és a MiCloudból?</item>
         <item quantity="one">Törli a fényképet az eszközről és a MiCloudból?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Törli a(z) %s videót az eszközről és a MiCloudból?</item>
+        <item quantity="other">Törli a videókat az eszközről és a MiCloudból?</item>
         <item quantity="one">Törli a videót az eszközről és a MiCloudból?</item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">" &lt;Data> Törli a &amp;amp;amp;lt;xliff:g id=ITEM>videókat&amp;amp;amp;lt;/xliff:g> az %2$d albumból?&lt;/Data> "</item>
+        <item quantity="one">" &lt;Data> Törli a &amp;amp;amp;lt;xliff:g id=ITEM>videót&amp;amp;amp;lt;/xliff:g> az %2$d albumból?&lt;/Data> "</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d kiválasztva</item>
@@ -63,5 +71,9 @@
         <item quantity="other">%1$d elem</item>
         <item quantity="zero">nincs elem</item>
         <item quantity="one">%1$d elem</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s fénykép, melyen %2$s látható</item>
+        <item quantity="one">%1$s fénykép, myelyen %2$s látható</item>
     </plurals>
 </resources>

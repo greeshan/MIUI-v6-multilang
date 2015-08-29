@@ -46,10 +46,14 @@
     <string name="sync_sub_dspt">Ще бъде изпратено SMS съобщение за активиране на услугата.</string>
     <string name="sync_sub_int_dspt">Ще бъде изпратено международно SMS съобщение за активиране на услугата.</string>
     <string name="access_denied">Достъпът е отказан</string>
+    <string name="internet_access_dspt">Приложението се нуждае от интернет връзка, за да работи нормално.</string>
     <string name="sync_on">Вкл.</string>
     <string name="sync_off">Изкл.</string>
     <string name="mx_dspt">Облачно съобщение</string>
     <string name="mx_sub_dspt_provision">Облачно съобщение</string>
+    <string name="mx_sub_dspt_provision_with_voip">Интернет обаждания</string>
+    <string name="voip_choose_sim">Изберете телефонен номер, за да активирате Mi-Глас</string>
+    <string name="activate_number_change_dialog_message">Изберете телефонен номер, който да бъде видим от други устройства, когато използвате VoIP.</string>
     <string name="phone_number_may_required_dspt_provision">"Тази услуга може да изисква вашия телефонен номер. "</string>
     <string name="phone_number_required_dspt_provision">"Тази услуга изисква вашия телефонен номер. "</string>
     <string name="sync_resend_sms_dspt_provision">" Ако смените SIM картите си, вашият оператор може да ви таксува за едно SMS съобщение, използвано за реактивиране на услугата."</string>
@@ -61,9 +65,14 @@
 
 По всяко време можете да включите или изключите услугата от Настройки.
 "</string>
-    <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви. "</string>
+    <string name="sync_dspt_entrance_provision">"Синхронизиране на вашите снимки, контакти и съобщения, както и локализиране на устройството ви от всеки браузър на %s. "</string>
     <string name="sync_dspt_entrance_provision_2">Научете повече</string>
-    <string name="find_device_dspt_provision">"Ако загубите устройството си, можете да отидете на "</string>
+    <string name="sync_dspt_entrance_provision_confirm_close">Не използвай</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Използвай Mi Cloud</string>
+    <string name="sync_dspt_entrance_provision_confirm_title">Да не се ли използва Mi Cloud?</string>
+    <string name="sync_dspt_entrance_provision_confirm_content">Вградените MIUI приложения се нуждаят от Mi Cloud за архивиране на вашите снимки, контакти, бележки и др. Mi Cloud е безплатен и готов за употреба.</string>
+    <string name="sync_dspt_entrance_provision_skip">&lt;u>Прескочи тази стъпка&lt;/u></string>
+    <string name="find_device_dspt_provision">Ако загубите устройството си, можете да отидете на %s, за да го локализирате, заключите или нулирате. Функцията се управлява от Настройки.</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">" за да го намерите, заключите или нулирате.
@@ -74,7 +83,11 @@
     <string name="mx_dspt_provision">"Облачните съобщения ви позволяват да изпращате съобщения до други потребители на MIUI, без да се начислява такса от вашия оператор за това.
 
 По всяко време можете да включите или изключите услугата от Настройки."</string>
+    <string name="mx_dspt_provision_with_voip">Обаждайте се безплатно до други MIUI потребители чрез интернет връзка. Функцията се управлява от Настройки.</string>
     <string name="mx_dspt_provision_privacy">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
+
+Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"Тази функция може да изисква телефонния ви номер. Вашият оператор може да ви таксува за едно SMS съобщение, използвано при активиране на функцията.
 
 Тази функция шифрова и изпраща ID на устройството ви до сървърите на Mi."</string>
     <string name="user_agreement_p6">"Използването на тази функция е предмет на "</string>
@@ -127,9 +140,14 @@
     <string name="click_to_enabled">Докоснете за синхр.</string>
     <string name="calendar_sync">Календар</string>
     <string name="antispam_sync">Антиспам настройки</string>
+    <string name="deskclock_backup">Архив на часовници</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Manage your Duokan content in using the Duokan app.</string>
+    <string name="micloud_space_applist_title">Управление на приложения</string>
+    <string name="micloud_space_applist_detail">Упр. на прил. на началния ви екран</string>
+    <string name="micloud_space_soundrecorder_title">Записи</string>
+    <string name="micloud_space_soundrecorder_detail">Упр. на записите, съхранявани на устройството ви</string>
     <string name="micloud_space_full_influence"><u>Какво става ако свърши мястото?</u></string>
     <string name="micloud_storage_usage" formatted="false">Заето %s/ Общо %s</string>
     <string name="micloud_title_dspt" formatted="false">"Общо %s 
@@ -198,6 +216,9 @@
     <string name="micloud_main_sync_now">Синхронизирай</string>
     <string name="micloud_main_network_error">Мрежата е недостъпна</string>
     <string name="micloud_main_sync_on_wifi">Синхр. само по Wi-Fi</string>
+    <string name="micloud_main_sync_setting">Настройки за синхр.</string>
+    <string name="micloud_main_suggest_setting">"Изчаква се Wi-Fi връзка за синхрон
+Чукнете бутонът Настройки за повече опции"</string>
     <string name="micloud_main_data_unsynced">%d чакат за синхр.</string>
     <string name="micloud_main_detail">детайли</string>
     <string name="micloud_main_network_abnormal">Няма връзка с мрежата</string>
@@ -207,7 +228,7 @@
     <string name="micloud_main_synced_data_count">Синхр.: %d</string>
     <string name="micloud_main_wlan_sync_data_count">За синхр. по Wi-Fi: %d</string>
     <string name="micloud_main_space_full">Пълно хранилище</string>
-    <string name="micloud_main_space_risk">Имате %d за синхр. Увеличете MiCloud хранилището си.</string>
+    <string name="micloud_main_space_low">Почти пълно хранилище…</string>
     <string name="micloud_main_update_space">Увеличете капацитета</string>
     <string name="micloud_detail_syncing">синхр. се...</string>
     <string name="micloud_detail_pending">очаква синхр.</string>
@@ -230,6 +251,7 @@
     <string name="micloud_setting_browser_summary">Отметки, история и тагове</string>
     <string name="micloud_setting_music_summary">Плейлисти и любими</string>
     <string name="micloud_setting_wifi_summary">Настройки за Wi-Fi</string>
+    <string name="micloud_setting_deskclock_summary">Настройки на часовници</string>
     <string name="micloud_setting_antispam_summary">Изключения при блокиране и списък с блокирани номера.</string>
     <string name="upgrade_space_gb">ГБ</string>
     <string name="upgrade_space_tb">ТБ</string>
@@ -268,12 +290,54 @@
     <string name="loading_hint">Зарежда се</string>
     <string name="buy_space_expire">Закупеното място ще изтече на %s</string>
     <string name="buy_space_expire_concat">%1$s до %2$s</string>
+    <string name="buy_more_space_b_class">"Впишете се на mi.com/micloud, за да закупите още място за съхранение.
+Нуждаете се от китайска банкова карта, за да закупите допълнително място за съхранение."</string>
+    <string name="buy_more_space_c_class">"Тази функция изисква китайска банкова карта.
+За да закупите още място за съхранение, посетете mi.com/micloud."</string>
+    <string name="micloud_member_buy_title">Потвърждаване на поръчка</string>
+    <string name="micloud_member_buy_content" formatted="false">"Валидно за %s-%s-%s
+
+%s MiКредити за година"</string>
+    <string name="micloud_member_net_error_alert_title">Няма връзка с мрежата</string>
+    <string name="micloud_member_net_error_alert_message">Нямате връзка с интернет.</string>
+    <string name="micloud_member_pay_fail_toast">Плащането не може да се извърши</string>
+    <string name="micloud_member_webload_fail_toast_5xx">Грешка на сървъра</string>
+    <string name="micloud_member_webload_fail_toast_4xx">Страницата не може да се зареди</string>
+    <string name="micloud_member_webload_fail_error_message">Мрежова грешка</string>
+    <string name="micloud_member_pay_order_error_toast">Грешка в данните</string>
+    <string name="micloud_member_pay_miid_error_toast">Грешка в профила</string>
+    <string name="micloud_member_refresh_button">Обнови</string>
     <string name="share_miliao_not_installed">MiTalk не е инсталирано.</string>
     <string name="share_weibo_not_installed">Weibo не е инсталирано.</string>
     <string name="share_weixin_not_installed">Wechat не е инсталирано.</string>
     <string name="share_success">Споделено</string>
     <string name="share_cancel">Отменено споделяне</string>
     <string name="share_failed">Неуспешно споделяне</string>
+    <string name="cloud_back_up_title">Архив на нач. екран</string>
+    <string name="settings_backup_title">Архив на системните настройки</string>
+    <string name="cloud_back_up_open_info_no_backuptime">Архивиране на разположението на нач. екран и приложения всеки %1$s, когато сте свържан към Wi-Fi</string>
+    <string name="cloud_back_up_open_info">"Архивиране на разположението на нач. екран и приложения всеки %1$s, когато сте свържан към Wi-Fi
+Последен архив: %2$s"</string>
+    <string name="cloud_back_up_interval_long">7 дни</string>
+    <string name="cloud_back_up_interval_short">1 час</string>
+    <string name="cloud_back_up_close_info">Чукнете за архивиране.</string>
+    <string name="cloud_backup_dialog_title">Архивиране с Mi Cloud</string>
+    <string name="cloud_back_up_dialog_content">Спирате архивиране в ход? Ако го спрете сега, няма да може да използвате този архив за възстановяване на приложения.</string>
+    <string name="cloud_back_up_button_ok">Спиране</string>
+    <string name="cloud_back_up_network_unavailable">Не може да се премахне. Свържете се към Wi-Fi и опитайте отново.</string>
+    <string name="cloud_back_up_remove_success">Архивът е изтрит</string>
+    <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
+    <string name="micloud_storage">Хранилище</string>
+    <string name="micloud_member">Mi Cloud членство</string>
+    <string name="micloud_buy_member">Надграждане на членството</string>
+    <string name="micloud_member_advantage">Вземете повече място в хранилището.</string>
+    <string name="micloud_main_title_sync_fail">Неуспешно</string>
+    <string name="micloud_main_title_sync_on_wifi">Изп. на Wi-Fi</string>
+    <string name="micloud_main_title_sync_off">Изкл. синхр.</string>
+    <string name="micloud_sync_alert_dialog_title">Използване на Mi Cloud</string>
+    <string name="micloud_sync_alert_dialog_message">Синхронизиране на снимки, контакти, бележки и др. между устройствата ви.</string>
+    <string name="micloud_sync_alert_dialog_negative">Отказ</string>
+    <string name="micloud_sync_alert_dialog_positive">ОК</string>
     <string name="app_sync_off">Синхр. е изключена</string>
     <string name="current">Текущо</string>
     <string name="data_syncing">Синхр. винаги</string>
@@ -292,6 +356,18 @@
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_disconnected">Няма Wi-Fi</string>
     <string name="wifi_sync">Изчаква за Wi-Fi</string>
+    <string name="micloud_main_space_risk">Имате %d за синхр. Увеличете MiCloud хранилището си.</string>
+    <string name="close_cloud_app_backup_cancel">Отказ</string>
+    <string name="close_cloud_app_backup_close">Затвори</string>
+    <string name="close_cloud_app_backup_local_backup">Архивирай</string>
+    <string name="close_cloud_app_backup_message">Услугата за облачен архив на приложения ще бъде спряна и данните ще бъдат изтрити на 1 май 2015г. Моля, архивирайте вашите данни възможно най-скоро.</string>
+    <string name="close_cloud_app_backup_notification_message">Натиснете за подробности</string>
+    <string name="close_cloud_app_backup_notification_title">Предупреждение за архивирането в Mi Cloud</string>
+    <string name="close_cloud_app_backup_title">Предупреждение</string>
+    <string name="cloud_app_back_up_quit_notification_content1">Архивирането на приложения в Mi Cloud ще бъде преустановено за не-MIUI приложения. Свързаните с такива приложения данни ще бъдат изтрити на 1 май 2015г. За да избегнете загуба на важни данни, архивирайте приложенията локално сега.</string>
+    <string name="cloud_app_back_up_quit_notification_content2">Контакти, Съобщения, Галерия и други системни за MIUI приложения няма да бъдат засегнати.</string>
+    <string name="cloud_app_back_up_quit_notification_content3">Архив на данни на прил.</string>
+    <string name="voip_dspt">Mi-Глас</string>
     <string name="micloud_intro_01_part_01">Спестявайте мобилни данни</string>
     <string name="micloud_intro_01_part_02">Облачните съобщения ви позволяват да обменяте съобщения с други потребители на MIUI чрез Wi-Fi.</string>
     <string name="micloud_intro_02_part_01">Мигрирайте без усилие</string>

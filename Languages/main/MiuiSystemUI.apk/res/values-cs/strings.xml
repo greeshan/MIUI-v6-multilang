@@ -109,6 +109,9 @@
     <string name="user_guide_for_notification">Nová notifikace, stáhněte lištu pro detail</string>
     <string name="user_guide_for_toggle">Seznam přepínačů lze posouvat horizontálně</string>
     <string name="user_guide_for_toggle_list">Upravit přepínače</string>
+    <string name="activate_usb_title">Aktivovat USB</string>
+    <string name="activate_usb_message">Vložte SIM kartu pro aktivaci této funkce</string>
+    <string name="usb_function_charging_text">Připojit v režimu nabíjení</string>
     <string name="return_to_incall_screen">Stiskněte pro návrat k hovoru</string>
     <string name="call_status_dialing">Vytáčím</string>
     <string name="call_status_ringing">Vyzvání</string>
@@ -171,6 +174,9 @@
     <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
     <string name="drive_mode_tip">Režim AUTO je aktivovaný, jeďte opatrně..!</string>
     <string name="no_notification_tips">Žádné notifikace</string>
+    <string name="expanded_notification_manager">Upravit</string>
+    <string name="disable_notification_title">Deaktivovat upozornění</string>
+    <string name="disable_notification_summary">Upozornění se nebudou zobrazovat</string>
     <string name="notification_otg_mouse_in">Myš je připojená</string>
     <string name="notification_otg_keyboard_in">Klávesnice je připojená</string>
     <string name="notification_otg_gamestick_in">Herní ovladač je připojený</string>
@@ -202,12 +208,17 @@
     <string name="usb_share_net_info">Použít internet z PC</string>
     <string name="hint_for_long_press_app_switch_key">Dlouhým podržením zobrazíte Menu</string>
     <string name="battery_profiles">Použít profily výkonu</string>
+    <string name="notification_template_text">" upozorňuje, dotykem jej zobrazíte."</string>
     <string name="audio_effect_settings">Nastavit typ sluchátek</string>
     <string name="audio_effect_info">Optimalizovat zvuk</string>
     <string name="audio_effect_custom">Nastavení</string>
     <string name="media_projection_dialog_text">%s bude snímat vše co se zobrazí na vašem displeji.</string>
     <string name="media_projection_remember_text">Znovu nezobrazovat</string>
     <string name="media_projection_action_text">Spustit</string>
+    <string name="vpn_title">VPN aktivní</string>
+    <string name="vpn_title_long">Připojování k VPN přes %s</string>
+    <string name="vpn_text">Zobrazit nastavení.</string>
+    <string name="vpn_text_long">Připojit k %s. Zobrazit podrobnosti.</string>
     <string name="battery_low_subtitle">Baterie je skoro vybitá.</string>
     <string name="battery_low_why">Využití baterie</string>
     <string name="status_bar_recent_inspect_item_title">Info o aplikaci</string>

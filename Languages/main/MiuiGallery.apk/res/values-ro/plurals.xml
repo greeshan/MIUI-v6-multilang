@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_album">
+        <item quantity="other">Ştergeţi %1$s albume (%2$s în total)?</item>
+        <item quantity="one">Ştergeţi %1$s album (%2$s în total)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Ştergeţi %s fotografii?</item>
+        <item quantity="one">Ştergeţi %s fotografie?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri din Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip din Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Ştergeţi %s videoclipuri?</item>
+        <item quantity="one">Ştergeţi %s videoclip?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografii din Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> fotografie din Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclipuri de pe dispozitiv şi din Mi Cloud?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%s&amp;amp;amp;lt;/xliff:g> videoclip de pe dispozitiv şi din Mi Cloud?&lt;/Data></item>
+    </plurals>
+    <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%1$d videoclipuri&amp;amp;amp;lt;/xliff:g> din %2$d albume?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Ştergeţi &amp;amp;amp;lt;xliff:g id=ITEM>%1$d videoclip&amp;amp;amp;lt;/xliff:g> din %2$d albume?&lt;/Data></item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selectate</item>
+        <item quantity="zero">%1$d selectate</item>
+        <item quantity="one">%1$d selectat</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d fotografii</item>
+        <item quantity="one">%d fotografie</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d videoclipuri</item>
+        <item quantity="one">%d videoclip</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">%d dosare</item>
+        <item quantity="one">%d dosar</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Nu aveți permisiunea de a șterge aceste %d fişiere.</item>
+        <item quantity="one">Nu aveți permisiunea de a șterge acest %d fişier.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Puteți selecta %d elemente</item>
+        <item quantity="one">Puteți selecta %d element</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d imagini</item>
+        <item quantity="zero">%1$d imagini</item>
+        <item quantity="one">%1$d imagine</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d elemente</item>
+        <item quantity="zero">%1$d elemente</item>
+        <item quantity="one">%1$d element</item>
+    </plurals>
+    <plurals name="more_face">
+        <item quantity="other">%1$s fotografii ale %2$s</item>
+        <item quantity="one">%1$s fotografie a %2$s</item>
+    </plurals>
+</resources>

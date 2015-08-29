@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
+    </plurals>
     <plurals name="last_num_days">
         <item quantity="other">Последние %d дн.</item>
-        <item quantity="one">Вчера</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d из %2$d</item>
@@ -11,10 +14,6 @@
     <plurals name="find_on_page_matches">
         <item quantity="other">Совпадений: %d</item>
         <item quantity="one">Совпадений: %d</item>
-    </plurals>
-    <plurals name="v5_edit_mode_title">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
     </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">Блокировано: %d</item>
@@ -27,10 +26,6 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Последние %d дн.</item>
     </plurals>
-    <plurals name="miui_edit_mode_title">
-        <item quantity="other">Выбрано: %1$d</item>
-        <item quantity="one">Выбрано: %1$d</item>
-    </plurals>
     <plurals name="suggest_access_item_album_songs">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
@@ -42,5 +37,9 @@
     <plurals name="suggest_access_item_singer_pop">
         <item quantity="other">Популярных треков: %d</item>
         <item quantity="one">Популярных треков: %d</item>
+    </plurals>
+    <plurals name="miui_edit_mode_title">
+        <item quantity="other">Выбрано: %1$d</item>
+        <item quantity="one">Выбрано: %1$d</item>
     </plurals>
 </resources>

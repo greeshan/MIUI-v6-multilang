@@ -50,6 +50,7 @@
     <string name="error_widget_exist_for_send_to_desktop">"Cette note existe déjà sur l'écran d'accueil"</string>
     <string name="error_unsupport_content">Cette note contient un contenu non supporté, appuyez pour mettre à jour le système</string>
     <string name="error_contact_not_exist">"Le contact n'existe pas"</string>
+    <string name="sync_tips">Toucher pour synchroniser les notes sur Mi Cloud.</string>
     <string name="pref_title_font_size">Taille de police</string>
     <string name="call_record_folder_name">Notes vocales</string>
     <string name="hint_foler_name">Entrez un nom de dossier</string>
@@ -80,7 +81,7 @@
     <string name="not_now">Pas maintenant</string>
     <string name="enable_sync">Synchroniser</string>
     <string name="login_sync">Se connecter</string>
-    <string name="pref_title_note_style">Style de note</string>
+    <string name="pref_title_note_style">Style des notes</string>
     <string name="pref_title_common">Paramètres généraux</string>
     <string name="pref_title_alarm_when_silent">Alarme en mode silencieux</string>
     <string name="pref_desc_alarm_when_silent">Les alarmes ne sonneront pas en mode silencieux</string>
@@ -94,9 +95,10 @@
     <string name="sns_title_edit">Modifier le titre</string>
     <string name="sns_title_send">Envoyer un message</string>
     <string name="sns_action_send">Partager</string>
-    <string name="sns_hint_title">Sujet (optionnel)</string>
+    <string name="sns_hint_title">Objet (optionnel)</string>
     <string name="sns_hint_content">"Qu'avez-vous en tête ?"</string>
     <string name="sns_footer_text">Créer avec Mi Notes</string>
+    <string name="dlg_info_creating_message">"Rédaction d'un message…"</string>
     <string name="sns_message_disconnect">Pas de connexion réseau. Vérifiez votre connexion et essayez à nouveau.</string>
     <string name="sns_content_default">Partager la photo</string>
     <string name="sns_toast_empty">"Impossible d'envoyer un billet vide"</string>
@@ -106,7 +108,7 @@
     <string name="sns_choose_quality_title">Sélectionner la qualité</string>
     <string name="sns_choose_quality_high">Haute (%1$s)</string>
     <string name="sns_choose_quality_low">Basse</string>
-    <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités!
+    <string name="welcome_note_for_cm">"Et encore plus de fonctionnalités !
    - Synchronisation avec Mi Cloud
    - Enregistrement automatique
    - Définition de rappels

@@ -228,7 +228,6 @@
     <string name="simple_mode_button_text_hand_night">Спри нощен режим</string>
     <string name="simple_mode_button_text_panorama">Спри панорама</string>
     <string name="simple_mode_button_text_color_effect">Спри филтъра</string>
-    <string name="simple_mode_button_text_audio_capture">Спри снимането чрез звук</string>
     <string name="simple_mode_button_text_slow_video">Спри бавно видео</string>
     <string name="simple_mode_button_text_fast_video">Спри slow-motion камерата</string>
     <string name="pref_video_captrue_ability_title">Снимка по време на запис</string>
@@ -257,7 +256,6 @@
     <string name="pref_camera_exposuretime_entry_125">1/125 сек.</string>
     <string name="pref_camera_exposuretime_entry_250">1/250 сек.</string>
     <string name="pref_camera_exposuretime_entry_1000">1/1000 сек.</string>
-    <string name="pref_camera_exposuretime_entry_5000">1/5000 сек.</string>
     <string name="face_analyze_info">%1$s %2$s години</string>
     <string name="face_analyze_info_male">Мъж</string>
     <string name="face_analyze_info_female">Жена</string>
@@ -283,7 +281,6 @@
     <string name="face_beauty_age_alias_female_60_m">Жена 60+</string>
     <string name="simple_mode_button_text_face_beauty">Спри разкрасяване на лица</string>
     <string name="pref_face_beauty_title">Разкрасяване</string>
-    <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
     <string name="pref_priority_storage_title">Съхраняване на външната SD карта</string>
     <string name="setting_top_text">Режими на камерата</string>
     <string name="pref_video_speed_fast_title">Fast-motion</string>
@@ -328,11 +325,6 @@
     <string name="pref_camera_hdr_entry_live">На живо</string>
     <string name="pref_simple_hdr_entry_off">Изключен</string>
     <string name="pref_simple_hdr_entry_on">Включен</string>
-    <string name="pref_camera_countdown_title">Таймер</string>
-    <string name="simple_mode_button_text_countdown">Спри отброяването</string>
-    <string name="pref_camera_countdown_entry_3s">3 сек.</string>
-    <string name="pref_camera_countdown_entry_5s">5 сек.</string>
-    <string name="pref_camera_countdown_entry_10s">10 сек.</string>
     <string name="pref_camera_delay_capture_title">Таймер</string>
     <string name="simple_mode_button_text_delay_capture">Спри таймера</string>
     <string name="pref_camera_delay_capture_entry_audio">Звук</string>
@@ -345,6 +337,8 @@
     <string name="pref_camera_peak_title">Пиков фокус</string>
     <string name="pref_camera_peak_entry_off">Изкл.</string>
     <string name="pref_camera_peak_entry_on">Вкл.</string>
+    <string name="pref_camera_gradienter_title">Градиент</string>
+    <string name="simple_mode_button_text_gradienter">Изключи Градиент</string>
     <string name="edit">Редактирай</string>
     <string name="details">Детайли</string>
     <string name="path">Път</string>
@@ -483,9 +477,11 @@
     <string name="pref_camera_auto_focus_title_entry_off">Изкл.</string>
     <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
     <string name="pref_camera_coloreffect_entry_planet">Малък свят</string>
+    <string name="pref_camera_countdown_title">Таймер</string>
     <string name="pref_camera_current_k_value">Текуща стойност</string>
     <string name="pref_camera_default_suffix">(Стандартно)</string>
     <string name="pref_camera_denoise_title">Намаляване на шумовете</string>
+    <string name="pref_camera_exposuretime_entry_5000">1/5000 сек.</string>
     <string name="pref_camera_exposuretime_title">Време на експониране</string>
     <string name="pref_camera_focusmode_entry_continuous">Продължителен</string>
     <string name="pref_camera_focusmode_entry_lock">Фиксиран</string>
@@ -556,6 +552,8 @@
     <string name="show_images_only">Само снимки</string>
     <string name="show_on_map">Покажи на карта</string>
     <string name="show_videos_only">Само видео</string>
+    <string name="simple_mode_button_text_audio_capture">Спри снимането чрез звук</string>
+    <string name="simple_mode_button_text_countdown">Спри отброяването</string>
     <string name="simple_mode_title">Обикновен режим</string>
     <string name="slideshow">Слайдшоу</string>
     <string name="snapshot_qcif_and_d1">Само размера на видео снимка поддържа тази резолюция.</string>
@@ -565,6 +563,7 @@
     <string name="toast_burst_snap_forbidden_when_face_beauty_open">Серийното снимане не се поддържа, когато е включено разкрасяване на лица.</string>
     <string name="toast_burst_snap_forbidden_when_hdr_open">Серийното снимане не се поддържа, когато е включен HDR.</string>
     <string name="toast_burst_snap_forbidden_when_iso_not_auto">Необходимо е да настроите ISO на АВТО.</string>
+    <string name="toast_cannot_preview_image_when_screen_locked">Не може да преглеждате снимка или клип, когато екрана е заключен.</string>
     <string name="undo">ОТМЕНИ</string>
     <string name="unit_mm">мм</string>
     <string name="video_camera_label">Видеокамера</string>
@@ -589,4 +588,7 @@
     <string name="wifi_ssid">SSID:</string>
     <string name="wifi_warning">Преди да се свържете, убедете се в безопасността на Wi-Fi мрежата</string>
     <string name="simple_mode_button_text_manual_mode">Спри ръчен</string>
+    <string name="pref_camera_countdown_entry_10s">10 сек.</string>
+    <string name="pref_camera_countdown_entry_3s">3 сек.</string>
+    <string name="pref_camera_countdown_entry_5s">5 сек.</string>
 </resources>

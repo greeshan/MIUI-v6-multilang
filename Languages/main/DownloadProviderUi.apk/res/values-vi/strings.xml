@@ -6,8 +6,8 @@
     <string name="download_when_network_connected">Tải xuống bằng mạng di động</string>
     <string name="download_paused">Tải xuống đã tạm dừng</string>
     <string name="download_pending">Đang chờ tải xuống</string>
-    <string name="download_wait_connect">Đang chờ kết nối để tải xuống</string>
-    <string name="download_filesize_unknown">không xác định</string>
+    <string name="download_wait_connect">Đang chờ kết nối</string>
+    <string name="download_filesize_unknown">Không xác định</string>
     <string name="download_info_start_deleted_tasks">Xóa tải xuống</string>
     <string name="download_info_count_deleted_tasks">%s tải xuống đã được xóa</string>
     <string name="menu_preferences">Cài đặt tải xuống</string>
@@ -28,7 +28,7 @@
     <string name="paused_waiting_to_retry">Đang chờ thử lại</string>
     <string name="paused_unknown">Tạm dừng không rõ lý do</string>
     <string name="confirm_delete_downloads_message">%d tải xuống sẽ bị xóa.</string>
-    <string name="confirm_delete_the_download_item_message">Xóa những bản tải xuống?</string>
+    <string name="confirm_delete_the_download_item_message">Xóa các bản tải xuống?</string>
     <string name="delete_the_downloaded_file">Các tập tin đã tải xuống sẽ bị xóa.</string>
     <string name="downloads_operating">Đang tiến hành…</string>
     <string name="select_operation_items">Chọn mục</string>
@@ -61,7 +61,7 @@
     <string name="doc_filter">TÀI LIỆU</string>
     <string name="package_filter">GÓI</string>
     <string name="other_filter">KHÁC</string>
-    <string name="xunlei_brand">Việt hóa bởi ♋๖ۣۜßεℓ™</string>
+    <string name="xunlei_brand">Được hỗ trợ bởi Xunlei</string>
     <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Công cụ tải xuống Xunlei</string>
     <string name="turn_off_xunlei_title">Tắt công cụ tải xuống Xunlei</string>
@@ -69,7 +69,7 @@
     <string name="vip_auto_speedup">Đã bật tăng tốc tải xuống Xunlei</string>
     <string name="xunlei_gaosu">Tăng tốc tải xuống Xunlei</string>
     <string name="free_speedup_exp">Dùng thử Tăng tốc tải xuống Xunlei miễn phí</string>
-    <string name="valid_in_this_month">chỉ có giá trị trong tháng này</string>
+    <string name="valid_in_this_month">Có giá trị trong tháng này</string>
     <string name="xunlei_speed_service">Tăng tốc tải xuống Xunlei</string>
     <string name="open_xunlei_speed_service">Bắt đầu tăng tốc tải xuống Xunlei</string>
     <string name="bind_xunlei_account">Thêm Tài khoản Xunlei</string>
@@ -103,7 +103,7 @@
     <string name="download_list_open_xl_message">Tăng tốc Xunlei sẽ giúp tăng tốc độ tải xuống.</string>
     <string name="download_list_open_xl_ok">OK</string>
     <string name="download_list_open_xl_cancel">Hủy</string>
-    <string name="download_list_intoAuth">Xác minh tài khoản của bạn</string>
+    <string name="download_list_intoAuth">Xác minh Tài khoản của bạn</string>
     <string name="download_list_intoAuthAlert">Đang tải</string>
     <string name="unbind_xunlei_success">Đã đăng xuất khỏi Tài khoản Xunlei</string>
     <string name="unbind_xunlei_2_success">Đã thêm Tài khoản Xunlei</string>
@@ -111,8 +111,21 @@
     <string name="privacy_tip_content">Sử dụng Tăng tốc Xunlei để tăng tốc độ tải xuống? URL của máy chủ tải xuống sẽ tải lên máy chủ của Xunlei. Chi tiết Tài khoản Mi của bạn cũng sẽ được tải lên để kiểm tra xem nếu bạn có bất kỳ đăng ký hoạt động cho dịch vụ này.</string>
     <string name="privacy_tip_cancel">Hủy</string>
     <string name="privacy_tip_ok">OK</string>
+    <string name="xunlei_close_tips_title">Tăng tốc tải xuống</string>
+    <string name="xunlei_close_tips_content">Tăng tốc tải xuống Xunlei.</string>
+    <string name="xunlei_close_tips_button">Bật</string>
+    <string name="toast_xunlei_engine_open">Bật tăng tốc tải xuống Xunlei</string>
+    <string name="recommend_other_downloads">Phổ biến</string>
+    <string name="recommend_show_other_downloads">Xem phổ biến</string>
+    <string name="recommend_install">Cài đặt</string>
+    <string name="recommend_open">Mở</string>
+    <string name="recommend_downloading">Đang tải…</string>
+    <string name="recommend_prepare">Đang chờ…</string>
+    <string name="recommend_installing">Đang cài đặt…</string>
+    <string name="recommend_failed">Thất bại</string>
+    <string name="recommend_paused">Đã tạm dừng</string>
+    <string name="recommend_loading">Đang tải…</string>
     <string name="app_label">Tải xuống</string>
-    <string name="download_title">Tải xuống</string>
     <string name="download_title_sorted_by_date">Tải xuống - Sắp xếp theo ngày</string>
     <string name="download_title_sorted_by_size">Tải xuống - Sắp xếp theo kích thước</string>
     <string name="no_downloads">Không có bản tải xuống nào.</string>
@@ -123,7 +136,6 @@
     <string name="download_running">Đang tải lên</string>
     <string name="download_success">Hoàn tất</string>
     <string name="download_error">Không thành công</string>
-    <string name="download_error_insufficient_space">Không đủ dung lượng</string>
     <string name="dialog_title_not_available">Tải xuống không thành công</string>
     <string name="dialog_failed_body">Bạn muốn thử lại tải xuống tệp sau hay xóa tệp khỏi hàng đợi?</string>
     <string name="dialog_title_queued_body">Tệp chưa sẵn có</string>

@@ -228,6 +228,8 @@
     <string name="time_zone">Fuseau horaire</string>
     <string name="event_all_day_label">Toute la journée</string>
     <string name="today_no_events">Aucun événement</string>
+    <string name="event_info_reminders_label_1">Rappel</string>
+    <string name="event_info_reminders_label_more">Rappel %d</string>
     <string name="event_account">Compte</string>
     <string name="event_show_more">"Plus d'options…"</string>
     <string name="event_hide_more">Masquer</string>
@@ -280,6 +282,7 @@
     <string name="birthday_event_description">"Aujourd'hui c'est l'%4$s de %1$s !"</string>
     <string name="jump_date">Aller</string>
     <string name="jump_date_full">Aller à la date</string>
+    <string name="select_date">Sélectionnez une date</string>
     <string name="miui_menu_create_event">Nouveau</string>
     <string name="preferences_category_general_title">Général</string>
     <string name="preferences_category_account_title">Compte</string>
@@ -315,9 +318,9 @@
     <string name="repeat_label_choose_month">Choisir le mois</string>
     <string name="repeat_end_label">Fin de répétition</string>
     <string name="repeat_end_times_unit">" fois"</string>
-    <string name="sync_notice_title">Requête de synchro</string>
-    <string name="sync_notice_message">"Vous n'avez pas encore synchronisé le calendrier Mi, le faire maintenant?"</string>
-    <string name="sync_notice_ok">Autoriser</string>
+    <string name="sync_notice_title">Synchronisation du calendrier</string>
+    <string name="sync_notice_message">Synchroniser votre calendrier avec Mi Cloud ?</string>
+    <string name="sync_notice_ok">Synchroniser</string>
     <string name="sync_notice_ok_toast_message">Le calendrier local va être synchronisé avec Mi Clound</string>
     <string name="sync_notice_cancel_toast_message">Le calendrier local ne sera pas synchronisé avec Mi Cloud</string>
     <string name="more_string">+ %1$s</string>
@@ -326,4 +329,5 @@
     <string name="done">OK</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Fête</string>
+    <string name="action_label">Entrée</string>
 </resources>

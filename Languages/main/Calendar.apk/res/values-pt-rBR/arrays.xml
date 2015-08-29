@@ -7,44 +7,31 @@
         <item>Alarme</item>
     </string-array>
     <string-array name="reminder_minutes_labels">
+        <item>Sem lembrete</item>
         <item>0 minutos</item>
-        <item>Um minuto</item>
-        <item>Cinco minutos</item>
-        <item>10 minutos</item>
-        <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
-        <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>Uma hora</item>
-        <item>Duas horas</item>
-        <item>Três horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>Dois dias</item>
-        <item>Uma semana</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>Nenhum</item>
-        <item>0 minutos</item>
-        <item>Um minuto</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
         <item>30 minutos</item>
-        <item>45 minutos</item>
-        <item>Uma hora</item>
-        <item>Duas horas</item>
-        <item>Três horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
-        <item>Dois dias</item>
-        <item>Uma semana</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Sem lembrete</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Localidade padrão</item>
+        <item>Padrão do local</item>
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda-feira</item>
@@ -191,5 +178,83 @@
     <string-array name="widget_style_list">
         <item>Transparente</item>
         <item>Fundo branco</item>
+    </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Sem lembrete</item>
+        <item>0 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hra</item>
+        <item>1 dia</item>
+        <item>2 dias</item>
+        <item>1 semana</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1o.</item>
+        <item>2o.</item>
+        <item>3o.</item>
+        <item>4o.</item>
+        <item>5o.</item>
+        <item>6o.</item>
+        <item>7o.</item>
+        <item>8o.</item>
+        <item>9o.</item>
+        <item>10o.</item>
+        <item>11o.</item>
+        <item>12o.</item>
+        <item>13o.</item>
+        <item>14o.</item>
+        <item>15o.</item>
+        <item>16o.</item>
+        <item>17o.</item>
+        <item>18o.</item>
+        <item>19o.</item>
+        <item>20o.</item>
+        <item>21o.</item>
+        <item>22o.</item>
+        <item>23o.</item>
+        <item>24o.</item>
+        <item>25o.</item>
+        <item>26o.</item>
+        <item>27o.</item>
+        <item>28o.</item>
+        <item>29o.</item>
+        <item>30o.</item>
+        <item>31o.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+        <item>Dom</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Abr</item>
+        <item>Mai</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Set</item>
+        <item>Out</item>
+        <item>Nov</item>
+        <item>Dez</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Seg a Sex</item>
+        <item>Fim de semana</item>
+        <item>Semana inteira</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nunca</item>
+        <item>Hora</item>
+        <item>Contador</item>
     </string-array>
 </resources>

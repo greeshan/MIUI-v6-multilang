@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="temperature_type">
+        <item>Laipsniai Celsijaus</item>
+        <item>Laipsniai Farenheito</item>
+    </string-array>
+    <string-array name="update_frequency">
+        <item>Niekada automatiškai nenaujinti</item>
+        <item>Kas 1 val.</item>
+        <item>Kas 2 val.</item>
+        <item>Kas 6 val.</item>
+        <item>Kas 12 val.</item>
+        <item>Kas 1 dieną</item>
+    </string-array>
+</resources>

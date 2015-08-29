@@ -59,7 +59,7 @@
     <string name="reminders_label">Dodaj przypomnienie</string>
     <string name="no_syncable_calendars">Brak kalendarzy</string>
     <string name="no_calendars_found">Przed utworzeniem wydarzenia musisz dodać do urządzenia konto z Kalendarzem i ustawić wybrany kalendarz jako widoczny. Wybierz „Dodaj konto” (jeśli właśnie to zrobiłeś, poczekaj na zakończenie synchronizacji i spróbuj ponownie). Możesz też dotknąć Anuluj i upewnić się, że co najmniej jeden kalendarz jest widoczny.</string>
-    <string name="create_an_account_desc">"Kalendarz działa lepiej z kontem Google. 
+    <string name="create_an_account_desc">"Kalendarz działa lepiej z kontem Google lub Xiaomi. 
 
 • Używaj go w dowolnej przeglądarce. 
 • Twórz kopie zapasowe wydarzeń."</string>
@@ -123,7 +123,6 @@
     <string name="preferences_hide_declined_title">Ukryj odrzucone</string>
     <string name="preferences_week_start_day_title">Początek tygodnia to</string>
     <string name="preferences_week_start_day_dialog">Początek tygodnia to</string>
-    <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_clear_search_history_title">Wyczyść historię wyszukiwania</string>
     <string name="preferences_clear_search_history_summary">Usuń wszystkie poprzednie wyszukiwania.</string>
     <string name="search_history_cleared">Wyczyszczono historię wyszukiwania.</string>
@@ -133,7 +132,6 @@
     <string name="preferences_alerts_popup_title">Wyświetl na ekranie</string>
     <string name="preferences_default_reminder_title">Przypomnienia</string>
     <string name="preferences_default_reminder_dialog">Domyślne przypomnienie</string>
-    <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Domowa strefa czasowa</string>
     <string name="preferences_use_home_tz_descrip">Godziny będą podawane w domowej strefie czasowej (nawet w podróży)</string>
     <string name="preferences_home_tz_title">Strefa czasowa</string>
@@ -192,6 +190,7 @@
     <string name="user_notice_online_agreement">Aplikacja Kalendarza potrzebuje dostępu do sieci by pobierać dane o wydarzeniach. Zgadzasz się na warunki opisane w %1$s i %2$s.</string>
     <string name="text_year">R</string>
     <string name="view_all_matches">Pokaż wszystko</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">现在可为TA预定蛋糕、鲜花</string>
     <string name="button_day">D</string>
     <string name="button_week">T</string>
     <string name="button_month">M</string>
@@ -204,6 +203,8 @@
     <string name="time_zone">Strefa czasowa</string>
     <string name="event_all_day_label">Cały dzień</string>
     <string name="today_no_events">Brak wydarzeń na dziś</string>
+    <string name="event_info_reminders_label_1">1 przypomnienie</string>
+    <string name="event_info_reminders_label_more">Przypomnienia %d</string>
     <string name="event_account">Kalendarz</string>
     <string name="event_show_more">Więcej</string>
     <string name="event_hide_more">Ukryj</string>
@@ -253,9 +254,9 @@ Aplikacja będzie potrzebowała dostępu do Kontaktów"</string>
     <string name="anniversary_term">rocznicę</string>
     <string name="birthday_metric" />
     <string name="anniversary_metric" />
-    <string name="birthday_notification_title_today">%1$s obchodzi dziś %3$s</string>
+    <string name="birthday_notification_title_today">%1$s ma %3$s</string>
     <string name="birthday_notification_text_today">Nie zapomnij złożyć życzeń!</string>
-    <string name="birthday_notification_title_three_days_later">%1$s: obchodzi %2$s</string>
+    <string name="birthday_notification_title_three_days_later">Zbliżają się %2$s: %1$s</string>
     <string name="birthday_notification_text_three_days_later">Za 3 dni %4$s obchodzi %3$s</string>
     <string name="birthday_notification_age_term" />
     <string name="birthday_notification_type_term_lunar" />
@@ -264,6 +265,7 @@ Aplikacja będzie potrzebowała dostępu do Kontaktów"</string>
     <string name="birthday_event_description_detail_smart" />
     <string name="jump_date">Skocz</string>
     <string name="jump_date_full">Skocz do daty</string>
+    <string name="select_date">Wybierz datę</string>
     <string name="miui_menu_create_event">Nowe wydarzenie</string>
     <string name="preferences_category_general_title">Ogólne</string>
     <string name="preferences_category_account_title">Konto</string>
@@ -271,9 +273,9 @@ Aplikacja będzie potrzebowała dostępu do Kontaktów"</string>
     <string name="rest_day_indication" />
     <string name="edit_event_confirm_message">Odrzucić zmiany?</string>
     <string name="edit_event_reminder_off_toast">Domyślny tryb: Brak</string>
-    <string name="can_not_modify_event">Can not be modified</string>
-    <string name="can_not_modify_allday_event">Allday event can not be modified</string>
-    <string name="can_not_modify_repeating_acrossing_days_event">Repeating and acrossing-days event can not be modified</string>
+    <string name="can_not_modify_event">Modyfikacja niemożliwa</string>
+    <string name="can_not_modify_allday_event">Całodniowe wydarzenie nie może być modyfikowane</string>
+    <string name="can_not_modify_repeating_acrossing_days_event">Powtarzające się wydarzenia nie mogą być modyfikowane</string>
     <string name="can_not_create_long_event">Treść wydarzenia jest za długa</string>
     <string name="from_google_group_calendar">Kalendarz Google</string>
     <string name="repeat_activity_label">Powtarzanie</string>
@@ -299,10 +301,9 @@ Aplikacja będzie potrzebowała dostępu do Kontaktów"</string>
     <string name="repeat_label_choose_month">Wybierz miesiąc</string>
     <string name="repeat_end_label">Koniec powtarzania</string>
     <string name="repeat_end_times_unit">" razy"</string>
-    <string name="sync_notice_title">Prośba o synchronizację</string>
-    <string name="sync_notice_message">"Kalendarz nie jest obecnie zsynchronizowany z Chmurą. 
-   Czy chcesz włączyć synchronizację?"</string>
-    <string name="sync_notice_ok">Włącz</string>
+    <string name="sync_notice_title">Synchronizacja kalendarza</string>
+    <string name="sync_notice_message">Czy chcesz włączyć synchronizację z chmurą?</string>
+    <string name="sync_notice_ok">Synchronizuj</string>
     <string name="sync_notice_ok_toast_message">Kalendarz będzie synchronizowany z Chmurą</string>
     <string name="sync_notice_cancel_toast_message">Kalendarz nie będzie synchronizowany z Chmurą</string>
     <string name="more_string">%1$s więcej...</string>

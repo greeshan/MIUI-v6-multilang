@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+        <item quantity="one">%1$d தேர்ந்தெடுக்கப்பட்டது</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">கடந்த %d நாட்கள்</item>
+        <item quantity="one">நேற்று</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d / %2$d</item>
+        <item quantity="one">1 பொருத்தம்</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d போட்டிகள்</item>
+        <item quantity="one">%d போட்டி</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d உருப்படிகள் தடுக்கப்பட்டன</item>
+        <item quantity="one">%d உருப்படி தடுக்கப்பட்டது</item>
+    </plurals>
+</resources>

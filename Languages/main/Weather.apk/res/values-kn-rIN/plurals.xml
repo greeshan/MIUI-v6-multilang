@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ನಿಮಿಷದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d ಗಂಟೆಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ಗಂಟೆಯ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%d ದಿನದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Clear</item>
+        <item quantity="one">Sunny</item>
+    </plurals>
+</resources>

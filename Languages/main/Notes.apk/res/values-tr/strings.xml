@@ -42,6 +42,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Bu not daha zaten ana ekran eklenmiş</string>
     <string name="error_unsupport_content">Bu not desteklenmeyen içirik barındırıyor, gerekli uygulamayı güncellemek için buraya dokunun</string>
     <string name="error_contact_not_exist">Kişi mevcut değil</string>
+    <string name="sync_tips">Notları Mi Bulut ile senkronize etmek için dokunun</string>
     <string name="pref_title_font_size">Yazı boyutu</string>
     <string name="call_record_folder_name">Çağrı Notları</string>
     <string name="hint_foler_name">İsim</string>
@@ -87,6 +88,7 @@
     <string name="sns_hint_title">Konu (isteğe bağlı)</string>
     <string name="sns_hint_content">Şu an aklında ne var?</string>
     <string name="sns_footer_text">Mi Notlar ile oluşturuldu</string>
+    <string name="dlg_info_creating_message">Mesaj oluşturuluyor…</string>
     <string name="sns_message_disconnect">Lütfen ağ bağlantısını kontrol edin!</string>
     <string name="sns_content_default">Fotoğraf paylaş</string>
     <string name="sns_toast_empty">Boş ileti gönderilemiyor</string>
@@ -96,5 +98,23 @@
     <string name="sns_choose_quality_title">Görüntü kalitesini seçin</string>
     <string name="sns_choose_quality_high">Yüksek (%1$s)</string>
     <string name="sns_choose_quality_low">Düşük</string>
+    <string name="welcome_note_for_cm">"Genel özellikler:!
+  - Mi Bulut ile senkronize 
+  - Çıkarken kaydetme
+  - Hatırlatma ayarlama
+
+Ve daha fazlası için:
+http://www.miui.com/forum.php?lang=1
+"</string>
     <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
+    <string name="sina_share_pendding">Gönderiliyor…</string>
+    <string name="sina_share_success">Gönderildi</string>
+    <string name="sina_share_fail">Gönderme başarısız</string>
+    <string name="sina_token_expired_warning">Weibo hesabınızın süresi doldu: Lütfen yeniden bağlayın</string>
+    <string name="sina_token_invalid_warning">Weibo hesabı geçersiz: Lütfen yeniden bağlayın</string>
+    <string name="sina_share_fail_content_repeat">Paylaşılamadı, İçerik zaten mevcut…</string>
+    <string name="widget_under_privacy_mode">Notlar misafir modunda görüntülenemiyor</string>
+    <string name="format_move_notes_out_folder">%1$s dışarı taşındı</string>
+    <string name="toast_note_privacy_mode">Misafir modunda not oluşturulamıyor</string>
+    <string name="snippet_image_template">[Resim %1$s]</string>
 </resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FWUpgrade</string>
+    <string name="check_now">업데이트 확인</string>
+    <string name="option_settings">설정</string>
+    <string name="current_version_text">현재버전:</string>
+    <string name="new_version_text">신버전</string>
+    <string name="download_progress">진행 중:</string>
+    <string name="update_now">지금 업데이트</string>
+    <string name="update_later">나중 업데이트</string>
+    <string name="battery_low">배터리가 30% 이하이면 충분히 충전 후 업데이트 하세요!</string>
+    <string name="battery_remove_title">주의</string>
+    <string name="battery_remove">충전기 제거 후 재시도 하세요!</string>
+    <string name="notification_content_title">소프트웨어 업데이트</string>
+    <string name="notification_content_text_completed">다운로드 성공</string>
+    <string name="notification_content_newversion">소프트웨어 업데이트 : 업데이트 버전</string>
+    <string name="new_version_query">업데이트 확인 중...</string>
+    <string name="no_new_version">최신 버전 입니다.</string>
+    <string name="network_error">네트워크 연결 실패</string>
+    <string name="insufficient_space_content">설치하기 위해 %s bytes 필요. 메모리 공간을 확보하세요.</string>
+    <string name="unmount_sdcard">SD 카드 설치 에러. SD카드를 점검 하세요</string>
+    <string name="sdcard_crash_or_unmount">SD 카드 에러. SD 카드 점검 후 재 시도 하세요.</string>
+    <string name="btn_retry">재시도</string>
+    <string name="btn_pause">정지</string>
+    <string name="btn_resume">재시작</string>
+    <string name="btn_download">다운로드</string>
+    <string name="btn_ok">확인</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_cancel_check">취소</string>
+    <string name="ver_notes_title">노트</string>
+    <string name="cancel_download_title">다운로드 취소</string>
+    <string name="cancel_download_content">이 조작은 다운로드를 취소합니다 .</string>
+    <string name="cancel_download_positive_btn">예</string>
+    <string name="cancel_download_negative_btn">아니오</string>
+    <string name="update_prompt">안내 : 업데이트하는 동안 모든 조작이 중지됩니다. 배터리 잔량이 충분한지 확인 하세요.</string>
+    <string name="not_support_fota_title">주의</string>
+    <string name="not_support_version">FOTA를 지원하지 않습니다</string>
+    <string name="ratio">0%</string>
+    <string name="package_error_title">설치 실패</string>
+    <string name="package_error_message_invalid">패키지 에러. 업데이트 재시도 하세요.</string>
+    <string name="updateSuccessTitle">설치 성공</string>
+    <string name="updateFailTitle">설치 실패</string>
+    <string name="updateSuccess">현재버전을 사용하고 있습니다 %s.</string>
+    <string name="updateFailed">설치 실패 %s.</string>
+    <string name="package_unzip">Unpacking...</string>
+    <string name="package_unzip_error">Unzip 에러</string>
+    <string name="downloadSuccess">다운로드 완료</string>
+    <string name="tips">팁</string>
+    <string name="tips_content"><Data> &lt;div style=font-size:14sp;color:#000000>&lt;p>1. FOTA는 보다 빠르게 작동합니다.&lt;/p> &lt;p>2. WiFi를 통한 업데이트를 권장합니다.&lt;/p> &lt;p>3. 배터리 잔량이 30% 이상 인지 확인하시고, 업데이트 하기 전에 충전기 연결을 제거하세요.&lt;/p> &lt;p>4. 업데이트 진행 중에 여러 차례 재부팅 할 수 있으며, 업데이트가 완전히 끝날때까지 배터리를 제거하거나 다른 부분을 만지지 마세요.&lt;/p>&lt;/div> </Data>" "</string>
+    <string name="new_version">신 버전:</string>
+    <string name="upgrade_newversion">신버전 가능:</string>
+    <string name="upgrade_hint">업데이트 힌트</string>
+    <string name="upgrade_now">업데이트</string>
+    <string name="upgrade_later">취소</string>
+</resources>

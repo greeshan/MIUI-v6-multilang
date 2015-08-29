@@ -34,7 +34,7 @@
         <item>Nom</item>
         <item>Surnom</item>
         <item>Téléphone</item>
-        <item>Mail</item>
+        <item>E-mail</item>
         <item>Organisation</item>
         <item>Messagerie</item>
         <item>Téléphone SIP</item>
@@ -54,6 +54,14 @@
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
         <item>Mi Message</item>
+    </string-array>
+    <string-array name="entries_sms_validity_period">
+        <item>Non défini</item>
+        <item>1 heure</item>
+        <item>6 heures</item>
+        <item>12 heures</item>
+        <item>1 jour</item>
+        <item>Maximum</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
         <item>Maximum</item>

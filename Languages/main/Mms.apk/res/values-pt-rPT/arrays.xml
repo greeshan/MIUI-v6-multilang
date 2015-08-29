@@ -73,6 +73,19 @@
         <item>Endereço</item>
         <item>Nota</item>
     </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
     <string-array name="entries_date_type">
         <item>Recebida</item>
         <item>Enviada</item>
@@ -91,11 +104,11 @@
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Not set</item>
-        <item>1 hour</item>
-        <item>6 hours</item>
-        <item>12 hours</item>
-        <item>1 day</item>
-        <item>Maximum</item>
+        <item>1 hora</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 dia</item>
+        <item>Maximo</item>
     </string-array>
     <string-array name="entries_sms_validity_period_value">
         <item>-1</item>
@@ -106,8 +119,8 @@
         <item>635040</item>
     </string-array>
     <string-array name="entries_mms_validity_period">
-        <item>Maximum</item>
-        <item>Two days</item>
+        <item>Maximo</item>
+        <item>Dois dias</item>
     </string-array>
     <string-array name="entries_mms_validity_period_value">
         <item>0</item>
@@ -128,7 +141,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Só quando silêncio</item>
+        <item>Só no modo silêncio</item>
         <item>Nunca</item>
     </string-array>
 </resources>

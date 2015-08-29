@@ -54,7 +54,7 @@
     <string name="category_other">Інше</string>
     <string name="category_favorite">Вибране</string>
     <string name="category_bluetooth">Bluetooth</string>
-    <string name="category_log">Журнали</string>
+    <string name="category_recent">Нещодавні</string>
     <string name="operation_rename_message">"Введіть нове ім'я"</string>
     <string name="operation_create_folder_message">"Ім'я теки"</string>
     <string name="operation_delete_confirm_message">Видалення</string>
@@ -254,7 +254,6 @@
     <string name="operation_moving_detail">Переміщення файлів (%1$d/%2$d)</string>
     <string name="operation_copying">Копіювання…</string>
     <string name="operation_copying_detail">Копіювання файлів (%1$d/%2$d)</string>
-    <string name="name_illegal">"Введіть ім'я"</string>
     <string name="open_changed_file_title">Файл змінений</string>
     <string name="open_changed_file_message">"Файл, який ви намагаєтеся відкрити був змінений, ви можете:
 1. Скачати (обновити локальний файл)
@@ -301,6 +300,7 @@
     <string name="open_file_failed">Не вдалося відкрити файл</string>
     <string name="action_mode_deselect_all">Зняти вибір</string>
     <string name="action_mode_select_all">Вибрати все</string>
+    <string name="can_not_send_with_too_many">Не вдалося відправити так багато файлів</string>
     <string name="file_already_downlaoded">Файл збережений в \"%1$s\"</string>
     <string name="copy_file_to_kuaipan">Копіювати в Kuaipan</string>
     <string name="downloading_in_3g">Завантаження по мережі 3G…</string>
@@ -327,8 +327,12 @@
     <string name="operation_agree">ОК</string>
     <string name="never_notify_network_connect">"Запам'ятати"</string>
     <string name="connect_network_setting_des">Запитувати доступ до інтернету</string>
+    <string name="name_illegal">"Введіть ім'я"</string>
+    <string name="category_log">Журнали</string>
     <string name="category_mirouter">Mi-роутер</string>
     <string name="colon">": "</string>
+    <string name="image_download">Завантажити</string>
+    <string name="image_share">Відправити</string>
     <string name="local_cache_size">Розмір локального кешу: %s</string>
     <string name="query_bind_state">Запит стану…</string>
     <string name="tab_networkdisk">Kuaipan</string>
@@ -337,8 +341,5 @@
     <string name="trans_task_delete_confirm_message">"Видалити обрані завантаження? 
 
 завантажень:%1$d"</string>
-    <string name="image_download">Завантажити</string>
-    <string name="image_share">Відправити</string>
     <string name="init">Запуск…</string>
-    <string name="category_recent">Нещодавні</string>
 </resources>

@@ -11,7 +11,7 @@
     <string name="today_at_time_fmt">Сегодня в %s</string>
     <string name="tomorrow_at_time_fmt">Завтра в %s</string>
     <string name="repeats_label">Повтор</string>
-    <string name="no_title_label">(Нет заголовка)</string>
+    <string name="no_title_label">Мероприятие</string>
     <string name="calendar_refresh">Обновить</string>
     <string name="show_day_view">Показать день</string>
     <string name="agenda_view">Календарь</string>
@@ -168,6 +168,7 @@
     <string name="user_notice_online_title">Уведомление</string>
     <string name="user_notice_online_ok">Продолжить</string>
     <string name="not_exist_topic_list">Не удается получить список календарей</string>
+    <string name="birthday_notification_text_three_days_later_with_activity">Готовьтесь ко дню рождения</string>
     <string name="button_day">Д</string>
     <string name="button_week">Н</string>
     <string name="button_month">М</string>
@@ -180,6 +181,8 @@
     <string name="time_zone">Часовой пояс</string>
     <string name="event_all_day_label">Весь день</string>
     <string name="today_no_events">Сегодня мероприятий нет</string>
+    <string name="event_info_reminders_label_1">Напоминание</string>
+    <string name="event_info_reminders_label_more">Напоминание %d</string>
     <string name="event_account">Аккаунт</string>
     <string name="event_show_more">Дополнительно</string>
     <string name="event_hide_more">Скрыть</string>
@@ -232,6 +235,7 @@
     <string name="birthday_event_description">Сегодня %4$s: %1$s</string>
     <string name="jump_date">Перейти</string>
     <string name="jump_date_full">Перейти к дате</string>
+    <string name="select_date">Выберите дату</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Новое мероприятие</string>
@@ -273,6 +277,7 @@
     <string name="copy_email">Копировать адрес Email</string>
     <string name="copy_number">Копировать номер телефона</string>
     <string name="done">Готово</string>
+    <string name="event_not_found">Мероприятие не найдено</string>
     <string name="accessibility_email_notification">Гости Email</string>
     <string name="accessibility_pick_recurrence">Повтор</string>
     <string name="acessibility_recurrence_choose_end_date_description">изменить дату окончания</string>
@@ -287,12 +292,10 @@
     <string name="day_picker_description">Сетка дней</string>
     <string name="deleted_key">Удалено: %1$s</string>
     <string name="done_label">Готово</string>
-    <string name="email_guests_label_title">Email</string>
     <string name="email_organizer_label">Email</string>
     <string name="endByDate">; до %s</string>
     <string name="event_color_picker_dialog_title">Цвет события</string>
     <string name="event_color_set_to_default">Установите цвет календаря по умолчанию</string>
-    <string name="event_not_found">Мероприятие не найдено</string>
     <string name="hint_time_zone_search">Введите страну</string>
     <string name="hour_picker_description">Часовой циферблат</string>
     <string name="item_is_selected">Выбрано: %1$s</string>
@@ -322,4 +325,12 @@
     <string name="select_minutes">Выберите минуты</string>
     <string name="select_year">Выберите год</string>
     <string name="year_picker_description">Список</string>
+    <string name="email_guests_label_title">Email</string>
+    <string name="date_time_fmt" formatted="false">%s, %s</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="repeat_interval_frequency_single">%1$s</string>
+    <string name="repeat_week_info">" %1$s %2$s"</string>
+    <string name="repeat_custom_prompt_splitter">", "</string>
+    <string name="repeat_month_day_splitter">" "</string>
+    <string name="repeat_custom_string_suffix">" (%1$s)"</string>
 </resources>

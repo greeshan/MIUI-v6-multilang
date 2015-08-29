@@ -211,6 +211,18 @@
         <item>Czarny</item>
         <item>Biały</item>
     </string-array>
+    <string-array name="miui_reminder_minutes_labels">
+        <item>Bez przypomnienia</item>
+        <item>0 min</item>
+        <item>5 min</item>
+        <item>10 min</item>
+        <item>15 min</item>
+        <item>30 min</item>
+        <item>1 godz.</item>
+        <item>1 dzień</item>
+        <item>2 dni</item>
+        <item>1 tydzień</item>
+    </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>dnia</item>
         <item>tygodnia</item>

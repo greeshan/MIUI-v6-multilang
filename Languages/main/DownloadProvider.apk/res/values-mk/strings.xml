@@ -3,6 +3,8 @@
     <string name="dialog_insufficient_space_on_external">Нема доволно место во надворешниот простор за складирање</string>
     <string name="dialog_insufficient_space_on_cache">Нема доволно место во внатрешниот простор за симнување</string>
     <string name="auto_restart_under_wifi">WLAN автоматски ќе го симне овој фајл</string>
+    <string name="notification_download_complete">Превземањето заврши.</string>
+    <string name="notification_download_failed">Преземањето е неуспешно.</string>
     <string name="app_label">Менаџер за Превземање</string>
     <string name="permlab_downloadManager">Пристап до Менаџерот за Превземање.</string>
     <string name="permdesc_downloadManager">Овозможува на апликацијата да пристапи на менаџерот за преземете и да го корист за да преземе датотеки. Малициозните апликации може да го искористат ова да го нарушат преземањето и да пристапат до приватни информации.</string>
@@ -19,8 +21,6 @@
     <string name="permlab_accessAllDownloads">Пристап до сите системски преземања</string>
     <string name="permdesc_accessAllDownloads">Овозможува на апликацијата да ги види и менува сите преземања иницирани од било кога апликација во системот.</string>
     <string name="download_unknown_title">&lt;Непознато></string>
-    <string name="notification_download_complete">Превземањето заврши.</string>
-    <string name="notification_download_failed">Преземањето е неуспешно.</string>
     <string name="notification_need_wifi_for_size">Големината за преземање бара WLAN.</string>
     <string name="notification_paused_in_background">Паузирано во позадина.</string>
     <string name="wifi_required_title">Преземањето е премногу големо за мжежата на операторот.</string>

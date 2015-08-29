@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Прогноза за времето</string>
+    <string name="choose_city">Изберете град</string>
+    <string name="searching">Търсене, изчакайте…</string>
+    <string name="no_found">Няма съответствие за град с %s. Проверете въведените думи.</string>
+    <string name="net_error">Мрежата е недостъпна. Проверете я.</string>
+    <string name="no_city_error">Не мога да получа информация за града. Задайте правилно системно време и часова зона.</string>
+    <string name="searching_fail">Неуспешно търсене на град.</string>
+    <string name="no_weather_error">Не мога да получа информация за времето. Задайте правилно системно време и часова зона.</string>
+    <string name="no_weather">Сега няма прогноза за %s.</string>
+    <string name="setting_title">Настройка</string>
+    <string name="temperature">Температурни единици</string>
+    <string name="tem_celsius">Целзий</string>
+    <string name="cities_title">Градове</string>
+    <string name="update_fre">Обновяване на честота</string>
+    <string name="every12">На всеки 12 часа</string>
+    <string name="weatherserver">Сървър за времето</string>
+    <string name="server_moblileyahoo">Mobile Yahoo</string>
+    <string name="cancel">Отказ</string>
+    <string name="menu_add_city">Добавяне на град</string>
+    <string name="add_city">Натиснете иконата за добавяне на град</string>
+    <string name="remove">Премахване</string>
+    <string name="warn">Можете да добавите макс. 8 града.</string>
+    <string name="has_chosen">е избран.</string>
+    <string name="no_city">Няма градове</string>
+    <string name="powered_by">Обслужвано от:</string>
+    <string name="menu_about">Информация</string>
+    <string name="url_yahoo">http://m.yahoo.com</string>
+    <string name="url_yahoo_channel">http://yahoo.xhtml.weather.com/xhtml/search</string>
+    <string name="confirm_dialog_title">Изтриване</string>
+    <string name="no">Отказ</string>
+    <string name="select_all">Избиране на всичко</string>
+    <string name="deselect_all">Отказ от всички избрани</string>
+    <string name="delete">Изтриване</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d ఎంచుకోబడ్డాయి</item>
+        <item quantity="one">%1$d ఎంచుకోబడింది</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">చివరి %d రోజులు</item>
+        <item quantity="one">నిన్న</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d లో %2$d</item>
+        <item quantity="one">1 సరిపోలిక</item>
+    </plurals>
+    <plurals name="find_on_page_matches">
+        <item quantity="other">%d సరిపోలికలు</item>
+        <item quantity="one">%d సరిపోలిక</item>
+    </plurals>
+    <plurals name="adblock_rules_number_text">
+        <item quantity="other">%d అంశాలు నిరోధించబడ్డాయి</item>
+        <item quantity="one">%d అంశం నిరోధించబడింది</item>
+    </plurals>
+</resources>
